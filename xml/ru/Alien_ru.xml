@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="041605">
+      <EDID>POST_recipe_mod_AlienBlaster_Scope_ScopeShort_NV</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: короткий ночной прицел для бластера Чужих</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: короткий ночной прицел для бластера Чужих</Dest>
+    </String>
+    <String List="0" sID="04164F">
+      <EDID>recipe_mod_AlienBlaster_AlienMag_AmmoConversion</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ядерный магазин для бластера Чужих</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: ядерный магазин для бластера Чужих</Dest>
+    </String>
+    <String List="0" sID="046626">
+      <EDID>Recipe_Weapon_Ranged_AlienBlaster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: бластер Чужих</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: бластер Чужих</Dest>
+    </String>
+    <String List="0" sID="41004728">
+      <EDID>Recipe_Workshop_ZetanTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с пришельцем</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: резервуар с пришельцем</Dest>
+    </String>
+    <String List="0" sID="4100AAAF">
+      <EDID>Recipe_Invaders_AlienBlaster_Refined</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Окраска для бластера Чужих &quot;Зенит&quot;</Source>
+      <Dest>#ЗАХВАТЧИКИ-2024# Схема: Окраска для бластера Чужих &quot;Зенит&quot;</Dest>
+    </String>
+    <String List="0" sID="59000C2F">
+      <EDID>recipe_mod_AlienBlaster_AlienMag_DTPoison</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: отравленный магазин для бластера Чужих</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: отравленный магазин для бластера Чужих</Dest>
+    </String>
+    <String List="0" sID="59000C30">
+      <EDID>recipe_mod_AlienBlaster_AlienMag_DTCryo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: криогенный магазин для бластера Чужих</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: криогенный магазин для бластера Чужих</Dest>
+    </String>
+    <String List="0" sID="59000CD3">
+      <EDID>Recipe_Weapon_Ranged_AlienRifle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: дезинтегратор Чужого</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: дезинтегратор Чужого</Dest>
+    </String>
+    <String List="0" sID="59000CDB">
+      <EDID>recipe_mod_AlienRifle_Receiver_DTCryo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: дезинтегратор Чужого — криогенный ресивер</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: дезинтегратор Чужого — криогенный ресивер</Dest>
+    </String>
+    <String List="0" sID="59000CDC">
+      <EDID>recipe_mod_AlienRifle_Receiver_DTPoison</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: дезинтегратор Чужого — отравленный ресивер</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: дезинтегратор Чужого — отравленный ресивер</Dest>
+    </String>
+    <String List="0" sID="59000CDD">
+      <EDID>recipe_mod_AlienRifle_Receiver_Sniper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: дезинтегратор Чужого — мощный ресивер</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: дезинтегратор Чужого — мощный ресивер</Dest>
+    </String>
+    <String List="0" sID="59000CDE">
+      <EDID>recipe_mod_AlienRifle_Receiver_Auto</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: дезинтегратор Чужого — автоматический ресивер</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: дезинтегратор Чужого — автоматический ресивер</Dest>
+    </String>
+    <String List="0" sID="59000DE2">
+      <EDID>Recipe_mod_melee_ElectroEnforcer_Spiked</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: электродубинка с шипами</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: электродубинка с шипами</Dest>
+    </String>
+    <String List="0" sID="59000DE3">
+      <EDID>Recipe_Weapon_Melee_ElectroEnforcer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: электродубинка</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: электродубинка</Dest>
+    </String>
+    <String List="0" sID="59000DE4">
+      <EDID>Recipe_mod_melee_ElectroEnforcer_Overcharged</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: форсированная электродубинка</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: форсированная электродубинка</Dest>
+    </String>
+    <String List="0" sID="59000DE5">
+      <EDID>Recipe_mod_melee_ElectroEnforcer_Poisoned</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: отравленная электродубинка</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: отравленная электродубинка</Dest>
+    </String>
+    <String List="0" sID="59000DE6">
+      <EDID>Recipe_mod_melee_ElectroEnforcer_Freezing</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ледяная электродубинка</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: ледяная электродубинка</Dest>
+    </String>
+    <String List="0" sID="59000FE0">
+      <EDID>Recipe_Workshop_AlienOperatingBed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: инопланетный стол для исследования тел</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: инопланетный стол для исследования тел</Dest>
+    </String>
+    <String List="0" sID="59001114">
+      <EDID>Recipe_Workshop_Container_StashBox_Zetan</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: инопланетный ящик</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: инопланетный ящик</Dest>
+    </String>
+    <String List="0" sID="59001115">
+      <EDID>Recipe_Workshop_FloorDecor_Asteroid</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: астероид</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: астероид</Dest>
+    </String>
+    <String List="0" sID="6100F653">
+      <EDID>Recipe_Workshop_HumanMaleTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с человеком 1</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: резервуар с мужчиной</Dest>
+    </String>
+    <String List="0" sID="6100F654">
+      <EDID>Recipe_Workshop_HumanFemaleTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с человеком 2</Source>
+      <Dest>#ЗАХВАТЧИКИ# Схема: резервуар с женщиной</Dest>
+    </String>
+    <String List="0" sID="6101CA72">
+      <EDID>Recipe_Invaders_Armor_HazmatSuitTeal</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: защитный комплект — бирюзовый</Source>
+      <Dest>#ЗАХВАТЧИКИ-2024# Схема: защитный комплект — бирюзовый</Dest>
+    </String>
+    <String List="0" sID="6101CA74">
+      <EDID>Recipe_Invaders_Workshop_Lights_AlienHeadLamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: налобный фонарь пришельца</Source>
+      <Dest>#ЗАХВАТЧИКИ-2024# Схема: налобный фонарь пришельца</Dest>
+    </String>
+    <String List="0" sID="6101CA75">
+      <EDID>Recipe_Invaders_Workshop_Tables_AlienTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стол пришельца</Source>
+      <Dest>#ЗАХВАТЧИКИ-2024# Схема: стол пришельца</Dest>
+    </String>
+    <String List="0" sID="6101CA77">
+      <EDID>Recipe_Invaders_Workshop_Lights_GlowingFlatwoodsMonsterLamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: лампа &quot;Светящееся Флэтвудское чудовище&quot;</Source>
+      <Dest>#ЗАХВАТЧИКИ-2024# Схема: лампа &quot;Светящееся Флэтвудское чудовище&quot;</Dest>
+    </String>
+    <String List="0" sID="6101CA78">
+      <EDID>Recipe_Invaders_Workshop_WallDecor_AlienTargetPracticePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: инопланетная мишень</Source>
+      <Dest>#ЗАХВАТЧИКИ-2024# Схема: инопланетная мишень</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

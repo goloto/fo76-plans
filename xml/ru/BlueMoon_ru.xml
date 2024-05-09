@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="410078B4">
+      <EDID>MOON_Herd_Workshop_Recipe_OguaHunterHood</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: капюшон охотника на огуа</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: капюшон охотника на огуа</Dest>
+    </String>
+    <String List="0" sID="410078B5">
+      <EDID>MOON_Herd_Workshop_Recipe_OguaHunterOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм охотника на огуа</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: костюм охотника на огуа</Dest>
+    </String>
+    <String List="0" sID="41007991">
+      <EDID>MOON_Ambush_Recipe_OguaShellBackpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак &quot;Панцирь огуа&quot;</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: рюкзак &quot;Панцирь огуа&quot;</Dest>
+    </String>
+    <String List="0" sID="41007CF1">
+      <EDID>MOON_Ambush_Workshop_Recipe_SleepingBag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: грязный спальный мешок &quot;Блю ридж&quot;</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: грязный спальный мешок &quot;Блю ридж&quot;</Dest>
+    </String>
+    <String List="0" sID="41007D89">
+      <EDID>MOON_Herd_Workshop_Recipe_PaddockFence</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ограда загона</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: ограда загона</Dest>
+    </String>
+    <String List="0" sID="41007ED9">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм синего дьявола</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: костюм синего дьявола</Dest>
+    </String>
+    <String List="0" sID="41007EDA">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilHood</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: капюшон из шкуры синего дьявола</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: капюшон из шкуры синего дьявола</Dest>
+    </String>
+    <String List="0" sID="41007F8A">
+      <EDID>MOON_Ambush_Workshop_Recipe_BlueRidgeScoutOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм разведчика &quot;Блю ридж&quot;</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: костюм разведчика &quot;Блю ридж&quot;</Dest>
+    </String>
+    <String List="0" sID="61017B5D">
+      <EDID>Moon_Herd_Workshop_Recipe_BlueDevilTrophy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова синего дьявола на подставке</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: голова синего дьявола на подставке</Dest>
+    </String>
+    <String List="0" sID="61017B5E">
+      <EDID>MOON_Herd_Workshop_Recipe_TaxidermyBlueDevil</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: статуя синего дьявола</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: статуя синего дьявола</Dest>
+    </String>
+    <String List="0" sID="61017CFF">
+      <EDID>MOON_Herd_Workshop_Recipe_CurtainBlueDevil</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: занавеска на дверь &quot;Синий дьявол&quot;</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: занавеска на дверь &quot;Синий дьявол&quot;</Dest>
+    </String>
+    <String List="0" sID="61017D00">
+      <EDID>MOON_Ambush_Workshop_Recipe_CurtainOgua</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: занавеска на дверь &quot;Огуа&quot;</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: занавеска на дверь &quot;Огуа&quot;</Dest>
+    </String>
+    <String List="0" sID="610183CB">
+      <EDID>Moon_Ambush_Workshop_Recipe_OguaTrophy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова огуа на подставке</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: голова огуа на подставке</Dest>
+    </String>
+    <String List="0" sID="D90054C6">
+      <EDID>MOON_Herd_Workshop_Recipe_BrahminBackpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак &quot;Брамин&quot;</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: рюкзак &quot;Брамин&quot;</Dest>
+    </String>
+    <String List="0" sID="D90054E9">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: синий плюшевый дьявол</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: синий плюшевый дьявол</Dest>
+    </String>
+    <String List="0" sID="D900550E">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyDuster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковбойский плащ</Source>
+      <Dest>#BLUE-MOON-ОПЕРАЦИИ# Схема: ковбойский плащ</Dest>
+    </String>
+    <String List="0" sID="D900550F">
+      <EDID>MOON_Ambush_Workshop_Recipe_OguaPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый огуа</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: плюшевый огуа</Dest>
+    </String>
+    <String List="0" sID="D9005510">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyChaps</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковбойские штаны</Source>
+      <Dest>#BLUE-MOON-ОПЕРАЦИИ# Схема: ковбойские штаны</Dest>
+    </String>
+    <String List="0" sID="D900581B">
+      <EDID>MOON_DO_Workshop_Recipe_KidsTruckBed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: игрушечный пикап</Source>
+      <Dest>#BLUE-MOON-ОПЕРАЦИИ# Схема: игрушечный пикап</Dest>
+    </String>
+    <String List="0" sID="D900581D">
+      <EDID>MOON_Herd_Workshop_Recipe_KidsCowClock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: игрушечные часы-брамин</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: игрушечные часы-брамин</Dest>
+    </String>
+    <String List="0" sID="D9005825">
+      <EDID>MOON_Herd_Workshop_Recipe_CartographyTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: картографический стол</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: картографический стол</Dest>
+    </String>
+    <String List="0" sID="D9005828">
+      <EDID>MOON_Ambush_Workshop_Recipe_SleepingBagFur</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: меховой спальный мешок</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: меховой спальный мешок</Dest>
+    </String>
+    <String List="0" sID="D900582A">
+      <EDID>MOON_Herd_Workshop_Recipe_TrailerTruckGear</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прицеп грузовика с мусором</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: прицеп грузовика с мусором</Dest>
+    </String>
+    <String List="0" sID="D9005844">
+      <EDID>MOON_Ambush_Workshop_Recipe_OguaFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака &quot;Огуа&quot;</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: брелок для рюкзака &quot;Огуа&quot;</Dest>
+    </String>
+    <String List="0" sID="D900585F">
+      <EDID>MOON_DO_Workshop_Recipe_UmbrellaHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шляпа-зонтик</Source>
+      <Dest>#BLUE-MOON-ОПЕРАЦИИ# Схема: шляпа-зонтик</Dest>
+    </String>
+    <String List="0" sID="D900586F">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака &quot;Синий дьявол&quot;</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: брелок для рюкзака &quot;Синий дьявол&quot;</Dest>
+    </String>
+    <String List="0" sID="D9005877">
+      <EDID>MOON_Herd_Workshop_Recipe_Milkman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм молочника</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: костюм молочника</Dest>
+    </String>
+    <String List="0" sID="D9005878">
+      <EDID>MOON_Herd_Workshop_Recipe_MilkmanHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: головной убор молочника</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: головной убор молочника</Dest>
+    </String>
+    <String List="0" sID="D9005889">
+      <EDID>MOON_Herd_Workshop_Recipe_BrahminPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый розовый брамин</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: плюшевый розовый брамин</Dest>
+    </String>
+    <String List="0" sID="D900588A">
+      <EDID>MOON_Ambush_Workshop_Recipe_Tent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: навес</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: навес</Dest>
+    </String>
+    <String List="0" sID="D90058A9">
+      <EDID>MOON_Herd_Workshop_Recipe_PaddockGate</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ворота загона</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: ворота загона</Dest>
+    </String>
+    <String List="0" sID="D90058AD">
+      <EDID>MOON_Ambush_Workshop_Recipe_CryptidHunterBoonieHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: панама &quot;Охотник на криптидов&quot;</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: панама &quot;Охотник на криптидов&quot;</Dest>
+    </String>
+    <String List="0" sID="D9005931">
+      <EDID>MOON_DO_Workshop_Recipe_BrahminSofa</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: диван из брамина</Source>
+      <Dest>#BLUE-MOON-ОПЕРАЦИИ# Схема: диван из брамина</Dest>
+    </String>
+    <String List="0" sID="D9005932">
+      <EDID>MOON_DO_Workshop_Recipe_FeralGhoulChair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кресло из гуля</Source>
+      <Dest>#BLUE-MOON-ОПЕРАЦИИ# Схема: кресло из гуля</Dest>
+    </String>
+    <String List="0" sID="D90059B4">
+      <EDID>Moon_Recipe_Workshop_FloorDecor_Rugs_BrahminRug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковер из шкуры брамина</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: ковер из шкуры брамина</Dest>
+    </String>
+    <String List="0" sID="D90059B5">
+      <EDID>MOON_Herd_Workshop_Recipe_Rug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковер &quot;Блю ридж&quot;</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: ковер &quot;Блю ридж&quot;</Dest>
+    </String>
+    <String List="0" sID="D9005A28">
+      <EDID>MOON_DO_Workshop_Recipe_GorillaChair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кресло из гориллы</Source>
+      <Dest>#BLUE-MOON-ОПЕРАЦИИ# Схема: кресло из гориллы</Dest>
+    </String>
+    <String List="0" sID="D90060C5">
+      <EDID>MOON_Ambush_Workshop_Recipe_Mobile</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: подвесной криптид</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: подвесной криптид</Dest>
+    </String>
+    <String List="0" sID="D9006118">
+      <EDID>MOON_Herd_Workshop_Recipe_TravellersWagon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фургон путешественника</Source>
+      <Dest>#В-ЦЕЛ-И-СОХР# Схема: фургон путешественника</Dest>
+    </String>
+    <String List="0" sID="D9007BD2">
+      <EDID>MOON_Ambush_Workshop_Recipe_OguaEgg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: яйцо огуа</Source>
+      <Dest>#ВЬЮЧНЫЕ-ЖИВОТНЫЕ# Схема: яйцо огуа</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

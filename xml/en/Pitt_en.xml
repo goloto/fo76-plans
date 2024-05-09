@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="390060EB">
+      <EDID>Recipe_XPD_Workshop_StreetKit_Pitt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pittsburgh Street Kit</Source>
+      <Dest>#PITT-FAF# Plan: Pittsburgh Street Kit</Dest>
+    </String>
+    <String List="0" sID="390060EC">
+      <EDID>Recipe_XPD_Workshop_FanaticBarricade_Pitt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fanatic Barricade</Source>
+      <Dest>#PITT-FAF# Plan: Fanatic Barricade</Dest>
+    </String>
+    <String List="0" sID="3900662C">
+      <EDID>Recipe_XPD_Workshop_PittCityLimitSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: The Pitt City Limit Signs</Source>
+      <Dest>#PITT-UD# Plan: The Pitt City Limit Signs</Dest>
+    </String>
+    <String List="0" sID="39006D95">
+      <EDID>Recipe_XPD_Workshop_Floodlight_Pitt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pittsburgh Industrial Floodlight Kit</Source>
+      <Dest>#PITT-FAF# Plan: Pittsburgh Industrial Floodlight Kit</Dest>
+    </String>
+    <String List="0" sID="39006F87">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Tesla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Tesla Coils</Source>
+      <Dest>#PITT# Plan: Union Tesla Coils</Dest>
+    </String>
+    <String List="0" sID="39006F89">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Optimized</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Optimized Bracers</Source>
+      <Dest>#PITT# Plan: Union Optimized Bracers</Dest>
+    </String>
+    <String List="0" sID="39006F8A">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Recon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Recon Sensors</Source>
+      <Dest>#PITT# Plan: Union Recon Sensors</Dest>
+    </String>
+    <String List="0" sID="39006F8C">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_Carry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Calibrated Shocks</Source>
+      <Dest>#PITT# Plan: Union Calibrated Shocks</Dest>
+    </String>
+    <String List="0" sID="39006F8E">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_OptimizedServos</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Optimized Servos</Source>
+      <Dest>#PITT# Plan: Union Optimized Servos</Dest>
+    </String>
+    <String List="0" sID="39006F8F">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_VATSChance</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union VATS Matrix Overlay</Source>
+      <Dest>#PITT# Plan: Union VATS Matrix Overlay</Dest>
+    </String>
+    <String List="0" sID="39006F91">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_BatRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Core Assembly</Source>
+      <Dest>#PITT# Plan: Union Core Assembly</Dest>
+    </String>
+    <String List="0" sID="39006F92">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_SprintBoost</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Overdrive Servos</Source>
+      <Dest>#PITT# Plan: Union Overdrive Servos</Dest>
+    </String>
+    <String List="0" sID="39006F93">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_MedicPump</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Medic Pump</Source>
+      <Dest>#PITT# Plan: Union Medic Pump</Dest>
+    </String>
+    <String List="0" sID="39006F94">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_ShockDmg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Tesla Bracers</Source>
+      <Dest>#PITT# Plan: Union Tesla Bracers</Dest>
+    </String>
+    <String List="0" sID="39006F96">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Kinetic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Kinetic Dynamo</Source>
+      <Dest>#PITT# Plan: Union Kinetic Dynamo</Dest>
+    </String>
+    <String List="0" sID="39006F97">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Cleanser</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Blood Cleanser</Source>
+      <Dest>#PITT# Plan: Union Blood Cleanser</Dest>
+    </String>
+    <String List="0" sID="39006F99">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_ExplVent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Cooling Vent</Source>
+      <Dest>#PITT# Plan: Union Cooling Vent</Dest>
+    </String>
+    <String List="0" sID="39006F9B">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Reactive</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Reactive Plates</Source>
+      <Dest>#PITT# Plan: Union Reactive Plates</Dest>
+    </String>
+    <String List="0" sID="39006F9C">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Str</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Motion-Assist Servos</Source>
+      <Dest>#PITT# Plan: Union Motion-Assist Servos</Dest>
+    </String>
+    <String List="0" sID="39006F9D">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Sensor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Sensor Array</Source>
+      <Dest>#PITT# Plan: Union Sensor Array</Dest>
+    </String>
+    <String List="0" sID="39006F9E">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_StealthBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Stealth Boy</Source>
+      <Dest>#PITT# Plan: Union Stealth Boy</Dest>
+    </String>
+    <String List="0" sID="39006F9F">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Bleed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Rusty Knuckles</Source>
+      <Dest>#PITT# Plan: Union Rusty Knuckles</Dest>
+    </String>
+    <String List="0" sID="39006FA0">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_DetectLife</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Targeting HUD</Source>
+      <Dest>#PITT# Plan: Union Targeting HUD</Dest>
+    </String>
+    <String List="0" sID="39006FA1">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Emergency</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Emergency Protocols</Source>
+      <Dest>#PITT# Plan: Union Emergency Protocols</Dest>
+    </String>
+    <String List="0" sID="39006FA2">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_APRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Kinetic Servos</Source>
+      <Dest>#PITT# Plan: Union Kinetic Servos</Dest>
+    </String>
+    <String List="0" sID="39006FA3">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Int</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Internal Database</Source>
+      <Dest>#PITT# Plan: Union Internal Database</Dest>
+    </String>
+    <String List="0" sID="39006FA4">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Unarmed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Hydraulic Bracers</Source>
+      <Dest>#PITT# Plan: Union Hydraulic Bracers</Dest>
+    </String>
+    <String List="0" sID="39007217">
+      <EDID>Recipe_XPD_Workshop_WallDecor_Union42Banners</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union 42 Banners</Source>
+      <Dest>#PITT-UD# Plan: Union 42 Banners</Dest>
+    </String>
+    <String List="0" sID="410074A9">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Headlamp Purple</Source>
+      <Dest>#PITT# Plan: Union Headlamp Purple</Dest>
+    </String>
+    <String List="0" sID="410074AA">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Headlamp Blue</Source>
+      <Dest>#PITT# Plan: Union Headlamp Blue</Dest>
+    </String>
+    <String List="0" sID="410074AB">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Headlamp Bright</Source>
+      <Dest>#PITT# Plan: Union Headlamp Bright</Dest>
+    </String>
+    <String List="0" sID="410074AC">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Headlamp Vault Boy</Source>
+      <Dest>#PITT# Plan: Union Headlamp Vault Boy</Dest>
+    </String>
+    <String List="0" sID="410074AD">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Headlamp Red Tactical</Source>
+      <Dest>#PITT# Plan: Union Headlamp Red Tactical</Dest>
+    </String>
+    <String List="0" sID="61005E6C">
+      <EDID>Recipe_mod_AutoAxe_Poisoned</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Auto Axe Poisoned Mod</Source>
+      <Dest>#PITT# Plan: Auto Axe Poisoned Mod</Dest>
+    </String>
+    <String List="0" sID="61005E6D">
+      <EDID>Recipe_mod_AutoAxe_Turbo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Auto Axe Turbo Mod</Source>
+      <Dest>#PITT# Plan: Auto Axe Turbo Mod</Dest>
+    </String>
+    <String List="0" sID="61005E6E">
+      <EDID>Recipe_mod_AutoAxe_Electrified</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Auto Axe Electrified Mod</Source>
+      <Dest>#PITT# Plan: Auto Axe Electrified Mod</Dest>
+    </String>
+    <String List="0" sID="61005E6F">
+      <EDID>Recipe_mod_AutoAxe_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Auto Axe Burning Mod</Source>
+      <Dest>#PITT# Plan: Auto Axe Burning Mod</Dest>
+    </String>
+    <String List="0" sID="61010CFD">
+      <EDID>Recipe_XPD_Headwear_SkippysOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Tinkerer&apos;s Goggles</Source>
+      <Dest>#PITT-UD# Plan: Tinkerer&apos;s Goggles</Dest>
+    </String>
+    <String List="0" sID="61010CFE">
+      <EDID>Recipe_XPD_Headwear_DanilosOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Trench Runner&apos;s Hood</Source>
+      <Dest>#PITT-FAF# Plan: Trench Runner&apos;s Hood</Dest>
+    </String>
+    <String List="0" sID="61010CFF">
+      <EDID>Recipe_XPD_Clothes_SkippysOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Tinkerer&apos;s Overalls</Source>
+      <Dest>#PITT-UD# Plan: Tinkerer&apos;s Overalls</Dest>
+    </String>
+    <String List="0" sID="61010D00">
+      <EDID>Recipe_XPD_Clothes_DanilosOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Trench Runner&apos;s Coat</Source>
+      <Dest>#PITT-FAF# Plan: Trench Runner&apos;s Coat</Dest>
+    </String>
+    <String List="0" sID="61011457">
+      <EDID>Recipe_XPD_Workshop_TrogTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Trog Tube</Source>
+      <Dest>#PITT-UD# Plan: Trog Tube</Dest>
+    </String>
+    <String List="0" sID="61011D10">
+      <EDID>Recipe_XPD_mod_PumpActionShotgun_Material_Paint_Fanatics</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fanatics Pump-Action Shotgun Paint</Source>
+      <Dest>#PITT-FAF# Plan: Fanatics Pump-Action Shotgun Paint</Dest>
+    </String>
+    <String List="0" sID="6101279B">
+      <EDID>Recipe_mod_HuntingRifle_Material_Paint_XPD_Union</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hunting Rifle Skin - Union</Source>
+      <Dest>#PITT-UD# Plan: Hunting Rifle Skin - Union</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="61003120">
+      <EDID>Recipe_Cooking_E02A_Meat_ChallysFeed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Chally&apos;s Feed</Source>
+      <Dest>[MEET-WEEK] Recipe: Chally&apos;s Feed</Dest>
+    </String>
+    <String List="0" sID="61003128">
+      <EDID>recipe_mod_melee_MeatTenderizer_Peppered</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Peppered Tenderizer Mod</Source>
+      <Dest>[MEET-WEEK] Plan: Peppered Tenderizer Mod</Dest>
+    </String>
+    <String List="0" sID="6100314B">
+      <EDID>recipe_mod_melee_MeatTenderizer_Salted</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Salty Tenderizer Mod</Source>
+      <Dest>[MEET-WEEK] Plan: Salty Tenderizer Mod</Dest>
+    </String>
+    <String List="0" sID="61003153">
+      <EDID>recipe_mod_melee_MeatTenderizer_Heated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Spicy Tenderizer Mod</Source>
+      <Dest>[MEET-WEEK] Plan: Spicy Tenderizer Mod</Dest>
+    </String>
+    <String List="0" sID="61003162">
+      <EDID>Recipe_Cooking_MeatWeek_TatoSalad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Tato Salad</Source>
+      <Dest>[MEET-WEEK] Recipe: Tato Salad</Dest>
+    </String>
+    <String List="0" sID="6100317F">
+      <EDID>Recipe_Weapon_Melee_MeatTenderizer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Meat Tenderizer</Source>
+      <Dest>[MEET-WEEK] Plan: Meat Tenderizer</Dest>
+    </String>
+    <String List="0" sID="61003187">
+      <EDID>Recipe_Weapon_Thrown_MeatCleaver</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Meat Cleaver</Source>
+      <Dest>[MEET-WEEK] Plan: Meat Cleaver</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

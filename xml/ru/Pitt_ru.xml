@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="390060EB">
+      <EDID>Recipe_XPD_Workshop_StreetKit_Pitt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: набор &quot;Питтсбургская улица&quot;</Source>
+      <Dest>#ПИТТ-ОДП# Схема: набор &quot;Питтсбургская улица&quot;</Dest>
+    </String>
+    <String List="0" sID="390060EC">
+      <EDID>Recipe_XPD_Workshop_FanaticBarricade_Pitt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: баррикада фанатиков</Source>
+      <Dest>#ПИТТ-ОДП# Схема: баррикада фанатиков</Dest>
+    </String>
+    <String List="0" sID="3900662C">
+      <EDID>Recipe_XPD_Workshop_PittCityLimitSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: дорожные знаки Питтсбурга</Source>
+      <Dest>#ПИТТ-ПВ# Схема: дорожные знаки Питтсбурга</Dest>
+    </String>
+    <String List="0" sID="39006D95">
+      <EDID>Recipe_XPD_Workshop_Floodlight_Pitt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: набор питтсбургских промышленных прожекторов</Source>
+      <Dest>#ПИТТ-ОДП# Схема: набор питтсбургских промышленных прожекторов</Dest>
+    </String>
+    <String List="0" sID="39006F87">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Tesla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: катушки Теслы брони Союза</Source>
+      <Dest>#ПИТТ# Схема: катушки Теслы брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F89">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Optimized</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: эргономичные наручи брони Союза</Source>
+      <Dest>#ПИТТ# Схема: эргономичные наручи брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F8A">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Recon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сенсоры дальнего действия брони Союза</Source>
+      <Dest>#ПИТТ# Схема: сенсоры дальнего действия брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F8C">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_Carry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: калиброванные амортизаторы брони Союза</Source>
+      <Dest>#ПИТТ# Схема: калиброванные амортизаторы брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F8E">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_OptimizedServos</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сбалансированные сервоприводы брони Союза</Source>
+      <Dest>#ПИТТ# Схема: сбалансированные сервоприводы брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F8F">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_VATSChance</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: слой матрицы VATS брони Союза</Source>
+      <Dest>#ПИТТ# Схема: слой матрицы VATS брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F91">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_BatRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сборка ядра брони Союза</Source>
+      <Dest>#ПИТТ# Схема: сборка ядра брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F92">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_SprintBoost</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: форсированные сервоприводы брони Союза</Source>
+      <Dest>#ПИТТ# Схема: форсированные сервоприводы брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F93">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_MedicPump</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: инжектор стимуляторов брони Союза</Source>
+      <Dest>#ПИТТ# Схема: инжектор стимуляторов брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F94">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_ShockDmg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наручи Теслы брони Союза</Source>
+      <Dest>#ПИТТ# Схема: наручи Теслы брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F96">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Kinetic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кинетический генератор брони Союза</Source>
+      <Dest>#ПИТТ# Схема: кинетический генератор брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F97">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Cleanser</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: очиститель крови брони Союза</Source>
+      <Dest>#ПИТТ# Схема: очиститель крови брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F99">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_ExplVent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: охлаждающее отверстие брони Союза</Source>
+      <Dest>#ПИТТ# Схема: охлаждающее отверстие брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F9B">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Reactive</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: активная броня Союза</Source>
+      <Dest>#ПИТТ# Схема: активная броня Союза</Dest>
+    </String>
+    <String List="0" sID="39006F9C">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Str</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: улучшенные сервоприводы брони Союза</Source>
+      <Dest>#ПИТТ# Схема: улучшенные сервоприводы брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F9D">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Sensor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сенсорная матрица брони Союза</Source>
+      <Dest>#ПИТТ# Схема: сенсорная матрица брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F9E">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_StealthBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стелс-бой брони Союза</Source>
+      <Dest>#ПИТТ# Схема: стелс-бой брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006F9F">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Bleed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ржавый кастет брони Союза</Source>
+      <Dest>#ПИТТ# Схема: ржавый кастет брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006FA0">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_DetectLife</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прицельный интерфейс брони Союза</Source>
+      <Dest>#ПИТТ# Схема: прицельный интерфейс брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006FA1">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Emergency</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: аварийные протоколы брони Союза</Source>
+      <Dest>#ПИТТ# Схема: аварийные протоколы брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006FA2">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_APRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кинетические сервоприводы брони Союза</Source>
+      <Dest>#ПИТТ# Схема: кинетические сервоприводы брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006FA3">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Int</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: внутренний банк памяти брони Союза</Source>
+      <Dest>#ПИТТ# Схема: внутренний банк памяти брони Союза</Dest>
+    </String>
+    <String List="0" sID="39006FA4">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Unarmed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гидравлические наручи брони Союза</Source>
+      <Dest>#ПИТТ# Схема: гидравлические наручи брони Союза</Dest>
+    </String>
+    <String List="0" sID="39007217">
+      <EDID>Recipe_XPD_Workshop_WallDecor_Union42Banners</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знамя 42-й ячейки Союза</Source>
+      <Dest>#ПИТТ-ПВ# Схема: знамя 42-й ячейки Союза</Dest>
+    </String>
+    <String List="0" sID="410074A9">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фиолетовый налобный фонарь Союза</Source>
+      <Dest>#ПИТТ# Схема: фиолетовый налобный фонарь Союза</Dest>
+    </String>
+    <String List="0" sID="410074AA">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: синий налобный фонарь Союза</Source>
+      <Dest>#ПИТТ# Схема: синий налобный фонарь Союза</Dest>
+    </String>
+    <String List="0" sID="410074AB">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: яркий налобный фонарь Союза</Source>
+      <Dest>#ПИТТ# Схема: яркий налобный фонарь Союза</Dest>
+    </String>
+    <String List="0" sID="410074AC">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: налобный фонарь Союза &quot;Волт-Бой&quot;</Source>
+      <Dest>#ПИТТ# Схема: налобный фонарь Союза &quot;Волт-Бой&quot;</Dest>
+    </String>
+    <String List="0" sID="410074AD">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: красный тактический налобный фонарь Союза</Source>
+      <Dest>#ПИТТ# Схема: красный тактический налобный фонарь Союза</Dest>
+    </String>
+    <String List="0" sID="61005E6C">
+      <EDID>Recipe_mod_AutoAxe_Poisoned</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Отравленный автотопор&quot;</Source>
+      <Dest>#ПИТТ# Схема: модификация &quot;Отравленный автотопор&quot;</Dest>
+    </String>
+    <String List="0" sID="61005E6D">
+      <EDID>Recipe_mod_AutoAxe_Turbo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Турбоавтотопор&quot;</Source>
+      <Dest>#ПИТТ# Схема: модификация &quot;Турбоавтотопор&quot;</Dest>
+    </String>
+    <String List="0" sID="61005E6E">
+      <EDID>Recipe_mod_AutoAxe_Electrified</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Электроавтотопор&quot;</Source>
+      <Dest>#ПИТТ# Схема: модификация &quot;Электроавтотопор&quot;</Dest>
+    </String>
+    <String List="0" sID="61005E6F">
+      <EDID>Recipe_mod_AutoAxe_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Пылающий автотопор&quot;</Source>
+      <Dest>#ПИТТ# Схема: модификация &quot;Пылающий автотопор&quot;</Dest>
+    </String>
+    <String List="0" sID="61010CFD">
+      <EDID>Recipe_XPD_Headwear_SkippysOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: очки мастера</Source>
+      <Dest>#ПИТТ-ПВ# Схема: очки мастера</Dest>
+    </String>
+    <String List="0" sID="61010CFE">
+      <EDID>Recipe_XPD_Headwear_DanilosOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: капюшон бойца Траншеи</Source>
+      <Dest>#ПИТТ-ОДП# Схема: капюшон бойца Траншеи</Dest>
+    </String>
+    <String List="0" sID="61010CFF">
+      <EDID>Recipe_XPD_Clothes_SkippysOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: комбинезон мастера</Source>
+      <Dest>#ПИТТ-ПВ# Схема: комбинезон мастера</Dest>
+    </String>
+    <String List="0" sID="61010D00">
+      <EDID>Recipe_XPD_Clothes_DanilosOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плащ бойца Траншеи</Source>
+      <Dest>#ПИТТ-ОДП# Схема: плащ бойца Траншеи</Dest>
+    </String>
+    <String List="0" sID="61011457">
+      <EDID>Recipe_XPD_Workshop_TrogTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с трогом</Source>
+      <Dest>#ПИТТ-ПВ# Схема: резервуар с трогом</Dest>
+    </String>
+    <String List="0" sID="61011D10">
+      <EDID>Recipe_XPD_mod_PumpActionShotgun_Material_Paint_Fanatics</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска &quot;Фанатики&quot; для помпового дробовика</Source>
+      <Dest>#ПИТТ-ОДП# Схема: окраска &quot;Фанатики&quot; для помпового дробовика</Dest>
+    </String>
+    <String List="0" sID="6101279B">
+      <EDID>Recipe_mod_HuntingRifle_Material_Paint_XPD_Union</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: облик охотничьего карабина &quot;Союз&quot;</Source>
+      <Dest>#ПИТТ-ПВ# Схема: облик охотничьего карабина &quot;Союз&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

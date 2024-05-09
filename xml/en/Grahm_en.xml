@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="006E2397">
+      <EDID>Recipe_Workshop_Tables_DomesticKitchen_Black</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Black domestic kitchen tables</Source>
+      <Dest>[GRAHM-2023] Plan: Black domestic kitchen tables</Dest>
+    </String>
+    <String List="0" sID="006E2396">
+      <EDID>Recipe_Workshop_Tables_DomesticKitchen_Brown</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brown domestic kitchen tables</Source>
+      <Dest>[GRAHM-2023] Plan: Brown domestic kitchen tables</Dest>
+    </String>
+    <String List="0" sID="006E2393">
+      <EDID>Recipe_Workshop_Benches_Wood_CleanPark</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Clean park bench</Source>
+      <Dest>[GRAHM-2023] Plan: Clean park bench</Dest>
+    </String>
+    <String List="0" sID="006E23D0">
+      <EDID>Recipe_Workshop_Lights_MirrorBall_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mirror ball - blue</Source>
+      <Dest>[GRAHM-2023] Plan: Mirror ball - blue</Dest>
+    </String>
+    <String List="0" sID="006E23CB">
+      <EDID>Recipe_Workshop_Lights_MirrorBall_Green</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mirror ball - green</Source>
+      <Dest>[GRAHM-2023] Plan: Mirror ball - green</Dest>
+    </String>
+    <String List="0" sID="006E23C2">
+      <EDID>Recipe_Workshop_Lights_MirrorBall_Pink</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mirror ball - pink</Source>
+      <Dest>[GRAHM-2023] Plan: Mirror ball - pink</Dest>
+    </String>
+    <String List="0" sID="006E23CF">
+      <EDID>Recipe_Workshop_Lights_MirrorBall_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mirror ball - red</Source>
+      <Dest>[GRAHM-2023] Plan: Mirror ball - red</Dest>
+    </String>
+    <String List="0" sID="006E23D2">
+      <EDID>Recipe_Workshop_Tables_MetalPicnic_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Picnic table - blue</Source>
+      <Dest>[GRAHM-2023] Plan: Picnic table - blue</Dest>
+    </String>
+    <String List="0" sID="006E23CA">
+      <EDID>Recipe_Workshop_Tables_MetalPicnic_Green</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Picnic table - green</Source>
+      <Dest>[GRAHM-2023] Plan: Picnic table - green</Dest>
+    </String>
+    <String List="0" sID="006E23CE">
+      <EDID>Recipe_Workshop_Tables_MetalPicnic_Pink</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Picnic table - pink</Source>
+      <Dest>[GRAHM-2023] Plan: Picnic table - pink</Dest>
+    </String>
+    <String List="0" sID="006E23C9">
+      <EDID>Recipe_Workshop_Tables_MetalPicnic_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Picnic table - red</Source>
+      <Dest>[GRAHM-2023] Plan: Picnic table - red</Dest>
+    </String>
+    <String List="0" sID="006E23D1">
+      <EDID>Recipe_Workshop_Tables_MetalPicnic_White</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Picnic table - White</Source>
+      <Dest>[GRAHM-2023] Plan: Picnic table - White</Dest>
+    </String>
+    <String List="0" sID="006E2395">
+      <EDID>Recipe_Workshop_Tables_DomesticKitchen_White</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: White domestic kitchen tables</Source>
+      <Dest>[GRAHM-2023] Plan: White domestic kitchen tables</Dest>
+    </String>
+    <String List="0" sID="006E23CC">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Black</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - black</Source>
+      <Dest>[GRAHM-2023] Plan: Suitcase - black</Dest>
+    </String>
+    <String List="0" sID="006E23C4">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - blue</Source>
+      <Dest>[GRAHM-2023] Plan: Suitcase - blue</Dest>
+    </String>
+    <String List="0" sID="006E23C5">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Green</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - green</Source>
+      <Dest>[GRAHM-2023] Plan: Suitcase - green</Dest>
+    </String>
+    <String List="0" sID="006E23C3">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Orange</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - orange</Source>
+      <Dest>[GRAHM-2023] Plan: Suitcase - orange</Dest>
+    </String>
+    <String List="0" sID="006E23C6">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Pink</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - pink</Source>
+      <Dest>[GRAHM-2023] Plan: Suitcase - pink</Dest>
+    </String>
+    <String List="0" sID="006E23C8">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - purple</Source>
+      <Dest>[GRAHM-2023] Plan: Suitcase - purple</Dest>
+    </String>
+    <String List="0" sID="006E23C7">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - red</Source>
+      <Dest>[GRAHM-2023] Plan: Suitcase - red</Dest>
+    </String>
+    <String List="0" sID="006E23CD">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Yellow</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - yellow</Source>
+      <Dest>[GRAHM-2023] Plan: Suitcase - yellow</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

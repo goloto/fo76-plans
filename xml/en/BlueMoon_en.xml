@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="410078B4">
+      <EDID>MOON_Herd_Workshop_Recipe_OguaHunterHood</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Hunter Hood</Source>
+      <Dest>#BM-BoB# Plan: Ogua Hunter Hood</Dest>
+    </String>
+    <String List="0" sID="410078B5">
+      <EDID>MOON_Herd_Workshop_Recipe_OguaHunterOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Hunter Outfit</Source>
+      <Dest>#BM-BoB# Plan: Ogua Hunter Outfit</Dest>
+    </String>
+    <String List="0" sID="41007991">
+      <EDID>MOON_Ambush_Recipe_OguaShellBackpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Shell Backpack</Source>
+      <Dest>#BM-BoB# Plan: Ogua Shell Backpack</Dest>
+    </String>
+    <String List="0" sID="41007CF1">
+      <EDID>MOON_Ambush_Workshop_Recipe_SleepingBag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Dirty Blue Ridge Sleeping Bag</Source>
+      <Dest>#BM-BoB# Plan: Dirty Blue Ridge Sleeping Bag</Dest>
+    </String>
+    <String List="0" sID="41007D89">
+      <EDID>MOON_Herd_Workshop_Recipe_PaddockFence</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Paddock Fence</Source>
+      <Dest>#BM-SaS# Plan: Paddock Fence</Dest>
+    </String>
+    <String List="0" sID="41007ED9">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Devil Outfit</Source>
+      <Dest>#BM-SaS# Plan: Blue Devil Outfit</Dest>
+    </String>
+    <String List="0" sID="41007EDA">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilHood</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Devil Pelt Hood</Source>
+      <Dest>#BM-SaS# Plan: Blue Devil Pelt Hood</Dest>
+    </String>
+    <String List="0" sID="41007F8A">
+      <EDID>MOON_Ambush_Workshop_Recipe_BlueRidgeScoutOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Ridge Scout Outfit</Source>
+      <Dest>#BM-BoB# Plan: Blue Ridge Scout Outfit</Dest>
+    </String>
+    <String List="0" sID="61017B5D">
+      <EDID>Moon_Herd_Workshop_Recipe_BlueDevilTrophy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mounted Blue Devil Head</Source>
+      <Dest>#BM-SaS# Plan: Mounted Blue Devil Head</Dest>
+    </String>
+    <String List="0" sID="61017B5E">
+      <EDID>MOON_Herd_Workshop_Recipe_TaxidermyBlueDevil</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Devil Statue</Source>
+      <Dest>#BM-SaS# Plan: Blue Devil Statue</Dest>
+    </String>
+    <String List="0" sID="61017CFF">
+      <EDID>MOON_Herd_Workshop_Recipe_CurtainBlueDevil</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Devil Curtain Door</Source>
+      <Dest>#BM-SaS# Plan: Blue Devil Curtain Door</Dest>
+    </String>
+    <String List="0" sID="61017D00">
+      <EDID>MOON_Ambush_Workshop_Recipe_CurtainOgua</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Curtain Door</Source>
+      <Dest>#BM-BoB# Plan: Ogua Curtain Door</Dest>
+    </String>
+    <String List="0" sID="610183CB">
+      <EDID>Moon_Ambush_Workshop_Recipe_OguaTrophy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mounted Ogua Head</Source>
+      <Dest>#BM-BoB# Plan: Mounted Ogua Head</Dest>
+    </String>
+    <String List="0" sID="D90054C6">
+      <EDID>MOON_Herd_Workshop_Recipe_BrahminBackpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brahmin Backpack</Source>
+      <Dest>#BM-SaS# Plan: Brahmin Backpack</Dest>
+    </String>
+    <String List="0" sID="D90054E9">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Devil Plushie</Source>
+      <Dest>#BM-SaS# Plan: Blue Devil Plushie</Dest>
+    </String>
+    <String List="0" sID="D900550E">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyDuster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cowboy Duster</Source>
+      <Dest>#BM-OPS# Plan: Cowboy Duster</Dest>
+    </String>
+    <String List="0" sID="D900550F">
+      <EDID>MOON_Ambush_Workshop_Recipe_OguaPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Plushie</Source>
+      <Dest>#BM-BoB# Plan: Ogua Plushie</Dest>
+    </String>
+    <String List="0" sID="D9005510">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyChaps</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cowboy Chaps</Source>
+      <Dest>#BM-OPS# Plan: Cowboy Chaps</Dest>
+    </String>
+    <String List="0" sID="D900581B">
+      <EDID>MOON_DO_Workshop_Recipe_KidsTruckBed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Kids Truck Bed</Source>
+      <Dest>#BM-OPS# Plan: Kids Truck Bed</Dest>
+    </String>
+    <String List="0" sID="D900581D">
+      <EDID>MOON_Herd_Workshop_Recipe_KidsCowClock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Kids Brahmin Clock</Source>
+      <Dest>#BM-SaS# Plan: Kids Brahmin Clock</Dest>
+    </String>
+    <String List="0" sID="D9005825">
+      <EDID>MOON_Herd_Workshop_Recipe_CartographyTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cartography Table</Source>
+      <Dest>#BM-SaS# Plan: Cartography Table</Dest>
+    </String>
+    <String List="0" sID="D9005828">
+      <EDID>MOON_Ambush_Workshop_Recipe_SleepingBagFur</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fur Sleeping Bag</Source>
+      <Dest>#BM-BoB# Plan: Fur Sleeping Bag</Dest>
+    </String>
+    <String List="0" sID="D900582A">
+      <EDID>MOON_Herd_Workshop_Recipe_TrailerTruckGear</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Truckbed Trailer with Junk</Source>
+      <Dest>#BM-SaS# Plan: Truckbed Trailer with Junk</Dest>
+    </String>
+    <String List="0" sID="D9005844">
+      <EDID>MOON_Ambush_Workshop_Recipe_OguaFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Backpack Flair</Source>
+      <Dest>#BM-BoB# Plan: Ogua Backpack Flair</Dest>
+    </String>
+    <String List="0" sID="D900585F">
+      <EDID>MOON_DO_Workshop_Recipe_UmbrellaHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Umbrella Hat</Source>
+      <Dest>#BM-OPS# Plan: Umbrella Hat</Dest>
+    </String>
+    <String List="0" sID="D900586F">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Devil Backpack Flair</Source>
+      <Dest>#BM-SaS# Plan: Blue Devil Backpack Flair</Dest>
+    </String>
+    <String List="0" sID="D9005877">
+      <EDID>MOON_Herd_Workshop_Recipe_Milkman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Milkman Outfit</Source>
+      <Dest>#BM-SaS# Plan: Milkman Outfit</Dest>
+    </String>
+    <String List="0" sID="D9005878">
+      <EDID>MOON_Herd_Workshop_Recipe_MilkmanHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Milkman Hat</Source>
+      <Dest>#BM-SaS# Plan: Milkman Hat</Dest>
+    </String>
+    <String List="0" sID="D9005889">
+      <EDID>MOON_Herd_Workshop_Recipe_BrahminPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pink Brahmin Plushie</Source>
+      <Dest>#BM-SaS# Plan: Pink Brahmin Plushie</Dest>
+    </String>
+    <String List="0" sID="D900588A">
+      <EDID>MOON_Ambush_Workshop_Recipe_Tent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Canopy Tent</Source>
+      <Dest>#BM-BoB# Plan: Canopy Tent</Dest>
+    </String>
+    <String List="0" sID="D90058A9">
+      <EDID>MOON_Herd_Workshop_Recipe_PaddockGate</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Paddock Gate</Source>
+      <Dest>#BM-SaS# Plan: Paddock Gate</Dest>
+    </String>
+    <String List="0" sID="D90058AD">
+      <EDID>MOON_Ambush_Workshop_Recipe_CryptidHunterBoonieHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cryptid Hunter Boonie Hat</Source>
+      <Dest>#BM-BoB# Plan: Cryptid Hunter Boonie Hat</Dest>
+    </String>
+    <String List="0" sID="D9005931">
+      <EDID>MOON_DO_Workshop_Recipe_BrahminSofa</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brahmin Couch</Source>
+      <Dest>#BM-OPS# Plan: Brahmin Couch</Dest>
+    </String>
+    <String List="0" sID="D9005932">
+      <EDID>MOON_DO_Workshop_Recipe_FeralGhoulChair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ghoul Chair</Source>
+      <Dest>#BM-OPS# Plan: Ghoul Chair</Dest>
+    </String>
+    <String List="0" sID="D90059B4">
+      <EDID>Moon_Recipe_Workshop_FloorDecor_Rugs_BrahminRug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brahmin Skin Rug</Source>
+      <Dest>#BM-SaS# Plan: Brahmin Skin Rug</Dest>
+    </String>
+    <String List="0" sID="D90059B5">
+      <EDID>MOON_Herd_Workshop_Recipe_Rug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Ridge Rug</Source>
+      <Dest>#BM-SaS# Plan: Blue Ridge Rug</Dest>
+    </String>
+    <String List="0" sID="D9005A28">
+      <EDID>MOON_DO_Workshop_Recipe_GorillaChair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gorilla Chair</Source>
+      <Dest>#BM-OPS# Plan: Gorilla Chair</Dest>
+    </String>
+    <String List="0" sID="D90060C5">
+      <EDID>MOON_Ambush_Workshop_Recipe_Mobile</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cryptid Mobile</Source>
+      <Dest>#BM-BoB# Plan: Cryptid Mobile</Dest>
+    </String>
+    <String List="0" sID="D9006118">
+      <EDID>MOON_Herd_Workshop_Recipe_TravellersWagon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Traveler&apos;s Wagon</Source>
+      <Dest>#BM-SaS# Plan: Traveler&apos;s Wagon</Dest>
+    </String>
+    <String List="0" sID="D9007BD2">
+      <EDID>MOON_Ambush_Workshop_Recipe_OguaEgg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Egg</Source>
+      <Dest>#BM-BoB# Plan: Ogua Egg</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

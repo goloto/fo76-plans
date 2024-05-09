@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="61003120">
+      <EDID>Recipe_Cooking_E02A_Meat_ChallysFeed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: еда для Чалли</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ# Рецепт: еда для Чалли</Dest>
+    </String>
+    <String List="0" sID="61003128">
+      <EDID>recipe_mod_melee_MeatTenderizer_Peppered</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Молоток для отбивания перченого мяса&quot;</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ# Схема: модификация &quot;Молоток для отбивания перченого мяса&quot;</Dest>
+    </String>
+    <String List="0" sID="6100314B">
+      <EDID>recipe_mod_melee_MeatTenderizer_Salted</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Молоток для отбивания соленого мяса&quot;</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ# Схема: модификация &quot;Молоток для отбивания соленого мяса&quot;</Dest>
+    </String>
+    <String List="0" sID="61003153">
+      <EDID>recipe_mod_melee_MeatTenderizer_Heated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Молоток для отбивания пряного мяса&quot;</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ# Схема: модификация &quot;Молоток для отбивания пряного мяса&quot;</Dest>
+    </String>
+    <String List="0" sID="61003162">
+      <EDID>Recipe_Cooking_MeatWeek_TatoSalad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: салат из тошки</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ# Рецепт: салат из тошки</Dest>
+    </String>
+    <String List="0" sID="6100317F">
+      <EDID>Recipe_Weapon_Melee_MeatTenderizer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: молоток для отбивания мяса</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ# Схема: молоток для отбивания мяса</Dest>
+    </String>
+    <String List="0" sID="61003187">
+      <EDID>Recipe_Weapon_Thrown_MeatCleaver</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: мясницкий нож</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ# Схема: мясницкий нож</Dest>
+    </String>
+    <String List="0" sID="6100C1AB">
+      <EDID>Recipe_Workshop_WallDecor_PlasticFruitWreath</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: венок из пластиковых фруктов</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ-2023# Схема: венок из пластиковых фруктов</Dest>
+    </String>
+    <String List="0" sID="6100C1AD">
+      <EDID>Recipe_Workshop_Crafting_CraftingCooking_GroceryCartGrill</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тележка-гриль</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ-2023# Схема: тележка-гриль</Dest>
+    </String>
+    <String List="0" sID="6100C325">
+      <EDID>Recipe_Workshop_FloorDecor_DecoyDuckSet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: подсадные утки</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ-2023# Схема: подсадные утки</Dest>
+    </String>
+    <String List="0" sID="6101463B">
+      <EDID>Recipe_Workshop_FloorDecor_PlasticFruitBowl</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: миска с пластиковыми фруктами</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ-2023# Схема: миска с пластиковыми фруктами</Dest>
+    </String>
+    <String List="0" sID="610186F0">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_WilberMcPigg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый Уилбур Макхряк</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ-2023# Схема: плюшевый Уилбур Макхряк</Dest>
+    </String>
+    <String List="0" sID="610186F1">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Punty</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевая свинка Панти</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ-2023# Схема: плюшевая свинка Панти</Dest>
+    </String>
+    <String List="0" sID="610186F2">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Peppino</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевая свинка Пеппино</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ-2023# Схема: плюшевая свинка Пеппино</Dest>
+    </String>
+    <String List="0" sID="610186F3">
+      <EDID>Recipe_Workshop_Lights_Wall_SuperMutantDiagram</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: схема супермутанта</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ-2023# Схема: схема супермутанта</Dest>
+    </String>
+    <String List="0" sID="610186F5">
+      <EDID>Recipe_Workshop_Lights_Wall_MutantHoundDiagram</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: схема гончей-мутанта</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ-2023# Схема: схема гончей-мутанта</Dest>
+    </String>
+    <String List="0" sID="6101873E">
+      <EDID>Recipe_Workshop_FloorDecor_Rugs_Bloody</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окровавленный ковер</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ-2023# Схема: окровавленный ковер</Dest>
+    </String>
+    <String List="0" sID="61018744">
+      <EDID>Recipe_Workshop_CurtainDoor_Bloody</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окровавленная занавеска на дверь</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ-2023# Схема: окровавленная занавеска на дверь</Dest>
+    </String>
+    <String List="0" sID="6101B63B">
+      <EDID>Recipe_Workshop_FloorDecor_StuffedMutantHound</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело гончей-мутанта</Source>
+      <Dest>#МЯСНАЯ-НЕДЕЛЯ-2023# Схема: чучело гончей-мутанта</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
