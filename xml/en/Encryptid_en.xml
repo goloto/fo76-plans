@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="046631">
+      <EDID>Recipe_Weapon_Ranged_AssaultronHead</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Assaultron Head</Source>
+      <Dest>ENCRYPTID++|Plan: Assaultron Head</Dest>
+    </String>
+    <String List="0" sID="04988A">
+      <EDID>Headwear_SheepsquatchMascotHead</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sheepsquatch Mascot Head</Source>
+      <Dest>ENCRYPTID+|Sheepsquatch Mascot Head</Dest>
+    </String>
+    <String List="0" sID="04988B">
+      <EDID>Clothes_SheepsquatchMascotOutfit</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sheepsquatch Mascot Outfit</Source>
+      <Dest>ENCRYPTID+|Sheepsquatch Mascot Outfit</Dest>
+    </String>
+    <String List="0" sID="049A9B">
+      <EDID>Recipe_Weapon_Ranged_TheFixer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: The Fixer</Source>
+      <Dest>ENCRYPTID++|Plan: The Fixer</Dest>
+    </String>
+    <String List="0" sID="04B9E7">
+      <EDID>Headwear_Sheepsquatch_Imposter_Helmet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Imposter Sheepsquatch Helmet</Source>
+      <Dest>ENCRYPTID++|Imposter Sheepsquatch Helmet</Dest>
+    </String>
+    <String List="0" sID="04B9E8">
+      <EDID>Clothes_Sheepsquatch_Imposter_Outfit</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Imposter Sheepsquatch Outfit</Source>
+      <Dest>ENCRYPTID++|Imposter Sheepsquatch Outfit</Dest>
+    </String>
+    <String List="0" sID="61003223">
+      <EDID>E01B_Encryptid_Clothes_WhiteFedora</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>White Wolf Fedora</Source>
+      <Dest>ENCRYPTID|White Wolf Fedora</Dest>
+    </String>
+    <String List="0" sID="71002152">
+      <EDID>Clothes_SheepsquatchMascotOutfit_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sheepsquatch Mascot Outfit</Source>
+      <Dest>ENCRYPTID+|Sheepsquatch Mascot Outfit</Dest>
+    </String>
+    <String List="0" sID="71002164">
+      <EDID>Headwear_SheepsquatchMascotHead_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sheepsquatch Mascot Head</Source>
+      <Dest>ENCRYPTID+|Sheepsquatch Mascot Head</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

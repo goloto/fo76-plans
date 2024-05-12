@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="3900077D">
+      <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_Rugs_Colossus_Rug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wendigo Colossus Skin Rug</Source>
+      <Dest>COLOSS+|Plan: Wendigo Colossus Skin Rug</Dest>
+    </String>
+    <String List="0" sID="39000781">
+      <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_Taxidermy_WendigoColossus</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wendigo Colossus Heads</Source>
+      <Dest>COLOSS++|Plan: Wendigo Colossus Heads</Dest>
+    </String>
+    <String List="0" sID="39000782">
+      <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_WendigoColossus_Plushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wendigo Colossus Plushie</Source>
+      <Dest>COLOSS|Plan: Wendigo Colossus Plushie</Dest>
+    </String>
+    <String List="0" sID="39000789">
+      <EDID>EN06_mod_melee_Shovel_Custom_Cursed</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Cursed Shovel</Source>
+      <Dest>COLOSS|Cursed Shovel</Dest>
+    </String>
+    <String List="0" sID="3900078B">
+      <EDID>EN06_mod_melee_Pickaxe_Custom_Cursed</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Cursed Pickaxe</Source>
+      <Dest>COLOSS++|Cursed Pickaxe</Dest>
+    </String>
+    <String List="0" sID="3900078D">
+      <EDID>EN06_mod_Ranged_HarpoonGun_Custom_Cursed</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Cursed Harpoon Gun</Source>
+      <Dest>COLOSS+|Cursed Harpoon Gun</Dest>
+    </String>
+    <String List="0" sID="39000791">
+      <EDID>E06_Colossus_Headwear_DeepMine_GasMask</EDID>
+      <REC id="0" idMax="1">ARMO:FULL</REC>
+      <Source>Reclaimed Deep Mining Gas Mask</Source>
+      <Dest>COLOSS+++|Reclaimed Deep Mining Gas Mask</Dest>
+    </String>
+    <String List="0" sID="39000942">
+      <EDID>E06_Colossus_Headwear_DeepMine_GasMask</EDID>
+      <REC id="1" idMax="1">ARMO:FULL</REC>
+      <Source>Reclaimed Deep Mining Gas Mask</Source>
+      <Dest>COLOSS+++|Reclaimed Deep Mining Gas Mask</Dest>
+    </String>
+    <String List="0" sID="610093EB">
+      <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_WendigoColossusMeatPile</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Meat Pile</Source>
+      <Dest>COLOSS|Plan: Meat Pile</Dest>
+    </String>
+    <String List="0" sID="6100D770">
+      <EDID>Recipe_Workshop_Container_StashBox_Supply_Crate_Large</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Large Supply Crate</Source>
+      <Dest>COLOSS+++|Plan: Large Supply Crate</Dest>
+    </String>
+    <String List="0" sID="6100D776">
+      <EDID>recipe_mod_weapon_LaserGun_material_HotRodFlames</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Laser Gun Hot Rod Flames Paint</Source>
+      <Dest>COLOSS+++|Plan: Laser Gun Hot Rod Flames Paint</Dest>
+    </String>
+    <String List="0" sID="6100D778">
+      <EDID>recipe_Headwear_CenturionHelmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Centurion Helmet</Source>
+      <Dest>COLOSS+++|Plan: Centurion Helmet</Dest>
+    </String>
+    <String List="0" sID="6100D77C">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Inferno_Mk_3</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Inferno Mark 3 Power Armor Paints</Source>
+      <Dest>COLOSS+++|Plan: Inferno Mark 3 Power Armor Paints</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

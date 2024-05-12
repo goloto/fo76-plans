@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="049A9C">
+      <EDID>Recipe_Cooking_Smores</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: S&apos;mores</Source>
+      <Dest>CAMPFIRE TALES|Recipe: S&apos;mores</Dest>
+    </String>
+    <String List="0" sID="049A9E">
+      <EDID>Recipe_Workshop_MiscStructures_Tent_CampfireTales</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Campfire Tales Tent</Source>
+      <Dest>CAMPFIRE TALES|Plan: Campfire Tales Tent</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
