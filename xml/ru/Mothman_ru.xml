@@ -11,235 +11,235 @@
       <EDID>E07A_Mothman_WiseMothman_Throne</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: трон Мудрого Молерота</Source>
-      <Dest>#МОЛЕРОТ# Схема: трон Мудрого Молерота</Dest>
+      <Dest>МОЛЕРОТ|Схема: трон Мудрого Молерота</Dest>
     </String>
     <String List="0" sID="41003F31">
       <EDID>Headwear_CultistEnlightened_Hood</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Капюшон просвещенного сектанта</Source>
-      <Dest>#МОЛЕРОТ# Капюшон просвещенного сектанта</Dest>
+      <Dest>МОЛЕРОТ|Капюшон просвещенного сектанта</Dest>
     </String>
     <String List="0" sID="410040BD">
       <EDID>Clothes_CultistAdept</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Мантия сектанта-адепта</Source>
-      <Dest>#МОЛЕРОТ# Мантия сектанта-адепта</Dest>
+      <Dest>МОЛЕРОТ|Мантия сектанта-адепта</Dest>
     </String>
     <String List="0" sID="410042F5">
       <EDID>Headwear_CultistIncarnateHelmet</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Ритуальный шлем сектантов</Source>
-      <Dest>#МОЛЕРОТ# Ритуальный шлем сектантов</Dest>
+      <Dest>МОЛЕРОТ|Ритуальный шлем сектантов</Dest>
     </String>
     <String List="0" sID="410098DB">
       <EDID>Clothes_CultistNeophyte_Robe_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Мантия сектанта-новичка</Source>
-      <Dest>#МОЛЕРОТ# Мантия сектанта-новичка</Dest>
+      <Dest>МОЛЕРОТ|Мантия сектанта-новичка</Dest>
     </String>
     <String List="0" sID="410098DC">
       <EDID>Clothes_CultistEventide_Robe_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Сумрачная мантия сектанта</Source>
-      <Dest>#МОЛЕРОТ-2024# Сумрачная мантия сектанта</Dest>
+      <Dest>МОЛЕРОТ 2024|Сумрачная мантия сектанта</Dest>
     </String>
     <String List="0" sID="410098DD">
       <EDID>Clothes_CultistAdept_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Мантия сектанта-адепта</Source>
-      <Dest>#МОЛЕРОТ# Мантия сектанта-адепта</Dest>
+      <Dest>МОЛЕРОТ|Мантия сектанта-адепта</Dest>
     </String>
     <String List="0" sID="41009915">
       <EDID>E07A_Recipe_workshop_FloorDecor_MothVFX</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: порхающие мотыльки</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: порхающие мотыльки</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: порхающие мотыльки</Dest>
     </String>
     <String List="0" sID="59000ADB">
       <EDID>Clothes_CultistEnlightened_Robe</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Мантия просвещенного сектанта</Source>
-      <Dest>#МОЛЕРОТ# Мантия просвещенного сектанта</Dest>
+      <Dest>МОЛЕРОТ|Мантия просвещенного сектанта</Dest>
     </String>
     <String List="0" sID="6100DBD6">
       <EDID>Clothes_CultistEnlightened_Robe_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Мантия просвещенного сектанта</Source>
-      <Dest>#МОЛЕРОТ# Мантия просвещенного сектанта</Dest>
+      <Dest>МОЛЕРОТ|Мантия просвещенного сектанта</Dest>
     </String>
     <String List="0" sID="6100DBDA">
       <EDID>Headwear_CultistEnlightened_Hood_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Капюшон просвещенного сектанта</Source>
-      <Dest>#МОЛЕРОТ# Капюшон просвещенного сектанта</Dest>
+      <Dest>МОЛЕРОТ|Капюшон просвещенного сектанта</Dest>
     </String>
     <String List="0" sID="6100E632">
       <EDID>E07A_Recipe_Backpack_Standard_Material_Cultist</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: рюкзак сектанта</Source>
-      <Dest>#МОЛЕРОТ# Схема: рюкзак сектанта</Dest>
+      <Dest>МОЛЕРОТ|Схема: рюкзак сектанта</Dest>
     </String>
     <String List="0" sID="6100E859">
       <EDID>Clothes_CultistNeophyte_Robe</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Мантия сектанта-новичка</Source>
-      <Dest>#МОЛЕРОТ# Мантия сектанта-новичка</Dest>
+      <Dest>МОЛЕРОТ|Мантия сектанта-новичка</Dest>
     </String>
     <String List="0" sID="6101C68F">
       <EDID>Headwear_CultistNeophyte_Hood</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Капюшон сектанта-новичка</Source>
-      <Dest>#МОЛЕРОТ# Капюшон сектанта-новичка</Dest>
+      <Dest>МОЛЕРОТ|Капюшон сектанта-новичка</Dest>
     </String>
     <String List="0" sID="6101C690">
       <EDID>Headwear_CultistAdept_Hood</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Капюшон сектанта-адепта</Source>
-      <Dest>#МОЛЕРОТ# Капюшон сектанта-адепта</Dest>
+      <Dest>МОЛЕРОТ|Капюшон сектанта-адепта</Dest>
     </String>
     <String List="0" sID="6101C6DD">
       <EDID>E07A_Recipe_Headwear_CultistNeophyte</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: капюшон сектанта-новичка</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: капюшон сектанта-новичка</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: капюшон сектанта-новичка</Dest>
     </String>
     <String List="0" sID="6101C6DF">
       <EDID>E07A_Recipe_Headwear_CultistIncarnateHelmet</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: ритуальный шлем сектантов</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: ритуальный шлем сектантов</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: ритуальный шлем сектантов</Dest>
     </String>
     <String List="0" sID="6101C6E0">
       <EDID>E07A_Recipe_Clothes_CultistAdept</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: мантия сектанта-адепта</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: мантия сектанта-адепта</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: мантия сектанта-адепта</Dest>
     </String>
     <String List="0" sID="6101C6E1">
       <EDID>E07A_Recipe_Clothes_CultistEnlightened</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: мантия просвещенного сектанта</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: мантия просвещенного сектанта</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: мантия просвещенного сектанта</Dest>
     </String>
     <String List="0" sID="6101C6E2">
       <EDID>E07A_Recipe_Headwear_CultistEventide</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: сумрачный капюшон сектанта</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: сумрачный капюшон сектанта</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: сумрачный капюшон сектанта</Dest>
     </String>
     <String List="0" sID="6101C6E4">
       <EDID>E07A_Recipe_Clothes_CultistEventide</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: сумрачная мантия сектанта</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: сумрачная мантия сектанта</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: сумрачная мантия сектанта</Dest>
     </String>
     <String List="0" sID="6101C6E5">
       <EDID>E07A_Recipe_Headwear_CultistAdept</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: капюшон сектанта-адепта</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: капюшон сектанта-адепта</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: капюшон сектанта-адепта</Dest>
     </String>
     <String List="0" sID="6101C6E6">
       <EDID>E07A_Recipe_Headwear_CultistEnlightened</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: капюшон просвещенного сектанта</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: капюшон просвещенного сектанта</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: капюшон просвещенного сектанта</Dest>
     </String>
     <String List="0" sID="6101C74F">
       <EDID>E07A_Recipe_WallDecor_DriedFLowers</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: высохший букет диких цветов</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: высохший букет диких цветов</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: высохший букет диких цветов</Dest>
     </String>
     <String List="0" sID="6101CB50">
       <EDID>E07A_Recipe_Clothes_CultistNeophyte</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: мантия сектанта-неофита</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: мантия сектанта-неофита</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: мантия сектанта-неофита</Dest>
     </String>
     <String List="0" sID="71009796">
       <EDID>E07A_recipe_Workshop_Incense_MothmanCultist</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: курильница адепта Молерота</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: курильница адепта Молерота</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: курильница адепта Молерота</Dest>
     </String>
     <String List="0" sID="7100A0CB">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_GreenMothman</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: зеленый Молерот из ячеистой бумаги</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: зеленый Молерот из ячеистой бумаги</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: зеленый Молерот из ячеистой бумаги</Dest>
     </String>
     <String List="0" sID="7100A112">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_BlueMothman</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: синий Молерот из ячеистой бумаги</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: синий Молерот из ячеистой бумаги</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: синий Молерот из ячеистой бумаги</Dest>
     </String>
     <String List="0" sID="7100A113">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_RedMothman</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: красный Молерот из ячеистой бумаги</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: красный Молерот из ячеистой бумаги</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: красный Молерот из ячеистой бумаги</Dest>
     </String>
     <String List="0" sID="7100A114">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_BrownMothman</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: коричневый Молерот из ячеистой бумаги</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: коричневый Молерот из ячеистой бумаги</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: коричневый Молерот из ячеистой бумаги</Dest>
     </String>
     <String List="0" sID="7100A115">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_MothmanGlobe</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: сфера Молерота из ячеистой бумаги</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: сфера Молерота из ячеистой бумаги</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: сфера Молерота из ячеистой бумаги</Dest>
     </String>
     <String List="0" sID="7100A129">
       <EDID>E07A_Recipe_Plushie_FuzzyMothman</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: пушистый плюшевый Молерот</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: пушистый плюшевый Молерот</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: пушистый плюшевый Молерот</Dest>
     </String>
     <String List="0" sID="7100A159">
       <EDID>Clothes_CultistEventide_Robe</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Сумрачная мантия сектанта</Source>
-      <Dest>#МОЛЕРОТ-2024# Сумрачная мантия сектанта</Dest>
+      <Dest>МОЛЕРОТ 2024|Сумрачная мантия сектанта</Dest>
     </String>
     <String List="0" sID="7100A15A">
       <EDID>Headwear_CultistEventide_Hood</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Сумрачный капюшон сектанта</Source>
-      <Dest>#МОЛЕРОТ-2024# Сумрачный капюшон сектанта</Dest>
+      <Dest>МОЛЕРОТ 2024|Сумрачный капюшон сектанта</Dest>
     </String>
     <String List="0" sID="7100A15F">
       <EDID>Recipe_Workshop_FloorDecor_Mothman_EnlightenedLantern</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: фонарь просвещенного</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: фонарь просвещенного</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: фонарь просвещенного</Dest>
     </String>
     <String List="0" sID="7100A168">
       <EDID>E07A_Mothman_Bugzapper_Mothman</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: жукобой &quot;Молерот&quot;</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: жукобой &quot;Молерот&quot;</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: жукобой &quot;Молерот&quot;</Dest>
     </String>
     <String List="0" sID="7100A171">
       <EDID>E07A_Recipe_Furniture_SacredMothmanTome</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: священная книга Молерота</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: священная книга Молерота</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: священная книга Молерота</Dest>
     </String>
     <String List="0" sID="7100A368">
       <EDID>Recipe_mod_Chainsaw_Paint_Skeptikill</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: окраска &quot;Убийца скептиков&quot; для бензопилы</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: окраска &quot;Убийца скептиков&quot; для бензопилы</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: окраска &quot;Убийца скептиков&quot; для бензопилы</Dest>
     </String>
     <String List="0" sID="7100A8A0">
       <EDID>E07A_Recipe_Plushie_FuzzyEnlightened</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: пушистый плюшевый Просвещенный</Source>
-      <Dest>#МОЛЕРОТ-2024# Схема: пушистый плюшевый Просвещенный</Dest>
+      <Dest>МОЛЕРОТ 2024|Схема: пушистый плюшевый Просвещенный</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
