@@ -11,163 +11,163 @@
       <EDID>POST_recipe_mod_AlienBlaster_Scope_ScopeShort_NV</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Blaster Short NV Scope</Source>
-      <Dest>#ALIEN# Plan: Alien Blaster Short NV Scope</Dest>
+      <Dest>ALIEN|Plan: Alien Blaster Short NV Scope</Dest>
     </String>
     <String List="0" sID="04164F">
       <EDID>recipe_mod_AlienBlaster_AlienMag_AmmoConversion</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Blaster Fusion Mag</Source>
-      <Dest>#ALIEN# Plan: Alien Blaster Fusion Mag</Dest>
+      <Dest>ALIEN|Plan: Alien Blaster Fusion Mag</Dest>
     </String>
     <String List="0" sID="046626">
       <EDID>Recipe_Weapon_Ranged_AlienBlaster</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Blaster</Source>
-      <Dest>#ALIEN# Plan: Alien Blaster</Dest>
+      <Dest>ALIEN|Plan: Alien Blaster</Dest>
     </String>
     <String List="0" sID="41004728">
       <EDID>Recipe_Workshop_ZetanTube</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Tube</Source>
-      <Dest>#ALIEN# Plan: Alien Tube</Dest>
+      <Dest>ALIEN|Plan: Alien Tube</Dest>
     </String>
     <String List="0" sID="4100AAAF">
       <EDID>Recipe_Invaders_AlienBlaster_Refined</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Zenith Alien Blaster Paint</Source>
-      <Dest>#ALIEN-2024# Plan: Zenith Alien Blaster Paint</Dest>
+      <Dest>ALIEN 2024|Plan: Zenith Alien Blaster Paint</Dest>
     </String>
     <String List="0" sID="59000C2F">
       <EDID>recipe_mod_AlienBlaster_AlienMag_DTPoison</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Blaster Poison Mag</Source>
-      <Dest>#ALIEN# Plan: Alien Blaster Poison Mag</Dest>
+      <Dest>ALIEN|Plan: Alien Blaster Poison Mag</Dest>
     </String>
     <String List="0" sID="59000C30">
       <EDID>recipe_mod_AlienBlaster_AlienMag_DTCryo</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Blaster Cryo Mag</Source>
-      <Dest>#ALIEN# Plan: Alien Blaster Cryo Mag</Dest>
+      <Dest>ALIEN|Plan: Alien Blaster Cryo Mag</Dest>
     </String>
     <String List="0" sID="59000CD3">
       <EDID>Recipe_Weapon_Ranged_AlienRifle</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Disintegrator</Source>
-      <Dest>#ALIEN# Plan: Alien Disintegrator</Dest>
+      <Dest>ALIEN|Plan: Alien Disintegrator</Dest>
     </String>
     <String List="0" sID="59000CDB">
       <EDID>recipe_mod_AlienRifle_Receiver_DTCryo</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Disintegrator Cryo Receiver</Source>
-      <Dest>#ALIEN# Plan: Alien Disintegrator Cryo Receiver</Dest>
+      <Dest>ALIEN|Plan: Alien Disintegrator Cryo Receiver</Dest>
     </String>
     <String List="0" sID="59000CDC">
       <EDID>recipe_mod_AlienRifle_Receiver_DTPoison</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Disintegrator Poison Receiver</Source>
-      <Dest>#ALIEN# Plan: Alien Disintegrator Poison Receiver</Dest>
+      <Dest>ALIEN|Plan: Alien Disintegrator Poison Receiver</Dest>
     </String>
     <String List="0" sID="59000CDD">
       <EDID>recipe_mod_AlienRifle_Receiver_Sniper</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Disintegrator High Powered Receiver</Source>
-      <Dest>#ALIEN# Plan: Alien Disintegrator High Powered Receiver</Dest>
+      <Dest>ALIEN|Plan: Alien Disintegrator High Powered Receiver</Dest>
     </String>
     <String List="0" sID="59000CDE">
       <EDID>recipe_mod_AlienRifle_Receiver_Auto</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Disintegrator Automatic Receiver</Source>
-      <Dest>#ALIEN# Plan: Alien Disintegrator Automatic Receiver</Dest>
+      <Dest>ALIEN|Plan: Alien Disintegrator Automatic Receiver</Dest>
     </String>
     <String List="0" sID="59000DE2">
       <EDID>Recipe_mod_melee_ElectroEnforcer_Spiked</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Spiked Electro Enforcer</Source>
-      <Dest>#ALIEN# Plan: Spiked Electro Enforcer</Dest>
+      <Dest>ALIEN|Plan: Spiked Electro Enforcer</Dest>
     </String>
     <String List="0" sID="59000DE3">
       <EDID>Recipe_Weapon_Melee_ElectroEnforcer</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Electro Enforcer</Source>
-      <Dest>#ALIEN# Plan: Electro Enforcer</Dest>
+      <Dest>ALIEN|Plan: Electro Enforcer</Dest>
     </String>
     <String List="0" sID="59000DE4">
       <EDID>Recipe_mod_melee_ElectroEnforcer_Overcharged</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Overcharged Electro Enforcer</Source>
-      <Dest>#ALIEN# Plan: Overcharged Electro Enforcer</Dest>
+      <Dest>ALIEN|Plan: Overcharged Electro Enforcer</Dest>
     </String>
     <String List="0" sID="59000DE5">
       <EDID>Recipe_mod_melee_ElectroEnforcer_Poisoned</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Poisoned Electro Enforcer</Source>
-      <Dest>#ALIEN# Plan: Poisoned Electro Enforcer</Dest>
+      <Dest>ALIEN|Plan: Poisoned Electro Enforcer</Dest>
     </String>
     <String List="0" sID="59000DE6">
       <EDID>Recipe_mod_melee_ElectroEnforcer_Freezing</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Freezing Electro Enforcer</Source>
-      <Dest>#ALIEN# Plan: Freezing Electro Enforcer</Dest>
+      <Dest>ALIEN|Plan: Freezing Electro Enforcer</Dest>
     </String>
     <String List="0" sID="59000FE0">
       <EDID>Recipe_Workshop_AlienOperatingBed</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Corpse Operating Bed</Source>
-      <Dest>#ALIEN# Plan: Alien Corpse Operating Bed</Dest>
+      <Dest>ALIEN|Plan: Alien Corpse Operating Bed</Dest>
     </String>
     <String List="0" sID="59001114">
       <EDID>Recipe_Workshop_Container_StashBox_Zetan</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Stash Box</Source>
-      <Dest>#ALIEN# Plan: Alien Stash Box</Dest>
+      <Dest>ALIEN|Plan: Alien Stash Box</Dest>
     </String>
     <String List="0" sID="59001115">
       <EDID>Recipe_Workshop_FloorDecor_Asteroid</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Asteroid</Source>
-      <Dest>#ALIEN# Plan: Asteroid</Dest>
+      <Dest>ALIEN|Plan: Asteroid</Dest>
     </String>
     <String List="0" sID="6100F653">
       <EDID>Recipe_Workshop_HumanMaleTube</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Human Tube 1</Source>
-      <Dest>#ALIEN# Plan: Human Tube 1</Dest>
+      <Dest>ALIEN|Plan: Human Tube 1</Dest>
     </String>
     <String List="0" sID="6100F654">
       <EDID>Recipe_Workshop_HumanFemaleTube</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Human Tube 2</Source>
-      <Dest>#ALIEN# Plan: Human Tube 2</Dest>
+      <Dest>ALIEN|Plan: Human Tube 2</Dest>
     </String>
     <String List="0" sID="6101CA72">
       <EDID>Recipe_Invaders_Armor_HazmatSuitTeal</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Hazmat Suit - Teal</Source>
-      <Dest>#ALIEN-2024# Plan: Hazmat Suit - Teal</Dest>
+      <Dest>ALIEN 2024|Plan: Hazmat Suit - Teal</Dest>
     </String>
     <String List="0" sID="6101CA74">
       <EDID>Recipe_Invaders_Workshop_Lights_AlienHeadLamp</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Head Lamp</Source>
-      <Dest>#ALIEN-2024# Plan: Alien Head Lamp</Dest>
+      <Dest>ALIEN 2024|Plan: Alien Head Lamp</Dest>
     </String>
     <String List="0" sID="6101CA75">
       <EDID>Recipe_Invaders_Workshop_Tables_AlienTable</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Table</Source>
-      <Dest>#ALIEN-2024# Plan: Alien Table</Dest>
+      <Dest>ALIEN 2024|Plan: Alien Table</Dest>
     </String>
     <String List="0" sID="6101CA77">
       <EDID>Recipe_Invaders_Workshop_Lights_GlowingFlatwoodsMonsterLamp</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Glowing Flatwoods Monster Lamp</Source>
-      <Dest>#ALIEN-2024# Plan: Glowing Flatwoods Monster Lamp</Dest>
+      <Dest>ALIEN 2024|Plan: Glowing Flatwoods Monster Lamp</Dest>
     </String>
     <String List="0" sID="6101CA78">
       <EDID>Recipe_Invaders_Workshop_WallDecor_AlienTargetPracticePoster</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Alien Target Practice Poster</Source>
-      <Dest>#ALIEN-2024# Plan: Alien Target Practice Poster</Dest>
+      <Dest>ALIEN 2024|Plan: Alien Target Practice Poster</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

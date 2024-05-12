@@ -11,235 +11,235 @@
       <EDID>E07A_Mothman_WiseMothman_Throne</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Wise Mothman Throne</Source>
-      <Dest>#MOTHMAN# Plan: Wise Mothman Throne</Dest>
+      <Dest>MOTHMAN|Plan: Wise Mothman Throne</Dest>
     </String>
     <String List="0" sID="41003F31">
       <EDID>Headwear_CultistEnlightened_Hood</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Enlightened Hood</Source>
-      <Dest>#MOTHMAN# Cultist Enlightened Hood</Dest>
+      <Dest>MOTHMAN|Cultist Enlightened Hood</Dest>
     </String>
     <String List="0" sID="410040BD">
       <EDID>Clothes_CultistAdept</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Adept Robe</Source>
-      <Dest>#MOTHMAN# Cultist Adept Robe</Dest>
+      <Dest>MOTHMAN|Cultist Adept Robe</Dest>
     </String>
     <String List="0" sID="410042F5">
       <EDID>Headwear_CultistIncarnateHelmet</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Incarnate Helmet</Source>
-      <Dest>#MOTHMAN# Cultist Incarnate Helmet</Dest>
+      <Dest>MOTHMAN|Cultist Incarnate Helmet</Dest>
     </String>
     <String List="0" sID="410098DB">
       <EDID>Clothes_CultistNeophyte_Robe_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Neophyte Robe</Source>
-      <Dest>#MOTHMAN# Cultist Neophyte Robe</Dest>
+      <Dest>MOTHMAN|Cultist Neophyte Robe</Dest>
     </String>
     <String List="0" sID="410098DC">
       <EDID>Clothes_CultistEventide_Robe_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Eventide Robe</Source>
-      <Dest>#MOTHMAN-2024# Cultist Eventide Robe</Dest>
+      <Dest>MOTHMAN 2024|Cultist Eventide Robe</Dest>
     </String>
     <String List="0" sID="410098DD">
       <EDID>Clothes_CultistAdept_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Adept Robe</Source>
-      <Dest>#MOTHMAN# Cultist Adept Robe</Dest>
+      <Dest>MOTHMAN|Cultist Adept Robe</Dest>
     </String>
     <String List="0" sID="41009915">
       <EDID>E07A_Recipe_workshop_FloorDecor_MothVFX</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Fluttering Moths</Source>
-      <Dest>#MOTHMAN-2024# Plan: Fluttering Moths</Dest>
+      <Dest>MOTHMAN 2024|Plan: Fluttering Moths</Dest>
     </String>
     <String List="0" sID="59000ADB">
       <EDID>Clothes_CultistEnlightened_Robe</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Enlightened Robe</Source>
-      <Dest>#MOTHMAN# Cultist Enlightened Robe</Dest>
+      <Dest>MOTHMAN|Cultist Enlightened Robe</Dest>
     </String>
     <String List="0" sID="6100DBD6">
       <EDID>Clothes_CultistEnlightened_Robe_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Enlightened Robe</Source>
-      <Dest>#MOTHMAN# Cultist Enlightened Robe</Dest>
+      <Dest>MOTHMAN|Cultist Enlightened Robe</Dest>
     </String>
     <String List="0" sID="6100DBDA">
       <EDID>Headwear_CultistEnlightened_Hood_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Enlightened Hood</Source>
-      <Dest>#MOTHMAN# Cultist Enlightened Hood</Dest>
+      <Dest>MOTHMAN|Cultist Enlightened Hood</Dest>
     </String>
     <String List="0" sID="6100E632">
       <EDID>E07A_Recipe_Backpack_Standard_Material_Cultist</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Cultist Backpack</Source>
-      <Dest>#MOTHMAN# Plan: Cultist Backpack</Dest>
+      <Dest>MOTHMAN|Plan: Cultist Backpack</Dest>
     </String>
     <String List="0" sID="6100E859">
       <EDID>Clothes_CultistNeophyte_Robe</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Neophyte Robe</Source>
-      <Dest>#MOTHMAN# Cultist Neophyte Robe</Dest>
+      <Dest>MOTHMAN|Cultist Neophyte Robe</Dest>
     </String>
     <String List="0" sID="6101C68F">
       <EDID>Headwear_CultistNeophyte_Hood</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Neophyte Hood</Source>
-      <Dest>#MOTHMAN# Cultist Neophyte Hood</Dest>
+      <Dest>MOTHMAN|Cultist Neophyte Hood</Dest>
     </String>
     <String List="0" sID="6101C690">
       <EDID>Headwear_CultistAdept_Hood</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Adept Hood</Source>
-      <Dest>#MOTHMAN# Cultist Adept Hood</Dest>
+      <Dest>MOTHMAN|Cultist Adept Hood</Dest>
     </String>
     <String List="0" sID="6101C6DD">
       <EDID>E07A_Recipe_Headwear_CultistNeophyte</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Cultist Neophyte Hood</Source>
-      <Dest>#MOTHMAN-2024# Plan: Cultist Neophyte Hood</Dest>
+      <Dest>MOTHMAN 2024|Plan: Cultist Neophyte Hood</Dest>
     </String>
     <String List="0" sID="6101C6DF">
       <EDID>E07A_Recipe_Headwear_CultistIncarnateHelmet</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Cultist Incarnate Helmet</Source>
-      <Dest>#MOTHMAN-2024# Plan: Cultist Incarnate Helmet</Dest>
+      <Dest>MOTHMAN 2024|Plan: Cultist Incarnate Helmet</Dest>
     </String>
     <String List="0" sID="6101C6E0">
       <EDID>E07A_Recipe_Clothes_CultistAdept</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Cultist Adept Robes</Source>
-      <Dest>#MOTHMAN-2024# Plan: Cultist Adept Robes</Dest>
+      <Dest>MOTHMAN 2024|Plan: Cultist Adept Robes</Dest>
     </String>
     <String List="0" sID="6101C6E1">
       <EDID>E07A_Recipe_Clothes_CultistEnlightened</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Cultist Enlightened Robes</Source>
-      <Dest>#MOTHMAN-2024# Plan: Cultist Enlightened Robes</Dest>
+      <Dest>MOTHMAN 2024|Plan: Cultist Enlightened Robes</Dest>
     </String>
     <String List="0" sID="6101C6E2">
       <EDID>E07A_Recipe_Headwear_CultistEventide</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Cultist Eventide Hood</Source>
-      <Dest>#MOTHMAN-2024# Plan: Cultist Eventide Hood</Dest>
+      <Dest>MOTHMAN 2024|Plan: Cultist Eventide Hood</Dest>
     </String>
     <String List="0" sID="6101C6E4">
       <EDID>E07A_Recipe_Clothes_CultistEventide</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Cultist Eventide Robes</Source>
-      <Dest>#MOTHMAN-2024# Plan: Cultist Eventide Robes</Dest>
+      <Dest>MOTHMAN 2024|Plan: Cultist Eventide Robes</Dest>
     </String>
     <String List="0" sID="6101C6E5">
       <EDID>E07A_Recipe_Headwear_CultistAdept</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Cultist Adept Hood</Source>
-      <Dest>#MOTHMAN-2024# Plan: Cultist Adept Hood</Dest>
+      <Dest>MOTHMAN 2024|Plan: Cultist Adept Hood</Dest>
     </String>
     <String List="0" sID="6101C6E6">
       <EDID>E07A_Recipe_Headwear_CultistEnlightened</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Cultist Enlightened Hood</Source>
-      <Dest>#MOTHMAN-2024# Plan: Cultist Enlightened Hood</Dest>
+      <Dest>MOTHMAN 2024|Plan: Cultist Enlightened Hood</Dest>
     </String>
     <String List="0" sID="6101C74F">
       <EDID>E07A_Recipe_WallDecor_DriedFLowers</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Dried Wildflower Bouquet</Source>
-      <Dest>#MOTHMAN-2024# Plan: Dried Wildflower Bouquet</Dest>
+      <Dest>MOTHMAN 2024|Plan: Dried Wildflower Bouquet</Dest>
     </String>
     <String List="0" sID="6101CB50">
       <EDID>E07A_Recipe_Clothes_CultistNeophyte</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Cultist Neophyte Robes</Source>
-      <Dest>#MOTHMAN-2024# Plan: Cultist Neophyte Robes</Dest>
+      <Dest>MOTHMAN 2024|Plan: Cultist Neophyte Robes</Dest>
     </String>
     <String List="0" sID="71009796">
       <EDID>E07A_recipe_Workshop_Incense_MothmanCultist</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Mothman Cultist Incense</Source>
-      <Dest>#MOTHMAN-2024# Plan: Mothman Cultist Incense</Dest>
+      <Dest>MOTHMAN 2024|Plan: Mothman Cultist Incense</Dest>
     </String>
     <String List="0" sID="7100A0CB">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_GreenMothman</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Honeycomb Paper Green Mothman</Source>
-      <Dest>#MOTHMAN-2024# Plan: Honeycomb Paper Green Mothman</Dest>
+      <Dest>MOTHMAN 2024|Plan: Honeycomb Paper Green Mothman</Dest>
     </String>
     <String List="0" sID="7100A112">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_BlueMothman</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Honeycomb Paper Blue Mothman</Source>
-      <Dest>#MOTHMAN-2024# Plan: Honeycomb Paper Blue Mothman</Dest>
+      <Dest>MOTHMAN 2024|Plan: Honeycomb Paper Blue Mothman</Dest>
     </String>
     <String List="0" sID="7100A113">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_RedMothman</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Honeycomb Paper Red Mothman</Source>
-      <Dest>#MOTHMAN-2024# Plan: Honeycomb Paper Red Mothman</Dest>
+      <Dest>MOTHMAN 2024|Plan: Honeycomb Paper Red Mothman</Dest>
     </String>
     <String List="0" sID="7100A114">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_BrownMothman</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Honeycomb Paper Brown Mothman</Source>
-      <Dest>#MOTHMAN-2024# Plan: Honeycomb Paper Brown Mothman</Dest>
+      <Dest>MOTHMAN 2024|Plan: Honeycomb Paper Brown Mothman</Dest>
     </String>
     <String List="0" sID="7100A115">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_MothmanGlobe</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Honeycomb Paper Mothman Globe</Source>
-      <Dest>#MOTHMAN-2024# Plan: Honeycomb Paper Mothman Globe</Dest>
+      <Dest>MOTHMAN 2024|Plan: Honeycomb Paper Mothman Globe</Dest>
     </String>
     <String List="0" sID="7100A129">
       <EDID>E07A_Recipe_Plushie_FuzzyMothman</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Fuzzy Mothman Plushie</Source>
-      <Dest>#MOTHMAN-2024# Plan: Fuzzy Mothman Plushie</Dest>
+      <Dest>MOTHMAN 2024|Plan: Fuzzy Mothman Plushie</Dest>
     </String>
     <String List="0" sID="7100A159">
       <EDID>Clothes_CultistEventide_Robe</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Eventide Robe</Source>
-      <Dest>#MOTHMAN-2024# Cultist Eventide Robe</Dest>
+      <Dest>MOTHMAN 2024|Cultist Eventide Robe</Dest>
     </String>
     <String List="0" sID="7100A15A">
       <EDID>Headwear_CultistEventide_Hood</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Cultist Eventide Hood</Source>
-      <Dest>#MOTHMAN-2024# Cultist Eventide Hood</Dest>
+      <Dest>MOTHMAN 2024|Cultist Eventide Hood</Dest>
     </String>
     <String List="0" sID="7100A15F">
       <EDID>Recipe_Workshop_FloorDecor_Mothman_EnlightenedLantern</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Enlightened Lantern</Source>
-      <Dest>#MOTHMAN-2024# Plan: Enlightened Lantern</Dest>
+      <Dest>MOTHMAN 2024|Plan: Enlightened Lantern</Dest>
     </String>
     <String List="0" sID="7100A168">
       <EDID>E07A_Mothman_Bugzapper_Mothman</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Mothman Bug Zapper</Source>
-      <Dest>#MOTHMAN-2024# Plan: Mothman Bug Zapper</Dest>
+      <Dest>MOTHMAN 2024|Plan: Mothman Bug Zapper</Dest>
     </String>
     <String List="0" sID="7100A171">
       <EDID>E07A_Recipe_Furniture_SacredMothmanTome</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Sacred Mothman Tome</Source>
-      <Dest>#MOTHMAN-2024# Plan: Sacred Mothman Tome</Dest>
+      <Dest>MOTHMAN 2024|Plan: Sacred Mothman Tome</Dest>
     </String>
     <String List="0" sID="7100A368">
       <EDID>Recipe_mod_Chainsaw_Paint_Skeptikill</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Chainsaw Skeptikill Paint</Source>
-      <Dest>#MOTHMAN-2024# Plan: Chainsaw Skeptikill Paint</Dest>
+      <Dest>MOTHMAN 2024|Plan: Chainsaw Skeptikill Paint</Dest>
     </String>
     <String List="0" sID="7100A8A0">
       <EDID>E07A_Recipe_Plushie_FuzzyEnlightened</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Fuzzy Enlightened Plushie</Source>
-      <Dest>#MOTHMAN-2024# Plan: Fuzzy Enlightened Plushie</Dest>
+      <Dest>MOTHMAN 2024|Plan: Fuzzy Enlightened Plushie</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
