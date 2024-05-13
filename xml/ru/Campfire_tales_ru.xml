@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="049A9C">
+      <EDID>Recipe_Cooking_Smores</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: поджаренный зефир с крекерами</Source>
+      <Dest>СТРАШНЫЕ ИСТОРИИ|Рецепт: поджаренный зефир с крекерами</Dest>
+    </String>
+    <String List="0" sID="049A9E">
+      <EDID>Recipe_Workshop_MiscStructures_Tent_CampfireTales</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: палатка для страшных историй</Source>
+      <Dest>СТРАШНЫЕ ИСТОРИИ|Схема: палатка для страшных историй</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

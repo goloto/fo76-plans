@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="044595">
+      <EDID>Recipe_Workshop_Container_WorkshopSafeFloor01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: напольный сейф</Source>
+      <Dest>В РОЗЫСКЕ|Схема: напольный сейф</Dest>
+    </String>
+    <String List="0" sID="41005CA5">
+      <EDID>Recipe_Workshop_NWOT_CappyClapper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: хлопушка Мистера Крышки</Source>
+      <Dest>ЯДЕР-МИР|Схема: хлопушка Мистера Крышки</Dest>
+    </String>
+    <String List="0" sID="41005CA6">
+      <EDID>Recipe_Workshop_NWOT_BottleBot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Ботылка</Source>
+      <Dest>ЯДЕР-МИР|Схема: Ботылка</Dest>
+    </String>
+    <String List="0" sID="41005CA7">
+      <EDID>E09A_Recipe_Workshop_NWOT_DesktopNukaLauncher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: настольный Кола-мет</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: настольный Кола-мет</Dest>
+    </String>
+    <String List="0" sID="41005CA8">
+      <EDID>Recipe_Workshop_FloorDecor_NWOT_Carnival_Statue_04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: статуя &quot;Шарик с Бутылкой и Мистером Крышкой&quot;</Source>
+      <Dest>ЯДЕР-МИР|Схема: статуя &quot;Шарик с Бутылкой и Мистером Крышкой&quot;</Dest>
+    </String>
+    <String List="0" sID="41005CA9">
+      <EDID>E09A_Recipe_Workshop_NWOT_NukaLauncher_Ornament</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: украшение &quot;Кола-мет&quot;</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: украшение &quot;Кола-мет&quot;</Dest>
+    </String>
+    <String List="0" sID="41005CAA">
+      <EDID>Recipe_Workshop_FloorDecor_NWOT_Carnival_Statue_03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: статуя &quot;Обруч с Бутылкой и Мистером Крышкой&quot;</Source>
+      <Dest>ЯДЕР-МИР|Схема: статуя &quot;Обруч с Бутылкой и Мистером Крышкой&quot;</Dest>
+    </String>
+    <String List="0" sID="41005CAB">
+      <EDID>E09D_Recipe_Headwear_DeputysHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шляпа помощника</Source>
+      <Dest>В РОЗЫСКЕ|Схема: шляпа помощника</Dest>
+    </String>
+    <String List="0" sID="41005CAC">
+      <EDID>E09D_Recipe_Headwear_SheriffsHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шляпа шерифа</Source>
+      <Dest>В РОЗЫСКЕ|Схема: шляпа шерифа</Dest>
+    </String>
+    <String List="0" sID="41005CAD">
+      <EDID>Recipe_Workshop_FloorDecor_NWOT_Carnival_Statue_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: статуя &quot;Картина с Бутылкой и Мистером Крышкой&quot;</Source>
+      <Dest>ЯДЕР-МИР|Схема: статуя &quot;Картина с Бутылкой и Мистером Крышкой&quot;</Dest>
+    </String>
+    <String List="0" sID="41005CAE">
+      <EDID>Recipe_Workshop_FloorDecor_NWOT_Carnival_Statue_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: статуя &quot;Шар для эквилибристики с Бутылкой и Мистером Крышкой&quot;</Source>
+      <Dest>ЯДЕР-МИР|Схема: статуя &quot;Шар для эквилибристики с Бутылкой и Мистером Крышкой&quot;</Dest>
+    </String>
+    <String List="0" sID="41006643">
+      <EDID>NWOT_Recipe_Food_CarnivalPie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: карнавальный пирог</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: карнавальный пирог</Dest>
+    </String>
+    <String List="0" sID="41006644">
+      <EDID>NWOT_Recipe_Food_GulperStuffedFoot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: фаршированная нога заглота</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: фаршированная нога заглота</Dest>
+    </String>
+    <String List="0" sID="41006646">
+      <EDID>NWOT_Recipe_Food_YaoGuaiPastry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: выпечка с яо-гаем</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: выпечка с яо-гаем</Dest>
+    </String>
+    <String List="0" sID="41006647">
+      <EDID>NWOT_Recipe_Food_RadscorpionKebab</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: шашлык из радскорпиона</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: шашлык из радскорпиона</Dest>
+    </String>
+    <String List="0" sID="41006648">
+      <EDID>NWOT_Recipe_Food_CaramelMutfruit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: карамельный мутафрукт</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: карамельный мутафрукт</Dest>
+    </String>
+    <String List="0" sID="41006649">
+      <EDID>NWOT_Recipe_Food_RadroachSkewer2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: шашлык из радтаракана</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: шашлык из радтаракана</Dest>
+    </String>
+    <String List="0" sID="4100664A">
+      <EDID>NWOT_Recipe_Food_NukaDog</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: ядер-дог</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: ядер-дог</Dest>
+    </String>
+    <String List="0" sID="4100664B">
+      <EDID>NWOT_Recipe_Food_BrahminBurgers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: бургеры из брамина</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: бургеры из брамина</Dest>
+    </String>
+    <String List="0" sID="610134D7">
+      <EDID>E09B_Workshop_Recipe_CappyPlush</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый Мистер Крышка</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: плюшевый Мистер Крышка</Dest>
+    </String>
+    <String List="0" sID="6101359E">
+      <EDID>E09B_Workshop_Recipe_Stilts</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цирковые ходули</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: цирковые ходули</Dest>
+    </String>
+    <String List="0" sID="6101359F">
+      <EDID>E09B_Workshop_Recipe_BottlePlush</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевая Бутылка</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: плюшевая Бутылка</Dest>
+    </String>
+    <String List="0" sID="610135A0">
+      <EDID>E09B_Workshop_Recipe_Stairs</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цирковая лестница</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: цирковая лестница</Dest>
+    </String>
+    <String List="0" sID="610135A1">
+      <EDID>E09B_Workshop_Recipe_SeeSaw</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цирковые качели</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: цирковые качели</Dest>
+    </String>
+    <String List="0" sID="610135A2">
+      <EDID>E09B_Workshop_Recipe_Ball</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цирковой шар для эквилибристики</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: цирковой шар для эквилибристики</Dest>
+    </String>
+    <String List="0" sID="610135A3">
+      <EDID>E09B_Workshop_Recipe_HulaHoop</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обруч</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: обруч</Dest>
+    </String>
+    <String List="0" sID="610135A4">
+      <EDID>E09B_Workshop_Recipe_CubeToy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цирковой куб</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: цирковой куб</Dest>
+    </String>
+    <String List="0" sID="610135A5">
+      <EDID>E09B_Workshop_Recipe_StageTrim</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цирковая скамья</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: цирковая скамья</Dest>
+    </String>
+    <String List="0" sID="610135A7">
+      <EDID>E09B_Workshop_Recipe_CircusStool</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Ядер-табурет</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: Ядер-табурет</Dest>
+    </String>
+    <String List="0" sID="610135A8">
+      <EDID>E09B_Workshop_Recipe_Ornament</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: украшение &quot;Колесо удачи&quot;</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: украшение &quot;Колесо удачи&quot;</Dest>
+    </String>
+    <String List="0" sID="6101370B">
+      <EDID>E09D_Recipe_Workshop_TownsFolk</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: картонные фигуры горожан</Source>
+      <Dest>В РОЗЫСКЕ|Схема: картонные фигуры горожан</Dest>
+    </String>
+    <String List="0" sID="6101370C">
+      <EDID>E09D_Recipe_Workshop_WantedPoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакат &quot;Разыскивается&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: плакат &quot;Разыскивается&quot;</Dest>
+    </String>
+    <String List="0" sID="6101370E">
+      <EDID>E09D_Recipe_Workshop_Tombstone</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: надгробные камни</Source>
+      <Dest>В РОЗЫСКЕ|Схема: надгробные камни</Dest>
+    </String>
+    <String List="0" sID="61013710">
+      <EDID>E09D_Recipe_Workshop_SafeWall</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стенной сейф</Source>
+      <Dest>В РОЗЫСКЕ|Схема: стенной сейф</Dest>
+    </String>
+    <String List="0" sID="61013711">
+      <EDID>E09D_Recipe_Workshop_SafeFloor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: напольный сейф</Source>
+      <Dest>В РОЗЫСКЕ|Схема: напольный сейф</Dest>
+    </String>
+    <String List="0" sID="61013712">
+      <EDID>E09D_Recipe_Workshop_Cappy&amp;BottleCowboys</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: картонные фигуры ковбоев Мистер Крышка и Бутылка</Source>
+      <Dest>В РОЗЫСКЕ|Схема: картонные фигуры ковбоев Мистер Крышка и Бутылка</Dest>
+    </String>
+    <String List="0" sID="61013714">
+      <EDID>E09D_Recipe_Workshop_EntranceSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: входная вывеска &quot;Шоу Дикого Запада&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: входная вывеска &quot;Шоу Дикого Запада&quot;</Dest>
+    </String>
+    <String List="0" sID="61013715">
+      <EDID>E09D_Recipe_Workshop_PokerSet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: набор для покера</Source>
+      <Dest>В РОЗЫСКЕ|Схема: набор для покера</Dest>
+    </String>
+    <String List="0" sID="61013717">
+      <EDID>E09D_Recipe_Workshop_WesternMural</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фреска &quot;Дикий Запад&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: фреска &quot;Дикий Запад&quot;</Dest>
+    </String>
+    <String List="0" sID="61013718">
+      <EDID>E09D_Recipe_Workshop_Wagon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: мини-фургон для побега</Source>
+      <Dest>В РОЗЫСКЕ|Схема: мини-фургон для побега</Dest>
+    </String>
+    <String List="0" sID="61014143">
+      <EDID>NWOT_Recipe_CappyFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака &quot;Мистер Крышка&quot;</Source>
+      <Dest>ЯДЕР-МИР|Схема: брелок для рюкзака &quot;Мистер Крышка&quot;</Dest>
+    </String>
+    <String List="0" sID="61014144">
+      <EDID>NWOT_Recipe_BottleFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака &quot;Бутылка&quot;</Source>
+      <Dest>ЯДЕР-МИР|Схема: брелок для рюкзака &quot;Бутылка&quot;</Dest>
+    </String>
+    <String List="0" sID="61014145">
+      <EDID>E09D_Recipe_NukaCowboyHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковбойская шляпа из &quot;Ядер-Мира&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: ковбойская шляпа из &quot;Ядер-Мира&quot;</Dest>
+    </String>
+    <String List="0" sID="61014146">
+      <EDID>E09A_Recipe_UltraciteTitanFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака &quot;Ультрацитовый колосс&quot;</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: брелок для рюкзака &quot;Ультрацитовый колосс&quot;</Dest>
+    </String>
+    <String List="0" sID="61014147">
+      <EDID>E09B_Recipe_Workshop_FloorDecor_Snowglobe_STW</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар &quot;Колесо удачи&quot;</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: снежный шар &quot;Колесо удачи&quot;</Dest>
+    </String>
+    <String List="0" sID="61014149">
+      <EDID>E09D_Recipe_NukaCowboyDuster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковбойский плащ из &quot;Ядер-Мира&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: ковбойский плащ из &quot;Ядер-Мира&quot;</Dest>
+    </String>
+    <String List="0" sID="6101414B">
+      <EDID>NWOT_Recipe_mod_SuperSledge_Melee_Paint_CappySmasher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска &quot;Убойный Мистер Крышка&quot; для супермолота</Source>
+      <Dest>ЯДЕР-МИР|Схема: окраска &quot;Убойный Мистер Крышка&quot; для супермолота</Dest>
+    </String>
+    <String List="0" sID="6101414D">
+      <EDID>E09C_Recipe_Workshop_FloorDecor_Snowglobe_ToL</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар &quot;Туннель любви&quot;</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Схема: снежный шар &quot;Туннель любви&quot;</Dest>
+    </String>
+    <String List="0" sID="6101414E">
+      <EDID>E09D_Recipe_Workshop_FloorDecor_Snowglobe_MostWanted</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар &quot;В розыске&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: снежный шар &quot;В розыске&quot;</Dest>
+    </String>
+    <String List="0" sID="610141EC">
+      <EDID>E09A_Recipe_Workshop_Abomination_Plushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый колосс</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: плюшевый колосс</Dest>
+    </String>
+    <String List="0" sID="610144F7">
+      <EDID>E09A_Recipe_Workshop_FloorDecor_Snowglobe_NukaLauncher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар &quot;Кола-мет&quot;</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: снежный шар &quot;Кола-мет&quot;</Dest>
+    </String>
+    <String List="0" sID="61014978">
+      <EDID>NWOT_Recipe_Workshop_Structure_NukaStallCrates</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: лотки &quot;Ящик с Ядер-колой&quot;</Source>
+      <Dest>ЯДЕР-МИР|Схема: лотки &quot;Ящик с Ядер-колой&quot;</Dest>
+    </String>
+    <String List="0" sID="61014979">
+      <EDID>NWOT_Recipe_Workshop_FloorDecor_AdBarriers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: барьер с рекламой &quot;Ядер-колы&quot;</Source>
+      <Dest>ЯДЕР-МИР|Схема: барьер с рекламой &quot;Ядер-колы&quot;</Dest>
+    </String>
+    <String List="0" sID="6101497A">
+      <EDID>E09D_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакаты &quot;Шоу Дикого Запада&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: плакаты &quot;Шоу Дикого Запада&quot;</Dest>
+    </String>
+    <String List="0" sID="6101497B">
+      <EDID>E09A_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакаты &quot;Кола-мет&quot;</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: плакаты &quot;Кола-мет&quot;</Dest>
+    </String>
+    <String List="0" sID="6101497C">
+      <EDID>E09C_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакат &quot;Туннеля любви&quot;</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Схема: плакат &quot;Туннеля любви&quot;</Dest>
+    </String>
+    <String List="0" sID="6101497D">
+      <EDID>E09B_Workshop_Recipe_Poster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакаты &quot;Колесо удачи&quot;</Source>
+      <Dest>КОЛЕСО УДАЧИ|Схема: плакаты &quot;Колесо удачи&quot;</Dest>
+    </String>
+    <String List="0" sID="6101497E">
+      <EDID>NWOT_Recipe_Workshop_FloorDecor_LargeUltraciteShard</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: большой осколок ультрацита</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: большой осколок ультрацита</Dest>
+    </String>
+    <String List="0" sID="6101497F">
+      <EDID>E09A_Recipe_Workshop_FloorDecor_LargeUltraciteShard</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: большой осколок ультрацита</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: большой осколок ультрацита</Dest>
+    </String>
+    <String List="0" sID="61014980">
+      <EDID>NWOT_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакат &quot;Ядер-Аркады&quot;</Source>
+      <Dest>ЯДЕР-МИР|Схема: плакат &quot;Ядер-Аркады&quot;</Dest>
+    </String>
+    <String List="0" sID="79000C4A">
+      <EDID>NWOT_Recipe_Food_RadscorpionSkewer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: шашлык из скорпиона</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: шашлык из скорпиона</Dest>
+    </String>
+    <String List="0" sID="81004544">
+      <EDID>E09A_Recipe_Workshop_NWOTCoaster_Toy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модель Кола-мета</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: модель Кола-мета</Dest>
+    </String>
+    <String List="0" sID="81004885">
+      <EDID>Recipe_Workshop_NWOTBalloon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шарики &quot;Ядер-кола&quot;</Source>
+      <Dest>ЯДЕР-МИР|Схема: шарики &quot;Ядер-кола&quot;</Dest>
+    </String>
+    <String List="0" sID="810049AB">
+      <EDID>E09C_Recipe_Workshop_CupidCappy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знак &quot;Мистер Крышка — Купидон&quot;</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Схема: знак &quot;Мистер Крышка — Купидон&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

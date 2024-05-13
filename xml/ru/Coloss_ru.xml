@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="3900077D">
+      <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_Rugs_Colossus_Rug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: коврик из шкуры вендиго-колосса</Source>
+      <Dest>КОЛОСС+|Схема: коврик из шкуры вендиго-колосса</Dest>
+    </String>
+    <String List="0" sID="39000781">
+      <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_Taxidermy_WendigoColossus</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: головы вендиго-колосса</Source>
+      <Dest>КОЛОСС++|Схема: головы вендиго-колосса</Dest>
+    </String>
+    <String List="0" sID="39000782">
+      <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_WendigoColossus_Plushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый вендиго-колосс</Source>
+      <Dest>КОЛОСС|Схема: плюшевый вендиго-колосс</Dest>
+    </String>
+    <String List="0" sID="39000789">
+      <EDID>EN06_mod_melee_Shovel_Custom_Cursed</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Проклятая лопата</Source>
+      <Dest>КОЛОСС|Проклятая лопата</Dest>
+    </String>
+    <String List="0" sID="3900078B">
+      <EDID>EN06_mod_melee_Pickaxe_Custom_Cursed</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Проклятый секач</Source>
+      <Dest>КОЛОСС++|Проклятый секач</Dest>
+    </String>
+    <String List="0" sID="3900078D">
+      <EDID>EN06_mod_Ranged_HarpoonGun_Custom_Cursed</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Проклятый гарпуномет</Source>
+      <Dest>КОЛОСС+|Проклятый гарпуномет</Dest>
+    </String>
+    <String List="0" sID="39000791">
+      <EDID>E06_Colossus_Headwear_DeepMine_GasMask</EDID>
+      <REC id="0" idMax="1">ARMO:FULL</REC>
+      <Source>Восстановленный противогаз шахтера</Source>
+      <Dest>КОЛОСС+++|Восстановленный противогаз шахтера</Dest>
+    </String>
+    <String List="0" sID="39000942">
+      <EDID>E06_Colossus_Headwear_DeepMine_GasMask</EDID>
+      <REC id="1" idMax="1">ARMO:FULL</REC>
+      <Source>Восстановленный противогаз шахтера</Source>
+      <Dest>КОЛОСС+++|Восстановленный противогаз шахтера</Dest>
+    </String>
+    <String List="0" sID="610093EB">
+      <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_WendigoColossusMeatPile</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: куча мяса</Source>
+      <Dest>КОЛОСС|Схема: куча мяса</Dest>
+    </String>
+    <String List="0" sID="6100D770">
+      <EDID>Recipe_Workshop_Container_StashBox_Supply_Crate_Large</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: большой ящик с припасами</Source>
+      <Dest>КОЛОСС+++|Схема: большой ящик с припасами</Dest>
+    </String>
+    <String List="0" sID="6100D776">
+      <EDID>recipe_mod_weapon_LaserGun_material_HotRodFlames</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска &quot;Хот-род &quot;Пламя&quot; для лазера</Source>
+      <Dest>КОЛОСС+++|Схема: окраска &quot;Хот-род &quot;Пламя&quot; для лазера</Dest>
+    </String>
+    <String List="0" sID="6100D778">
+      <EDID>recipe_Headwear_CenturionHelmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шлем центуриона</Source>
+      <Dest>КОЛОСС+++|Схема: шлем центуриона</Dest>
+    </String>
+    <String List="0" sID="6100D77C">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Inferno_Mk_3</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: комплект окраски &quot;Адская метка 3&quot; для силовой брони</Source>
+      <Dest>КОЛОСС+++|Схема: комплект окраски &quot;Адская метка 3&quot; для силовой брони</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

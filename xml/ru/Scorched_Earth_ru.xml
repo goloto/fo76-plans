@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="03F8F8">
+      <EDID>Recipe_Workshop_MiscStructures_DeconArch</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обеззараживающий душ</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: обеззараживающий душ</Dest>
+    </String>
+    <String List="0" sID="044C71">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_MedicPump</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый инжектор стимуляторов</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый инжектор стимуляторов</Dest>
+    </String>
+    <String List="0" sID="044C74">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Cleanser</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый очиститель крови</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: ультрацитовый очиститель крови</Dest>
+    </String>
+    <String List="0" sID="044C7C">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Kinetic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый кинетический генератор</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: ультрацитовый кинетический генератор</Dest>
+    </String>
+    <String List="0" sID="044C7F">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Arm_Misc_Unarmed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые гидравлические наручи</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовые гидравлические наручи</Dest>
+    </String>
+    <String List="0" sID="044C83">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_ArmRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая броня для правой руки</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для правой руки</Dest>
+    </String>
+    <String List="0" sID="044C84">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_LegRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая броня для правой ноги</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для правой ноги</Dest>
+    </String>
+    <String List="0" sID="044C88">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_OptimizedServos</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые сбалансированные сервоприводы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ++|Схема: ультрацитовые сбалансированные сервоприводы</Dest>
+    </String>
+    <String List="0" sID="044C89">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_SprintBoost</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые форсированные сервоприводы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ++|Схема: ультрацитовые форсированные сервоприводы</Dest>
+    </String>
+    <String List="0" sID="044C91">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Reactive</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: активная ультрацитовая броня</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+++|Схема: активная ультрацитовая броня</Dest>
+    </String>
+    <String List="0" sID="044C9A">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Tesla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые катушки Теслы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+++|Схема: ультрацитовые катушки Теслы</Dest>
+    </String>
+    <String List="0" sID="044CA9">
+      <EDID>recipe_mod_PowerArmor_T60_Torso_Misc_Jetpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: реактивный ранец T-60</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: реактивный ранец T-60</Dest>
+    </String>
+    <String List="0" sID="044CAF">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_APRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые кинетические сервоприводы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: ультрацитовые кинетические сервоприводы</Dest>
+    </String>
+    <String List="0" sID="044CCB">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Emergency</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые аварийные протоколы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ++|Схема: ультрацитовые аварийные протоколы</Dest>
+    </String>
+    <String List="0" sID="044CD6">
+      <EDID>recipe_mod_PowerArmor_T51_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: реактивный ранец T-51b</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: реактивный ранец T-51b</Dest>
+    </String>
+    <String List="0" sID="044CE4">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Arm_Misc_Optimized</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые эргономичные наручи</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовые эргономичные наручи</Dest>
+    </String>
+    <String List="0" sID="044CE5">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Str</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: улучшенные ультрацитовые сервоприводы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: улучшенные ультрацитовые сервоприводы</Dest>
+    </String>
+    <String List="0" sID="044CE9">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_LegLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая броня для левой ноги</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для левой ноги</Dest>
+    </String>
+    <String List="0" sID="044CEF">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая броня для туловища</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для туловища</Dest>
+    </String>
+    <String List="0" sID="044CF2">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Helmet_Misc_DetectLife</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый прицельный интерфейс</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+++|Схема: ультрацитовый прицельный интерфейс</Dest>
+    </String>
+    <String List="0" sID="044CF3">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_Carry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые калиброванные амортизаторы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+++|Схема: ультрацитовые калиброванные амортизаторы</Dest>
+    </String>
+    <String List="0" sID="044CF5">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Arm_Misc_Bleed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый ржавый кастет</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый ржавый кастет</Dest>
+    </String>
+    <String List="0" sID="044CF8">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_DMGShield</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая приваренная арматура</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: ультрацитовая приваренная арматура</Dest>
+    </String>
+    <String List="0" sID="044CFA">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_ArmLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая броня для левой руки</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для левой руки</Dest>
+    </String>
+    <String List="0" sID="044D2D">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Helmet_Misc_Sensor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая сенсорная матрица</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая сенсорная матрица</Dest>
+    </String>
+    <String List="0" sID="044D30">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Helmet_Misc_Int</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый внутренний банк памяти</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый внутренний банк памяти</Dest>
+    </String>
+    <String List="0" sID="044D3F">
+      <EDID>recipe_mod_PowerArmor_T45_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: реактивный ранец T-45</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: реактивный ранец T-45</Dest>
+    </String>
+    <String List="0" sID="044D4E">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_BatRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сборка ультрацитового ядра</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: сборка ультрацитового ядра</Dest>
+    </String>
+    <String List="0" sID="044D52">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый шлем</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый шлем</Dest>
+    </String>
+    <String List="0" sID="0465D0">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_ScorchedBeastQueen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело матки зверожогов</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: чучело матки зверожогов</Dest>
+    </String>
+    <String List="0" sID="6100312E">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый реактивный ранец</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый реактивный ранец</Dest>
+    </String>
+    <String List="0" sID="6100313D">
+      <EDID>recipe_mod_PowerArmor_Raider_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: реактивный ранец рейдера</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: реактивный ранец рейдера</Dest>
+    </String>
+    <String List="0" sID="6100BB25">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_ExplVent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: охлаждающее отверстие ультрацитовой силовой брони</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: охлаждающее отверстие ультрацитовой силовой брони</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
