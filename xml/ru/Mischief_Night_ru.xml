@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="61003D63">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наполовину полная полка для тыкв</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: наполовину полная полка для тыкв</Dest>
+    </String>
+    <String List="0" sID="61003D64">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наполовину пустая полка для тыкв</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: наполовину пустая полка для тыкв</Dest>
+    </String>
+    <String List="0" sID="61003D65">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved06</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: инопланетный фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: инопланетный фонарь из тыквы</Dest>
+    </String>
+    <String List="0" sID="61003D66">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: полная полка для тыкв</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: полная полка для тыкв</Dest>
+    </String>
+    <String List="0" sID="61003D67">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь из тыквы &quot;Волт-Тек&quot;</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы &quot;Волт-Тек&quot;</Dest>
+    </String>
+    <String List="0" sID="61003D68">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: классический фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: классический фонарь из тыквы</Dest>
+    </String>
+    <String List="0" sID="61003D69">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: полка для тыкв</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: полка для тыкв</Dest>
+    </String>
+    <String List="0" sID="61003D6A">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved08</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: счастливый фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: счастливый фонарь из тыквы</Dest>
+    </String>
+    <String List="0" sID="61003D6B">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved10</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: злобный фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: злобный фонарь из тыквы</Dest>
+    </String>
+    <String List="0" sID="61003D6C">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved05</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: удивленный фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: удивленный фонарь из тыквы</Dest>
+    </String>
+    <String List="0" sID="61003D6D">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved09</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тренировочный фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: тренировочный фонарь из тыквы</Dest>
+    </String>
+    <String List="0" sID="61003D6E">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь из тыквы в виде двери Убежища</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы в виде двери Убежища</Dest>
+    </String>
+    <String List="0" sID="61003D6F">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved07</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь-гангстер из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь-гангстер из тыквы</Dest>
+    </String>
+    <String List="0" sID="61003D70">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь из тыквы &quot;Волт-Бой&quot;</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы &quot;Волт-Бой&quot;</Dest>
+    </String>
+    <String List="0" sID="61003E16">
+      <EDID>Recipe_Workshop_FloorDecor_Statues_GrimReaperCardboardCutouts</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: картонная фигура Волт-боя в костюме Старухи с косой</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: картонная фигура Волт-боя в костюме Старухи с косой</Dest>
+    </String>
+    <String List="0" sID="6101A70A">
+      <EDID>Recipe_mod_Chainsaw_Paint_GhostlyGrinder</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска «Призрачная мясорубка» для бензопилы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: окраска «Призрачная мясорубка» для бензопилы</Dest>
+    </String>
+    <String List="0" sID="6101A70B">
+      <EDID>Recipe_Headwear_SkullRider_Rad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шлем всадника с рад-черепом</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: шлем всадника с рад-черепом</Dest>
+    </String>
+    <String List="0" sID="6101A70D">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска шлема прототипа силовой брони «Адское пламя V2»</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска шлема прототипа силовой брони «Адское пламя V2»</Dest>
+    </String>
+    <String List="0" sID="6101A70E">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost1</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь-призрак из ячеистой бумаги A</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: фонарь-призрак из ячеистой бумаги A</Dest>
+    </String>
+    <String List="0" sID="6101A70F">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Arms</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска рук прототипа силовой брони «Адское пламя V2»</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска рук прототипа силовой брони «Адское пламя V2»</Dest>
+    </String>
+    <String List="0" sID="6101A710">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Spider</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь-паук из ячеистой бумаги</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: фонарь-паук из ячеистой бумаги</Dest>
+    </String>
+    <String List="0" sID="6101A712">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern1</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Джек-фонарь из ячеистой бумаги A</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: Джек-фонарь из ячеистой бумаги A</Dest>
+    </String>
+    <String List="0" sID="6101A713">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Джек-фонарь из ячеистой бумаги B</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: Джек-фонарь из ячеистой бумаги B</Dest>
+    </String>
+    <String List="0" sID="6101A714">
+      <EDID>Recipe_Headwear_Executioner2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маска палача</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: маска палача</Dest>
+    </String>
+    <String List="0" sID="6101A715">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь-призрак из ячеистой бумаги B</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: фонарь-призрак из ячеистой бумаги B</Dest>
+    </String>
+    <String List="0" sID="6101A716">
+      <EDID>Recipe_Workshop_FloorDecor_GiantDinosaur_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гигантский красный динозавр</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: гигантский красный динозавр</Dest>
+    </String>
+    <String List="0" sID="6101A717">
+      <EDID>Recipe_mod_AssaultRifle_Paint_WraithsWrath</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска «Гнев призрака» для штурмового карабина</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: окраска «Гнев призрака» для штурмового карабина</Dest>
+    </String>
+    <String List="0" sID="6101A718">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Legs</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска ног прототипа силовой брони «Адское пламя V2»</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска ног прототипа силовой брони «Адское пламя V2»</Dest>
+    </String>
+    <String List="0" sID="6101A719">
+      <EDID>Recipe_workshop_FloorDecor_Skeleton_DrBones</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Доктор Череп</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: Доктор Череп</Dest>
+    </String>
+    <String List="0" sID="6101A71A">
+      <EDID>Recipe_Backpack_Standard_Material_Princess</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак принцессы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: рюкзак принцессы</Dest>
+    </String>
+    <String List="0" sID="6101A71B">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска туловища прототипа силовой брони «Адское пламя V2»</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска туловища прототипа силовой брони «Адское пламя V2»</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

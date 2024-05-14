@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0498DF">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_Refrigerated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Рюкзак-холодильник&quot;</Source>
+      <Dest>ОПОССУМ|Схема: модификация &quot;Рюкзак-холодильник&quot;</Dest>
+    </String>
+    <String List="0" sID="0498E0">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_HighCapacity</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Вместительный рюкзак&quot;</Source>
+      <Dest>ОПОССУМ|Схема: модификация &quot;Вместительный рюкзак&quot;</Dest>
+    </String>
+    <String List="0" sID="0498E2">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_Insulated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Изолированный рюкзак&quot;</Source>
+      <Dest>ОПОССУМ|Схема: модификация &quot;Изолированный рюкзак&quot;</Dest>
+    </String>
+    <String List="0" sID="04A9CC">
+      <EDID>P01C_Tadpole_Recipe_Mod_Camera_SnapMatic_Lens_NightVision</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: объектив для ночной съемки &quot;Про-Щелк Делюкс&quot;</Source>
+      <Dest>ОПОССУМ|Схема: объектив для ночной съемки &quot;Про-Щелк Делюкс&quot;</Dest>
+    </String>
+    <String List="0" sID="04BB26">
+      <EDID>P01C_Tadpole_Recipe_Workshop_FloorDecor_Misc_PioneerScout_Possum</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знамя скаута-пионера &quot;Опоссум&quot;</Source>
+      <Dest>ОПОССУМ|Схема: знамя скаута-пионера &quot;Опоссум&quot;</Dest>
+    </String>
+    <String List="0" sID="61003117">
+      <EDID>P01C_Recipe_Workshop_Container_PioneerScout_StashBox</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тайник скаута-пионера</Source>
+      <Dest>ОПОССУМ|Схема: тайник скаута-пионера</Dest>
+    </String>
+    <String List="0" sID="61003156">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_LeadLined</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Рюкзак со свинцовой обшивкой&quot;</Source>
+      <Dest>ОПОССУМ|Схема: модификация &quot;Рюкзак со свинцовой обшивкой&quot;</Dest>
+    </String>
+    <String List="0" sID="6100318B">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Standard_Material_Scout_Possum</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак скаута-пионера &quot;Опоссум&quot;</Source>
+      <Dest>ОПОССУМ|Схема: рюкзак скаута-пионера &quot;Опоссум&quot;</Dest>
+    </String>
+    <String List="0" sID="6100631B">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_ArmorPlated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Бронированный рюкзак&quot;</Source>
+      <Dest>ОПОССУМ|Схема: модификация &quot;Бронированный рюкзак&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

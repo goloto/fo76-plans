@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="6101AA62">
+      <EDID>Recipe_Workshop_Lights_StarLight_Copy01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: звездный свет</Source>
+      <Dest>ПОДАРКИ 2023|Схема: звездный свет</Dest>
+    </String>
+    <String List="0" sID="6101AA63">
+      <EDID>Recipe_Workshop_Lights_PlastiformGingerBread</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пластиковый пряник</Source>
+      <Dest>ПОДАРКИ 2023|Схема: пластиковый пряник</Dest>
+    </String>
+    <String List="0" sID="6101AA64">
+      <EDID>Recipe_Workshop_Lights_PlastiformNutcracker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пластиковый щелкунчик</Source>
+      <Dest>ПОДАРКИ 2023|Схема: пластиковый щелкунчик</Dest>
+    </String>
+    <String List="0" sID="6101AA66">
+      <EDID>Recipe_Workshop_Lights_PlastiformCandle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пластиковая свеча</Source>
+      <Dest>ПОДАРКИ 2023|Схема: пластиковая свеча</Dest>
+    </String>
+    <String List="0" sID="6101AA67">
+      <EDID>Recipe_Workshop_Lights_PlastiformSanta</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пластиковый Санта</Source>
+      <Dest>ПОДАРКИ 2023|Схема: пластиковый Санта</Dest>
+    </String>
+    <String List="0" sID="6101AA68">
+      <EDID>Recipe_Workshop_Lights_PlastiformSantaSleigh</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пластиковая упряжка Санты</Source>
+      <Dest>ПОДАРКИ 2023|Схема: пластиковая упряжка Санты</Dest>
+    </String>
+    <String List="0" sID="6101AB7D">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_RibbonBell</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: колокольчик с ленточкой из ячеистой бумаги</Source>
+      <Dest>ПОДАРКИ 2023|Схема: колокольчик с ленточкой из ячеистой бумаги</Dest>
+    </String>
+    <String List="0" sID="6101AB7E">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Target</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: новогодняя мишень из ячеистой бумаги</Source>
+      <Dest>ПОДАРКИ 2023|Схема: новогодняя мишень из ячеистой бумаги</Dest>
+    </String>
+    <String List="0" sID="6101AB7F">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Snowflake_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ледяная снежинка из ячеистой бумаги</Source>
+      <Dest>ПОДАРКИ 2023|Схема: ледяная снежинка из ячеистой бумаги</Dest>
+    </String>
+    <String List="0" sID="6101AB80">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Santa_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стоящий Санта из ячеистой бумаги</Source>
+      <Dest>ПОДАРКИ 2023|Схема: стоящий Санта из ячеистой бумаги</Dest>
+    </String>
+    <String List="0" sID="6101AB81">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_HolidayTree_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: новогодняя елка из ячеистой бумаги Б</Source>
+      <Dest>ПОДАРКИ 2023|Схема: новогодняя елка из ячеистой бумаги Б</Dest>
+    </String>
+    <String List="0" sID="6101AB82">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_HolidayTree_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: новогодняя елка из ячеистой бумаги А</Source>
+      <Dest>ПОДАРКИ 2023|Схема: новогодняя елка из ячеистой бумаги А</Dest>
+    </String>
+    <String List="0" sID="6101AB83">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Snowman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снеговик из ячеистой бумаги</Source>
+      <Dest>ПОДАРКИ 2023|Схема: снеговик из ячеистой бумаги</Dest>
+    </String>
+    <String List="0" sID="71006C8D">
+      <EDID>Recipe_Workshop_Lights_StarLight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: звездный свет</Source>
+      <Dest>ПОДАРКИ 2023|Схема: звездный свет</Dest>
+    </String>
+    <String List="0" sID="71006C93">
+      <EDID>Recipe_Workshop_FloorDecor_StrawGoat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: соломенная коза</Source>
+      <Dest>ПОДАРКИ 2023|Схема: соломенная коза</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

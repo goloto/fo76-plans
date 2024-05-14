@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="03F8F3">
+      <EDID>Recipe_Workshop_WallDecor_Whitespring_Mirror</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: курортное зеркало</Source>
+      <Dest>УАЙТСПРИНГ|Схема: курортное зеркало</Dest>
+    </String>
+    <String List="0" sID="03FB03">
+      <EDID>Recipe_Workshop_Lights_Whitespring_Lamps</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: курортные лампы</Source>
+      <Dest>УАЙТСПРИНГ|Схема: курортные лампы</Dest>
+    </String>
+    <String List="0" sID="03FB33">
+      <EDID>Recipe_Workshop_FloorDecor_Whitespring_Vases</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: курортная ваза</Source>
+      <Dest>УАЙТСПРИНГ|Схема: курортная ваза</Dest>
+    </String>
+    <String List="0" sID="03FB62">
+      <EDID>Recipe_Workshop_FloorDecor_Whitespring_Busts</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: бюсты Уайтспринга</Source>
+      <Dest>УАЙТСПРИНГ|Схема: бюсты Уайтспринга</Dest>
+    </String>
+    <String List="0" sID="03FBA9">
+      <EDID>Recipe_Workshop_FloorDecor_Whitespring_Planters</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: курортная клумба</Source>
+      <Dest>УАЙТСПРИНГ|Схема: курортная клумба</Dest>
+    </String>
+    <String List="0" sID="03FC09">
+      <EDID>Recipe_Workshop_Containers_Whitespring_Trashcan</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: курортная урна</Source>
+      <Dest>УАЙТСПРИНГ|Схема: курортная урна</Dest>
+    </String>
+    <String List="0" sID="03FC1F">
+      <EDID>Recipe_Workshop_Tables_Whitespring_Tables</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: курортный столик</Source>
+      <Dest>УАЙТСПРИНГ|Схема: курортный столик</Dest>
+    </String>
+    <String List="0" sID="04457F">
+      <EDID>Recipe_Workshop_Benches_Wood_Whitesprings</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: скамейка для отдыха</Source>
+      <Dest>УАЙТСПРИНГ|Схема: скамейка для отдыха</Dest>
+    </String>
+    <String List="0" sID="044584">
+      <EDID>Recipe_Workshop_WallDecor_SignsMetal_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: курортный указатель</Source>
+      <Dest>УАЙТСПРИНГ|Схема: курортный указатель</Dest>
+    </String>
+    <String List="0" sID="0445A3">
+      <EDID>Recipe_Workshop_Couches_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: курортные диваны</Source>
+      <Dest>УАЙТСПРИНГ|Схема: курортные диваны</Dest>
+    </String>
+    <String List="0" sID="044734">
+      <EDID>Recipe_Workshop_WallDecor_WallPaintings_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: курортные картины</Source>
+      <Dest>УАЙТСПРИНГ|Схема: курортные картины</Dest>
+    </String>
+    <String List="0" sID="044735">
+      <EDID>Recipe_Workshop_Chairs_Chairs_Metal_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: складные кресла</Source>
+      <Dest>УАЙТСПРИНГ|Схема: складные кресла</Dest>
+    </String>
+    <String List="0" sID="044736">
+      <EDID>Recipe_Workshop_Chairs_Chairs_Padded_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: складные кресла с тканевыми вставками</Source>
+      <Dest>УАЙТСПРИНГ|Схема: складные кресла с тканевыми вставками</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

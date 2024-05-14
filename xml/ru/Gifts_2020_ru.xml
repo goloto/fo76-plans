@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="6100AD02">
+      <EDID>Recipe_Workshop_WallDecor_WindChime_Molerat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: музыка ветра &quot;Кротокрыс&quot;</Source>
+      <Dest>ПОДАРКИ 2020|Схема: музыка ветра &quot;Кротокрыс&quot;</Dest>
+    </String>
+    <String List="0" sID="6100B3DB">
+      <EDID>Recipe_Workshop_Bed_PrincessCastlePink_SleepingBag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: розовый спальный мешок из замка принцессы</Source>
+      <Dest>ПОДАРКИ 2020|Схема: розовый спальный мешок из замка принцессы</Dest>
+    </String>
+    <String List="0" sID="6100B3DC">
+      <EDID>Recipe_Workshop_WallDecor_CondemnedNotificationSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знак &quot;Заброшено&quot;</Source>
+      <Dest>ПОДАРКИ 2020|Схема: знак &quot;Заброшено&quot;</Dest>
+    </String>
+    <String List="0" sID="6100B705">
+      <EDID>Recipe_Workshop_Ceiling_Light_Truck</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: люстра &quot;Красный грузовик&quot;</Source>
+      <Dest>ПОДАРКИ 2020|Схема: люстра &quot;Красный грузовик&quot;</Dest>
+    </String>
+    <String List="0" sID="81001E47">
+      <EDID>Recipe_Workshop_FloorDecor_Musket_Stack_Monument</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: памятник — пирамида из мушкетов</Source>
+      <Dest>ПОДАРКИ 2020|Схема: памятник — пирамида из мушкетов</Dest>
+    </String>
+    <String List="0" sID="81001E9A">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Brahmin</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый брамин</Source>
+      <Dest>ПОДАРКИ 2020|Схема: плюшевый брамин</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="041095">
+      <EDID>POST_recipe_Armor_VaultSuit94_Underarmor_Clean</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: комбинезон Убежища 94</Source>
+      <Dest>ОПЕРАЦИИ|Схема: комбинезон Убежища 94</Dest>
+    </String>
+    <String List="0" sID="410015DC">
+      <EDID>Clothes_SpecOps_BOS</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Экипировка Братства Стали для спецопераций</Source>
+      <Dest>ОПЕРАЦИИ|Экипировка Братства Стали для спецопераций</Dest>
+    </String>
+    <String List="0" sID="410015DD">
+      <EDID>Headwear_SpecOps_BOS</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска Братства Стали для спецопераций</Source>
+      <Dest>ОПЕРАЦИИ|Маска Братства Стали для спецопераций</Dest>
+    </String>
+    <String List="0" sID="41001611">
+      <EDID>Recipe_Weapon_Melee_WarGlaive</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: боевая глефа</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: боевая глефа</Dest>
+    </String>
+    <String List="0" sID="410018A1">
+      <EDID>Recipe_Workshop_Container_StashBox_Vault94</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ящик Убежища 94</Source>
+      <Dest>ОПЕРАЦИИ|Схема: ящик Убежища 94</Dest>
+    </String>
+    <String List="0" sID="41001B7C">
+      <EDID>Recipe_Weapon_Ranged_BoSPistol_29</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пистолет воителя</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: пистолет воителя</Dest>
+    </String>
+    <String List="0" sID="41001B8B">
+      <EDID>Recipe_Armor_BOSInfantry_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня разведчика Братства для туловища</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: броня разведчика Братства для туловища</Dest>
+    </String>
+    <String List="0" sID="41001B8D">
+      <EDID>Recipe_Armor_BOSInfantry_LegRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня разведчика Братства (правая нога)</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: броня разведчика Братства (правая нога)</Dest>
+    </String>
+    <String List="0" sID="41001B90">
+      <EDID>Recipe_Armor_BOSInfantry_LegLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня разведчика Братства (левая нога)</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: броня разведчика Братства (левая нога)</Dest>
+    </String>
+    <String List="0" sID="41001B93">
+      <EDID>Recipe_Armor_BOSInfantry_ArmRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня разведчика Братства (правая рука)</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: броня разведчика Братства (правая рука)</Dest>
+    </String>
+    <String List="0" sID="41001B94">
+      <EDID>Recipe_Armor_BOSInfantry_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шлем разведчика Братства</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: шлем разведчика Братства</Dest>
+    </String>
+    <String List="0" sID="41001B97">
+      <EDID>Recipe_Armor_BOSInfantry_ArmLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня разведчика Братства (левая рука)</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: броня разведчика Братства (левая рука)</Dest>
+    </String>
+    <String List="0" sID="41001BC1">
+      <EDID>Recipe_Weapon_Melee_PlasmaSword</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плазменный резак</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: плазменный резак</Dest>
+    </String>
+    <String List="0" sID="41001BC4">
+      <EDID>Recipe_Weapon_Ranged_BOSRocketLauncher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ракетомет &quot;Адский шторм&quot;</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: ракетомет &quot;Адский шторм&quot;</Dest>
+    </String>
+    <String List="0" sID="41002AA3">
+      <EDID>Clothes_SkullLord_BloodEagle</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Костюм повелителя черепов Кровавых Орлов</Source>
+      <Dest>ОПЕРАЦИИ+|Костюм повелителя черепов Кровавых Орлов</Dest>
+    </String>
+    <String List="0" sID="41002AA4">
+      <EDID>Headwear_SkullLord_Helmet_BloodEagle</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Шлем повелителя черепов Кровавых Орлов</Source>
+      <Dest>ОПЕРАЦИИ+|Шлем повелителя черепов Кровавых Орлов</Dest>
+    </String>
+    <String List="0" sID="41003360">
+      <EDID>recipe_mod_weapon_AutoGrenadeLauncher_material_BloodEagle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска &quot;Кровавый Орел&quot; для автоматического гранатомета</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: окраска &quot;Кровавый Орел&quot; для автоматического гранатомета</Dest>
+    </String>
+    <String List="0" sID="4100706D">
+      <EDID>Recipe_mod_Handmade_Material_Paint_HotRod</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: самодельный облик хот-рода &quot;Пламя&quot;</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: самодельный облик хот-рода &quot;Пламя&quot;</Dest>
+    </String>
+    <String List="0" sID="59000FBA">
+      <EDID>zzz_Recipe_Workshop_FlatwoodsMonsterTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с Флэтвудским чудовищем</Source>
+      <Dest>ОПЕРАЦИИ|Схема: резервуар с Флэтвудским чудовищем</Dest>
+    </String>
+    <String List="0" sID="61006642">
+      <EDID>Recipe_Brewing_LiquidCourage</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: жидкая смелость.</Source>
+      <Dest>ОПЕРАЦИИ+|Рецепт: жидкая смелость.</Dest>
+    </String>
+    <String List="0" sID="6100A821">
+      <EDID>Recipe_Weapon_Melee_AssaultronBlade_TheGutter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: &quot;Потрошитель&quot;</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: &quot;Потрошитель&quot;</Dest>
+    </String>
+    <String List="0" sID="6100A823">
+      <EDID>Recipe_Workshop_Lights_CagedBulbLights</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: лампочки в клетке</Source>
+      <Dest>ОПЕРАЦИИ|Схема: лампочки в клетке</Dest>
+    </String>
+    <String List="0" sID="6100A824">
+      <EDID>Recipe_Workshop_WallDecor_ValleyGalleriaSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: вывески &quot;Галерея в долине&quot;</Source>
+      <Dest>ОПЕРАЦИИ|Схема: вывески &quot;Галерея в долине&quot;</Dest>
+    </String>
+    <String List="0" sID="6100A827">
+      <EDID>Recipe_Weapon_Ranged_AssaultRifle_WhistleInTheDark</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: &quot;Свист в темноте&quot;</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: &quot;Свист в темноте&quot;</Dest>
+    </String>
+    <String List="0" sID="6100A829">
+      <EDID>Recipe_Workshop_Power_Generator_SuperReactor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: суперреактор</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: суперреактор</Dest>
+    </String>
+    <String List="0" sID="6100A82B">
+      <EDID>Recipe_Armor_VaultSuit94_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: комбинезон Убежища 94</Source>
+      <Dest>ОПЕРАЦИИ|Схема: комбинезон Убежища 94</Dest>
+    </String>
+    <String List="0" sID="6100A82C">
+      <EDID>Recipe_Workshop_WallDecor_BurrowsSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: вывески Нор</Source>
+      <Dest>ОПЕРАЦИИ|Схема: вывески Нор</Dest>
+    </String>
+    <String List="0" sID="6100AA78">
+      <EDID>Recipe_Workshop_MiscStructures_SymptoMatic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: симптомат</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: симптомат</Dest>
+    </String>
+    <String List="0" sID="6100B734">
+      <EDID>Recipe_Workshop_Lights_AsylumLight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: свет приюта</Source>
+      <Dest>ОПЕРАЦИИ|Схема: свет приюта</Dest>
+    </String>
+    <String List="0" sID="6100B735">
+      <EDID>Recipe_Workshop_Benches_CrowdBench</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: скамьи</Source>
+      <Dest>ОПЕРАЦИИ|Схема: скамьи</Dest>
+    </String>
+    <String List="0" sID="6100B736">
+      <EDID>Armor_HazmatSuit_SwampCamo</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Защитный комплект – болотный камуфляж</Source>
+      <Dest>ОПЕРАЦИИ+|Защитный комплект – болотный камуфляж</Dest>
+    </String>
+    <String List="0" sID="6100B7DB">
+      <EDID>Recipe_Workshop_Container_StashBox_MeatBag_Floor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ящик для мешка с мясом</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: ящик для мешка с мясом</Dest>
+    </String>
+    <String List="0" sID="6100B7DC">
+      <EDID>Recipe_Workshop_Lights_NeonSignHello</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: неоновая табличка &quot;Привет&quot;</Source>
+      <Dest>ОПЕРАЦИИ|Схема: неоновая табличка &quot;Привет&quot;</Dest>
+    </String>
+    <String List="0" sID="6100B7DD">
+      <EDID>Recipe_Workshop_Lights_NeonSignOpen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: неоновая табличка &quot;Открыто&quot;</Source>
+      <Dest>ОПЕРАЦИИ|Схема: неоновая табличка &quot;Открыто&quot;</Dest>
+    </String>
+    <String List="0" sID="6100B7ED">
+      <EDID>Recipe_Workshop_Bed_Poodle_SleepingBag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: спальный мешок &quot;Пудель&quot;</Source>
+      <Dest>ОПЕРАЦИИ|Схема: спальный мешок &quot;Пудель&quot;</Dest>
+    </String>
+    <String List="0" sID="6100B846">
+      <EDID>Recipe_Workshop_SuperMutantTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с супермутантом</Source>
+      <Dest>ОПЕРАЦИИ|Схема: резервуар с супермутантом</Dest>
+    </String>
+    <String List="0" sID="6100B87C">
+      <EDID>recipe_mod_PowerArmor_X01_Material_Paint_Scorched</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска горелого для X-01</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: окраска горелого для X-01</Dest>
+    </String>
+    <String List="0" sID="6100BC95">
+      <EDID>Recipe_Workshop_WendigoTube_31</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с вендиго</Source>
+      <Dest>ОПЕРАЦИИ|Схема: резервуар с вендиго</Dest>
+    </String>
+    <String List="0" sID="6100BC97">
+      <EDID>Recipe_Workshop_WallDecor_BOSMedallion</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: медальон БС</Source>
+      <Dest>ОПЕРАЦИИ|Схема: медальон БС</Dest>
+    </String>
+    <String List="0" sID="6100BC98">
+      <EDID>Recipe_Workshop_FloorDecor_EnclaveMedallion</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: медальон Анклава</Source>
+      <Dest>ОПЕРАЦИИ|Схема: медальон Анклава</Dest>
+    </String>
+    <String List="0" sID="6100BCBD">
+      <EDID>Recipe_Armor_EnclaveScoutUniform_Torso_Covert</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня тайного разведчика для туловища</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: броня тайного разведчика для туловища</Dest>
+    </String>
+    <String List="0" sID="6100BCBE">
+      <EDID>Recipe_Headwear_EnclaveScoutUniform_Mask_Covert</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маска брони тайного разведчика</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: маска брони тайного разведчика</Dest>
+    </String>
+    <String List="0" sID="6100BCBF">
+      <EDID>Recipe_Armor_EnclaveScoutUniform_LegLeft_Covert</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня тайного разведчика для левой ноги</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: броня тайного разведчика для левой ноги</Dest>
+    </String>
+    <String List="0" sID="6100BCC0">
+      <EDID>Recipe_Armor_EnclaveScoutUniform_LegRight_Covert</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня тайного разведчика для правой ноги</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: броня тайного разведчика для правой ноги</Dest>
+    </String>
+    <String List="0" sID="6100BCC1">
+      <EDID>Recipe_Armor_EnclaveScoutUniform_ArmRight_Covert</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня тайного разведчика для правой руки</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: броня тайного разведчика для правой руки</Dest>
+    </String>
+    <String List="0" sID="6100BCC2">
+      <EDID>Recipe_Armor_EnclaveScoutUniform_ArmLeft_Covert</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня тайного разведчика для левой руки</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: броня тайного разведчика для левой руки</Dest>
+    </String>
+    <String List="0" sID="6100BD17">
+      <EDID>Recipe_Weapon_Melee_DeathclawGauntlet_UnstoppableMonster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Несокрушимое чудовище</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: Несокрушимое чудовище</Dest>
+    </String>
+    <String List="0" sID="6100BE02">
+      <EDID>Recipe_Weapon_Ranged_44_MedicalMalpractice</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: &quot;Врачебная халатность&quot;</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: &quot;Врачебная халатность&quot;</Dest>
+    </String>
+    <String List="0" sID="6100BF13">
+      <EDID>Recipe_Workshop_WallDecor_EmmetMountainSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: место захоронения на горе Эммет</Source>
+      <Dest>ОПЕРАЦИИ|Схема: место захоронения на горе Эммет</Dest>
+    </String>
+    <String List="0" sID="6100BF46">
+      <EDID>Recipe_Workshop_WallDecor_ScienceChalkboards</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: грифельные доски для ученых</Source>
+      <Dest>ОПЕРАЦИИ|Схема: грифельные доски для ученых</Dest>
+    </String>
+    <String List="0" sID="6100C190">
+      <EDID>Recipe_Weapon_Melee_FaceBreaker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: &quot;Мордоворот&quot;</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: &quot;Мордоворот&quot;</Dest>
+    </String>
+    <String List="0" sID="6100CAFB">
+      <EDID>Recipe_Headwear_Marine_Arctic_Helmet_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шлем полярной брони морской пехоты</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: шлем полярной брони морской пехоты</Dest>
+    </String>
+    <String List="0" sID="6100CAFC">
+      <EDID>Recipe_Armor_Marine_Arctic_Torso_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: полярная броня морской пехоты для туловища</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: полярная броня морской пехоты для туловища</Dest>
+    </String>
+    <String List="0" sID="6100CAFD">
+      <EDID>Recipe_Armor_Marine_Arctic_LegLeft_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: полярная броня морской пехоты для левой ноги</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: полярная броня морской пехоты для левой ноги</Dest>
+    </String>
+    <String List="0" sID="6100CAFE">
+      <EDID>Recipe_Armor_Marine_Arctic_ArmLeft_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: полярная броня морской пехоты для левой руки</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: полярная броня морской пехоты для левой руки</Dest>
+    </String>
+    <String List="0" sID="6100CAFF">
+      <EDID>Recipe_Armor_Marine_Arctic_LegRight_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: полярная броня морской пехоты для правой ноги</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: полярная броня морской пехоты для правой ноги</Dest>
+    </String>
+    <String List="0" sID="6100CB00">
+      <EDID>Recipe_Armor_Marine_Arctic_ArmRight_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: полярная броня морской пехоты для правой руки</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: полярная броня морской пехоты для правой руки</Dest>
+    </String>
+    <String List="0" sID="6100CB10">
+      <EDID>Armor_HazmatSuit_Black</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Черный защитный комплект</Source>
+      <Dest>ОПЕРАЦИИ+|Черный защитный комплект</Dest>
+    </String>
+    <String List="0" sID="6101589A">
+      <EDID>recipe_mod_PowerArmor_AlienInvaderV2_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраски реактивного ранца силовой брони пришельца из дальнего космоса</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: окраски реактивного ранца силовой брони пришельца из дальнего космоса</Dest>
+    </String>
+    <String List="0" sID="6101589B">
+      <EDID>Recipe_Workshop_FloaterTubes</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуары с плавунами</Source>
+      <Dest>ОПЕРАЦИИ|Схема: резервуары с плавунами</Dest>
+    </String>
+    <String List="0" sID="610158A1">
+      <EDID>Recipe_Workshop_FlatwoodsMonsterTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с Флэтвудским чудовищем</Source>
+      <Dest>ОПЕРАЦИИ|Схема: резервуар с Флэтвудским чудовищем</Dest>
+    </String>
+    <String List="0" sID="610158A5">
+      <EDID>Recipe_mod_Handmade_Material_Paint_Intergalactic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: самодельный облик &quot;Среди галактик&quot;</Source>
+      <Dest>ОПЕРАЦИИ|Схема: самодельный облик &quot;Среди галактик&quot;</Dest>
+    </String>
+    <String List="0" sID="610158A6">
+      <EDID>recipe_Armor_PowerArmor_AlienInvaderV2_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска шлема силовой брони пришельца из дальнего космоса</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: окраска шлема силовой брони пришельца из дальнего космоса</Dest>
+    </String>
+    <String List="0" sID="610158A7">
+      <EDID>recipe_Armor_PowerArmor_AlienInvaderV2_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска силовой брони для туловища пришельца из дальнего космоса</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: окраска силовой брони для туловища пришельца из дальнего космоса</Dest>
+    </String>
+    <String List="0" sID="6101599C">
+      <EDID>recipe_Armor_PowerArmor_AlienInvaderV2_Arms</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска рук силовой брони пришельца из дальнего космоса</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: окраска рук силовой брони пришельца из дальнего космоса</Dest>
+    </String>
+    <String List="0" sID="6101599D">
+      <EDID>recipe_Armor_PowerArmor_AlienInvaderV2_Legs</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска ног силовой брони пришельца из дальнего космоса</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: окраска ног силовой брони пришельца из дальнего космоса</Dest>
+    </String>
+    <String List="0" sID="6101844C">
+      <EDID>Recipe_Backpack_Standard_Material_Alien</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак пришельца</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: рюкзак пришельца</Dest>
+    </String>
+    <String List="0" sID="710004C5">
+      <EDID>Recipe_Weapon_Ranged_LeverGun_SoleSurvivor_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: &quot;Единственный выживший&quot;</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: &quot;Единственный выживший&quot;</Dest>
+    </String>
+    <String List="0" sID="710004C6">
+      <EDID>Recipe_Weapon_Melee_PipeWrench_MechanicsBestFriend_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: &quot;Лучший друг механика&quot;</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: &quot;Лучший друг механика&quot;</Dest>
+    </String>
+    <String List="0" sID="79000218">
+      <EDID>Recipe_Workshop_Power_Generator_SolarPanels</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: солнечная панель из хлама</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: солнечная панель из хлама</Dest>
+    </String>
+    <String List="0" sID="790005CE">
+      <EDID>Recipe_Workshop_MirelurkKingTube_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с королем болотников</Source>
+      <Dest>ОПЕРАЦИИ+|Схема: резервуар с королем болотников</Dest>
+    </String>
+    <String List="0" sID="D900550E">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyDuster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковбойский плащ</Source>
+      <Dest>ОПЕРАЦИИ|Схема: ковбойский плащ</Dest>
+    </String>
+    <String List="0" sID="D9005510">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyChaps</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковбойские штаны</Source>
+      <Dest>ОПЕРАЦИИ|Схема: ковбойские штаны</Dest>
+    </String>
+    <String List="0" sID="D9005511">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковбойская шляпа</Source>
+      <Dest>ОПЕРАЦИИ|Схема: ковбойская шляпа</Dest>
+    </String>
+    <String List="0" sID="D900581B">
+      <EDID>MOON_DO_Workshop_Recipe_KidsTruckBed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: игрушечный пикап</Source>
+      <Dest>ОПЕРАЦИИ|Схема: игрушечный пикап</Dest>
+    </String>
+    <String List="0" sID="D900585F">
+      <EDID>MOON_DO_Workshop_Recipe_UmbrellaHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шляпа-зонтик</Source>
+      <Dest>ОПЕРАЦИИ|Схема: шляпа-зонтик</Dest>
+    </String>
+    <String List="0" sID="D9005931">
+      <EDID>MOON_DO_Workshop_Recipe_BrahminSofa</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: диван из брамина</Source>
+      <Dest>ОПЕРАЦИИ|Схема: диван из брамина</Dest>
+    </String>
+    <String List="0" sID="D9005932">
+      <EDID>MOON_DO_Workshop_Recipe_FeralGhoulChair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кресло из гуля</Source>
+      <Dest>ОПЕРАЦИИ|Схема: кресло из гуля</Dest>
+    </String>
+    <String List="0" sID="D9005A28">
+      <EDID>MOON_DO_Workshop_Recipe_GorillaChair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кресло из гориллы</Source>
+      <Dest>ОПЕРАЦИИ|Схема: кресло из гориллы</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

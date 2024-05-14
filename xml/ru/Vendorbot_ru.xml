@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="04458C">
+      <EDID>Recipe_Workshop_WallDecor_WallClocks_Cuckoo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: часы с кукушкой</Source>
+      <Dest>РОБОТОРГОВЕЦ|Схема: часы с кукушкой</Dest>
+    </String>
+    <String List="0" sID="0445AC">
+      <EDID>Recipe_Workshop_WallDecor_WallClocks_NukaCola</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: часы &quot;Ядер-кола&quot;</Source>
+      <Dest>РОБОТОРГОВЕЦ|Схема: часы &quot;Ядер-кола&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

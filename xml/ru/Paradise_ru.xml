@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="04A5EE">
+      <EDID>Recipe_Chems_SFS09_FormulaP</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: формула P</Source>
+      <Dest>РАЙ|Рецепт: формула P</Dest>
+    </String>
+    <String List="0" sID="04B56F">
+      <EDID>Recipe_Chem_StimGas</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: распылитель стимулятора</Source>
+      <Dest>РАЙ++|Рецепт: распылитель стимулятора</Dest>
+    </String>
+    <String List="0" sID="D9002DE0">
+      <EDID>Recipe_Weapon_Melee_BearArm</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: медвежья лапища</Source>
+      <Dest>РАЙ+|Схема: медвежья лапища</Dest>
+    </String>
+    <String List="0" sID="D9002DE5">
+      <EDID>recipe_mod_melee_BearArm_Puncturing</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Медвежьей лапищи&quot; с пробойником</Source>
+      <Dest>РАЙ+|Схема: модификация &quot;Медвежьей лапищи&quot; с пробойником</Dest>
+    </String>
+    <String List="0" sID="D9002DFF">
+      <EDID>recipe_mod_melee_BearArm_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Тяжелая медвежья лапища&quot;</Source>
+      <Dest>РАЙ+|Схема: модификация &quot;Тяжелая медвежья лапища&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

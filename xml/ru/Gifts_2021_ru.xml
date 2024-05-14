@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="41003F98">
+      <EDID>Recipe_Workshop_DefensiveStructures_BarbedWireFence</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: заборы из покрышек в колючей проволоке</Source>
+      <Dest>ПОДАРКИ 2021|Схема: заборы из покрышек в колючей проволоке</Dest>
+    </String>
+    <String List="0" sID="41003F99">
+      <EDID>Recipe_Workshop_WallDecor_WallMountedFan</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: настенный вентилятор</Source>
+      <Dest>ПОДАРКИ 2021|Схема: настенный вентилятор</Dest>
+    </String>
+    <String List="0" sID="41003F9A">
+      <EDID>Recipe_Workshop_WallDecor_TatteredCurtainsDUPLICATE000DUPLICATE000</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: потрепанные занавески</Source>
+      <Dest>ПОДАРКИ 2021|Схема: потрепанные занавески</Dest>
+    </String>
+    <String List="0" sID="41003FBF">
+      <EDID>Recipe_Workshop_Lights_RedRocketGasStationLamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: лампа бензоколонки &quot;Красная ракета&quot;</Source>
+      <Dest>ПОДАРКИ 2021|Схема: лампа бензоколонки &quot;Красная ракета&quot;</Dest>
+    </String>
+    <String List="0" sID="41003FC0">
+      <EDID>Recipe_Workshop_Lights_RedRocketGasPumpWallLight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: настенный светильник бензоколонки &quot;Красная ракета&quot;</Source>
+      <Dest>ПОДАРКИ 2021|Схема: настенный светильник бензоколонки &quot;Красная ракета&quot;</Dest>
+    </String>
+    <String List="0" sID="41003FC1">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_BehemothBoss</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый босс-чудище</Source>
+      <Dest>ПОДАРКИ 2021|Схема: плюшевый босс-чудище</Dest>
+    </String>
+    <String List="0" sID="4100472E">
+      <EDID>Recipe_Workshop_FloorDecor_VintageWaterCooler_2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: винтажный кулер для воды</Source>
+      <Dest>ПОДАРКИ 2021|Схема: винтажный кулер для воды</Dest>
+    </String>
+    <String List="0" sID="59000795">
+      <EDID>Recipe_Workshop_FloorDecor_AreaRug_NukaGirl</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: большой ковер с Ядер-Герл</Source>
+      <Dest>ПОДАРКИ 2021|Схема: большой ковер с Ядер-Герл</Dest>
+    </String>
+    <String List="0" sID="59000FEB">
+      <EDID>Recipe_Workshop_WallDecor_TatteredCurtainsDUPLICATE000_Copy01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: потрепанные занавески</Source>
+      <Dest>ПОДАРКИ 2021|Схема: потрепанные занавески</Dest>
+    </String>
+    <String List="0" sID="590010FC">
+      <EDID>Recipe_Workshop_FloorDecor_VintageWaterCoolerDUPLICATE000</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: винтажный кулер для воды</Source>
+      <Dest>ПОДАРКИ 2021|Схема: винтажный кулер для воды</Dest>
+    </String>
+    <String List="0" sID="6100D76B">
+      <EDID>recipe_Armor_VaultSuit51_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: комбинезон Убежища 51</Source>
+      <Dest>ПОДАРКИ 2021|Схема: комбинезон Убежища 51</Dest>
+    </String>
+    <String List="0" sID="6100D771">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_CamoBlue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: комплект голубых камуфляжных окрасок силовой брони</Source>
+      <Dest>ПОДАРКИ 2021|Схема: комплект голубых камуфляжных окрасок силовой брони</Dest>
+    </String>
+    <String List="0" sID="6100D772">
+      <EDID>recipe_mod_weapon_44_material_CamoBlue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голубая камуфляжная окраска &quot;0.44-й калибр&quot;</Source>
+      <Dest>ПОДАРКИ 2021|Схема: голубая камуфляжная окраска &quot;0.44-й калибр&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

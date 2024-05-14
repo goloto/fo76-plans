@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="41000CDD">
+      <EDID>Recipe_Headwear_Marine_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шлем брони морской пехоты</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: шлем брони морской пехоты</Dest>
+    </String>
+    <String List="0" sID="410015F4">
+      <EDID>Recipe_mod_SuperSledge_Melee_Paint_StrongmanHammer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска &quot;Супермолот силача&quot;</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: окраска &quot;Супермолот силача&quot;</Dest>
+    </String>
+    <String List="0" sID="41001849">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Wannamango</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый ваннаминго</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: плюшевый ваннаминго</Dest>
+    </String>
+    <String List="0" sID="41002347">
+      <EDID>Recipe_Workshop_FloorDecor_BalloonArch</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: арка из шариков</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: арка из шариков</Dest>
+    </String>
+    <String List="0" sID="410024C1">
+      <EDID>Recipe_Workshop_FloorDecor_CarnivalBalloons</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: связка шариков-звездочек</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: связка шариков-звездочек</Dest>
+    </String>
+    <String List="0" sID="410025B4">
+      <EDID>Recipe_Workshop_FloorDecor_AreaRug_Vault76</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковер &quot;Убежище 76&quot;</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: ковер &quot;Убежище 76&quot;</Dest>
+    </String>
+    <String List="0" sID="41002C93">
+      <EDID>Recipe_Workshop_YaoGuaiTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с яо-гаем</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: резервуар с яо-гаем</Dest>
+    </String>
+    <String List="0" sID="41002C9B">
+      <EDID>Recipe_Workshop_FloorDecor_Junkyard_Fountain</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: свалочный фонтанчик</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: свалочный фонтанчик</Dest>
+    </String>
+    <String List="0" sID="41002DC1">
+      <EDID>Recipe_Backpack_Standard_Material_Responders_Camo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: камуфляжный рюкзак</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: камуфляжный рюкзак</Dest>
+    </String>
+    <String List="0" sID="4100362C">
+      <EDID>Recipe_Workshop_TV_Aquarium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: телевизор-аквариум</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: телевизор-аквариум</Dest>
+    </String>
+    <String List="0" sID="4100369E">
+      <EDID>Recipe_Workshop_CaveCricketTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с пещерным сверчком</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: резервуар с пещерным сверчком</Dest>
+    </String>
+    <String List="0" sID="410036AD">
+      <EDID>Recipe_Workshop_RawCement_Barricade_Spikes</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: баррикада из свежего цемента</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: баррикада из свежего цемента</Dest>
+    </String>
+    <String List="0" sID="41003877">
+      <EDID>Recipe_Workshop_FireStationBell</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: колокол пожарного депо</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: колокол пожарного депо</Dest>
+    </String>
+    <String List="0" sID="61009D03">
+      <EDID>Recipe_Backpack_Standard_Material_Safari_Gorilla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак &quot;Сафари &quot;Горилла&quot;</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: рюкзак &quot;Сафари &quot;Горилла&quot;</Dest>
+    </String>
+    <String List="0" sID="61009D04">
+      <EDID>Recipe_Backpack_Standard_Material_Safari_Crocolossus</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак &quot;Сафари &quot;Кроколосс&quot;</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: рюкзак &quot;Сафари &quot;Кроколосс&quot;</Dest>
+    </String>
+    <String List="0" sID="61009D90">
+      <EDID>Recipe_Clothes_InsurgentOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм повстанца</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: костюм повстанца</Dest>
+    </String>
+    <String List="0" sID="61009D91">
+      <EDID>Recipe_Headwear_TreasureHunter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шляпа охотника за сокровищами</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: шляпа охотника за сокровищами</Dest>
+    </String>
+    <String List="0" sID="61009D92">
+      <EDID>Recipe_Clothes_TreasureHunterOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм охотника за сокровищами</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: костюм охотника за сокровищами</Dest>
+    </String>
+    <String List="0" sID="61009E22">
+      <EDID>Recipe_Workshop_FloorDecor_Circus_Trailer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цирковой фургончик — клетка</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: цирковой фургончик — клетка</Dest>
+    </String>
+    <String List="0" sID="61009EE9">
+      <EDID>Recipe_Headwear_Insurgent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шляпа повстанца</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: шляпа повстанца</Dest>
+    </String>
+    <String List="0" sID="61009F25">
+      <EDID>recipe_mod_melee_Knife_Dagger_Radstag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: охотничий нож на рад-оленя</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: охотничий нож на рад-оленя</Dest>
+    </String>
+    <String List="0" sID="6100AA7D">
+      <EDID>Recipe_Workshop_Bed_BedofNails</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кровать с гвоздями</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: кровать с гвоздями</Dest>
+    </String>
+    <String List="0" sID="6100AAD4">
+      <EDID>Recipe_Workshop_Lights_Grafton_Monster_Lamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: лампа &quot;Графтонское чудовище&quot;</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: лампа &quot;Графтонское чудовище&quot;</Dest>
+    </String>
+    <String List="0" sID="6100AAD5">
+      <EDID>Recipe_Workshop_FloorDecor_Animatronic_Clown</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: аниматронный клоун</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: аниматронный клоун</Dest>
+    </String>
+    <String List="0" sID="6100BC96">
+      <EDID>Recipe_Workshop_ScorchedTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с горелым</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: резервуар с горелым</Dest>
+    </String>
+    <String List="0" sID="6100BCE3">
+      <EDID>Recipe_Workshop_WallDecor_WallClocks_NeonLightDiner</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: неоновые часы для кафе</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: неоновые часы для кафе</Dest>
+    </String>
+    <String List="0" sID="6100C562">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_ScorchbeastQueen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевая матка зверожогов</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: плюшевая матка зверожогов</Dest>
+    </String>
+    <String List="0" sID="6100C563">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Snallygaster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый снеллигастер</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: плюшевый снеллигастер</Dest>
+    </String>
+    <String List="0" sID="6100C571">
+      <EDID>Recipe_Workshop_FloorDecor_AreaRug_WVStateBird</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковер с птицей Западной Вирджинии</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: ковер с птицей Западной Вирджинии</Dest>
+    </String>
+    <String List="0" sID="6100C572">
+      <EDID>Recipe_Workshop_FloorDecor_Statue_Small_Posed_VaultGirl</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: статуэтка Волт-Герл</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: статуэтка Волт-Герл</Dest>
+    </String>
+    <String List="0" sID="6100D76F">
+      <EDID>recipe_mod_weapon_LaserGun_material_CamoBlue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голубая камуфляжная окраска для лазера</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: голубая камуфляжная окраска для лазера</Dest>
+    </String>
+    <String List="0" sID="6100D774">
+      <EDID>Recipe_Workshop_Container_StashBox_Supply_Crate_Small</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маленький ящик с припасами</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: маленький ящик с припасами</Dest>
+    </String>
+    <String List="0" sID="6100D77A">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_PinkSprinkles</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: комплект окраски &quot;Розовая посыпка&quot; для силовой брони</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: комплект окраски &quot;Розовая посыпка&quot; для силовой брони</Dest>
+    </String>
+    <String List="0" sID="6100D77B">
+      <EDID>recipe_mod_weapon_MissileLauncher_material_AtomCats</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска Атомных Котов для ракетомета</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: окраска Атомных Котов для ракетомета</Dest>
+    </String>
+    <String List="0" sID="6101B9D2">
+      <EDID>Recipe_Workshop_GolfCarts_TreasureHunter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гольфмобили</Source>
+      <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: гольфмобили</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
