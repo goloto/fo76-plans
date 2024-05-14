@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="41000CDD">
+      <EDID>Recipe_Headwear_Marine_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Marine Armor Helmet</Source>
+      <Dest>TREASURE HUNT|Plan: Marine Armor Helmet</Dest>
+    </String>
+    <String List="0" sID="410015F4">
+      <EDID>Recipe_mod_SuperSledge_Melee_Paint_StrongmanHammer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Strongman&apos;s Super Sledge Paint</Source>
+      <Dest>TREASURE HUNT|Plan: Strongman&apos;s Super Sledge Paint</Dest>
+    </String>
+    <String List="0" sID="41001849">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Wannamango</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wanamingo Plushie</Source>
+      <Dest>TREASURE HUNT|Plan: Wanamingo Plushie</Dest>
+    </String>
+    <String List="0" sID="41002347">
+      <EDID>Recipe_Workshop_FloorDecor_BalloonArch</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Balloon Arch</Source>
+      <Dest>TREASURE HUNT|Plan: Balloon Arch</Dest>
+    </String>
+    <String List="0" sID="410024C1">
+      <EDID>Recipe_Workshop_FloorDecor_CarnivalBalloons</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bouquet of Star Balloons</Source>
+      <Dest>TREASURE HUNT|Plan: Bouquet of Star Balloons</Dest>
+    </String>
+    <String List="0" sID="410025B4">
+      <EDID>Recipe_Workshop_FloorDecor_AreaRug_Vault76</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 76 Rug</Source>
+      <Dest>TREASURE HUNT|Plan: Vault 76 Rug</Dest>
+    </String>
+    <String List="0" sID="41002C93">
+      <EDID>Recipe_Workshop_YaoGuaiTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Yao Guai Tube</Source>
+      <Dest>TREASURE HUNT|Plan: Yao Guai Tube</Dest>
+    </String>
+    <String List="0" sID="41002C9B">
+      <EDID>Recipe_Workshop_FloorDecor_Junkyard_Fountain</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Junkyard Fountain</Source>
+      <Dest>TREASURE HUNT|Plan: Junkyard Fountain</Dest>
+    </String>
+    <String List="0" sID="41002DC1">
+      <EDID>Recipe_Backpack_Standard_Material_Responders_Camo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Camo Backpack</Source>
+      <Dest>TREASURE HUNT|Plan: Camo Backpack</Dest>
+    </String>
+    <String List="0" sID="4100362C">
+      <EDID>Recipe_Workshop_TV_Aquarium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: TV Aquarium</Source>
+      <Dest>TREASURE HUNT|Plan: TV Aquarium</Dest>
+    </String>
+    <String List="0" sID="4100369E">
+      <EDID>Recipe_Workshop_CaveCricketTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cave Cricket Tube</Source>
+      <Dest>TREASURE HUNT|Plan: Cave Cricket Tube</Dest>
+    </String>
+    <String List="0" sID="410036AD">
+      <EDID>Recipe_Workshop_RawCement_Barricade_Spikes</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Raw Cement Barricade</Source>
+      <Dest>TREASURE HUNT|Plan: Raw Cement Barricade</Dest>
+    </String>
+    <String List="0" sID="41003877">
+      <EDID>Recipe_Workshop_FireStationBell</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fire Station Bell</Source>
+      <Dest>TREASURE HUNT|Plan: Fire Station Bell</Dest>
+    </String>
+    <String List="0" sID="61009D03">
+      <EDID>Recipe_Backpack_Standard_Material_Safari_Gorilla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Safari Gorilla Backpack</Source>
+      <Dest>TREASURE HUNT|Plan: Safari Gorilla Backpack</Dest>
+    </String>
+    <String List="0" sID="61009D04">
+      <EDID>Recipe_Backpack_Standard_Material_Safari_Crocolossus</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Safari Crocolossus Backpack</Source>
+      <Dest>TREASURE HUNT|Plan: Safari Crocolossus Backpack</Dest>
+    </String>
+    <String List="0" sID="61009D90">
+      <EDID>Recipe_Clothes_InsurgentOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Insurgent Outfit</Source>
+      <Dest>TREASURE HUNT|Plan: Insurgent Outfit</Dest>
+    </String>
+    <String List="0" sID="61009D91">
+      <EDID>Recipe_Headwear_TreasureHunter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Treasure Hunter Outfit Hat</Source>
+      <Dest>TREASURE HUNT|Plan: Treasure Hunter Outfit Hat</Dest>
+    </String>
+    <String List="0" sID="61009D92">
+      <EDID>Recipe_Clothes_TreasureHunterOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Treasure Hunter Outfit</Source>
+      <Dest>TREASURE HUNT|Plan: Treasure Hunter Outfit</Dest>
+    </String>
+    <String List="0" sID="61009E22">
+      <EDID>Recipe_Workshop_FloorDecor_Circus_Trailer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Cage Trailer</Source>
+      <Dest>TREASURE HUNT|Plan: Circus Cage Trailer</Dest>
+    </String>
+    <String List="0" sID="61009EE9">
+      <EDID>Recipe_Headwear_Insurgent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Insurgent Hat</Source>
+      <Dest>TREASURE HUNT|Plan: Insurgent Hat</Dest>
+    </String>
+    <String List="0" sID="61009F25">
+      <EDID>recipe_mod_melee_Knife_Dagger_Radstag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Radstag Hunting Knife</Source>
+      <Dest>TREASURE HUNT|Plan: Radstag Hunting Knife</Dest>
+    </String>
+    <String List="0" sID="6100AA7D">
+      <EDID>Recipe_Workshop_Bed_BedofNails</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bed of Nails</Source>
+      <Dest>TREASURE HUNT|Plan: Bed of Nails</Dest>
+    </String>
+    <String List="0" sID="6100AAD4">
+      <EDID>Recipe_Workshop_Lights_Grafton_Monster_Lamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Grafton Monster Lamp</Source>
+      <Dest>TREASURE HUNT|Plan: Grafton Monster Lamp</Dest>
+    </String>
+    <String List="0" sID="6100AAD5">
+      <EDID>Recipe_Workshop_FloorDecor_Animatronic_Clown</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Animatronic Clown</Source>
+      <Dest>TREASURE HUNT|Plan: Animatronic Clown</Dest>
+    </String>
+    <String List="0" sID="6100BC96">
+      <EDID>Recipe_Workshop_ScorchedTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Scorched Tube</Source>
+      <Dest>TREASURE HUNT|Plan: Scorched Tube</Dest>
+    </String>
+    <String List="0" sID="6100BCE3">
+      <EDID>Recipe_Workshop_WallDecor_WallClocks_NeonLightDiner</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Neon Light Diner Clock</Source>
+      <Dest>TREASURE HUNT|Plan: Neon Light Diner Clock</Dest>
+    </String>
+    <String List="0" sID="6100C562">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_ScorchbeastQueen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Scorchbeast Queen Plushie</Source>
+      <Dest>TREASURE HUNT|Plan: Scorchbeast Queen Plushie</Dest>
+    </String>
+    <String List="0" sID="6100C563">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Snallygaster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Snallygaster Plushie</Source>
+      <Dest>TREASURE HUNT|Plan: Snallygaster Plushie</Dest>
+    </String>
+    <String List="0" sID="6100C571">
+      <EDID>Recipe_Workshop_FloorDecor_AreaRug_WVStateBird</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: WV State Bird Rug</Source>
+      <Dest>TREASURE HUNT|Plan: WV State Bird Rug</Dest>
+    </String>
+    <String List="0" sID="6100C572">
+      <EDID>Recipe_Workshop_FloorDecor_Statue_Small_Posed_VaultGirl</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Small Vault Girl Statue</Source>
+      <Dest>TREASURE HUNT|Plan: Small Vault Girl Statue</Dest>
+    </String>
+    <String List="0" sID="6100D76F">
+      <EDID>recipe_mod_weapon_LaserGun_material_CamoBlue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Laser Gun Blue Camo Paint</Source>
+      <Dest>TREASURE HUNT|Plan: Laser Gun Blue Camo Paint</Dest>
+    </String>
+    <String List="0" sID="6100D774">
+      <EDID>Recipe_Workshop_Container_StashBox_Supply_Crate_Small</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Small Supply Crate</Source>
+      <Dest>TREASURE HUNT|Plan: Small Supply Crate</Dest>
+    </String>
+    <String List="0" sID="6100D77A">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_PinkSprinkles</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pink Sprinkles Power Armor Paints</Source>
+      <Dest>TREASURE HUNT|Plan: Pink Sprinkles Power Armor Paints</Dest>
+    </String>
+    <String List="0" sID="6100D77B">
+      <EDID>recipe_mod_weapon_MissileLauncher_material_AtomCats</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Missile Launcher Atom Cats Paint</Source>
+      <Dest>TREASURE HUNT|Plan: Missile Launcher Atom Cats Paint</Dest>
+    </String>
+    <String List="0" sID="6101B9D2">
+      <EDID>Recipe_Workshop_GolfCarts_TreasureHunter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Golf Carts</Source>
+      <Dest>TREASURE HUNT|Plan: Golf Carts</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

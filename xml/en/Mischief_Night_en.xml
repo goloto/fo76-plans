@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="61003D63">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Half Full Pumpkin Rack</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Half Full Pumpkin Rack</Dest>
+    </String>
+    <String List="0" sID="61003D64">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Half Empty Pumpkin Rack</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Half Empty Pumpkin Rack</Dest>
+    </String>
+    <String List="0" sID="61003D65">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved06</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Jack O&apos;Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Alien Jack O&apos;Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D66">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Full Pumpkin Rack</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Full Pumpkin Rack</Dest>
+    </String>
+    <String List="0" sID="61003D67">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault-Tec Jack O&apos;Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Vault-Tec Jack O&apos;Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D68">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Classic Jack O&apos;Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Classic Jack O&apos;Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D69">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pumpkin Rack</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Pumpkin Rack</Dest>
+    </String>
+    <String List="0" sID="61003D6A">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved08</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Happy Jack O&apos;Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Happy Jack O&apos;Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D6B">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved10</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Evil Jack O&apos;Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Evil Jack O&apos;Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D6C">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved05</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Surprised Jack O&apos;Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Surprised Jack O&apos;Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D6D">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved09</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Practice Jack O&apos;Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Practice Jack O&apos;Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D6E">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault Door Jack O&apos;Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Vault Door Jack O&apos;Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D6F">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved07</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mobster Jack O&apos;Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Mobster Jack O&apos;Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D70">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault Boy Jack O&apos;Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Vault Boy Jack O&apos;Lantern</Dest>
+    </String>
+    <String List="0" sID="61003E16">
+      <EDID>Recipe_Workshop_FloorDecor_Statues_GrimReaperCardboardCutouts</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Grim Reaper Vault-Boy Cutout</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Grim Reaper Vault-Boy Cutout</Dest>
+    </String>
+    <String List="0" sID="6101A70A">
+      <EDID>Recipe_mod_Chainsaw_Paint_GhostlyGrinder</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Chainsaw Ghostly Grinder Paint</Source>
+      <Dest>MISCHIEF NIGHT+|Plan: Chainsaw Ghostly Grinder Paint</Dest>
+    </String>
+    <String List="0" sID="6101A70B">
+      <EDID>Recipe_Headwear_SkullRider_Rad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Rad Skull Rider Helmet</Source>
+      <Dest>MISCHIEF NIGHT+|Plan: Rad Skull Rider Helmet</Dest>
+    </String>
+    <String List="0" sID="6101A70D">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hellfire V2 Prototype Power Armor Helmet Paint</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Hellfire V2 Prototype Power Armor Helmet Paint</Dest>
+    </String>
+    <String List="0" sID="6101A70E">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost1</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Ghost Lantern A</Source>
+      <Dest>MISCHIEF NIGHT+|Plan: Honeycomb Paper Ghost Lantern A</Dest>
+    </String>
+    <String List="0" sID="6101A70F">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Arms</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hellfire V2 Prototype Power Armor Arms Paint</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Hellfire V2 Prototype Power Armor Arms Paint</Dest>
+    </String>
+    <String List="0" sID="6101A710">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Spider</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Spider Lantern</Source>
+      <Dest>MISCHIEF NIGHT+|Plan: Honeycomb Paper Spider Lantern</Dest>
+    </String>
+    <String List="0" sID="6101A712">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern1</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Jack-o&apos;-Lantern A</Source>
+      <Dest>MISCHIEF NIGHT+|Plan: Honeycomb Paper Jack-o&apos;-Lantern A</Dest>
+    </String>
+    <String List="0" sID="6101A713">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Jack-o&apos;-Lantern B</Source>
+      <Dest>MISCHIEF NIGHT+|Plan: Honeycomb Paper Jack-o&apos;-Lantern B</Dest>
+    </String>
+    <String List="0" sID="6101A714">
+      <EDID>Recipe_Headwear_Executioner2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Executioner Mask</Source>
+      <Dest>MISCHIEF NIGHT+|Plan: Executioner Mask</Dest>
+    </String>
+    <String List="0" sID="6101A715">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Ghost Lantern B</Source>
+      <Dest>MISCHIEF NIGHT+|Plan: Honeycomb Paper Ghost Lantern B</Dest>
+    </String>
+    <String List="0" sID="6101A716">
+      <EDID>Recipe_Workshop_FloorDecor_GiantDinosaur_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Giant Red Dinosaur</Source>
+      <Dest>MISCHIEF NIGHT+|Plan: Giant Red Dinosaur</Dest>
+    </String>
+    <String List="0" sID="6101A717">
+      <EDID>Recipe_mod_AssaultRifle_Paint_WraithsWrath</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Assault Rifle Wraith&apos;s Wrath Paint</Source>
+      <Dest>MISCHIEF NIGHT+|Plan: Assault Rifle Wraith&apos;s Wrath Paint</Dest>
+    </String>
+    <String List="0" sID="6101A718">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Legs</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hellfire V2 Prototype Power Armor Legs Paint</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Hellfire V2 Prototype Power Armor Legs Paint</Dest>
+    </String>
+    <String List="0" sID="6101A719">
+      <EDID>Recipe_workshop_FloorDecor_Skeleton_DrBones</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Dr. Bones</Source>
+      <Dest>MISCHIEF NIGHT+|Plan: Dr. Bones</Dest>
+    </String>
+    <String List="0" sID="6101A71A">
+      <EDID>Recipe_Backpack_Standard_Material_Princess</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Princess Backpack</Source>
+      <Dest>MISCHIEF NIGHT+|Plan: Princess Backpack</Dest>
+    </String>
+    <String List="0" sID="6101A71B">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hellfire V2 Prototype Power Armor Torso Paint</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Hellfire V2 Prototype Power Armor Torso Paint</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

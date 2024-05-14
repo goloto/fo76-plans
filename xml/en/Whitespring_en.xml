@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="03F8F3">
+      <EDID>Recipe_Workshop_WallDecor_Whitespring_Mirror</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Mirror</Source>
+      <Dest>WHITESPRING|Plan: Resort Mirror</Dest>
+    </String>
+    <String List="0" sID="03FB03">
+      <EDID>Recipe_Workshop_Lights_Whitespring_Lamps</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Lamps</Source>
+      <Dest>WHITESPRING|Plan: Resort Lamps</Dest>
+    </String>
+    <String List="0" sID="03FB33">
+      <EDID>Recipe_Workshop_FloorDecor_Whitespring_Vases</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Vases</Source>
+      <Dest>WHITESPRING|Plan: Resort Vases</Dest>
+    </String>
+    <String List="0" sID="03FB62">
+      <EDID>Recipe_Workshop_FloorDecor_Whitespring_Busts</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Whitespring Busts</Source>
+      <Dest>WHITESPRING|Plan: Whitespring Busts</Dest>
+    </String>
+    <String List="0" sID="03FBA9">
+      <EDID>Recipe_Workshop_FloorDecor_Whitespring_Planters</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Planters</Source>
+      <Dest>WHITESPRING|Plan: Resort Planters</Dest>
+    </String>
+    <String List="0" sID="03FC09">
+      <EDID>Recipe_Workshop_Containers_Whitespring_Trashcan</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Trashcan</Source>
+      <Dest>WHITESPRING|Plan: Resort Trashcan</Dest>
+    </String>
+    <String List="0" sID="03FC1F">
+      <EDID>Recipe_Workshop_Tables_Whitespring_Tables</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Tables</Source>
+      <Dest>WHITESPRING|Plan: Resort Tables</Dest>
+    </String>
+    <String List="0" sID="04457F">
+      <EDID>Recipe_Workshop_Benches_Wood_Whitesprings</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Bench</Source>
+      <Dest>WHITESPRING|Plan: Resort Bench</Dest>
+    </String>
+    <String List="0" sID="044584">
+      <EDID>Recipe_Workshop_WallDecor_SignsMetal_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Sign</Source>
+      <Dest>WHITESPRING|Plan: Resort Sign</Dest>
+    </String>
+    <String List="0" sID="0445A3">
+      <EDID>Recipe_Workshop_Couches_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Couches</Source>
+      <Dest>WHITESPRING|Plan: Resort Couches</Dest>
+    </String>
+    <String List="0" sID="044734">
+      <EDID>Recipe_Workshop_WallDecor_WallPaintings_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Paintings</Source>
+      <Dest>WHITESPRING|Plan: Resort Paintings</Dest>
+    </String>
+    <String List="0" sID="044735">
+      <EDID>Recipe_Workshop_Chairs_Chairs_Metal_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Chairs</Source>
+      <Dest>WHITESPRING|Plan: Resort Chairs</Dest>
+    </String>
+    <String List="0" sID="044736">
+      <EDID>Recipe_Workshop_Chairs_Chairs_Padded_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Cloth Chairs</Source>
+      <Dest>WHITESPRING|Plan: Resort Cloth Chairs</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
