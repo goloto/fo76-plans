@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="01367A">
+      <EDID>Clothes_Raider_Suit_01_GlovesB</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Field Jacket</Source>
+      <Dest>EXTREMELY RARE|Tattered Field Jacket</Dest>
+    </String>
+    <String List="0" sID="015275">
+      <EDID>Clothes_Raider_Suit_02A_GlovesC</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Leather Coat</Source>
+      <Dest>EXTREMELY RARE|Leather Coat</Dest>
+    </String>
+    <String List="0" sID="017C6C">
+      <EDID>Clothes_Raider_Suit_02B_GlovesC</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Traveling Leather Coat</Source>
+      <Dest>EXTREMELY RARE|Traveling Leather Coat</Dest>
+    </String>
+    <String List="0" sID="03FD04">
+      <EDID>Clothes_AsylumWorkerUniformRed</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Asylum Worker Uniform Red</Source>
+      <Dest>EXTREMELY RARE|Asylum Worker Uniform Red</Dest>
+    </String>
+    <String List="0" sID="03FD17">
+      <EDID>Clothes_Jumpsuit_WhitePowder</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>White Powder Jumpsuit</Source>
+      <Dest>EXTREMELY RARE|White Powder Jumpsuit</Dest>
+    </String>
+    <String List="0" sID="03FD19">
+      <EDID>Clothes_Jumpsuit_BOS</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>BOS Jumpsuit</Source>
+      <Dest>EXTREMELY RARE|BOS Jumpsuit</Dest>
+    </String>
+    <String List="0" sID="03FDB8">
+      <EDID>Headwear_Responders_FiremanHat</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Responder Fireman Helmet</Source>
+      <Dest>EXTREMELY RARE|Responder Fireman Helmet</Dest>
+    </String>
+    <String List="0" sID="03FE75">
+      <EDID>Clothes_Responders_FiremanUniform</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Responder Fireman Uniform</Source>
+      <Dest>EXTREMELY RARE|Responder Fireman Uniform</Dest>
+    </String>
+    <String List="0" sID="03FEA0">
+      <EDID>Clothes_Jumpsuit_ForestCamo</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Forest Camo Jumpsuit</Source>
+      <Dest>EXTREMELY RARE|Forest Camo Jumpsuit</Dest>
+    </String>
+    <String List="0" sID="7100217F">
+      <EDID>Clothes_AsylumWorkerUniformRed_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Asylum Worker Uniform Red</Source>
+      <Dest>EXTREMELY RARE|Asylum Worker Uniform Red</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
