@@ -49,6 +49,12 @@
       <Source>Шлем Спасателя-пожарного</Source>
       <Dest>ЧРЕЗВЫЧАЙНО РЕДКОЕ|Шлем Спасателя-пожарного</Dest>
     </String>
+    <String List="0" sID="03FE21">
+      <EDID>Headwear_EnclaveScoutUniform_Mask_Forest</EDID>
+      <REC id="0" idMax="1">ARMO:FULL</REC>
+      <Source>Броня лесного скаута — маска</Source>
+      <Dest>ЧРЕЗВЫЧАЙНО РЕДКОЕ|Броня лесного скаута — маска</Dest>
+    </String>
     <String List="0" sID="03FE75">
       <EDID>Clothes_Responders_FiremanUniform</EDID>
       <REC>ARMO:FULL</REC>
@@ -60,6 +66,12 @@
       <REC>ARMO:FULL</REC>
       <Source>Лесной камуфляжный комбинезон</Source>
       <Dest>ЧРЕЗВЫЧАЙНО РЕДКОЕ|Лесной камуфляжный комбинезон</Dest>
+    </String>
+    <String List="0" sID="03FEBF">
+      <EDID>Headwear_EnclaveScoutUniform_Mask_Urban</EDID>
+      <REC id="0" idMax="1">ARMO:FULL</REC>
+      <Source>Броня городского скаута — маска</Source>
+      <Dest>ЧРЕЗВЫЧАЙНО РЕДКОЕ|Броня городского скаута — маска</Dest>
     </String>
     <String List="0" sID="7100217F">
       <EDID>Clothes_AsylumWorkerUniformRed_NONPLAYABLE</EDID>

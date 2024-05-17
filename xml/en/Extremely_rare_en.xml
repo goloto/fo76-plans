@@ -49,6 +49,12 @@
       <Source>Responder Fireman Helmet</Source>
       <Dest>EXTREMELY RARE|Responder Fireman Helmet</Dest>
     </String>
+    <String List="0" sID="03FE21">
+      <EDID>Headwear_EnclaveScoutUniform_Mask_Forest</EDID>
+      <REC id="0" idMax="1">ARMO:FULL</REC>
+      <Source>Forest Scout Armor Mask</Source>
+      <Dest>EXTREMELY RARE|Forest Scout Armor Mask</Dest>
+    </String>
     <String List="0" sID="03FE75">
       <EDID>Clothes_Responders_FiremanUniform</EDID>
       <REC>ARMO:FULL</REC>
@@ -60,6 +66,12 @@
       <REC>ARMO:FULL</REC>
       <Source>Forest Camo Jumpsuit</Source>
       <Dest>EXTREMELY RARE|Forest Camo Jumpsuit</Dest>
+    </String>
+    <String List="0" sID="03FEBF">
+      <EDID>Headwear_EnclaveScoutUniform_Mask_Urban</EDID>
+      <REC id="0" idMax="1">ARMO:FULL</REC>
+      <Source>Urban Scout Armor Mask</Source>
+      <Dest>EXTREMELY RARE|Urban Scout Armor Mask</Dest>
     </String>
     <String List="0" sID="7100217F">
       <EDID>Clothes_AsylumWorkerUniformRed_NONPLAYABLE</EDID>
