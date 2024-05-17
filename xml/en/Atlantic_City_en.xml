@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="6101A8F3">
+      <EDID>Recipe_XPD_AC_Workshop_Lights_MezzanineLights</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mezzanine Lights</Source>
+      <Dest>MOST SENS. GAME|Plan: Mezzanine Lights</Dest>
+    </String>
+    <String List="0" sID="6101A8F4">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_NightclubExtSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nightclub Exterior Sign</Source>
+      <Dest>TAX EVASION|Plan: Nightclub Exterior Sign</Dest>
+    </String>
+    <String List="0" sID="6101A8F5">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_AtlanticCitySign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atlantic City Sign</Source>
+      <Dest>MOST SENS. GAME|Plan: Atlantic City Sign</Dest>
+    </String>
+    <String List="0" sID="6101A8F6">
+      <EDID>Recipe_XPD_AC_Workshop_NeapolitanExtSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Neapolitan Exterior Sign</Source>
+      <Dest>TAX EVASION|Plan: Neapolitan Exterior Sign</Dest>
+    </String>
+    <String List="0" sID="6101ABC5">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownRusherTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Thorn Tube</Source>
+      <Dest>HUMAN CONDITION|Plan: Overgrown Thorn Tube</Dest>
+    </String>
+    <String List="0" sID="6101ABC6">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownPollinatorTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Pollinator Tube</Source>
+      <Dest>HUMAN CONDITION|Plan: Overgrown Pollinator Tube</Dest>
+    </String>
+    <String List="0" sID="6101ABC7">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownElderTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Elder Tube</Source>
+      <Dest>HUMAN CONDITION|Plan: Overgrown Elder Tube</Dest>
+    </String>
+    <String List="0" sID="6101B3BD">
+      <EDID>Recipe_XPD_AC_Workshop_Tables_DiceTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atlantic City Dice Table</Source>
+      <Dest>TAX EVASION|Plan: Atlantic City Dice Table</Dest>
+    </String>
+    <String List="0" sID="6101B589">
+      <EDID>Recipe_XPD_AC_Clothes_BatsuuriTwins</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Seasoned Survivor Outfit</Source>
+      <Dest>MOST SENS. GAME|Plan: Seasoned Survivor Outfit</Dest>
+    </String>
+    <String List="0" sID="6101B58B">
+      <EDID>Recipe_XPD_AC_Headwear_Veracio</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Snake Wrangler Hat</Source>
+      <Dest>MOST SENS. GAME|Plan: Snake Wrangler Hat</Dest>
+    </String>
+    <String List="0" sID="6101B58C">
+      <EDID>Recipe_XPD_AC_Clothes_Veracio</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Snake Wrangler Outfit</Source>
+      <Dest>MOST SENS. GAME|Plan: Snake Wrangler Outfit</Dest>
+    </String>
+    <String List="0" sID="6101BDF3">
+      <EDID>Recipe_XPD_AC_Outfit_MotherCharlotte</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sunburst Sequin Dress</Source>
+      <Dest>MOST SENS. GAME|Plan: Sunburst Sequin Dress</Dest>
+    </String>
+    <String List="0" sID="6101C36A">
+      <EDID>Recipe_XPD_AC_Armor_Muni_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Civil Engineer Underarmor</Source>
+      <Dest>HUMAN CONDITION|Plan: Civil Engineer Underarmor</Dest>
+    </String>
+    <String List="0" sID="6101CBCE">
+      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Operator</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Muni Operator Outfit</Source>
+      <Dest>HUMAN CONDITION|Plan: Muni Operator Outfit</Dest>
+    </String>
+    <String List="0" sID="6101CBD0">
+      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Drudge</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Muni Drudger Outfit</Source>
+      <Dest>HUMAN CONDITION|Plan: Muni Drudger Outfit</Dest>
+    </String>
+    <String List="0" sID="6101CBD2">
+      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Worker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Muni Worker Outfit</Source>
+      <Dest>HUMAN CONDITION|Plan: Muni Worker Outfit</Dest>
+    </String>
+    <String List="0" sID="71002A99">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_GameShowSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Game Show Sign</Source>
+      <Dest>MOST SENS. GAME|Plan: Game Show Sign</Dest>
+    </String>
+    <String List="0" sID="71002A9A">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_SlotMachines</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atlantic City Slot Machines</Source>
+      <Dest>TAX EVASION|Plan: Atlantic City Slot Machines</Dest>
+    </String>
+    <String List="0" sID="71002AA0">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_WorldsBiggestSlotMachine</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: World&apos;s Biggest Slot Machine</Source>
+      <Dest>TAX EVASION|Plan: World&apos;s Biggest Slot Machine</Dest>
+    </String>
+    <String List="0" sID="71003086">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_AquariumPillar</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Aquarium Pillar</Source>
+      <Dest>MOST SENS. GAME|Plan: Aquarium Pillar</Dest>
+    </String>
+    <String List="0" sID="71003F07">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_HorseRacingMachine</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atlantic City Mechanical Derby Game</Source>
+      <Dest>TAX EVASION|Plan: Atlantic City Mechanical Derby Game</Dest>
+    </String>
+    <String List="0" sID="71003F09">
+      <EDID>Recipe_XPD_AC_Workshop_Tables_RouletteTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atlantic City Roulette Table</Source>
+      <Dest>TAX EVASION|Plan: Atlantic City Roulette Table</Dest>
+    </String>
+    <String List="0" sID="71003F0A">
+      <EDID>Recipe_XPD_AC_Workshop_Tables_CardTables</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atlantic City Card Tables</Source>
+      <Dest>TAX EVASION|Plan: Atlantic City Card Tables</Dest>
+    </String>
+    <String List="0" sID="71003F3A">
+      <EDID>Recipe_XPD_AC_RouletteRevolverPaint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: .44 Roulette Paint</Source>
+      <Dest>TAX EVASION|Plan: .44 Roulette Paint</Dest>
+    </String>
+    <String List="0" sID="71003F48">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownVehicle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Vehicle</Source>
+      <Dest>HUMAN CONDITION|Plan: Overgrown Vehicle</Dest>
+    </String>
+    <String List="0" sID="710040D5">
+      <EDID>Recipe_XPD_AC_Outfit_MayorTimOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Apocalyptic Farmer Outfit</Source>
+      <Dest>HUMAN CONDITION|Plan: Apocalyptic Farmer Outfit</Dest>
+    </String>
+    <String List="0" sID="710040D8">
+      <EDID>Recipe_XPD_AC_Headwear_MayorTimOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Apocalyptic Farmer Headwear</Source>
+      <Dest>HUMAN CONDITION|Plan: Apocalyptic Farmer Headwear</Dest>
+    </String>
+    <String List="0" sID="710040DB">
+      <EDID>Recipe_XPD_AC_Outfit_ButtercupOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Enforcer&apos;s Outfit</Source>
+      <Dest>HUMAN CONDITION|Plan: Enforcer&apos;s Outfit</Dest>
+    </String>
+    <String List="0" sID="710040F4">
+      <EDID>Recipe_XPD_AC_Workshop_LesserDevilPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Lesser Devil Plushies</Source>
+      <Dest>TAX EVASION|Plan: Lesser Devil Plushies</Dest>
+    </String>
+    <String List="0" sID="7100410B">
+      <EDID>Recipe_XPD_AC_ShowstopperShotgunPaint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Showstopper Shotgun Paint</Source>
+      <Dest>MOST SENS. GAME|Plan: Showstopper Shotgun Paint</Dest>
+    </String>
+    <String List="0" sID="7100410E">
+      <EDID>Recipe_XPD_AC_Workshop_AquariumWhaleDisplay</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Aquarium Whale Display</Source>
+      <Dest>MOST SENS. GAME|Plan: Aquarium Whale Display</Dest>
+    </String>
+    <String List="0" sID="71004B56">
+      <EDID>Recipe_XPD_AC_OvergrownMissileLauncher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Missile Launcher Paint</Source>
+      <Dest>MOST SENS. GAME|Plan: Overgrown Missile Launcher Paint</Dest>
+    </String>
+    <String List="0" sID="71004B57">
+      <EDID>Recipe_XPD_AC_OvergrownAssaultRifle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Assault Rifle Paint</Source>
+      <Dest>MOST SENS. GAME|Plan: Overgrown Assault Rifle Paint</Dest>
+    </String>
+    <String List="0" sID="71004C39">
+      <EDID>Recipe_XPD_AC_OvergrownDeathclawGauntlet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Deathclaw Gauntlet Paint</Source>
+      <Dest>MOST SENS. GAME|Plan: Overgrown Deathclaw Gauntlet Paint</Dest>
+    </String>
+    <String List="0" sID="710063B2">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_SlotMachinePodiums</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Slot Machine Podiums</Source>
+      <Dest>TAX EVASION|Plan: Slot Machine Podiums</Dest>
+    </String>
+    <String List="0" sID="71006627">
+      <EDID>Recipe_XPD_AC_Workshop_QuentinosSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Quentino&apos;s Sign</Source>
+      <Dest>TAX EVASION|Plan: Quentino&apos;s Sign</Dest>
+    </String>
+    <String List="0" sID="71006892">
+      <EDID>Recipe_XPD_AC_Workshop_SeaAnimalPillars</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sea Animal Pillars</Source>
+      <Dest>MOST SENS. GAME|Plan: Sea Animal Pillars</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

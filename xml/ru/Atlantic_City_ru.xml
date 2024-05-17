@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="6101A8F3">
+      <EDID>Recipe_XPD_AC_Workshop_Lights_MezzanineLights</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: светильники для мезонина</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: светильники для мезонина</Dest>
+    </String>
+    <String List="0" sID="6101A8F4">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_NightclubExtSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наружная вывеска ночного клуба</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: наружная вывеска ночного клуба</Dest>
+    </String>
+    <String List="0" sID="6101A8F5">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_AtlanticCitySign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: вывеска &quot;Атлантик-Сити&quot;</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: вывеска &quot;Атлантик-Сити&quot;</Dest>
+    </String>
+    <String List="0" sID="6101A8F6">
+      <EDID>Recipe_XPD_AC_Workshop_NeapolitanExtSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наружная вывеска Неаполитанец</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: наружная вывеска Неаполитанец</Dest>
+    </String>
+    <String List="0" sID="6101ABC5">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownRusherTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с разросшимся-шипом</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: резервуар с разросшимся-шипом</Dest>
+    </String>
+    <String List="0" sID="6101ABC6">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownPollinatorTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с разросшимся-опылителем</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: резервуар с разросшимся-опылителем</Dest>
+    </String>
+    <String List="0" sID="6101ABC7">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownElderTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с разросшимся-старейшиной</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: резервуар с разросшимся-старейшиной</Dest>
+    </String>
+    <String List="0" sID="6101B3BD">
+      <EDID>Recipe_XPD_AC_Workshop_Tables_DiceTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стол для игры в кости из Атлантик-Сити</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: стол для игры в кости из Атлантик-Сити</Dest>
+    </String>
+    <String List="0" sID="6101B589">
+      <EDID>Recipe_XPD_AC_Clothes_BatsuuriTwins</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм опытного путешественника</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: костюм опытного путешественника</Dest>
+    </String>
+    <String List="0" sID="6101B58B">
+      <EDID>Recipe_XPD_AC_Headwear_Veracio</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: головной убор змеелова</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: головной убор змеелова</Dest>
+    </String>
+    <String List="0" sID="6101B58C">
+      <EDID>Recipe_XPD_AC_Clothes_Veracio</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм змеелова</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: костюм змеелова</Dest>
+    </String>
+    <String List="0" sID="6101BDF3">
+      <EDID>Recipe_XPD_AC_Outfit_MotherCharlotte</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: золотистое платье с блестками</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: золотистое платье с блестками</Dest>
+    </String>
+    <String List="0" sID="6101C36A">
+      <EDID>Recipe_XPD_AC_Armor_Muni_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: поддоспешник инженера-строителя</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: поддоспешник инженера-строителя</Dest>
+    </String>
+    <String List="0" sID="6101CBCE">
+      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Operator</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм оперативника муниципалов</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм оперативника муниципалов</Dest>
+    </String>
+    <String List="0" sID="6101CBD0">
+      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Drudge</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм чернорабочего муниципалов</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм чернорабочего муниципалов</Dest>
+    </String>
+    <String List="0" sID="6101CBD2">
+      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Worker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм работника муниципалов</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм работника муниципалов</Dest>
+    </String>
+    <String List="0" sID="71002A99">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_GameShowSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: вывеска игрового шоу</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: вывеска игрового шоу</Dest>
+    </String>
+    <String List="0" sID="71002A9A">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_SlotMachines</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема игровые автоматы &quot;Атлантик-Сити&quot;</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема игровые автоматы &quot;Атлантик-Сити&quot;</Dest>
+    </String>
+    <String List="0" sID="71002AA0">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_WorldsBiggestSlotMachine</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: самый большой в мире игровой автомат</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: самый большой в мире игровой автомат</Dest>
+    </String>
+    <String List="0" sID="71003086">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_AquariumPillar</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: колонна аквариума</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: колонна аквариума</Dest>
+    </String>
+    <String List="0" sID="71003F07">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_HorseRacingMachine</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: игра «Механическое дерби Атлантик-Сити»</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: игра «Механическое дерби Атлантик-Сити»</Dest>
+    </String>
+    <String List="0" sID="71003F09">
+      <EDID>Recipe_XPD_AC_Workshop_Tables_RouletteTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стол для игры в рулетку из Атлантик-Сити</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: стол для игры в рулетку из Атлантик-Сити</Dest>
+    </String>
+    <String List="0" sID="71003F0A">
+      <EDID>Recipe_XPD_AC_Workshop_Tables_CardTables</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: карточные столы из Атлантик-Сити</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: карточные столы из Атлантик-Сити</Dest>
+    </String>
+    <String List="0" sID="71003F3A">
+      <EDID>Recipe_XPD_AC_RouletteRevolverPaint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска &quot;Рулетка&quot; для револьвера калибра .44</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: окраска &quot;Рулетка&quot; для револьвера калибра .44</Dest>
+    </String>
+    <String List="0" sID="71003F48">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownVehicle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: разросшийся-транспорт</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: разросшийся-транспорт</Dest>
+    </String>
+    <String List="0" sID="710040D5">
+      <EDID>Recipe_XPD_AC_Outfit_MayorTimOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм постапокалиптического фермера</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм постапокалиптического фермера</Dest>
+    </String>
+    <String List="0" sID="710040D8">
+      <EDID>Recipe_XPD_AC_Headwear_MayorTimOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: головной убор постапокалиптического фермера</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: головной убор постапокалиптического фермера</Dest>
+    </String>
+    <String List="0" sID="710040DB">
+      <EDID>Recipe_XPD_AC_Outfit_ButtercupOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм вышибалы</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм вышибалы</Dest>
+    </String>
+    <String List="0" sID="710040F4">
+      <EDID>Recipe_XPD_AC_Workshop_LesserDevilPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый малый дьявол</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: плюшевый малый дьявол</Dest>
+    </String>
+    <String List="0" sID="7100410B">
+      <EDID>Recipe_XPD_AC_ShowstopperShotgunPaint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска &quot;Коронный номер&quot; для дробовика</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: окраска &quot;Коронный номер&quot; для дробовика</Dest>
+    </String>
+    <String List="0" sID="7100410E">
+      <EDID>Recipe_XPD_AC_Workshop_AquariumWhaleDisplay</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: аквариум с китами</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: аквариум с китами</Dest>
+    </String>
+    <String List="0" sID="71004B56">
+      <EDID>Recipe_XPD_AC_OvergrownMissileLauncher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска &quot;Разросшиеся&quot; для ракетомета</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: окраска &quot;Разросшиеся&quot; для ракетомета</Dest>
+    </String>
+    <String List="0" sID="71004B57">
+      <EDID>Recipe_XPD_AC_OvergrownAssaultRifle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска &quot;Разросшиеся&quot; для штурмового карабина</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: окраска &quot;Разросшиеся&quot; для штурмового карабина</Dest>
+    </String>
+    <String List="0" sID="71004C39">
+      <EDID>Recipe_XPD_AC_OvergrownDeathclawGauntlet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска &quot;Разросшиеся&quot; для когтя смерти</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: окраска &quot;Разросшиеся&quot; для когтя смерти</Dest>
+    </String>
+    <String List="0" sID="710063B2">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_SlotMachinePodiums</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: подиумы для игровых автоматов</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: подиумы для игровых автоматов</Dest>
+    </String>
+    <String List="0" sID="71006627">
+      <EDID>Recipe_XPD_AC_Workshop_QuentinosSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: вывеска &quot;У Квентино&quot;</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: вывеска &quot;У Квентино&quot;</Dest>
+    </String>
+    <String List="0" sID="71006892">
+      <EDID>Recipe_XPD_AC_Workshop_SeaAnimalPillars</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: колонны с морскими обитателями</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: колонны с морскими обитателями</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
