@@ -1,0 +1,3767 @@
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+  
+    <String List="0" sID="41003E8E">
+      <EDID>E07A_Mothman_WiseMothman_Throne</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wise Mothman Throne</Source>
+      <Dest>MOTHMAN|Plan: Wise Mothman Throne</Dest>
+    </String>
+    <String List="0" sID="41009915">
+      <EDID>E07A_Recipe_workshop_FloorDecor_MothVFX</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fluttering Moths</Source>
+      <Dest>MOTHMAN 2024|Plan: Fluttering Moths</Dest>
+    </String>
+    <String List="0" sID="6100E632">
+      <EDID>E07A_Recipe_Backpack_Standard_Material_Cultist</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cultist Backpack</Source>
+      <Dest>MOTHMAN|Plan: Cultist Backpack</Dest>
+    </String>
+    <String List="0" sID="6101C6DD">
+      <EDID>E07A_Recipe_Headwear_CultistNeophyte</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cultist Neophyte Hood</Source>
+      <Dest>MOTHMAN 2024|Plan: Cultist Neophyte Hood</Dest>
+    </String>
+    <String List="0" sID="6101C6DF">
+      <EDID>E07A_Recipe_Headwear_CultistIncarnateHelmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cultist Incarnate Helmet</Source>
+      <Dest>MOTHMAN 2024|Plan: Cultist Incarnate Helmet</Dest>
+    </String>
+    <String List="0" sID="6101C6E0">
+      <EDID>E07A_Recipe_Clothes_CultistAdept</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cultist Adept Robes</Source>
+      <Dest>MOTHMAN 2024|Plan: Cultist Adept Robes</Dest>
+    </String>
+    <String List="0" sID="6101C6E1">
+      <EDID>E07A_Recipe_Clothes_CultistEnlightened</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cultist Enlightened Robes</Source>
+      <Dest>MOTHMAN 2024|Plan: Cultist Enlightened Robes</Dest>
+    </String>
+    <String List="0" sID="6101C6E2">
+      <EDID>E07A_Recipe_Headwear_CultistEventide</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cultist Eventide Hood</Source>
+      <Dest>MOTHMAN 2024|Plan: Cultist Eventide Hood</Dest>
+    </String>
+    <String List="0" sID="6101C6E4">
+      <EDID>E07A_Recipe_Clothes_CultistEventide</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cultist Eventide Robes</Source>
+      <Dest>MOTHMAN 2024|Plan: Cultist Eventide Robes</Dest>
+    </String>
+    <String List="0" sID="6101C6E5">
+      <EDID>E07A_Recipe_Headwear_CultistAdept</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cultist Adept Hood</Source>
+      <Dest>MOTHMAN 2024|Plan: Cultist Adept Hood</Dest>
+    </String>
+    <String List="0" sID="6101C6E6">
+      <EDID>E07A_Recipe_Headwear_CultistEnlightened</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cultist Enlightened Hood</Source>
+      <Dest>MOTHMAN 2024|Plan: Cultist Enlightened Hood</Dest>
+    </String>
+    <String List="0" sID="6101C74F">
+      <EDID>E07A_Recipe_WallDecor_DriedFLowers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Dried Wildflower Bouquet</Source>
+      <Dest>MOTHMAN 2024|Plan: Dried Wildflower Bouquet</Dest>
+    </String>
+    <String List="0" sID="6101CB50">
+      <EDID>E07A_Recipe_Clothes_CultistNeophyte</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cultist Neophyte Robes</Source>
+      <Dest>MOTHMAN 2024|Plan: Cultist Neophyte Robes</Dest>
+    </String>
+    <String List="0" sID="71009796">
+      <EDID>E07A_recipe_Workshop_Incense_MothmanCultist</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mothman Cultist Incense</Source>
+      <Dest>MOTHMAN 2024|Plan: Mothman Cultist Incense</Dest>
+    </String>
+    <String List="0" sID="7100A0CB">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_GreenMothman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Green Mothman</Source>
+      <Dest>MOTHMAN 2024|Plan: Honeycomb Paper Green Mothman</Dest>
+    </String>
+    <String List="0" sID="7100A112">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_BlueMothman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Blue Mothman</Source>
+      <Dest>MOTHMAN 2024|Plan: Honeycomb Paper Blue Mothman</Dest>
+    </String>
+    <String List="0" sID="7100A113">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_RedMothman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Red Mothman</Source>
+      <Dest>MOTHMAN 2024|Plan: Honeycomb Paper Red Mothman</Dest>
+    </String>
+    <String List="0" sID="7100A114">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_BrownMothman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Brown Mothman</Source>
+      <Dest>MOTHMAN 2024|Plan: Honeycomb Paper Brown Mothman</Dest>
+    </String>
+    <String List="0" sID="7100A115">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_MothmanGlobe</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Mothman Globe</Source>
+      <Dest>MOTHMAN 2024|Plan: Honeycomb Paper Mothman Globe</Dest>
+    </String>
+    <String List="0" sID="7100A129">
+      <EDID>E07A_Recipe_Plushie_FuzzyMothman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fuzzy Mothman Plushie</Source>
+      <Dest>MOTHMAN 2024|Plan: Fuzzy Mothman Plushie</Dest>
+    </String>
+    <String List="0" sID="7100A15F">
+      <EDID>Recipe_Workshop_FloorDecor_Mothman_EnlightenedLantern</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Enlightened Lantern</Source>
+      <Dest>MOTHMAN 2024|Plan: Enlightened Lantern</Dest>
+    </String>
+    <String List="0" sID="7100A168">
+      <EDID>E07A_Mothman_Bugzapper_Mothman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mothman Bug Zapper</Source>
+      <Dest>MOTHMAN 2024|Plan: Mothman Bug Zapper</Dest>
+    </String>
+    <String List="0" sID="7100A171">
+      <EDID>E07A_Recipe_Furniture_SacredMothmanTome</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sacred Mothman Tome</Source>
+      <Dest>MOTHMAN 2024|Plan: Sacred Mothman Tome</Dest>
+    </String>
+    <String List="0" sID="7100A368">
+      <EDID>Recipe_mod_Chainsaw_Paint_Skeptikill</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Chainsaw Skeptikill Paint</Source>
+      <Dest>MOTHMAN 2024|Plan: Chainsaw Skeptikill Paint</Dest>
+    </String>
+    <String List="0" sID="7100A8A0">
+      <EDID>E07A_Recipe_Plushie_FuzzyEnlightened</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fuzzy Enlightened Plushie</Source>
+      <Dest>MOTHMAN 2024|Plan: Fuzzy Enlightened Plushie</Dest>
+    </String>
+  
+    <String List="0" sID="044595">
+      <EDID>Recipe_Workshop_Container_WorkshopSafeFloor01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Floor Safe</Source>
+      <Dest>MOST WANTED|Plan: Floor Safe</Dest>
+    </String>
+    <String List="0" sID="41005CA5">
+      <EDID>Recipe_Workshop_NWOT_CappyClapper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cappy Clapper</Source>
+      <Dest>NUKA WORLD|Plan: Cappy Clapper</Dest>
+    </String>
+    <String List="0" sID="41005CA6">
+      <EDID>Recipe_Workshop_NWOT_BottleBot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bottle Bot</Source>
+      <Dest>NUKA WORLD|Plan: Bottle Bot</Dest>
+    </String>
+    <String List="0" sID="41005CA7">
+      <EDID>E09A_Recipe_Workshop_NWOT_DesktopNukaLauncher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Desktop Nuka Launcher</Source>
+      <Dest>SEISMIC ACTIVITY|Plan: Desktop Nuka Launcher</Dest>
+    </String>
+    <String List="0" sID="41005CA8">
+      <EDID>Recipe_Workshop_FloorDecor_NWOT_Carnival_Statue_04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bottle and Cappy Balloon Statue</Source>
+      <Dest>NUKA WORLD|Plan: Bottle and Cappy Balloon Statue</Dest>
+    </String>
+    <String List="0" sID="41005CA9">
+      <EDID>E09A_Recipe_Workshop_NWOT_NukaLauncher_Ornament</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka Launcher Ornament</Source>
+      <Dest>SEISMIC ACTIVITY|Plan: Nuka Launcher Ornament</Dest>
+    </String>
+    <String List="0" sID="41005CAA">
+      <EDID>Recipe_Workshop_FloorDecor_NWOT_Carnival_Statue_03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bottle and Cappy Hoop Jump Statue</Source>
+      <Dest>NUKA WORLD|Plan: Bottle and Cappy Hoop Jump Statue</Dest>
+    </String>
+    <String List="0" sID="41005CAB">
+      <EDID>E09D_Recipe_Headwear_DeputysHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Deputy's Hat</Source>
+      <Dest>MOST WANTED|Plan: Deputy's Hat</Dest>
+    </String>
+    <String List="0" sID="41005CAC">
+      <EDID>E09D_Recipe_Headwear_SheriffsHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sheriff's Hat</Source>
+      <Dest>MOST WANTED|Plan: Sheriff's Hat</Dest>
+    </String>
+    <String List="0" sID="41005CAD">
+      <EDID>Recipe_Workshop_FloorDecor_NWOT_Carnival_Statue_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bottle and Cappy Painting Statue</Source>
+      <Dest>NUKA WORLD|Plan: Bottle and Cappy Painting Statue</Dest>
+    </String>
+    <String List="0" sID="41005CAE">
+      <EDID>Recipe_Workshop_FloorDecor_NWOT_Carnival_Statue_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bottle and Cappy Walking Globe Statue</Source>
+      <Dest>NUKA WORLD|Plan: Bottle and Cappy Walking Globe Statue</Dest>
+    </String>
+    <String List="0" sID="41006643">
+      <EDID>NWOT_Recipe_Food_CarnivalPie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Carnival Pie</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Carnival Pie</Dest>
+    </String>
+    <String List="0" sID="41006644">
+      <EDID>NWOT_Recipe_Food_GulperStuffedFoot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Gulper Stuffed Foot</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Gulper Stuffed Foot</Dest>
+    </String>
+    <String List="0" sID="41006646">
+      <EDID>NWOT_Recipe_Food_YaoGuaiPastry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Yao Guai Pastry</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Yao Guai Pastry</Dest>
+    </String>
+    <String List="0" sID="41006647">
+      <EDID>NWOT_Recipe_Food_RadscorpionKebab</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Radscorpion Kebab</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Radscorpion Kebab</Dest>
+    </String>
+    <String List="0" sID="41006648">
+      <EDID>NWOT_Recipe_Food_CaramelMutfruit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Caramel Mutfruit</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Caramel Mutfruit</Dest>
+    </String>
+    <String List="0" sID="41006649">
+      <EDID>NWOT_Recipe_Food_RadroachSkewer2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Fried Radroach On A Stick</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Fried Radroach On A Stick</Dest>
+    </String>
+    <String List="0" sID="4100664A">
+      <EDID>NWOT_Recipe_Food_NukaDog</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Nuka-Dog</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Nuka-Dog</Dest>
+    </String>
+    <String List="0" sID="4100664B">
+      <EDID>NWOT_Recipe_Food_BrahminBurgers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Brahmin Burgers</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Brahmin Burgers</Dest>
+    </String>
+    <String List="0" sID="610134D7">
+      <EDID>E09B_Workshop_Recipe_CappyPlush</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cappy Plush</Source>
+      <Dest>SPIN THE WHEEL|Plan: Cappy Plush</Dest>
+    </String>
+    <String List="0" sID="6101359E">
+      <EDID>E09B_Workshop_Recipe_Stilts</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Stilts</Source>
+      <Dest>SPIN THE WHEEL|Plan: Circus Stilts</Dest>
+    </String>
+    <String List="0" sID="6101359F">
+      <EDID>E09B_Workshop_Recipe_BottlePlush</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bottle Plush</Source>
+      <Dest>SPIN THE WHEEL|Plan: Bottle Plush</Dest>
+    </String>
+    <String List="0" sID="610135A0">
+      <EDID>E09B_Workshop_Recipe_Stairs</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Stairs</Source>
+      <Dest>SPIN THE WHEEL|Plan: Circus Stairs</Dest>
+    </String>
+    <String List="0" sID="610135A1">
+      <EDID>E09B_Workshop_Recipe_SeeSaw</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Seesaw</Source>
+      <Dest>SPIN THE WHEEL|Plan: Circus Seesaw</Dest>
+    </String>
+    <String List="0" sID="610135A2">
+      <EDID>E09B_Workshop_Recipe_Ball</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Walking Globe</Source>
+      <Dest>SPIN THE WHEEL|Plan: Circus Walking Globe</Dest>
+    </String>
+    <String List="0" sID="610135A3">
+      <EDID>E09B_Workshop_Recipe_HulaHoop</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hula Hoop</Source>
+      <Dest>SPIN THE WHEEL|Plan: Hula Hoop</Dest>
+    </String>
+    <String List="0" sID="610135A4">
+      <EDID>E09B_Workshop_Recipe_CubeToy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Cube</Source>
+      <Dest>SPIN THE WHEEL|Plan: Circus Cube</Dest>
+    </String>
+    <String List="0" sID="610135A5">
+      <EDID>E09B_Workshop_Recipe_StageTrim</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Bench</Source>
+      <Dest>SPIN THE WHEEL|Plan: Circus Bench</Dest>
+    </String>
+    <String List="0" sID="610135A7">
+      <EDID>E09B_Workshop_Recipe_CircusStool</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Stool</Source>
+      <Dest>SPIN THE WHEEL|Plan: Nuka-Stool</Dest>
+    </String>
+    <String List="0" sID="610135A8">
+      <EDID>E09B_Workshop_Recipe_Ornament</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Spin the Wheel Ornament</Source>
+      <Dest>SPIN THE WHEEL|Plan: Spin the Wheel Ornament</Dest>
+    </String>
+    <String List="0" sID="6101370B">
+      <EDID>E09D_Recipe_Workshop_TownsFolk</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Townsfolk Cutouts</Source>
+      <Dest>MOST WANTED|Plan: Townsfolk Cutouts</Dest>
+    </String>
+    <String List="0" sID="6101370C">
+      <EDID>E09D_Recipe_Workshop_WantedPoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wanted Poster</Source>
+      <Dest>MOST WANTED|Plan: Wanted Poster</Dest>
+    </String>
+    <String List="0" sID="6101370E">
+      <EDID>E09D_Recipe_Workshop_Tombstone</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Tomb Stones</Source>
+      <Dest>MOST WANTED|Plan: Tomb Stones</Dest>
+    </String>
+    <String List="0" sID="61013710">
+      <EDID>E09D_Recipe_Workshop_SafeWall</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wall Safe</Source>
+      <Dest>MOST WANTED|Plan: Wall Safe</Dest>
+    </String>
+    <String List="0" sID="61013711">
+      <EDID>E09D_Recipe_Workshop_SafeFloor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Floor Safe</Source>
+      <Dest>MOST WANTED|Plan: Floor Safe</Dest>
+    </String>
+    <String List="0" sID="61013712">
+      <EDID>E09D_Recipe_Workshop_Cappy&amp;BottleCowboys</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cappy &amp; Bottle Cowboy Cutouts</Source>
+      <Dest>MOST WANTED|Plan: Cappy &amp; Bottle Cowboy Cutouts</Dest>
+    </String>
+    <String List="0" sID="61013714">
+      <EDID>E09D_Recipe_Workshop_EntranceSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wild West Show Entrance Sign</Source>
+      <Dest>MOST WANTED|Plan: Wild West Show Entrance Sign</Dest>
+    </String>
+    <String List="0" sID="61013715">
+      <EDID>E09D_Recipe_Workshop_PokerSet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Poker Set</Source>
+      <Dest>MOST WANTED|Plan: Poker Set</Dest>
+    </String>
+    <String List="0" sID="61013717">
+      <EDID>E09D_Recipe_Workshop_WesternMural</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Western Mural</Source>
+      <Dest>MOST WANTED|Plan: Western Mural</Dest>
+    </String>
+    <String List="0" sID="61013718">
+      <EDID>E09D_Recipe_Workshop_Wagon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Getaway Wagon</Source>
+      <Dest>MOST WANTED|Plan: Getaway Wagon</Dest>
+    </String>
+    <String List="0" sID="61014143">
+      <EDID>NWOT_Recipe_CappyFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cappy Backpack Flair</Source>
+      <Dest>NUKA WORLD|Plan: Cappy Backpack Flair</Dest>
+    </String>
+    <String List="0" sID="61014144">
+      <EDID>NWOT_Recipe_BottleFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bottle Backpack Flair</Source>
+      <Dest>NUKA WORLD|Plan: Bottle Backpack Flair</Dest>
+    </String>
+    <String List="0" sID="61014145">
+      <EDID>E09D_Recipe_NukaCowboyHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-World Cowboy Hat</Source>
+      <Dest>MOST WANTED|Plan: Nuka-World Cowboy Hat</Dest>
+    </String>
+    <String List="0" sID="61014146">
+      <EDID>E09A_Recipe_UltraciteTitanFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Titan Backpack Flair</Source>
+      <Dest>SEISMIC ACTIVITY|Plan: Ultracite Titan Backpack Flair</Dest>
+    </String>
+    <String List="0" sID="61014147">
+      <EDID>E09B_Recipe_Workshop_FloorDecor_Snowglobe_STW</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Spin the Wheel Snow Globe</Source>
+      <Dest>SPIN THE WHEEL|Plan: Spin the Wheel Snow Globe</Dest>
+    </String>
+    <String List="0" sID="61014149">
+      <EDID>E09D_Recipe_NukaCowboyDuster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-World Cowboy Duster</Source>
+      <Dest>MOST WANTED|Plan: Nuka-World Cowboy Duster</Dest>
+    </String>
+    <String List="0" sID="6101414B">
+      <EDID>NWOT_Recipe_mod_SuperSledge_Melee_Paint_CappySmasher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cappy Smasher Super Sledge Paint</Source>
+      <Dest>NUKA WORLD|Plan: Cappy Smasher Super Sledge Paint</Dest>
+    </String>
+    <String List="0" sID="6101414D">
+      <EDID>E09C_Recipe_Workshop_FloorDecor_Snowglobe_ToL</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Tunnel of Love Snow Globe</Source>
+      <Dest>TUNNEL OF LOVE|Plan: Tunnel of Love Snow Globe</Dest>
+    </String>
+    <String List="0" sID="6101414E">
+      <EDID>E09D_Recipe_Workshop_FloorDecor_Snowglobe_MostWanted</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Most Wanted Snow Globe</Source>
+      <Dest>MOST WANTED|Plan: Most Wanted Snow Globe</Dest>
+    </String>
+    <String List="0" sID="610141EC">
+      <EDID>E09A_Recipe_Workshop_Abomination_Plushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Titan Plushie</Source>
+      <Dest>SEISMIC ACTIVITY|Plan: Titan Plushie</Dest>
+    </String>
+    <String List="0" sID="610144F7">
+      <EDID>E09A_Recipe_Workshop_FloorDecor_Snowglobe_NukaLauncher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka Launcher Snow Globe</Source>
+      <Dest>SEISMIC ACTIVITY|Plan: Nuka Launcher Snow Globe</Dest>
+    </String>
+    <String List="0" sID="61014978">
+      <EDID>NWOT_Recipe_Workshop_Structure_NukaStallCrates</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Cola Crate Stalls</Source>
+      <Dest>NUKA WORLD|Plan: Nuka-Cola Crate Stalls</Dest>
+    </String>
+    <String List="0" sID="61014979">
+      <EDID>NWOT_Recipe_Workshop_FloorDecor_AdBarriers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Cola Ad Barrier</Source>
+      <Dest>NUKA WORLD|Plan: Nuka-Cola Ad Barrier</Dest>
+    </String>
+    <String List="0" sID="6101497A">
+      <EDID>E09D_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wild West Show Posters</Source>
+      <Dest>MOST WANTED|Plan: Wild West Show Posters</Dest>
+    </String>
+    <String List="0" sID="6101497B">
+      <EDID>E09A_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka Launcher Posters</Source>
+      <Dest>SEISMIC ACTIVITY|Plan: Nuka Launcher Posters</Dest>
+    </String>
+    <String List="0" sID="6101497C">
+      <EDID>E09C_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Tunnel of Love Poster</Source>
+      <Dest>TUNNEL OF LOVE|Plan: Tunnel of Love Poster</Dest>
+    </String>
+    <String List="0" sID="6101497D">
+      <EDID>E09B_Workshop_Recipe_Poster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Spin The Wheel Posters</Source>
+      <Dest>SPIN THE WHEEL|Plan: Spin The Wheel Posters</Dest>
+    </String>
+    <String List="0" sID="6101497E">
+      <EDID>NWOT_Recipe_Workshop_FloorDecor_LargeUltraciteShard</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Large Ultracite Shard</Source>
+      <Dest>SEISMIC ACTIVITY|Plan: Large Ultracite Shard</Dest>
+    </String>
+    <String List="0" sID="6101497F">
+      <EDID>E09A_Recipe_Workshop_FloorDecor_LargeUltraciteShard</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Large Ultracite Shard</Source>
+      <Dest>SEISMIC ACTIVITY|Plan: Large Ultracite Shard</Dest>
+    </String>
+    <String List="0" sID="61014980">
+      <EDID>NWOT_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Cade Poster</Source>
+      <Dest>NUKA WORLD|Plan: Nuka-Cade Poster</Dest>
+    </String>
+    <String List="0" sID="79000C4A">
+      <EDID>NWOT_Recipe_Food_RadscorpionSkewer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Fried Scorpion On A Stick</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Fried Scorpion On A Stick</Dest>
+    </String>
+    <String List="0" sID="81004544">
+      <EDID>E09A_Recipe_Workshop_NWOTCoaster_Toy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka Launcher Model</Source>
+      <Dest>SEISMIC ACTIVITY|Plan: Nuka Launcher Model</Dest>
+    </String>
+    <String List="0" sID="81004885">
+      <EDID>Recipe_Workshop_NWOTBalloon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Cola Balloons</Source>
+      <Dest>NUKA WORLD|Plan: Nuka-Cola Balloons</Dest>
+    </String>
+    <String List="0" sID="810049AB">
+      <EDID>E09C_Recipe_Workshop_CupidCappy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cupid Cappy Sign</Source>
+      <Dest>TUNNEL OF LOVE|Plan: Cupid Cappy Sign</Dest>
+    </String>
+  
+    <String List="0" sID="6101A8F3">
+      <EDID>Recipe_XPD_AC_Workshop_Lights_MezzanineLights</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mezzanine Lights</Source>
+      <Dest>MOST SENS. GAME|Plan: Mezzanine Lights</Dest>
+    </String>
+    <String List="0" sID="6101A8F4">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_NightclubExtSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nightclub Exterior Sign</Source>
+      <Dest>TAX EVASION|Plan: Nightclub Exterior Sign</Dest>
+    </String>
+    <String List="0" sID="6101A8F5">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_AtlanticCitySign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atlantic City Sign</Source>
+      <Dest>MOST SENS. GAME|Plan: Atlantic City Sign</Dest>
+    </String>
+    <String List="0" sID="6101A8F6">
+      <EDID>Recipe_XPD_AC_Workshop_NeapolitanExtSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Neapolitan Exterior Sign</Source>
+      <Dest>TAX EVASION|Plan: Neapolitan Exterior Sign</Dest>
+    </String>
+    <String List="0" sID="6101ABC5">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownRusherTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Thorn Tube</Source>
+      <Dest>HUMAN CONDITION|Plan: Overgrown Thorn Tube</Dest>
+    </String>
+    <String List="0" sID="6101ABC6">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownPollinatorTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Pollinator Tube</Source>
+      <Dest>HUMAN CONDITION|Plan: Overgrown Pollinator Tube</Dest>
+    </String>
+    <String List="0" sID="6101ABC7">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownElderTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Elder Tube</Source>
+      <Dest>HUMAN CONDITION|Plan: Overgrown Elder Tube</Dest>
+    </String>
+    <String List="0" sID="6101B3BD">
+      <EDID>Recipe_XPD_AC_Workshop_Tables_DiceTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atlantic City Dice Table</Source>
+      <Dest>TAX EVASION|Plan: Atlantic City Dice Table</Dest>
+    </String>
+    <String List="0" sID="6101B589">
+      <EDID>Recipe_XPD_AC_Clothes_BatsuuriTwins</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Seasoned Survivor Outfit</Source>
+      <Dest>MOST SENS. GAME|Plan: Seasoned Survivor Outfit</Dest>
+    </String>
+    <String List="0" sID="6101B58B">
+      <EDID>Recipe_XPD_AC_Headwear_Veracio</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Snake Wrangler Hat</Source>
+      <Dest>MOST SENS. GAME|Plan: Snake Wrangler Hat</Dest>
+    </String>
+    <String List="0" sID="6101B58C">
+      <EDID>Recipe_XPD_AC_Clothes_Veracio</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Snake Wrangler Outfit</Source>
+      <Dest>MOST SENS. GAME|Plan: Snake Wrangler Outfit</Dest>
+    </String>
+    <String List="0" sID="6101BDF3">
+      <EDID>Recipe_XPD_AC_Outfit_MotherCharlotte</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sunburst Sequin Dress</Source>
+      <Dest>MOST SENS. GAME|Plan: Sunburst Sequin Dress</Dest>
+    </String>
+    <String List="0" sID="6101C36A">
+      <EDID>Recipe_XPD_AC_Armor_Muni_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Civil Engineer Underarmor</Source>
+      <Dest>HUMAN CONDITION|Plan: Civil Engineer Underarmor</Dest>
+    </String>
+    <String List="0" sID="6101CBCE">
+      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Operator</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Muni Operator Outfit</Source>
+      <Dest>HUMAN CONDITION|Plan: Muni Operator Outfit</Dest>
+    </String>
+    <String List="0" sID="6101CBD0">
+      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Drudge</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Muni Drudger Outfit</Source>
+      <Dest>HUMAN CONDITION|Plan: Muni Drudger Outfit</Dest>
+    </String>
+    <String List="0" sID="6101CBD2">
+      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Worker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Muni Worker Outfit</Source>
+      <Dest>HUMAN CONDITION|Plan: Muni Worker Outfit</Dest>
+    </String>
+    <String List="0" sID="71002A99">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_GameShowSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Game Show Sign</Source>
+      <Dest>MOST SENS. GAME|Plan: Game Show Sign</Dest>
+    </String>
+    <String List="0" sID="71002A9A">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_SlotMachines</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atlantic City Slot Machines</Source>
+      <Dest>TAX EVASION|Plan: Atlantic City Slot Machines</Dest>
+    </String>
+    <String List="0" sID="71002AA0">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_WorldsBiggestSlotMachine</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: World's Biggest Slot Machine</Source>
+      <Dest>TAX EVASION|Plan: World's Biggest Slot Machine</Dest>
+    </String>
+    <String List="0" sID="71003086">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_AquariumPillar</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Aquarium Pillar</Source>
+      <Dest>MOST SENS. GAME|Plan: Aquarium Pillar</Dest>
+    </String>
+    <String List="0" sID="71003F07">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_HorseRacingMachine</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atlantic City Mechanical Derby Game</Source>
+      <Dest>TAX EVASION|Plan: Atlantic City Mechanical Derby Game</Dest>
+    </String>
+    <String List="0" sID="71003F09">
+      <EDID>Recipe_XPD_AC_Workshop_Tables_RouletteTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atlantic City Roulette Table</Source>
+      <Dest>TAX EVASION|Plan: Atlantic City Roulette Table</Dest>
+    </String>
+    <String List="0" sID="71003F0A">
+      <EDID>Recipe_XPD_AC_Workshop_Tables_CardTables</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atlantic City Card Tables</Source>
+      <Dest>TAX EVASION|Plan: Atlantic City Card Tables</Dest>
+    </String>
+    <String List="0" sID="71003F3A">
+      <EDID>Recipe_XPD_AC_RouletteRevolverPaint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: .44 Roulette Paint</Source>
+      <Dest>TAX EVASION|Plan: .44 Roulette Paint</Dest>
+    </String>
+    <String List="0" sID="71003F48">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownVehicle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Vehicle</Source>
+      <Dest>HUMAN CONDITION|Plan: Overgrown Vehicle</Dest>
+    </String>
+    <String List="0" sID="710040D5">
+      <EDID>Recipe_XPD_AC_Outfit_MayorTimOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Apocalyptic Farmer Outfit</Source>
+      <Dest>HUMAN CONDITION|Plan: Apocalyptic Farmer Outfit</Dest>
+    </String>
+    <String List="0" sID="710040D8">
+      <EDID>Recipe_XPD_AC_Headwear_MayorTimOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Apocalyptic Farmer Headwear</Source>
+      <Dest>HUMAN CONDITION|Plan: Apocalyptic Farmer Headwear</Dest>
+    </String>
+    <String List="0" sID="710040DB">
+      <EDID>Recipe_XPD_AC_Outfit_ButtercupOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Enforcer's Outfit</Source>
+      <Dest>HUMAN CONDITION|Plan: Enforcer's Outfit</Dest>
+    </String>
+    <String List="0" sID="710040F4">
+      <EDID>Recipe_XPD_AC_Workshop_LesserDevilPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Lesser Devil Plushies</Source>
+      <Dest>TAX EVASION|Plan: Lesser Devil Plushies</Dest>
+    </String>
+    <String List="0" sID="7100410B">
+      <EDID>Recipe_XPD_AC_ShowstopperShotgunPaint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Showstopper Shotgun Paint</Source>
+      <Dest>MOST SENS. GAME|Plan: Showstopper Shotgun Paint</Dest>
+    </String>
+    <String List="0" sID="7100410E">
+      <EDID>Recipe_XPD_AC_Workshop_AquariumWhaleDisplay</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Aquarium Whale Display</Source>
+      <Dest>MOST SENS. GAME|Plan: Aquarium Whale Display</Dest>
+    </String>
+    <String List="0" sID="71004B56">
+      <EDID>Recipe_XPD_AC_OvergrownMissileLauncher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Missile Launcher Paint</Source>
+      <Dest>MOST SENS. GAME|Plan: Overgrown Missile Launcher Paint</Dest>
+    </String>
+    <String List="0" sID="71004B57">
+      <EDID>Recipe_XPD_AC_OvergrownAssaultRifle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Assault Rifle Paint</Source>
+      <Dest>MOST SENS. GAME|Plan: Overgrown Assault Rifle Paint</Dest>
+    </String>
+    <String List="0" sID="71004C39">
+      <EDID>Recipe_XPD_AC_OvergrownDeathclawGauntlet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overgrown Deathclaw Gauntlet Paint</Source>
+      <Dest>MOST SENS. GAME|Plan: Overgrown Deathclaw Gauntlet Paint</Dest>
+    </String>
+    <String List="0" sID="710063B2">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_SlotMachinePodiums</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Slot Machine Podiums</Source>
+      <Dest>TAX EVASION|Plan: Slot Machine Podiums</Dest>
+    </String>
+    <String List="0" sID="71006627">
+      <EDID>Recipe_XPD_AC_Workshop_QuentinosSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Quentino's Sign</Source>
+      <Dest>TAX EVASION|Plan: Quentino's Sign</Dest>
+    </String>
+    <String List="0" sID="71006892">
+      <EDID>Recipe_XPD_AC_Workshop_SeaAnimalPillars</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sea Animal Pillars</Source>
+      <Dest>MOST SENS. GAME|Plan: Sea Animal Pillars</Dest>
+    </String>
+  
+    <String List="0" sID="3900077D">
+      <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_Rugs_Colossus_Rug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wendigo Colossus Skin Rug</Source>
+      <Dest>COLOSS+|Plan: Wendigo Colossus Skin Rug</Dest>
+    </String>
+    <String List="0" sID="39000781">
+      <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_Taxidermy_WendigoColossus</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wendigo Colossus Heads</Source>
+      <Dest>COLOSS++|Plan: Wendigo Colossus Heads</Dest>
+    </String>
+    <String List="0" sID="39000782">
+      <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_WendigoColossus_Plushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wendigo Colossus Plushie</Source>
+      <Dest>COLOSS|Plan: Wendigo Colossus Plushie</Dest>
+    </String>
+    <String List="0" sID="39000789">
+      <EDID>EN06_mod_melee_Shovel_Custom_Cursed</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Cursed Shovel</Source>
+      <Dest>COLOSS|Cursed Shovel</Dest>
+    </String>
+    <String List="0" sID="3900078B">
+      <EDID>EN06_mod_melee_Pickaxe_Custom_Cursed</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Cursed Pickaxe</Source>
+      <Dest>COLOSS++|Cursed Pickaxe</Dest>
+    </String>
+    <String List="0" sID="3900078D">
+      <EDID>EN06_mod_Ranged_HarpoonGun_Custom_Cursed</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Cursed Harpoon Gun</Source>
+      <Dest>COLOSS+|Cursed Harpoon Gun</Dest>
+    </String>
+    <String List="0" sID="39000791">
+      <EDID>E06_Colossus_Headwear_DeepMine_GasMask</EDID>
+      <REC id="0" idMax="1">ARMO:FULL</REC>
+      <Source>Reclaimed Deep Mining Gas Mask</Source>
+      <Dest>COLOSS+++|Reclaimed Deep Mining Gas Mask</Dest>
+    </String>
+    <String List="0" sID="39000942">
+      <EDID>E06_Colossus_Headwear_DeepMine_GasMask</EDID>
+      <REC id="1" idMax="1">ARMO:FULL</REC>
+      <Source>Reclaimed Deep Mining Gas Mask</Source>
+      <Dest>COLOSS+++|Reclaimed Deep Mining Gas Mask</Dest>
+    </String>
+    <String List="0" sID="610093EB">
+      <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_WendigoColossusMeatPile</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Meat Pile</Source>
+      <Dest>COLOSS|Plan: Meat Pile</Dest>
+    </String>
+    <String List="0" sID="6100D770">
+      <EDID>Recipe_Workshop_Container_StashBox_Supply_Crate_Large</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Large Supply Crate</Source>
+      <Dest>COLOSS+++|Plan: Large Supply Crate</Dest>
+    </String>
+    <String List="0" sID="6100D776">
+      <EDID>recipe_mod_weapon_LaserGun_material_HotRodFlames</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Laser Gun Hot Rod Flames Paint</Source>
+      <Dest>COLOSS+++|Plan: Laser Gun Hot Rod Flames Paint</Dest>
+    </String>
+    <String List="0" sID="6100D778">
+      <EDID>recipe_Headwear_CenturionHelmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Centurion Helmet</Source>
+      <Dest>COLOSS+++|Plan: Centurion Helmet</Dest>
+    </String>
+    <String List="0" sID="6100D77C">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Inferno_Mk_3</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Inferno Mark 3 Power Armor Paints</Source>
+      <Dest>COLOSS+++|Plan: Inferno Mark 3 Power Armor Paints</Dest>
+    </String>
+  
+    <String List="0" sID="61003D63">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Half Full Pumpkin Rack</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Half Full Pumpkin Rack</Dest>
+    </String>
+    <String List="0" sID="61003D64">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Half Empty Pumpkin Rack</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Half Empty Pumpkin Rack</Dest>
+    </String>
+    <String List="0" sID="61003D65">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved06</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Jack O'Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Alien Jack O'Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D66">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Full Pumpkin Rack</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Full Pumpkin Rack</Dest>
+    </String>
+    <String List="0" sID="61003D67">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault-Tec Jack O'Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Vault-Tec Jack O'Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D68">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Classic Jack O'Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Classic Jack O'Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D69">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pumpkin Rack</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Pumpkin Rack</Dest>
+    </String>
+    <String List="0" sID="61003D6A">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved08</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Happy Jack O'Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Happy Jack O'Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D6B">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved10</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Evil Jack O'Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Evil Jack O'Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D6C">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved05</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Surprised Jack O'Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Surprised Jack O'Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D6D">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved09</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Practice Jack O'Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Practice Jack O'Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D6E">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault Door Jack O'Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Vault Door Jack O'Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D6F">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved07</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mobster Jack O'Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Mobster Jack O'Lantern</Dest>
+    </String>
+    <String List="0" sID="61003D70">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault Boy Jack O'Lantern</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Vault Boy Jack O'Lantern</Dest>
+    </String>
+    <String List="0" sID="61003E16">
+      <EDID>Recipe_Workshop_FloorDecor_Statues_GrimReaperCardboardCutouts</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Grim Reaper Vault-Boy Cutout</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Grim Reaper Vault-Boy Cutout</Dest>
+    </String>
+    <String List="0" sID="6101A70A">
+      <EDID>Recipe_mod_Chainsaw_Paint_GhostlyGrinder</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Chainsaw Ghostly Grinder Paint</Source>
+      <Dest>MISCHIEF NIGHT**|Plan: Chainsaw Ghostly Grinder Paint</Dest>
+    </String>
+    <String List="0" sID="6101A70B">
+      <EDID>Recipe_Headwear_SkullRider_Rad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Rad Skull Rider Helmet</Source>
+      <Dest>MISCHIEF NIGHT**|Plan: Rad Skull Rider Helmet</Dest>
+    </String>
+    <String List="0" sID="6101A70D">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hellfire V2 Prototype Power Armor Helmet Paint</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Hellfire V2 Prototype Power Armor Helmet Paint</Dest>
+    </String>
+    <String List="0" sID="6101A70E">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost1</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Ghost Lantern A</Source>
+      <Dest>MISCHIEF NIGHT**|Plan: Honeycomb Paper Ghost Lantern A</Dest>
+    </String>
+    <String List="0" sID="6101A70F">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Arms</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hellfire V2 Prototype Power Armor Arms Paint</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Hellfire V2 Prototype Power Armor Arms Paint</Dest>
+    </String>
+    <String List="0" sID="6101A710">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Spider</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Spider Lantern</Source>
+      <Dest>MISCHIEF NIGHT**|Plan: Honeycomb Paper Spider Lantern</Dest>
+    </String>
+    <String List="0" sID="6101A712">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern1</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Jack-o'-Lantern A</Source>
+      <Dest>MISCHIEF NIGHT**|Plan: Honeycomb Paper Jack-o'-Lantern A</Dest>
+    </String>
+    <String List="0" sID="6101A713">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Jack-o'-Lantern B</Source>
+      <Dest>MISCHIEF NIGHT**|Plan: Honeycomb Paper Jack-o'-Lantern B</Dest>
+    </String>
+    <String List="0" sID="6101A714">
+      <EDID>Recipe_Headwear_Executioner2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Executioner Mask</Source>
+      <Dest>MISCHIEF NIGHT**|Plan: Executioner Mask</Dest>
+    </String>
+    <String List="0" sID="6101A715">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Ghost Lantern B</Source>
+      <Dest>MISCHIEF NIGHT**|Plan: Honeycomb Paper Ghost Lantern B</Dest>
+    </String>
+    <String List="0" sID="6101A716">
+      <EDID>Recipe_Workshop_FloorDecor_GiantDinosaur_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Giant Red Dinosaur</Source>
+      <Dest>MISCHIEF NIGHT**|Plan: Giant Red Dinosaur</Dest>
+    </String>
+    <String List="0" sID="6101A717">
+      <EDID>Recipe_mod_AssaultRifle_Paint_WraithsWrath</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Assault Rifle Wraith's Wrath Paint</Source>
+      <Dest>MISCHIEF NIGHT**|Plan: Assault Rifle Wraith's Wrath Paint</Dest>
+    </String>
+    <String List="0" sID="6101A718">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Legs</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hellfire V2 Prototype Power Armor Legs Paint</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Hellfire V2 Prototype Power Armor Legs Paint</Dest>
+    </String>
+    <String List="0" sID="6101A719">
+      <EDID>Recipe_workshop_FloorDecor_Skeleton_DrBones</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Dr. Bones</Source>
+      <Dest>MISCHIEF NIGHT**|Plan: Dr. Bones</Dest>
+    </String>
+    <String List="0" sID="6101A71A">
+      <EDID>Recipe_Backpack_Standard_Material_Princess</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Princess Backpack</Source>
+      <Dest>MISCHIEF NIGHT**|Plan: Princess Backpack</Dest>
+    </String>
+    <String List="0" sID="6101A71B">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hellfire V2 Prototype Power Armor Torso Paint</Source>
+      <Dest>MISCHIEF NIGHT|Plan: Hellfire V2 Prototype Power Armor Torso Paint</Dest>
+    </String>
+  
+    <String List="0" sID="041605">
+      <EDID>POST_recipe_mod_AlienBlaster_Scope_ScopeShort_NV</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Blaster Short NV Scope</Source>
+      <Dest>ALIEN|Plan: Alien Blaster Short NV Scope</Dest>
+    </String>
+    <String List="0" sID="04164F">
+      <EDID>recipe_mod_AlienBlaster_AlienMag_AmmoConversion</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Blaster Fusion Mag</Source>
+      <Dest>ALIEN|Plan: Alien Blaster Fusion Mag</Dest>
+    </String>
+    <String List="0" sID="046626">
+      <EDID>Recipe_Weapon_Ranged_AlienBlaster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Blaster</Source>
+      <Dest>ALIEN|Plan: Alien Blaster</Dest>
+    </String>
+    <String List="0" sID="41004728">
+      <EDID>Recipe_Workshop_ZetanTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Tube</Source>
+      <Dest>ALIEN|Plan: Alien Tube</Dest>
+    </String>
+    <String List="0" sID="4100AAAF">
+      <EDID>Recipe_Invaders_AlienBlaster_Refined</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Zenith Alien Blaster Paint</Source>
+      <Dest>ALIEN 2024|Plan: Zenith Alien Blaster Paint</Dest>
+    </String>
+    <String List="0" sID="59000C2F">
+      <EDID>recipe_mod_AlienBlaster_AlienMag_DTPoison</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Blaster Poison Mag</Source>
+      <Dest>ALIEN|Plan: Alien Blaster Poison Mag</Dest>
+    </String>
+    <String List="0" sID="59000C30">
+      <EDID>recipe_mod_AlienBlaster_AlienMag_DTCryo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Blaster Cryo Mag</Source>
+      <Dest>ALIEN|Plan: Alien Blaster Cryo Mag</Dest>
+    </String>
+    <String List="0" sID="59000CD3">
+      <EDID>Recipe_Weapon_Ranged_AlienRifle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Disintegrator</Source>
+      <Dest>ALIEN|Plan: Alien Disintegrator</Dest>
+    </String>
+    <String List="0" sID="59000CDB">
+      <EDID>recipe_mod_AlienRifle_Receiver_DTCryo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Disintegrator Cryo Receiver</Source>
+      <Dest>ALIEN|Plan: Alien Disintegrator Cryo Receiver</Dest>
+    </String>
+    <String List="0" sID="59000CDC">
+      <EDID>recipe_mod_AlienRifle_Receiver_DTPoison</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Disintegrator Poison Receiver</Source>
+      <Dest>ALIEN|Plan: Alien Disintegrator Poison Receiver</Dest>
+    </String>
+    <String List="0" sID="59000CDD">
+      <EDID>recipe_mod_AlienRifle_Receiver_Sniper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Disintegrator High Powered Receiver</Source>
+      <Dest>ALIEN|Plan: Alien Disintegrator High Powered Receiver</Dest>
+    </String>
+    <String List="0" sID="59000CDE">
+      <EDID>recipe_mod_AlienRifle_Receiver_Auto</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Disintegrator Automatic Receiver</Source>
+      <Dest>ALIEN|Plan: Alien Disintegrator Automatic Receiver</Dest>
+    </String>
+    <String List="0" sID="59000DE2">
+      <EDID>Recipe_mod_melee_ElectroEnforcer_Spiked</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Spiked Electro Enforcer</Source>
+      <Dest>ALIEN|Plan: Spiked Electro Enforcer</Dest>
+    </String>
+    <String List="0" sID="59000DE3">
+      <EDID>Recipe_Weapon_Melee_ElectroEnforcer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Electro Enforcer</Source>
+      <Dest>ALIEN|Plan: Electro Enforcer</Dest>
+    </String>
+    <String List="0" sID="59000DE4">
+      <EDID>Recipe_mod_melee_ElectroEnforcer_Overcharged</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Overcharged Electro Enforcer</Source>
+      <Dest>ALIEN|Plan: Overcharged Electro Enforcer</Dest>
+    </String>
+    <String List="0" sID="59000DE5">
+      <EDID>Recipe_mod_melee_ElectroEnforcer_Poisoned</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Poisoned Electro Enforcer</Source>
+      <Dest>ALIEN|Plan: Poisoned Electro Enforcer</Dest>
+    </String>
+    <String List="0" sID="59000DE6">
+      <EDID>Recipe_mod_melee_ElectroEnforcer_Freezing</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Freezing Electro Enforcer</Source>
+      <Dest>ALIEN|Plan: Freezing Electro Enforcer</Dest>
+    </String>
+    <String List="0" sID="59000FE0">
+      <EDID>Recipe_Workshop_AlienOperatingBed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Corpse Operating Bed</Source>
+      <Dest>ALIEN|Plan: Alien Corpse Operating Bed</Dest>
+    </String>
+    <String List="0" sID="59001114">
+      <EDID>Recipe_Workshop_Container_StashBox_Zetan</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Stash Box</Source>
+      <Dest>ALIEN|Plan: Alien Stash Box</Dest>
+    </String>
+    <String List="0" sID="59001115">
+      <EDID>Recipe_Workshop_FloorDecor_Asteroid</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Asteroid</Source>
+      <Dest>ALIEN|Plan: Asteroid</Dest>
+    </String>
+    <String List="0" sID="6100F653">
+      <EDID>Recipe_Workshop_HumanMaleTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Human Tube 1</Source>
+      <Dest>ALIEN|Plan: Human Tube 1</Dest>
+    </String>
+    <String List="0" sID="6100F654">
+      <EDID>Recipe_Workshop_HumanFemaleTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Human Tube 2</Source>
+      <Dest>ALIEN|Plan: Human Tube 2</Dest>
+    </String>
+    <String List="0" sID="6101CA72">
+      <EDID>Recipe_Invaders_Armor_HazmatSuitTeal</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hazmat Suit - Teal</Source>
+      <Dest>ALIEN 2024|Plan: Hazmat Suit - Teal</Dest>
+    </String>
+    <String List="0" sID="6101CA74">
+      <EDID>Recipe_Invaders_Workshop_Lights_AlienHeadLamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Head Lamp</Source>
+      <Dest>ALIEN 2024|Plan: Alien Head Lamp</Dest>
+    </String>
+    <String List="0" sID="6101CA75">
+      <EDID>Recipe_Invaders_Workshop_Tables_AlienTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Table</Source>
+      <Dest>ALIEN 2024|Plan: Alien Table</Dest>
+    </String>
+    <String List="0" sID="6101CA77">
+      <EDID>Recipe_Invaders_Workshop_Lights_GlowingFlatwoodsMonsterLamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Glowing Flatwoods Monster Lamp</Source>
+      <Dest>ALIEN 2024|Plan: Glowing Flatwoods Monster Lamp</Dest>
+    </String>
+    <String List="0" sID="6101CA78">
+      <EDID>Recipe_Invaders_Workshop_WallDecor_AlienTargetPracticePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Target Practice Poster</Source>
+      <Dest>ALIEN 2024|Plan: Alien Target Practice Poster</Dest>
+    </String>
+  
+    <String List="0" sID="04BB27">
+      <EDID>P01C_Tadpole_Recipe_Workshop_WallDecor_FlagsUSA_Clean</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: U.S. Flags (Clean)</Source>
+      <Dest>TADPOLE|Plan: U.S. Flags (Clean)</Dest>
+    </String>
+    <String List="0" sID="04BB28">
+      <EDID>P01C_Tadpole_Recipe_Workshop_FloorDecor_Misc_PioneerScout_Tadpole</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pioneer Scout Banner: Tadpole</Source>
+      <Dest>TADPOLE|Plan: Pioneer Scout Banner: Tadpole</Dest>
+    </String>
+    <String List="0" sID="04BB29">
+      <EDID>P01C_Tadpole_Recipe_Workshop_WallDecor_Posters_PioneerScout_Plants</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pioneer Scout Plant Poster</Source>
+      <Dest>TADPOLE|Plan: Pioneer Scout Plant Poster</Dest>
+    </String>
+    <String List="0" sID="61003183">
+      <EDID>P01C_Tadpole_Recipe_Workshop_Bed_PioneerScout_SleepingBag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pioneer Scout Sleeping Bag</Source>
+      <Dest>TADPOLE|Plan: Pioneer Scout Sleeping Bag</Dest>
+    </String>
+  
+    <String List="0" sID="01367A">
+      <EDID>Clothes_Raider_Suit_01_GlovesB</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Field Jacket</Source>
+      <Dest>EXTREMELY RARE|Tattered Field Jacket</Dest>
+    </String>
+    <String List="0" sID="015275">
+      <EDID>Clothes_Raider_Suit_02A_GlovesC</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Leather Coat</Source>
+      <Dest>EXTREMELY RARE|Leather Coat</Dest>
+    </String>
+    <String List="0" sID="017C6C">
+      <EDID>Clothes_Raider_Suit_02B_GlovesC</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Traveling Leather Coat</Source>
+      <Dest>EXTREMELY RARE|Traveling Leather Coat</Dest>
+    </String>
+    <String List="0" sID="03FD04">
+      <EDID>Clothes_AsylumWorkerUniformRed</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Asylum Worker Uniform Red</Source>
+      <Dest>EXTREMELY RARE|Asylum Worker Uniform Red</Dest>
+    </String>
+    <String List="0" sID="03FD17">
+      <EDID>Clothes_Jumpsuit_WhitePowder</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>White Powder Jumpsuit</Source>
+      <Dest>EXTREMELY RARE|White Powder Jumpsuit</Dest>
+    </String>
+    <String List="0" sID="03FD19">
+      <EDID>Clothes_Jumpsuit_BOS</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>BOS Jumpsuit</Source>
+      <Dest>EXTREMELY RARE|BOS Jumpsuit</Dest>
+    </String>
+    <String List="0" sID="03FDB8">
+      <EDID>Headwear_Responders_FiremanHat</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Responder Fireman Helmet</Source>
+      <Dest>EXTREMELY RARE|Responder Fireman Helmet</Dest>
+    </String>
+    <String List="0" sID="03FE21">
+      <EDID>Headwear_EnclaveScoutUniform_Mask_Forest</EDID>
+      <REC id="0" idMax="1">ARMO:FULL</REC>
+      <Source>Forest Scout Armor Mask</Source>
+      <Dest>EXTREMELY RARE|Forest Scout Armor Mask</Dest>
+    </String>
+    <String List="0" sID="03FE75">
+      <EDID>Clothes_Responders_FiremanUniform</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Responder Fireman Uniform</Source>
+      <Dest>EXTREMELY RARE|Responder Fireman Uniform</Dest>
+    </String>
+    <String List="0" sID="03FEA0">
+      <EDID>Clothes_Jumpsuit_ForestCamo</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Forest Camo Jumpsuit</Source>
+      <Dest>EXTREMELY RARE|Forest Camo Jumpsuit</Dest>
+    </String>
+    <String List="0" sID="03FEBF">
+      <EDID>Headwear_EnclaveScoutUniform_Mask_Urban</EDID>
+      <REC id="0" idMax="1">ARMO:FULL</REC>
+      <Source>Urban Scout Armor Mask</Source>
+      <Dest>EXTREMELY RARE|Urban Scout Armor Mask</Dest>
+    </String>
+    <String List="0" sID="7100217F">
+      <EDID>Clothes_AsylumWorkerUniformRed_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Asylum Worker Uniform Red</Source>
+      <Dest>EXTREMELY RARE|Asylum Worker Uniform Red</Dest>
+    </String>
+  
+    <String List="0" sID="04458C">
+      <EDID>Recipe_Workshop_WallDecor_WallClocks_Cuckoo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cuckoo Clock</Source>
+      <Dest>VENDORBOT|Plan: Cuckoo Clock</Dest>
+    </String>
+    <String List="0" sID="0445AC">
+      <EDID>Recipe_Workshop_WallDecor_WallClocks_NukaCola</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Cola Clock</Source>
+      <Dest>VENDORBOT|Plan: Nuka-Cola Clock</Dest>
+    </String>
+  
+    <String List="0" sID="0465D1">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Megasloth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mounted Mega Sloth</Source>
+      <Dest>FASNACHT|Plan: Mounted Mega Sloth</Dest>
+    </String>
+    <String List="0" sID="04A4D4">
+      <EDID>Recipe_Cooking_Sausage_Fasnacht</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Fasnacht Sausage</Source>
+      <Dest>FASNACHT|Recipe: Fasnacht Sausage</Dest>
+    </String>
+    <String List="0" sID="04A4D5">
+      <EDID>Recipe_Cooking_Donut_Fasnacht</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Fasnacht Donut</Source>
+      <Dest>FASNACHT|Recipe: Fasnacht Donut</Dest>
+    </String>
+    <String List="0" sID="04B0CF">
+      <EDID>Headwear_Fasnacht_Mask_OldManWinter</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Winter Man Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Winter Man Mask</Dest>
+    </String>
+    <String List="0" sID="04B7F6">
+      <EDID>Recipe_Workshop_FloorDecor_Statues_Fasnacht_OldManWinter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Old Man Winter Effigy</Source>
+      <Dest>FASNACHT|Plan: Old Man Winter Effigy</Dest>
+    </String>
+    <String List="0" sID="4100095C">
+      <EDID>ATX_Headwear_Fasnacht_Mask_Deathclaw</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Deathclaw Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Deathclaw Mask</Dest>
+    </String>
+    <String List="0" sID="41000960">
+      <EDID>Headwear_Fasnacht_Mask_Raven</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Raven Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Raven Mask</Dest>
+    </String>
+    <String List="0" sID="41004290">
+      <EDID>Headwear_Fasnacht_Mask_Loon</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Loon Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Loon Mask</Dest>
+    </String>
+    <String List="0" sID="41004291">
+      <EDID>Headwear_Fasnacht_Mask_Hag</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Hag Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Hag Mask</Dest>
+    </String>
+    <String List="0" sID="41004292">
+      <EDID>Headwear_Fasnacht_Mask_Fiend</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Fiend Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Fiend Mask</Dest>
+    </String>
+    <String List="0" sID="410094A8">
+      <EDID>Recipe_Workshop_FloorDecor_HerdsmansBell</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Herdsman's Bell</Source>
+      <Dest>FASNACHT 2024|Plan: Herdsman's Bell</Dest>
+    </String>
+    <String List="0" sID="41009570">
+      <EDID>Recipe_Workshop_FloorDecor_Fasnacht_BeerStein_ScorchbeastQueen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Scorchbeast Queen Beer Stein</Source>
+      <Dest>FASNACHT 2024|Plan: Scorchbeast Queen Beer Stein</Dest>
+    </String>
+    <String List="0" sID="4100A890">
+      <EDID>Armor_PowerArmor_Fasnacht_FatherWinter_Helmet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Father Winter Helmet</Source>
+      <Dest>FASNACHT+|Father Winter Helmet</Dest>
+    </String>
+    <String List="0" sID="59001FB5">
+      <EDID>zzzATX_ENTM_Apparel_Headwear_Mask_FasnachtBlueDevil</EDID>
+      <REC>ENTM:FULL</REC>
+      <Source>Fasnacht Blue Devil Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Blue Devil Mask</Dest>
+    </String>
+    <String List="0" sID="59001FB7">
+      <EDID>zzzATX_ENTM_Apparel_Headwear_Mask_FasnachtBlueDevil</EDID>
+      <REC>ENTM:NNAM</REC>
+      <Source>Fasnacht Blue Devil Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Blue Devil Mask</Dest>
+    </String>
+    <String List="0" sID="61009D1C">
+      <EDID>Headwear_Fasnacht_Mask_CrazyGuy</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Crazy Guy Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Crazy Guy Mask</Dest>
+    </String>
+    <String List="0" sID="6100BBED">
+      <EDID>Headwear_Fasnacht_Mask_Demon</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Demon Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Demon Mask</Dest>
+    </String>
+    <String List="0" sID="6100BBEE">
+      <EDID>Headwear_Fasnacht_Mask_Brahmin</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Brahmin Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Brahmin Mask</Dest>
+    </String>
+    <String List="0" sID="6100BBF1">
+      <EDID>Headwear_Fasnacht_Mask_Jester</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Buffoon Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Buffoon Mask</Dest>
+    </String>
+    <String List="0" sID="6101AA7C">
+      <EDID>Headwear_Fasnacht_Mask_ScorchBeastQueen</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Scorchbeast Queen Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Scorchbeast Queen Mask</Dest>
+    </String>
+    <String List="0" sID="6101AA7D">
+      <EDID>Headwear_Fasnacht_Mask_BlueDevil</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Blue Devil Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Blue Devil Mask</Dest>
+    </String>
+    <String List="0" sID="6101AA7E">
+      <EDID>Headwear_Fasnacht_Mask_ScorchBeast</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Scorchbeast Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Scorchbeast Mask</Dest>
+    </String>
+    <String List="0" sID="6101AA7F">
+      <EDID>Headwear_Fasnacht_Mask_HoneyBee</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Honey Bee Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Honey Bee Mask</Dest>
+    </String>
+    <String List="0" sID="6101AA80">
+      <EDID>zzz_ATX_ENTM_Apparel_Headwear_Fasnacht_BlueDevil</EDID>
+      <REC>ENTM:FULL</REC>
+      <Source>Fasnacht Blue Devil Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Blue Devil Mask</Dest>
+    </String>
+    <String List="0" sID="6101B0D7">
+      <EDID>Headwear_Fasnacht_Mask_ScorchBeastQueen_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Scorchbeast Queen Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Glowing Scorchbeast Queen Mask</Dest>
+    </String>
+    <String List="0" sID="6101B0D9">
+      <EDID>Headwear_Fasnacht_Mask_BlueDevil_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Blue Devil Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Glowing Blue Devil Mask</Dest>
+    </String>
+    <String List="0" sID="6101B0DA">
+      <EDID>Headwear_Fasnacht_Mask_HoneyBee_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Honey Bee Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Glowing Honey Bee Mask</Dest>
+    </String>
+    <String List="0" sID="6101C095">
+      <EDID>zzzATX_ARMO_Headwear_Mask_FasnachtBlueDevil</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Blue Devil Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Blue Devil Mask</Dest>
+    </String>
+    <String List="0" sID="7100007A">
+      <EDID>Headwear_Fasnacht_Mask_Deathclaw</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Deathclaw Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Deathclaw Mask</Dest>
+    </String>
+    <String List="0" sID="710000A5">
+      <EDID>Recipe_Workshop_FloorDecor_Rugs_Fasnacht_ConfettiPile_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Confetti Pile 02</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Confetti Pile 02</Dest>
+    </String>
+    <String List="0" sID="710000A6">
+      <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_MountedRibbons_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Mounted Ribbons 01</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Mounted Ribbons 01</Dest>
+    </String>
+    <String List="0" sID="710000A7">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_RibbonsPole_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Ribbons Pole 01</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Ribbons Pole 01</Dest>
+    </String>
+    <String List="0" sID="710000A8">
+      <EDID>Recipe_Workshop_CeilingDecor_Misc_Fasnacht_Snowflakes_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Hanging Snowflakes 02</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Hanging Snowflakes 02</Dest>
+    </String>
+    <String List="0" sID="710000A9">
+      <EDID>Recipe_Workshop_CeilingDecor_Misc_Fasnacht_HangingRibbons_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Hanging Ribbons 01</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Hanging Ribbons 01</Dest>
+    </String>
+    <String List="0" sID="710000AA">
+      <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_Streamers_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Party Streamers 01</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Party Streamers 01</Dest>
+    </String>
+    <String List="0" sID="710000AB">
+      <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_BranchGarland_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Branch Garland 02</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Branch Garland 02</Dest>
+    </String>
+    <String List="0" sID="710000AC">
+      <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_MountedRibbons_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Mounted Ribbons 02</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Mounted Ribbons 02</Dest>
+    </String>
+    <String List="0" sID="710000AD">
+      <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_Garland_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Helvetia Garland 02</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Helvetia Garland 02</Dest>
+    </String>
+    <String List="0" sID="710000AE">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_LanternPole_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Pole Lantern 02</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Pole Lantern 02</Dest>
+    </String>
+    <String List="0" sID="710000AF">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_FlagPole_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Flag Pole 02</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Flag Pole 02</Dest>
+    </String>
+    <String List="0" sID="710000B0">
+      <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_WallFlag_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Mounted Flag 01</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Mounted Flag 01</Dest>
+    </String>
+    <String List="0" sID="710000B1">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_RibbonsPole_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Ribbons Pole 02</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Ribbons Pole 02</Dest>
+    </String>
+    <String List="0" sID="710000B2">
+      <EDID>Recipe_Workshop_FloorDecor_Rugs_Fasnacht_ConfettiPile_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Confetti Pile 01</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Confetti Pile 01</Dest>
+    </String>
+    <String List="0" sID="710000B3">
+      <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_Garland_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Helvetia Garland 01</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Helvetia Garland 01</Dest>
+    </String>
+    <String List="0" sID="710000B4">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_Balloons_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Balloons 02</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Balloons 02</Dest>
+    </String>
+    <String List="0" sID="710000B5">
+      <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_BranchGarland_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Branch Garland 01</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Branch Garland 01</Dest>
+    </String>
+    <String List="0" sID="710000B6">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_Balloons_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Balloons 01</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Balloons 01</Dest>
+    </String>
+    <String List="0" sID="710000B7">
+      <EDID>Recipe_Workshop_CeilingDecor_Misc_Fasnacht_Snowflakes_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Hanging Snowflakes 01</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Hanging Snowflakes 01</Dest>
+    </String>
+    <String List="0" sID="710000B8">
+      <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_WallFlag_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Mounted Flag 02</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Mounted Flag 02</Dest>
+    </String>
+    <String List="0" sID="710000B9">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_FlagPole_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Flag Pole 01</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Flag Pole 01</Dest>
+    </String>
+    <String List="0" sID="710000BA">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_LanternPole_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Pole Lantern 01</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Pole Lantern 01</Dest>
+    </String>
+    <String List="0" sID="710000BB">
+      <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_Streamers_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Party Streamers 02</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Party Streamers 02</Dest>
+    </String>
+    <String List="0" sID="710000BC">
+      <EDID>Recipe_Workshop_CeilingDecor_Misc_Fasnacht_HangingRibbons_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Hanging Ribbons 02</Source>
+      <Dest>FASNACHT|Plan: Fasnacht Hanging Ribbons 02</Dest>
+    </String>
+    <String List="0" sID="710000CD">
+      <EDID>Recipe_Workshop_FloorDecor_Rugs_MegaSloth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Megasloth Pelt Rug</Source>
+      <Dest>FASNACHT|Plan: Megasloth Pelt Rug</Dest>
+    </String>
+    <String List="0" sID="7100215C">
+      <EDID>Headwear_Fasnacht_Mask_Loon_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Loon Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Loon Mask</Dest>
+    </String>
+    <String List="0" sID="71002161">
+      <EDID>Headwear_Fasnacht_Mask_Jester_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Buffoon Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Buffoon Mask</Dest>
+    </String>
+    <String List="0" sID="71002166">
+      <EDID>Headwear_Fasnacht_Mask_Demon_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Demon Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Demon Mask</Dest>
+    </String>
+    <String List="0" sID="71002172">
+      <EDID>Headwear_Fasnacht_Mask_OldManWinter_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Winter Man Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Winter Man Mask</Dest>
+    </String>
+    <String List="0" sID="71002178">
+      <EDID>Headwear_Fasnacht_Mask_Hag_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Hag Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Hag Mask</Dest>
+    </String>
+    <String List="0" sID="71002180">
+      <EDID>Headwear_Fasnacht_Mask_Raven_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Raven Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Raven Mask</Dest>
+    </String>
+    <String List="0" sID="71002184">
+      <EDID>Headwear_Fasnacht_Mask_CrazyGuy_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Crazy Guy Mask</Source>
+      <Dest>FASNACHT+|Fasnacht Crazy Guy Mask</Dest>
+    </String>
+    <String List="0" sID="710021AB">
+      <EDID>Headwear_Fasnacht_Mask_Fiend_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Fiend Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Fiend Mask</Dest>
+    </String>
+    <String List="0" sID="71006C94">
+      <EDID>ATX_Headwear_Fasnacht_Mask_ScorchBeastQueen</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Scorchbeast Queen Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Scorchbeast Queen Mask</Dest>
+    </String>
+    <String List="0" sID="71006C95">
+      <EDID>ATX_Headwear_Fasnacht_Mask_ScorchBeast</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Scorchbeast Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Scorchbeast Mask</Dest>
+    </String>
+    <String List="0" sID="71006C97">
+      <EDID>ATX_Headwear_Fasnacht_Mask_HoneyBee</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Honey Bee Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Honey Bee Mask</Dest>
+    </String>
+    <String List="0" sID="71006CA5">
+      <EDID>ATX_ENTM_Apparel_Headwear_Fasnacht_ScorchBeast</EDID>
+      <REC>ENTM:FULL</REC>
+      <Source>Fasnacht Scorchbeast Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Scorchbeast Mask</Dest>
+    </String>
+    <String List="0" sID="71006CA8">
+      <EDID>ATX_ENTM_Apparel_Headwear_Fasnacht_HoneyBee</EDID>
+      <REC>ENTM:FULL</REC>
+      <Source>Fasnacht Honey Bee Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Honey Bee Mask</Dest>
+    </String>
+    <String List="0" sID="71006CC0">
+      <EDID>zzzz_Recipe_Workshop_FloorDecor_HerdsmansBell</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Herdsman's Bell</Source>
+      <Dest>FASNACHT 2024|Plan: Herdsman's Bell</Dest>
+    </String>
+    <String List="0" sID="79000CFC">
+      <EDID>Recipe_Workshop_DisplayCase_HerdsmansBellRack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Herdsman's Bell Display Rack</Source>
+      <Dest>FASNACHT 2024|Plan: Herdsman's Bell Display Rack</Dest>
+    </String>
+  
+    <String List="0" sID="04A5EE">
+      <EDID>Recipe_Chems_SFS09_FormulaP</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Formula P</Source>
+      <Dest>PARADISE|Recipe: Formula P</Dest>
+    </String>
+    <String List="0" sID="04B56F">
+      <EDID>Recipe_Chem_StimGas</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Stimpak Diffuser</Source>
+      <Dest>PARADISE++|Recipe: Stimpak Diffuser</Dest>
+    </String>
+    <String List="0" sID="D9002DE0">
+      <EDID>Recipe_Weapon_Melee_BearArm</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bear Arm</Source>
+      <Dest>PARADISE+|Plan: Bear Arm</Dest>
+    </String>
+    <String List="0" sID="D9002DE5">
+      <EDID>recipe_mod_melee_BearArm_Puncturing</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bear Arm Puncturing Mod</Source>
+      <Dest>PARADISE+|Plan: Bear Arm Puncturing Mod</Dest>
+    </String>
+    <String List="0" sID="D9002DFF">
+      <EDID>recipe_mod_melee_BearArm_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bear Arm Heavy Mod</Source>
+      <Dest>PARADISE+|Plan: Bear Arm Heavy Mod</Dest>
+    </String>
+  
+    <String List="0" sID="61003120">
+      <EDID>Recipe_Cooking_E02A_Meat_ChallysFeed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Chally's Feed</Source>
+      <Dest>MEET WEEK|Recipe: Chally's Feed</Dest>
+    </String>
+    <String List="0" sID="61003128">
+      <EDID>recipe_mod_melee_MeatTenderizer_Peppered</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Peppered Tenderizer Mod</Source>
+      <Dest>MEET WEEK|Plan: Peppered Tenderizer Mod</Dest>
+    </String>
+    <String List="0" sID="6100314B">
+      <EDID>recipe_mod_melee_MeatTenderizer_Salted</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Salty Tenderizer Mod</Source>
+      <Dest>MEET WEEK|Plan: Salty Tenderizer Mod</Dest>
+    </String>
+    <String List="0" sID="61003153">
+      <EDID>recipe_mod_melee_MeatTenderizer_Heated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Spicy Tenderizer Mod</Source>
+      <Dest>MEET WEEK|Plan: Spicy Tenderizer Mod</Dest>
+    </String>
+    <String List="0" sID="61003162">
+      <EDID>Recipe_Cooking_MeatWeek_TatoSalad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Tato Salad</Source>
+      <Dest>MEET WEEK|Recipe: Tato Salad</Dest>
+    </String>
+    <String List="0" sID="6100317F">
+      <EDID>Recipe_Weapon_Melee_MeatTenderizer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Meat Tenderizer</Source>
+      <Dest>MEET WEEK|Plan: Meat Tenderizer</Dest>
+    </String>
+    <String List="0" sID="61003187">
+      <EDID>Recipe_Weapon_Thrown_MeatCleaver</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Meat Cleaver</Source>
+      <Dest>MEET WEEK|Plan: Meat Cleaver</Dest>
+    </String>
+  
+    <String List="0" sID="03F8F3">
+      <EDID>Recipe_Workshop_WallDecor_Whitespring_Mirror</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Mirror</Source>
+      <Dest>WHITESPRING|Plan: Resort Mirror</Dest>
+    </String>
+    <String List="0" sID="03FB03">
+      <EDID>Recipe_Workshop_Lights_Whitespring_Lamps</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Lamps</Source>
+      <Dest>WHITESPRING|Plan: Resort Lamps</Dest>
+    </String>
+    <String List="0" sID="03FB33">
+      <EDID>Recipe_Workshop_FloorDecor_Whitespring_Vases</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Vases</Source>
+      <Dest>WHITESPRING|Plan: Resort Vases</Dest>
+    </String>
+    <String List="0" sID="03FB62">
+      <EDID>Recipe_Workshop_FloorDecor_Whitespring_Busts</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Whitespring Busts</Source>
+      <Dest>WHITESPRING|Plan: Whitespring Busts</Dest>
+    </String>
+    <String List="0" sID="03FBA9">
+      <EDID>Recipe_Workshop_FloorDecor_Whitespring_Planters</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Planters</Source>
+      <Dest>WHITESPRING|Plan: Resort Planters</Dest>
+    </String>
+    <String List="0" sID="03FC09">
+      <EDID>Recipe_Workshop_Containers_Whitespring_Trashcan</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Trashcan</Source>
+      <Dest>WHITESPRING|Plan: Resort Trashcan</Dest>
+    </String>
+    <String List="0" sID="03FC1F">
+      <EDID>Recipe_Workshop_Tables_Whitespring_Tables</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Tables</Source>
+      <Dest>WHITESPRING|Plan: Resort Tables</Dest>
+    </String>
+    <String List="0" sID="04457F">
+      <EDID>Recipe_Workshop_Benches_Wood_Whitesprings</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Bench</Source>
+      <Dest>WHITESPRING|Plan: Resort Bench</Dest>
+    </String>
+    <String List="0" sID="044584">
+      <EDID>Recipe_Workshop_WallDecor_SignsMetal_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Sign</Source>
+      <Dest>WHITESPRING|Plan: Resort Sign</Dest>
+    </String>
+    <String List="0" sID="0445A3">
+      <EDID>Recipe_Workshop_Couches_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Couches</Source>
+      <Dest>WHITESPRING|Plan: Resort Couches</Dest>
+    </String>
+    <String List="0" sID="044734">
+      <EDID>Recipe_Workshop_WallDecor_WallPaintings_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Paintings</Source>
+      <Dest>WHITESPRING|Plan: Resort Paintings</Dest>
+    </String>
+    <String List="0" sID="044735">
+      <EDID>Recipe_Workshop_Chairs_Chairs_Metal_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Chairs</Source>
+      <Dest>WHITESPRING|Plan: Resort Chairs</Dest>
+    </String>
+    <String List="0" sID="044736">
+      <EDID>Recipe_Workshop_Chairs_Chairs_Padded_Whitespring</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Resort Cloth Chairs</Source>
+      <Dest>WHITESPRING|Plan: Resort Cloth Chairs</Dest>
+    </String>
+  
+    <String List="0" sID="41000CDD">
+      <EDID>Recipe_Headwear_Marine_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Marine Armor Helmet</Source>
+      <Dest>TREASURE HUNT|Plan: Marine Armor Helmet</Dest>
+    </String>
+    <String List="0" sID="410015F4">
+      <EDID>Recipe_mod_SuperSledge_Melee_Paint_StrongmanHammer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Strongman's Super Sledge Paint</Source>
+      <Dest>TREASURE HUNT|Plan: Strongman's Super Sledge Paint</Dest>
+    </String>
+    <String List="0" sID="41001849">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Wannamango</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wanamingo Plushie</Source>
+      <Dest>TREASURE HUNT|Plan: Wanamingo Plushie</Dest>
+    </String>
+    <String List="0" sID="41002347">
+      <EDID>Recipe_Workshop_FloorDecor_BalloonArch</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Balloon Arch</Source>
+      <Dest>TREASURE HUNT|Plan: Balloon Arch</Dest>
+    </String>
+    <String List="0" sID="410024C1">
+      <EDID>Recipe_Workshop_FloorDecor_CarnivalBalloons</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bouquet of Star Balloons</Source>
+      <Dest>TREASURE HUNT|Plan: Bouquet of Star Balloons</Dest>
+    </String>
+    <String List="0" sID="410025B4">
+      <EDID>Recipe_Workshop_FloorDecor_AreaRug_Vault76</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 76 Rug</Source>
+      <Dest>TREASURE HUNT|Plan: Vault 76 Rug</Dest>
+    </String>
+    <String List="0" sID="41002C93">
+      <EDID>Recipe_Workshop_YaoGuaiTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Yao Guai Tube</Source>
+      <Dest>TREASURE HUNT|Plan: Yao Guai Tube</Dest>
+    </String>
+    <String List="0" sID="41002C9B">
+      <EDID>Recipe_Workshop_FloorDecor_Junkyard_Fountain</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Junkyard Fountain</Source>
+      <Dest>TREASURE HUNT|Plan: Junkyard Fountain</Dest>
+    </String>
+    <String List="0" sID="41002DC1">
+      <EDID>Recipe_Backpack_Standard_Material_Responders_Camo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Camo Backpack</Source>
+      <Dest>TREASURE HUNT|Plan: Camo Backpack</Dest>
+    </String>
+    <String List="0" sID="4100362C">
+      <EDID>Recipe_Workshop_TV_Aquarium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: TV Aquarium</Source>
+      <Dest>TREASURE HUNT|Plan: TV Aquarium</Dest>
+    </String>
+    <String List="0" sID="4100369E">
+      <EDID>Recipe_Workshop_CaveCricketTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cave Cricket Tube</Source>
+      <Dest>TREASURE HUNT|Plan: Cave Cricket Tube</Dest>
+    </String>
+    <String List="0" sID="410036AD">
+      <EDID>Recipe_Workshop_RawCement_Barricade_Spikes</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Raw Cement Barricade</Source>
+      <Dest>TREASURE HUNT|Plan: Raw Cement Barricade</Dest>
+    </String>
+    <String List="0" sID="41003877">
+      <EDID>Recipe_Workshop_FireStationBell</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fire Station Bell</Source>
+      <Dest>TREASURE HUNT|Plan: Fire Station Bell</Dest>
+    </String>
+    <String List="0" sID="61009D03">
+      <EDID>Recipe_Backpack_Standard_Material_Safari_Gorilla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Safari Gorilla Backpack</Source>
+      <Dest>TREASURE HUNT|Plan: Safari Gorilla Backpack</Dest>
+    </String>
+    <String List="0" sID="61009D04">
+      <EDID>Recipe_Backpack_Standard_Material_Safari_Crocolossus</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Safari Crocolossus Backpack</Source>
+      <Dest>TREASURE HUNT|Plan: Safari Crocolossus Backpack</Dest>
+    </String>
+    <String List="0" sID="61009D90">
+      <EDID>Recipe_Clothes_InsurgentOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Insurgent Outfit</Source>
+      <Dest>TREASURE HUNT|Plan: Insurgent Outfit</Dest>
+    </String>
+    <String List="0" sID="61009D91">
+      <EDID>Recipe_Headwear_TreasureHunter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Treasure Hunter Outfit Hat</Source>
+      <Dest>TREASURE HUNT|Plan: Treasure Hunter Outfit Hat</Dest>
+    </String>
+    <String List="0" sID="61009D92">
+      <EDID>Recipe_Clothes_TreasureHunterOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Treasure Hunter Outfit</Source>
+      <Dest>TREASURE HUNT|Plan: Treasure Hunter Outfit</Dest>
+    </String>
+    <String List="0" sID="61009E22">
+      <EDID>Recipe_Workshop_FloorDecor_Circus_Trailer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Cage Trailer</Source>
+      <Dest>TREASURE HUNT|Plan: Circus Cage Trailer</Dest>
+    </String>
+    <String List="0" sID="61009EE9">
+      <EDID>Recipe_Headwear_Insurgent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Insurgent Hat</Source>
+      <Dest>TREASURE HUNT|Plan: Insurgent Hat</Dest>
+    </String>
+    <String List="0" sID="61009F25">
+      <EDID>recipe_mod_melee_Knife_Dagger_Radstag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Radstag Hunting Knife</Source>
+      <Dest>TREASURE HUNT|Plan: Radstag Hunting Knife</Dest>
+    </String>
+    <String List="0" sID="6100AA7D">
+      <EDID>Recipe_Workshop_Bed_BedofNails</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bed of Nails</Source>
+      <Dest>TREASURE HUNT|Plan: Bed of Nails</Dest>
+    </String>
+    <String List="0" sID="6100AAD4">
+      <EDID>Recipe_Workshop_Lights_Grafton_Monster_Lamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Grafton Monster Lamp</Source>
+      <Dest>TREASURE HUNT|Plan: Grafton Monster Lamp</Dest>
+    </String>
+    <String List="0" sID="6100AAD5">
+      <EDID>Recipe_Workshop_FloorDecor_Animatronic_Clown</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Animatronic Clown</Source>
+      <Dest>TREASURE HUNT|Plan: Animatronic Clown</Dest>
+    </String>
+    <String List="0" sID="6100BC96">
+      <EDID>Recipe_Workshop_ScorchedTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Scorched Tube</Source>
+      <Dest>TREASURE HUNT|Plan: Scorched Tube</Dest>
+    </String>
+    <String List="0" sID="6100BCE3">
+      <EDID>Recipe_Workshop_WallDecor_WallClocks_NeonLightDiner</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Neon Light Diner Clock</Source>
+      <Dest>TREASURE HUNT|Plan: Neon Light Diner Clock</Dest>
+    </String>
+    <String List="0" sID="6100C562">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_ScorchbeastQueen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Scorchbeast Queen Plushie</Source>
+      <Dest>TREASURE HUNT|Plan: Scorchbeast Queen Plushie</Dest>
+    </String>
+    <String List="0" sID="6100C563">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Snallygaster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Snallygaster Plushie</Source>
+      <Dest>TREASURE HUNT|Plan: Snallygaster Plushie</Dest>
+    </String>
+    <String List="0" sID="6100C571">
+      <EDID>Recipe_Workshop_FloorDecor_AreaRug_WVStateBird</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: WV State Bird Rug</Source>
+      <Dest>TREASURE HUNT|Plan: WV State Bird Rug</Dest>
+    </String>
+    <String List="0" sID="6100C572">
+      <EDID>Recipe_Workshop_FloorDecor_Statue_Small_Posed_VaultGirl</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Small Vault Girl Statue</Source>
+      <Dest>TREASURE HUNT|Plan: Small Vault Girl Statue</Dest>
+    </String>
+    <String List="0" sID="6100D76F">
+      <EDID>recipe_mod_weapon_LaserGun_material_CamoBlue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Laser Gun Blue Camo Paint</Source>
+      <Dest>TREASURE HUNT|Plan: Laser Gun Blue Camo Paint</Dest>
+    </String>
+    <String List="0" sID="6100D774">
+      <EDID>Recipe_Workshop_Container_StashBox_Supply_Crate_Small</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Small Supply Crate</Source>
+      <Dest>TREASURE HUNT|Plan: Small Supply Crate</Dest>
+    </String>
+    <String List="0" sID="6100D77A">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_PinkSprinkles</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pink Sprinkles Power Armor Paints</Source>
+      <Dest>TREASURE HUNT|Plan: Pink Sprinkles Power Armor Paints</Dest>
+    </String>
+    <String List="0" sID="6100D77B">
+      <EDID>recipe_mod_weapon_MissileLauncher_material_AtomCats</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Missile Launcher Atom Cats Paint</Source>
+      <Dest>TREASURE HUNT|Plan: Missile Launcher Atom Cats Paint</Dest>
+    </String>
+    <String List="0" sID="6101B9D2">
+      <EDID>Recipe_Workshop_GolfCarts_TreasureHunter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Golf Carts</Source>
+      <Dest>TREASURE HUNT|Plan: Golf Carts</Dest>
+    </String>
+  
+    <String List="0" sID="046631">
+      <EDID>Recipe_Weapon_Ranged_AssaultronHead</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Assaultron Head</Source>
+      <Dest>ENCRYPTID++|Plan: Assaultron Head</Dest>
+    </String>
+    <String List="0" sID="04988A">
+      <EDID>Headwear_SheepsquatchMascotHead</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sheepsquatch Mascot Head</Source>
+      <Dest>ENCRYPTID+|Sheepsquatch Mascot Head</Dest>
+    </String>
+    <String List="0" sID="04988B">
+      <EDID>Clothes_SheepsquatchMascotOutfit</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sheepsquatch Mascot Outfit</Source>
+      <Dest>ENCRYPTID+|Sheepsquatch Mascot Outfit</Dest>
+    </String>
+    <String List="0" sID="049A9B">
+      <EDID>Recipe_Weapon_Ranged_TheFixer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: The Fixer</Source>
+      <Dest>ENCRYPTID++|Plan: The Fixer</Dest>
+    </String>
+    <String List="0" sID="04B9E7">
+      <EDID>Headwear_Sheepsquatch_Imposter_Helmet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Imposter Sheepsquatch Helmet</Source>
+      <Dest>ENCRYPTID++|Imposter Sheepsquatch Helmet</Dest>
+    </String>
+    <String List="0" sID="04B9E8">
+      <EDID>Clothes_Sheepsquatch_Imposter_Outfit</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Imposter Sheepsquatch Outfit</Source>
+      <Dest>ENCRYPTID++|Imposter Sheepsquatch Outfit</Dest>
+    </String>
+    <String List="0" sID="61003223">
+      <EDID>E01B_Encryptid_Clothes_WhiteFedora</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>White Wolf Fedora</Source>
+      <Dest>ENCRYPTID|White Wolf Fedora</Dest>
+    </String>
+    <String List="0" sID="71002152">
+      <EDID>Clothes_SheepsquatchMascotOutfit_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sheepsquatch Mascot Outfit</Source>
+      <Dest>ENCRYPTID+|Sheepsquatch Mascot Outfit</Dest>
+    </String>
+    <String List="0" sID="71002164">
+      <EDID>Headwear_SheepsquatchMascotHead_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sheepsquatch Mascot Head</Source>
+      <Dest>ENCRYPTID+|Sheepsquatch Mascot Head</Dest>
+    </String>
+  
+    <String List="0" sID="0498DF">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_Refrigerated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Backpack Refrigerated Mod</Source>
+      <Dest>POSSUM|Plan: Backpack Refrigerated Mod</Dest>
+    </String>
+    <String List="0" sID="0498E0">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_HighCapacity</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Backpack High Capacity Mod</Source>
+      <Dest>POSSUM|Plan: Backpack High Capacity Mod</Dest>
+    </String>
+    <String List="0" sID="0498E2">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_Insulated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Backpack Insulated Mod</Source>
+      <Dest>POSSUM|Plan: Backpack Insulated Mod</Dest>
+    </String>
+    <String List="0" sID="04A9CC">
+      <EDID>P01C_Tadpole_Recipe_Mod_Camera_SnapMatic_Lens_NightVision</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: ProSnap Deluxe Night-Vision Lens</Source>
+      <Dest>POSSUM|Plan: ProSnap Deluxe Night-Vision Lens</Dest>
+    </String>
+    <String List="0" sID="04BB26">
+      <EDID>P01C_Tadpole_Recipe_Workshop_FloorDecor_Misc_PioneerScout_Possum</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pioneer Scout Banner: Possum</Source>
+      <Dest>POSSUM|Plan: Pioneer Scout Banner: Possum</Dest>
+    </String>
+    <String List="0" sID="61003117">
+      <EDID>P01C_Recipe_Workshop_Container_PioneerScout_StashBox</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pioneer Scout Stash Box</Source>
+      <Dest>POSSUM|Plan: Pioneer Scout Stash Box</Dest>
+    </String>
+    <String List="0" sID="61003156">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_LeadLined</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Backpack Lead Lined Mod</Source>
+      <Dest>POSSUM|Plan: Backpack Lead Lined Mod</Dest>
+    </String>
+    <String List="0" sID="6100318B">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Standard_Material_Scout_Possum</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pioneer Scout Possum Backpack</Source>
+      <Dest>POSSUM|Plan: Pioneer Scout Possum Backpack</Dest>
+    </String>
+    <String List="0" sID="6100631B">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_ArmorPlated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Backpack Armor Plated Mod</Source>
+      <Dest>POSSUM|Plan: Backpack Armor Plated Mod</Dest>
+    </String>
+  
+    <String List="0" sID="049A9C">
+      <EDID>Recipe_Cooking_Smores</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: S'mores</Source>
+      <Dest>CAMPFIRE TALES|Recipe: S'mores</Dest>
+    </String>
+    <String List="0" sID="049A9E">
+      <EDID>Recipe_Workshop_MiscStructures_Tent_CampfireTales</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Campfire Tales Tent</Source>
+      <Dest>CAMPFIRE TALES|Plan: Campfire Tales Tent</Dest>
+    </String>
+  
+    <String List="0" sID="6101AA62">
+      <EDID>Recipe_Workshop_Lights_StarLight_Copy01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Star Light</Source>
+      <Dest>GIFTS 2023|Plan: Star Light</Dest>
+    </String>
+    <String List="0" sID="6101AA63">
+      <EDID>Recipe_Workshop_Lights_PlastiformGingerBread</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Plastiform Gingerbread</Source>
+      <Dest>GIFTS 2023|Plan: Plastiform Gingerbread</Dest>
+    </String>
+    <String List="0" sID="6101AA64">
+      <EDID>Recipe_Workshop_Lights_PlastiformNutcracker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Plastiform Nutcracker</Source>
+      <Dest>GIFTS 2023|Plan: Plastiform Nutcracker</Dest>
+    </String>
+    <String List="0" sID="6101AA66">
+      <EDID>Recipe_Workshop_Lights_PlastiformCandle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Plastiform Candle</Source>
+      <Dest>GIFTS 2023|Plan: Plastiform Candle</Dest>
+    </String>
+    <String List="0" sID="6101AA67">
+      <EDID>Recipe_Workshop_Lights_PlastiformSanta</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Plastiform Santa</Source>
+      <Dest>GIFTS 2023|Plan: Plastiform Santa</Dest>
+    </String>
+    <String List="0" sID="6101AA68">
+      <EDID>Recipe_Workshop_Lights_PlastiformSantaSleigh</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Plastiform Santa Sleigh</Source>
+      <Dest>GIFTS 2023|Plan: Plastiform Santa Sleigh</Dest>
+    </String>
+    <String List="0" sID="6101AB7D">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_RibbonBell</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Ribbon Bell</Source>
+      <Dest>GIFTS 2023|Plan: Honeycomb Paper Ribbon Bell</Dest>
+    </String>
+    <String List="0" sID="6101AB7E">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Target</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Jolly Target</Source>
+      <Dest>GIFTS 2023|Plan: Honeycomb Paper Jolly Target</Dest>
+    </String>
+    <String List="0" sID="6101AB7F">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Snowflake_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Icy Snowflake</Source>
+      <Dest>GIFTS 2023|Plan: Honeycomb Paper Icy Snowflake</Dest>
+    </String>
+    <String List="0" sID="6101AB80">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Santa_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Standing Santa</Source>
+      <Dest>GIFTS 2023|Plan: Honeycomb Paper Standing Santa</Dest>
+    </String>
+    <String List="0" sID="6101AB81">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_HolidayTree_02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Holiday Tree B</Source>
+      <Dest>GIFTS 2023|Plan: Honeycomb Paper Holiday Tree B</Dest>
+    </String>
+    <String List="0" sID="6101AB82">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_HolidayTree_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Holiday Tree A</Source>
+      <Dest>GIFTS 2023|Plan: Honeycomb Paper Holiday Tree A</Dest>
+    </String>
+    <String List="0" sID="6101AB83">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Snowman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honeycomb Paper Snowman</Source>
+      <Dest>GIFTS 2023|Plan: Honeycomb Paper Snowman</Dest>
+    </String>
+    <String List="0" sID="71006C8D">
+      <EDID>Recipe_Workshop_Lights_StarLight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Star Light</Source>
+      <Dest>GIFTS 2023|Plan: Star Light</Dest>
+    </String>
+    <String List="0" sID="71006C93">
+      <EDID>Recipe_Workshop_FloorDecor_StrawGoat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Straw Goat</Source>
+      <Dest>GIFTS 2023|Plan: Straw Goat</Dest>
+    </String>
+  
+    <String List="0" sID="6100AD02">
+      <EDID>Recipe_Workshop_WallDecor_WindChime_Molerat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Molerat Wind Chime</Source>
+      <Dest>GIFTS 2020|Plan: Molerat Wind Chime</Dest>
+    </String>
+    <String List="0" sID="6100B3DB">
+      <EDID>Recipe_Workshop_Bed_PrincessCastlePink_SleepingBag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Princess Castle Pink Sleeping Bag</Source>
+      <Dest>GIFTS 2020|Plan: Princess Castle Pink Sleeping Bag</Dest>
+    </String>
+    <String List="0" sID="6100B3DC">
+      <EDID>Recipe_Workshop_WallDecor_CondemnedNotificationSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Condemned Notification Sign</Source>
+      <Dest>GIFTS 2020|Plan: Condemned Notification Sign</Dest>
+    </String>
+    <String List="0" sID="6100B705">
+      <EDID>Recipe_Workshop_Ceiling_Light_Truck</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Red Truck Ceiling Light</Source>
+      <Dest>GIFTS 2020|Plan: Red Truck Ceiling Light</Dest>
+    </String>
+    <String List="0" sID="81001E47">
+      <EDID>Recipe_Workshop_FloorDecor_Musket_Stack_Monument</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Musket Stack Monument</Source>
+      <Dest>GIFTS 2020|Plan: Musket Stack Monument</Dest>
+    </String>
+    <String List="0" sID="81001E9A">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Brahmin</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brahmin Plushie</Source>
+      <Dest>GIFTS 2020|Plan: Brahmin Plushie</Dest>
+    </String>
+  
+    <String List="0" sID="03F9BB">
+      <EDID>Recipe_Workshop_Benches_Stone</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Stone Benches</Source>
+      <Dest>GRAHM|Plan: Stone Benches</Dest>
+    </String>
+    <String List="0" sID="044589">
+      <EDID>Recipe_Workshop_WallDecor_WallClocks_Starburst</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Starburst Clock</Source>
+      <Dest>GRAHM|Plan: Starburst Clock</Dest>
+    </String>
+    <String List="0" sID="0445A6">
+      <EDID>Recipe_Workshop_Benches_Wood_Park</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Park Bench</Source>
+      <Dest>GRAHM|Plan: Park Bench</Dest>
+    </String>
+    <String List="0" sID="0446A7">
+      <EDID>Recipe_Workshop_Lights_MirrorBall01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mirror Ball</Source>
+      <Dest>GRAHM|Plan: Mirror Ball</Dest>
+    </String>
+    <String List="0" sID="0446B2">
+      <EDID>Recipe_Workshop_Tables_PlayerHouse_Ruin_Kitchen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Domestic Kitchen Tables</Source>
+      <Dest>GRAHM|Plan: Domestic Kitchen Tables</Dest>
+    </String>
+    <String List="0" sID="0446B6">
+      <EDID>Recipe_Workshop_Tables_NpcTableVaultSit02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Metal Picnic Table</Source>
+      <Dest>GRAHM|Plan: Metal Picnic Table</Dest>
+    </String>
+    <String List="0" sID="04655A">
+      <EDID>Recipe_Workshop_Trap_Radiation</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Radiation Emitter</Source>
+      <Dest>GRAHM|Plan: Radiation Emitter</Dest>
+    </String>
+    <String List="0" sID="61018748">
+      <EDID>Recipe_Workshop_Benches_Wood_CleanPark</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Clean Park Bench</Source>
+      <Dest>GRAHM 2023|Plan: Clean park bench</Dest>
+    </String>
+    <String List="0" sID="61018768">
+      <EDID>Recipe_Workshop_Tables_DomesticKitchen_Brown</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brown Domestic Kitchen Tables</Source>
+      <Dest>GRAHM 2023|Plan: Brown domestic kitchen tables</Dest>
+    </String>
+    <String List="0" sID="61018769">
+      <EDID>Recipe_Workshop_Tables_DomesticKitchen_Black</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Black Domestic Kitchen Tables</Source>
+      <Dest>GRAHM 2023|Plan: Black domestic kitchen tables</Dest>
+    </String>
+    <String List="0" sID="6101876A">
+      <EDID>Recipe_Workshop_Tables_DomesticKitchen_White</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: White Domestic Kitchen Tables</Source>
+      <Dest>GRAHM 2023|Plan: White domestic kitchen tables</Dest>
+    </String>
+    <String List="0" sID="6101880F">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - Purple</Source>
+      <Dest>GRAHM 2023|Plan: Suitcase - purple</Dest>
+    </String>
+    <String List="0" sID="61018810">
+      <EDID>Recipe_Workshop_Lights_MirrorBall_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mirror Ball - Blue</Source>
+      <Dest>GRAHM 2023|Plan: Mirror ball - blue</Dest>
+    </String>
+    <String List="0" sID="61018812">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Black</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - Black</Source>
+      <Dest>GRAHM 2023|Plan: Suitcase - black</Dest>
+    </String>
+    <String List="0" sID="61018814">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - Blue</Source>
+      <Dest>GRAHM 2023|Plan: Suitcase - blue</Dest>
+    </String>
+    <String List="0" sID="61018815">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Green</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - Green</Source>
+      <Dest>GRAHM 2023|Plan: Suitcase - green</Dest>
+    </String>
+    <String List="0" sID="61018816">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Pink</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - Pink</Source>
+      <Dest>GRAHM 2023|Plan: Suitcase - pink</Dest>
+    </String>
+    <String List="0" sID="61018817">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Yellow</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - Yellow</Source>
+      <Dest>GRAHM 2023|Plan: Suitcase - yellow</Dest>
+    </String>
+    <String List="0" sID="61018818">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - Red</Source>
+      <Dest>GRAHM 2023|Plan: Suitcase - red</Dest>
+    </String>
+    <String List="0" sID="61018819">
+      <EDID>Recipe_Workshop_Lights_MirrorBall_Pink</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mirror Ball - Pink</Source>
+      <Dest>GRAHM 2023|Plan: Mirror ball - pink</Dest>
+    </String>
+    <String List="0" sID="6101881B">
+      <EDID>Recipe_Workshop_Container_Prewar_Suitcase_Clothes_Clean_Orange</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Suitcase - Orange</Source>
+      <Dest>GRAHM 2023|Plan: Suitcase - orange</Dest>
+    </String>
+    <String List="0" sID="6101881D">
+      <EDID>Recipe_Workshop_Lights_MirrorBall_Green</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mirror Ball - Green</Source>
+      <Dest>GRAHM 2023|Plan: Mirror ball - green</Dest>
+    </String>
+    <String List="0" sID="6101881E">
+      <EDID>Recipe_Workshop_Lights_MirrorBall_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mirror Ball - Red</Source>
+      <Dest>GRAHM 2023|Plan: Mirror ball - red</Dest>
+    </String>
+    <String List="0" sID="6101B4D2">
+      <EDID>Recipe_Workshop_Tables_MetalPicnic_Pink</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Metal Picnic Table Pink</Source>
+      <Dest>GRAHM 2023|Plan: Picnic table - pink</Dest>
+    </String>
+    <String List="0" sID="6101B4D3">
+      <EDID>Recipe_Workshop_Tables_MetalPicnic_Green</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Metal Picnic Table Green</Source>
+      <Dest>GRAHM 2023|Plan: Picnic table - green</Dest>
+    </String>
+    <String List="0" sID="6101B4D4">
+      <EDID>Recipe_Workshop_Tables_MetalPicnic_White</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Metal Picnic Table White</Source>
+      <Dest>GRAHM 2023|Plan: Picnic table - White</Dest>
+    </String>
+    <String List="0" sID="6101B4D5">
+      <EDID>Recipe_Workshop_Tables_MetalPicnic_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Metal Picnic Table Blue</Source>
+      <Dest>GRAHM 2023|Plan: Picnic table - blue</Dest>
+    </String>
+    <String List="0" sID="6101B4D6">
+      <EDID>Recipe_Workshop_Tables_MetalPicnic_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Metal Picnic Table Red</Source>
+      <Dest>GRAHM 2023|Plan: Picnic table - red</Dest>
+    </String>
+  
+    <String List="0" sID="41003F98">
+      <EDID>Recipe_Workshop_DefensiveStructures_BarbedWireFence</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Barbed Wire Fences</Source>
+      <Dest>GIFTS 2021|Plan: Barbed Wire Fences</Dest>
+    </String>
+    <String List="0" sID="41003F99">
+      <EDID>Recipe_Workshop_WallDecor_WallMountedFan</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wall Mounted Fan</Source>
+      <Dest>GIFTS 2021|Plan: Wall Mounted Fan</Dest>
+    </String>
+    <String List="0" sID="41003F9A">
+      <EDID>Recipe_Workshop_WallDecor_TatteredCurtainsDUPLICATE000DUPLICATE000</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Tattered Curtains</Source>
+      <Dest>GIFTS 2021|Plan: Tattered Curtains</Dest>
+    </String>
+    <String List="0" sID="41003FBF">
+      <EDID>Recipe_Workshop_Lights_RedRocketGasStationLamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Red Rocket Gas Station Lamp</Source>
+      <Dest>GIFTS 2021|Plan: Red Rocket Gas Station Lamp</Dest>
+    </String>
+    <String List="0" sID="41003FC0">
+      <EDID>Recipe_Workshop_Lights_RedRocketGasPumpWallLight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Red Rocket Gas Pump Wall Light</Source>
+      <Dest>GIFTS 2021|Plan: Red Rocket Gas Pump Wall Light</Dest>
+    </String>
+    <String List="0" sID="41003FC1">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_BehemothBoss</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Behemoth Boss Plushie</Source>
+      <Dest>GIFTS 2021|Plan: Behemoth Boss Plushie</Dest>
+    </String>
+    <String List="0" sID="4100472E">
+      <EDID>Recipe_Workshop_FloorDecor_VintageWaterCooler_2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vintage Water Cooler</Source>
+      <Dest>GIFTS 2021|Plan: Vintage Water Cooler</Dest>
+    </String>
+    <String List="0" sID="59000795">
+      <EDID>Recipe_Workshop_FloorDecor_AreaRug_NukaGirl</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka Girl Area Rug</Source>
+      <Dest>GIFTS 2021|Plan: Nuka Girl Area Rug</Dest>
+    </String>
+    <String List="0" sID="59000FEB">
+      <EDID>Recipe_Workshop_WallDecor_TatteredCurtainsDUPLICATE000_Copy01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Tattered Curtains</Source>
+      <Dest>GIFTS 2021|Plan: Tattered Curtains</Dest>
+    </String>
+    <String List="0" sID="590010FC">
+      <EDID>Recipe_Workshop_FloorDecor_VintageWaterCoolerDUPLICATE000</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vintage Water Cooler</Source>
+      <Dest>GIFTS 2021|Plan: Vintage Water Cooler</Dest>
+    </String>
+    <String List="0" sID="6100D76B">
+      <EDID>recipe_Armor_VaultSuit51_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 51 Jumpsuit</Source>
+      <Dest>GIFTS 2021|Plan: Vault 51 Jumpsuit</Dest>
+    </String>
+    <String List="0" sID="6100D771">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_CamoBlue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Camo Power Armor Paints</Source>
+      <Dest>GIFTS 2021|Plan: Blue Camo Power Armor Paints</Dest>
+    </String>
+    <String List="0" sID="6100D772">
+      <EDID>recipe_mod_weapon_44_material_CamoBlue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: .44 Blue Camo Paint</Source>
+      <Dest>GIFTS 2021|Plan: .44 Blue Camo Paint</Dest>
+    </String>
+  
+    <String List="0" sID="03F8F8">
+      <EDID>Recipe_Workshop_MiscStructures_DeconArch</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Decontamination Shower</Source>
+      <Dest>SCORCHED EARTH|Plan: Decontamination Shower</Dest>
+    </String>
+    <String List="0" sID="044C71">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_MedicPump</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Medic Pump</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Medic Pump</Dest>
+    </String>
+    <String List="0" sID="044C74">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Cleanser</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Blood Cleanser</Source>
+      <Dest>SCORCHED EARTH+|Plan: Ultracite Blood Cleanser</Dest>
+    </String>
+    <String List="0" sID="044C7C">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Kinetic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Kinetic Dynamo</Source>
+      <Dest>SCORCHED EARTH+|Plan: Ultracite Kinetic Dynamo</Dest>
+    </String>
+    <String List="0" sID="044C7F">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Arm_Misc_Unarmed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Hydraulic Bracers</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Hydraulic Bracers</Dest>
+    </String>
+    <String List="0" sID="044C83">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_ArmRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Right Arm</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Right Arm</Dest>
+    </String>
+    <String List="0" sID="044C84">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_LegRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Right Leg</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Right Leg</Dest>
+    </String>
+    <String List="0" sID="044C88">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_OptimizedServos</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Optimized Servos</Source>
+      <Dest>SCORCHED EARTH++|Plan: Ultracite Optimized Servos</Dest>
+    </String>
+    <String List="0" sID="044C89">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_SprintBoost</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Overdrive Servos</Source>
+      <Dest>SCORCHED EARTH++|Plan: Ultracite Overdrive Servos</Dest>
+    </String>
+    <String List="0" sID="044C91">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Reactive</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Reactive Plates</Source>
+      <Dest>SCORCHED EARTH+++|Plan: Ultracite Reactive Plates</Dest>
+    </String>
+    <String List="0" sID="044C9A">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Tesla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Tesla Coils</Source>
+      <Dest>SCORCHED EARTH+++|Plan: Ultracite Tesla Coils</Dest>
+    </String>
+    <String List="0" sID="044CA9">
+      <EDID>recipe_mod_PowerArmor_T60_Torso_Misc_Jetpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-60 Jet Pack</Source>
+      <Dest>SCORCHED EARTH|Plan: T-60 Jet Pack</Dest>
+    </String>
+    <String List="0" sID="044CAF">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_APRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Kinetic Servos</Source>
+      <Dest>SCORCHED EARTH+|Plan: Ultracite Kinetic Servos</Dest>
+    </String>
+    <String List="0" sID="044CCB">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Emergency</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Emergency Protocols</Source>
+      <Dest>SCORCHED EARTH++|Plan: Ultracite Emergency Protocols</Dest>
+    </String>
+    <String List="0" sID="044CD6">
+      <EDID>recipe_mod_PowerArmor_T51_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-51b Jet Pack</Source>
+      <Dest>SCORCHED EARTH|Plan: T-51b Jet Pack</Dest>
+    </String>
+    <String List="0" sID="044CE4">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Arm_Misc_Optimized</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Optimized Bracers</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Optimized Bracers</Dest>
+    </String>
+    <String List="0" sID="044CE5">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Str</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Motion-Assist Servos</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Motion-Assist Servos</Dest>
+    </String>
+    <String List="0" sID="044CE9">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_LegLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Left Leg</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Left Leg</Dest>
+    </String>
+    <String List="0" sID="044CEF">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Torso</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Torso</Dest>
+    </String>
+    <String List="0" sID="044CF2">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Helmet_Misc_DetectLife</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Targeting HUD</Source>
+      <Dest>SCORCHED EARTH+++|Plan: Ultracite Targeting HUD</Dest>
+    </String>
+    <String List="0" sID="044CF3">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_Carry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Calibrated Shocks</Source>
+      <Dest>SCORCHED EARTH+++|Plan: Ultracite Calibrated Shocks</Dest>
+    </String>
+    <String List="0" sID="044CF5">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Arm_Misc_Bleed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Rusty Knuckles</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Rusty Knuckles</Dest>
+    </String>
+    <String List="0" sID="044CF8">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_DMGShield</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Welded Rebar</Source>
+      <Dest>SCORCHED EARTH+|Plan: Ultracite Welded Rebar</Dest>
+    </String>
+    <String List="0" sID="044CFA">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_ArmLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Left Arm</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Left Arm</Dest>
+    </String>
+    <String List="0" sID="044D2D">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Helmet_Misc_Sensor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Sensor Array</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Sensor Array</Dest>
+    </String>
+    <String List="0" sID="044D30">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Helmet_Misc_Int</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Internal Database</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Internal Database</Dest>
+    </String>
+    <String List="0" sID="044D3F">
+      <EDID>recipe_mod_PowerArmor_T45_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-45 Jet Pack</Source>
+      <Dest>SCORCHED EARTH|Plan: T-45 Jet Pack</Dest>
+    </String>
+    <String List="0" sID="044D4E">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_BatRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Core Assembly</Source>
+      <Dest>SCORCHED EARTH+|Plan: Ultracite Core Assembly</Dest>
+    </String>
+    <String List="0" sID="044D52">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Helm</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Helm</Dest>
+    </String>
+    <String List="0" sID="0465D0">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_ScorchedBeastQueen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mounted Scorchbeast Queen</Source>
+      <Dest>SCORCHED EARTH|Plan: Mounted Scorchbeast Queen</Dest>
+    </String>
+    <String List="0" sID="6100312E">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Jet Pack</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Jet Pack</Dest>
+    </String>
+    <String List="0" sID="6100313D">
+      <EDID>recipe_mod_PowerArmor_Raider_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Raider Jet Pack</Source>
+      <Dest>SCORCHED EARTH|Plan: Raider Jet Pack</Dest>
+    </String>
+    <String List="0" sID="6100BB25">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_ExplVent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultracite Cooling Vent</Source>
+      <Dest>SCORCHED EARTH|Plan: Ultracite Cooling Vent</Dest>
+    </String>
+  
+    <String List="0" sID="041095">
+      <EDID>POST_recipe_Armor_VaultSuit94_Underarmor_Clean</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 94 Jumpsuit</Source>
+      <Dest>OPS|Plan: Vault 94 Jumpsuit</Dest>
+    </String>
+    <String List="0" sID="410015DC">
+      <EDID>Clothes_SpecOps_BOS</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Brotherhood Special Ops Suit</Source>
+      <Dest>OPS|Brotherhood Special Ops Suit</Dest>
+    </String>
+    <String List="0" sID="410015DD">
+      <EDID>Headwear_SpecOps_BOS</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Brotherhood Special Ops Mask</Source>
+      <Dest>OPS|Brotherhood Special Ops Mask</Dest>
+    </String>
+    <String List="0" sID="41001611">
+      <EDID>Recipe_Weapon_Melee_WarGlaive</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: War Glaive</Source>
+      <Dest>OPS+|Plan: War Glaive</Dest>
+    </String>
+    <String List="0" sID="410018A1">
+      <EDID>Recipe_Workshop_Container_StashBox_Vault94</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 94 Stash Box</Source>
+      <Dest>OPS|Plan: Vault 94 Stash Box</Dest>
+    </String>
+    <String List="0" sID="41001B7C">
+      <EDID>Recipe_Weapon_Ranged_BoSPistol_29</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Crusader Pistol</Source>
+      <Dest>OPS+|Plan: Crusader Pistol</Dest>
+    </String>
+    <String List="0" sID="41001B8B">
+      <EDID>Recipe_Armor_BOSInfantry_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brotherhood Recon Chest Piece</Source>
+      <Dest>OPS+|Plan: Brotherhood Recon Chest Piece</Dest>
+    </String>
+    <String List="0" sID="41001B8D">
+      <EDID>Recipe_Armor_BOSInfantry_LegRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brotherhood Recon Right Leg</Source>
+      <Dest>OPS+|Plan: Brotherhood Recon Right Leg</Dest>
+    </String>
+    <String List="0" sID="41001B90">
+      <EDID>Recipe_Armor_BOSInfantry_LegLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brotherhood Recon Left Leg</Source>
+      <Dest>OPS+|Plan: Brotherhood Recon Left Leg</Dest>
+    </String>
+    <String List="0" sID="41001B93">
+      <EDID>Recipe_Armor_BOSInfantry_ArmRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brotherhood Recon Right Arm</Source>
+      <Dest>OPS+|Plan: Brotherhood Recon Right Arm</Dest>
+    </String>
+    <String List="0" sID="41001B94">
+      <EDID>Recipe_Armor_BOSInfantry_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brotherhood Recon Helmet</Source>
+      <Dest>OPS+|Plan: Brotherhood Recon Helmet</Dest>
+    </String>
+    <String List="0" sID="41001B97">
+      <EDID>Recipe_Armor_BOSInfantry_ArmLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brotherhood Recon Left Arm</Source>
+      <Dest>OPS+|Plan: Brotherhood Recon Left Arm</Dest>
+    </String>
+    <String List="0" sID="41001BC1">
+      <EDID>Recipe_Weapon_Melee_PlasmaSword</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Plasma Cutter</Source>
+      <Dest>OPS+|Plan: Plasma Cutter</Dest>
+    </String>
+    <String List="0" sID="41001BC4">
+      <EDID>Recipe_Weapon_Ranged_BOSRocketLauncher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hellstorm Missile Launcher</Source>
+      <Dest>OPS+|Plan: Hellstorm Missile Launcher</Dest>
+    </String>
+    <String List="0" sID="41002AA3">
+      <EDID>Clothes_SkullLord_BloodEagle</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Skull Lord Blood Eagle Suit</Source>
+      <Dest>OPS+|Skull Lord Blood Eagle Suit</Dest>
+    </String>
+    <String List="0" sID="41002AA4">
+      <EDID>Headwear_SkullLord_Helmet_BloodEagle</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Skull Lord Blood Eagle Helmet</Source>
+      <Dest>OPS+|Skull Lord Blood Eagle Helmet</Dest>
+    </String>
+    <String List="0" sID="41003360">
+      <EDID>recipe_mod_weapon_AutoGrenadeLauncher_material_BloodEagle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Auto Grenade Launcher Blood Eagle Paint</Source>
+      <Dest>OPS+|Plan: Auto Grenade Launcher Blood Eagle Paint</Dest>
+    </String>
+    <String List="0" sID="4100706D">
+      <EDID>Recipe_mod_Handmade_Material_Paint_HotRod</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hot Rod Flames Handmade Skin</Source>
+      <Dest>OPS+|Plan: Hot Rod Flames Handmade Skin</Dest>
+    </String>
+    <String List="0" sID="59000FBA">
+      <EDID>zzz_Recipe_Workshop_FlatwoodsMonsterTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flatwoods Monster Tube</Source>
+      <Dest>OPS|Plan: Flatwoods Monster Tube</Dest>
+    </String>
+    <String List="0" sID="61006642">
+      <EDID>Recipe_Brewing_LiquidCourage</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Liquid Courage</Source>
+      <Dest>OPS+|Recipe: Liquid Courage</Dest>
+    </String>
+    <String List="0" sID="6100A821">
+      <EDID>Recipe_Weapon_Melee_AssaultronBlade_TheGutter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: The Gutter</Source>
+      <Dest>OPS+|Plan: The Gutter</Dest>
+    </String>
+    <String List="0" sID="6100A823">
+      <EDID>Recipe_Workshop_Lights_CagedBulbLights</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Caged Bulb Lights</Source>
+      <Dest>OPS|Plan: Caged Bulb Lights</Dest>
+    </String>
+    <String List="0" sID="6100A824">
+      <EDID>Recipe_Workshop_WallDecor_ValleyGalleriaSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Valley Galleria Signs</Source>
+      <Dest>OPS|Plan: Valley Galleria Signs</Dest>
+    </String>
+    <String List="0" sID="6100A827">
+      <EDID>Recipe_Weapon_Ranged_AssaultRifle_WhistleInTheDark</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Whistle in the Dark</Source>
+      <Dest>OPS+|Plan: Whistle in the Dark</Dest>
+    </String>
+    <String List="0" sID="6100A829">
+      <EDID>Recipe_Workshop_Power_Generator_SuperReactor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Super Reactor</Source>
+      <Dest>OPS+|Plan: Super Reactor</Dest>
+    </String>
+    <String List="0" sID="6100A82B">
+      <EDID>Recipe_Armor_VaultSuit94_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 94 Jumpsuit</Source>
+      <Dest>OPS|Plan: Vault 94 Jumpsuit</Dest>
+    </String>
+    <String List="0" sID="6100A82C">
+      <EDID>Recipe_Workshop_WallDecor_BurrowsSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Burrows Signs</Source>
+      <Dest>OPS|Plan: Burrows Signs</Dest>
+    </String>
+    <String List="0" sID="6100AA78">
+      <EDID>Recipe_Workshop_MiscStructures_SymptoMatic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sympto-Matic</Source>
+      <Dest>OPS+|Plan: Sympto-Matic</Dest>
+    </String>
+    <String List="0" sID="6100B734">
+      <EDID>Recipe_Workshop_Lights_AsylumLight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Asylum Light</Source>
+      <Dest>OPS|Plan: Asylum Light</Dest>
+    </String>
+    <String List="0" sID="6100B735">
+      <EDID>Recipe_Workshop_Benches_CrowdBench</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Crowd Bench Seats</Source>
+      <Dest>OPS|Plan: Crowd Bench Seats</Dest>
+    </String>
+    <String List="0" sID="6100B736">
+      <EDID>Armor_HazmatSuit_SwampCamo</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Swamp Camo Hazmat Suit</Source>
+      <Dest>OPS+|Swamp Camo Hazmat Suit</Dest>
+    </String>
+    <String List="0" sID="6100B7DB">
+      <EDID>Recipe_Workshop_Container_StashBox_MeatBag_Floor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Meat Bag Stash Box</Source>
+      <Dest>OPS+|Plan: Meat Bag Stash Box</Dest>
+    </String>
+    <String List="0" sID="6100B7DC">
+      <EDID>Recipe_Workshop_Lights_NeonSignHello</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hello Neon Sign</Source>
+      <Dest>OPS|Plan: Hello Neon Sign</Dest>
+    </String>
+    <String List="0" sID="6100B7DD">
+      <EDID>Recipe_Workshop_Lights_NeonSignOpen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Open Neon Sign</Source>
+      <Dest>OPS|Plan: Open Neon Sign</Dest>
+    </String>
+    <String List="0" sID="6100B7ED">
+      <EDID>Recipe_Workshop_Bed_Poodle_SleepingBag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Poodle Sleeping Bag</Source>
+      <Dest>OPS|Plan: Poodle Sleeping Bag</Dest>
+    </String>
+    <String List="0" sID="6100B846">
+      <EDID>Recipe_Workshop_SuperMutantTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Super Mutant Tube</Source>
+      <Dest>OPS|Plan: Super Mutant Tube</Dest>
+    </String>
+    <String List="0" sID="6100B87C">
+      <EDID>recipe_mod_PowerArmor_X01_Material_Paint_Scorched</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: X-01 Scorched Paint</Source>
+      <Dest>OPS+|Plan: X-01 Scorched Paint</Dest>
+    </String>
+    <String List="0" sID="6100BC95">
+      <EDID>Recipe_Workshop_WendigoTube_31</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wendigo Tube</Source>
+      <Dest>OPS|Plan: Wendigo Tube</Dest>
+    </String>
+    <String List="0" sID="6100BC97">
+      <EDID>Recipe_Workshop_WallDecor_BOSMedallion</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: BoS Medallion</Source>
+      <Dest>OPS|Plan: BoS Medallion</Dest>
+    </String>
+    <String List="0" sID="6100BC98">
+      <EDID>Recipe_Workshop_FloorDecor_EnclaveMedallion</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Enclave Medallion</Source>
+      <Dest>OPS|Plan: Enclave Medallion</Dest>
+    </String>
+    <String List="0" sID="6100BCBD">
+      <EDID>Recipe_Armor_EnclaveScoutUniform_Torso_Covert</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Covert Scout Armor Chest Piece</Source>
+      <Dest>OPS+|Plan: Covert Scout Armor Chest Piece</Dest>
+    </String>
+    <String List="0" sID="6100BCBE">
+      <EDID>Recipe_Headwear_EnclaveScoutUniform_Mask_Covert</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Covert Scout Armor Mask</Source>
+      <Dest>OPS+|Plan: Covert Scout Armor Mask</Dest>
+    </String>
+    <String List="0" sID="6100BCBF">
+      <EDID>Recipe_Armor_EnclaveScoutUniform_LegLeft_Covert</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Covert Scout Armor Left Leg</Source>
+      <Dest>OPS+|Plan: Covert Scout Armor Left Leg</Dest>
+    </String>
+    <String List="0" sID="6100BCC0">
+      <EDID>Recipe_Armor_EnclaveScoutUniform_LegRight_Covert</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Covert Scout Armor Right Leg</Source>
+      <Dest>OPS+|Plan: Covert Scout Armor Right Leg</Dest>
+    </String>
+    <String List="0" sID="6100BCC1">
+      <EDID>Recipe_Armor_EnclaveScoutUniform_ArmRight_Covert</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Covert Scout Armor Right Arm</Source>
+      <Dest>OPS+|Plan: Covert Scout Armor Right Arm</Dest>
+    </String>
+    <String List="0" sID="6100BCC2">
+      <EDID>Recipe_Armor_EnclaveScoutUniform_ArmLeft_Covert</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Covert Scout Armor Left Arm</Source>
+      <Dest>OPS+|Plan: Covert Scout Armor Left Arm</Dest>
+    </String>
+    <String List="0" sID="6100BD17">
+      <EDID>Recipe_Weapon_Melee_DeathclawGauntlet_UnstoppableMonster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Unstoppable Monster</Source>
+      <Dest>OPS+|Plan: Unstoppable Monster</Dest>
+    </String>
+    <String List="0" sID="6100BE02">
+      <EDID>Recipe_Weapon_Ranged_44_MedicalMalpractice</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Medical Malpractice</Source>
+      <Dest>OPS+|Plan: Medical Malpractice</Dest>
+    </String>
+    <String List="0" sID="6100BF13">
+      <EDID>Recipe_Workshop_WallDecor_EmmetMountainSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Emmett Mountain Disposal Signs</Source>
+      <Dest>OPS|Plan: Emmett Mountain Disposal Signs</Dest>
+    </String>
+    <String List="0" sID="6100BF46">
+      <EDID>Recipe_Workshop_WallDecor_ScienceChalkboards</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Science Chalkboards</Source>
+      <Dest>OPS|Plan: Science Chalkboards</Dest>
+    </String>
+    <String List="0" sID="6100C190">
+      <EDID>Recipe_Weapon_Melee_FaceBreaker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Face Breaker</Source>
+      <Dest>OPS+|Plan: Face Breaker</Dest>
+    </String>
+    <String List="0" sID="6100CAFB">
+      <EDID>Recipe_Headwear_Marine_Arctic_Helmet_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Arctic Marine Armor Helmet</Source>
+      <Dest>OPS+|Plan: Arctic Marine Armor Helmet</Dest>
+    </String>
+    <String List="0" sID="6100CAFC">
+      <EDID>Recipe_Armor_Marine_Arctic_Torso_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Arctic Marine Torso</Source>
+      <Dest>OPS+|Plan: Arctic Marine Torso</Dest>
+    </String>
+    <String List="0" sID="6100CAFD">
+      <EDID>Recipe_Armor_Marine_Arctic_LegLeft_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Arctic Marine Left Leg</Source>
+      <Dest>OPS+|Plan: Arctic Marine Left Leg</Dest>
+    </String>
+    <String List="0" sID="6100CAFE">
+      <EDID>Recipe_Armor_Marine_Arctic_ArmLeft_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Arctic Marine Left Arm</Source>
+      <Dest>OPS+|Plan: Arctic Marine Left Arm</Dest>
+    </String>
+    <String List="0" sID="6100CAFF">
+      <EDID>Recipe_Armor_Marine_Arctic_LegRight_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Arctic Marine Right Leg</Source>
+      <Dest>OPS+|Plan: Arctic Marine Right Leg</Dest>
+    </String>
+    <String List="0" sID="6100CB00">
+      <EDID>Recipe_Armor_Marine_Arctic_ArmRight_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Arctic Marine Right Arm</Source>
+      <Dest>OPS+|Plan: Arctic Marine Right Arm</Dest>
+    </String>
+    <String List="0" sID="6100CB10">
+      <EDID>Armor_HazmatSuit_Black</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Black Hazmat Suit</Source>
+      <Dest>OPS+|Black Hazmat Suit</Dest>
+    </String>
+    <String List="0" sID="6101589A">
+      <EDID>recipe_mod_PowerArmor_AlienInvaderV2_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Deep-Space Alien Power Armor Jetpack Skins</Source>
+      <Dest>OPS+|Plan: Deep-Space Alien Power Armor Jetpack Skins</Dest>
+    </String>
+    <String List="0" sID="6101589B">
+      <EDID>Recipe_Workshop_FloaterTubes</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Floater Tubes</Source>
+      <Dest>OPS|Plan: Floater Tubes</Dest>
+    </String>
+    <String List="0" sID="610158A1">
+      <EDID>Recipe_Workshop_FlatwoodsMonsterTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flatwoods Monster Tube</Source>
+      <Dest>OPS|Plan: Flatwoods Monster Tube</Dest>
+    </String>
+    <String List="0" sID="610158A5">
+      <EDID>Recipe_mod_Handmade_Material_Paint_Intergalactic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Intergalactic Handmade Skin</Source>
+      <Dest>OPS|Plan: Intergalactic Handmade Skin</Dest>
+    </String>
+    <String List="0" sID="610158A6">
+      <EDID>recipe_Armor_PowerArmor_AlienInvaderV2_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Deep-Space Alien Power Armor Helmet Paint</Source>
+      <Dest>OPS+|Plan: Deep-Space Alien Power Armor Helmet Paint</Dest>
+    </String>
+    <String List="0" sID="610158A7">
+      <EDID>recipe_Armor_PowerArmor_AlienInvaderV2_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Deep-Space Alien Power Armor Torso Paint</Source>
+      <Dest>OPS+|Plan: Deep-Space Alien Power Armor Torso Paint</Dest>
+    </String>
+    <String List="0" sID="6101599C">
+      <EDID>recipe_Armor_PowerArmor_AlienInvaderV2_Arms</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Deep-Space Alien Power Armor Arms Paint</Source>
+      <Dest>OPS+|Plan: Deep-Space Alien Power Armor Arms Paint</Dest>
+    </String>
+    <String List="0" sID="6101599D">
+      <EDID>recipe_Armor_PowerArmor_AlienInvaderV2_Legs</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Deep-Space Alien Power Armor Legs Paint</Source>
+      <Dest>OPS+|Plan: Deep-Space Alien Power Armor Legs Paint</Dest>
+    </String>
+    <String List="0" sID="6101844C">
+      <EDID>Recipe_Backpack_Standard_Material_Alien</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Backpack</Source>
+      <Dest>OPS+|Plan: Alien Backpack</Dest>
+    </String>
+    <String List="0" sID="710004C5">
+      <EDID>Recipe_Weapon_Ranged_LeverGun_SoleSurvivor_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sole Survivor</Source>
+      <Dest>OPS+|Plan: Sole Survivor</Dest>
+    </String>
+    <String List="0" sID="710004C6">
+      <EDID>Recipe_Weapon_Melee_PipeWrench_MechanicsBestFriend_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mechanic's Best Friend</Source>
+      <Dest>OPS+|Plan: Mechanic's Best Friend</Dest>
+    </String>
+    <String List="0" sID="79000218">
+      <EDID>Recipe_Workshop_Power_Generator_SolarPanels</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Scavenged Solar Panel</Source>
+      <Dest>OPS+|Plan: Scavenged Solar Panel</Dest>
+    </String>
+    <String List="0" sID="790005CE">
+      <EDID>Recipe_Workshop_MirelurkKingTube_30</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mirelurk King Tube</Source>
+      <Dest>OPS+|Plan: Mirelurk King Tube</Dest>
+    </String>
+    <String List="0" sID="D900550E">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyDuster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cowboy Duster</Source>
+      <Dest>OPS|Plan: Cowboy Duster</Dest>
+    </String>
+    <String List="0" sID="D9005510">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyChaps</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cowboy Chaps</Source>
+      <Dest>OPS|Plan: Cowboy Chaps</Dest>
+    </String>
+    <String List="0" sID="D9005511">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cowboy Hat</Source>
+      <Dest>OPS|Plan: Cowboy Hat</Dest>
+    </String>
+    <String List="0" sID="D900581B">
+      <EDID>MOON_DO_Workshop_Recipe_KidsTruckBed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Kids Truck Bed</Source>
+      <Dest>OPS|Plan: Kids Truck Bed</Dest>
+    </String>
+    <String List="0" sID="D900585F">
+      <EDID>MOON_DO_Workshop_Recipe_UmbrellaHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Umbrella Hat</Source>
+      <Dest>OPS|Plan: Umbrella Hat</Dest>
+    </String>
+    <String List="0" sID="D9005931">
+      <EDID>MOON_DO_Workshop_Recipe_BrahminSofa</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brahmin Couch</Source>
+      <Dest>OPS|Plan: Brahmin Couch</Dest>
+    </String>
+    <String List="0" sID="D9005932">
+      <EDID>MOON_DO_Workshop_Recipe_FeralGhoulChair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ghoul Chair</Source>
+      <Dest>OPS|Plan: Ghoul Chair</Dest>
+    </String>
+    <String List="0" sID="D9005A28">
+      <EDID>MOON_DO_Workshop_Recipe_GorillaChair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gorilla Chair</Source>
+      <Dest>OPS|Plan: Gorilla Chair</Dest>
+    </String>
+  
+    <String List="0" sID="410078B4">
+      <EDID>MOON_Herd_Workshop_Recipe_OguaHunterHood</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Hunter Hood</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Ogua Hunter Hood</Dest>
+    </String>
+    <String List="0" sID="410078B5">
+      <EDID>MOON_Herd_Workshop_Recipe_OguaHunterOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Hunter Outfit</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Ogua Hunter Outfit</Dest>
+    </String>
+    <String List="0" sID="41007991">
+      <EDID>MOON_Ambush_Recipe_OguaShellBackpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Shell Backpack</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Ogua Shell Backpack</Dest>
+    </String>
+    <String List="0" sID="41007CF1">
+      <EDID>MOON_Ambush_Workshop_Recipe_SleepingBag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Dirty Blue Ridge Sleeping Bag</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Dirty Blue Ridge Sleeping Bag</Dest>
+    </String>
+    <String List="0" sID="41007D89">
+      <EDID>MOON_Herd_Workshop_Recipe_PaddockFence</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Paddock Fence</Source>
+      <Dest>SAFE AND SOUND|Plan: Paddock Fence</Dest>
+    </String>
+    <String List="0" sID="41007ED9">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Devil Outfit</Source>
+      <Dest>SAFE AND SOUND|Plan: Blue Devil Outfit</Dest>
+    </String>
+    <String List="0" sID="41007EDA">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilHood</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Devil Pelt Hood</Source>
+      <Dest>SAFE AND SOUND|Plan: Blue Devil Pelt Hood</Dest>
+    </String>
+    <String List="0" sID="41007F8A">
+      <EDID>MOON_Ambush_Workshop_Recipe_BlueRidgeScoutOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Ridge Scout Outfit</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Blue Ridge Scout Outfit</Dest>
+    </String>
+    <String List="0" sID="61017B5D">
+      <EDID>Moon_Herd_Workshop_Recipe_BlueDevilTrophy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mounted Blue Devil Head</Source>
+      <Dest>SAFE AND SOUND|Plan: Mounted Blue Devil Head</Dest>
+    </String>
+    <String List="0" sID="61017B5E">
+      <EDID>MOON_Herd_Workshop_Recipe_TaxidermyBlueDevil</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Devil Statue</Source>
+      <Dest>SAFE AND SOUND|Plan: Blue Devil Statue</Dest>
+    </String>
+    <String List="0" sID="61017CFF">
+      <EDID>MOON_Herd_Workshop_Recipe_CurtainBlueDevil</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Devil Curtain Door</Source>
+      <Dest>SAFE AND SOUND|Plan: Blue Devil Curtain Door</Dest>
+    </String>
+    <String List="0" sID="61017D00">
+      <EDID>MOON_Ambush_Workshop_Recipe_CurtainOgua</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Curtain Door</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Ogua Curtain Door</Dest>
+    </String>
+    <String List="0" sID="610183CB">
+      <EDID>Moon_Ambush_Workshop_Recipe_OguaTrophy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mounted Ogua Head</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Mounted Ogua Head</Dest>
+    </String>
+    <String List="0" sID="D90054C6">
+      <EDID>MOON_Herd_Workshop_Recipe_BrahminBackpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brahmin Backpack</Source>
+      <Dest>SAFE AND SOUND|Plan: Brahmin Backpack</Dest>
+    </String>
+    <String List="0" sID="D90054E9">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Devil Plushie</Source>
+      <Dest>SAFE AND SOUND|Plan: Blue Devil Plushie</Dest>
+    </String>
+    <String List="0" sID="D900550E">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyDuster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cowboy Duster</Source>
+      <Dest>BLUE MOON OPERATIONS|Plan: Cowboy Duster</Dest>
+    </String>
+    <String List="0" sID="D900550F">
+      <EDID>MOON_Ambush_Workshop_Recipe_OguaPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Plushie</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Ogua Plushie</Dest>
+    </String>
+    <String List="0" sID="D9005510">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyChaps</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cowboy Chaps</Source>
+      <Dest>BLUE MOON OPERATIONS|Plan: Cowboy Chaps</Dest>
+    </String>
+    <String List="0" sID="D900581B">
+      <EDID>MOON_DO_Workshop_Recipe_KidsTruckBed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Kids Truck Bed</Source>
+      <Dest>BLUE MOON OPERATIONS|Plan: Kids Truck Bed</Dest>
+    </String>
+    <String List="0" sID="D900581D">
+      <EDID>MOON_Herd_Workshop_Recipe_KidsCowClock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Kids Brahmin Clock</Source>
+      <Dest>SAFE AND SOUND|Plan: Kids Brahmin Clock</Dest>
+    </String>
+    <String List="0" sID="D9005825">
+      <EDID>MOON_Herd_Workshop_Recipe_CartographyTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cartography Table</Source>
+      <Dest>SAFE AND SOUND|Plan: Cartography Table</Dest>
+    </String>
+    <String List="0" sID="D9005828">
+      <EDID>MOON_Ambush_Workshop_Recipe_SleepingBagFur</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fur Sleeping Bag</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Fur Sleeping Bag</Dest>
+    </String>
+    <String List="0" sID="D900582A">
+      <EDID>MOON_Herd_Workshop_Recipe_TrailerTruckGear</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Truckbed Trailer with Junk</Source>
+      <Dest>SAFE AND SOUND|Plan: Truckbed Trailer with Junk</Dest>
+    </String>
+    <String List="0" sID="D9005844">
+      <EDID>MOON_Ambush_Workshop_Recipe_OguaFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Backpack Flair</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Ogua Backpack Flair</Dest>
+    </String>
+    <String List="0" sID="D900585F">
+      <EDID>MOON_DO_Workshop_Recipe_UmbrellaHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Umbrella Hat</Source>
+      <Dest>BLUE MOON OPERATIONS|Plan: Umbrella Hat</Dest>
+    </String>
+    <String List="0" sID="D900586F">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Devil Backpack Flair</Source>
+      <Dest>SAFE AND SOUND|Plan: Blue Devil Backpack Flair</Dest>
+    </String>
+    <String List="0" sID="D9005877">
+      <EDID>MOON_Herd_Workshop_Recipe_Milkman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Milkman Outfit</Source>
+      <Dest>SAFE AND SOUND|Plan: Milkman Outfit</Dest>
+    </String>
+    <String List="0" sID="D9005878">
+      <EDID>MOON_Herd_Workshop_Recipe_MilkmanHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Milkman Hat</Source>
+      <Dest>SAFE AND SOUND|Plan: Milkman Hat</Dest>
+    </String>
+    <String List="0" sID="D9005889">
+      <EDID>MOON_Herd_Workshop_Recipe_BrahminPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pink Brahmin Plushie</Source>
+      <Dest>SAFE AND SOUND|Plan: Pink Brahmin Plushie</Dest>
+    </String>
+    <String List="0" sID="D900588A">
+      <EDID>MOON_Ambush_Workshop_Recipe_Tent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Canopy Tent</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Canopy Tent</Dest>
+    </String>
+    <String List="0" sID="D90058A9">
+      <EDID>MOON_Herd_Workshop_Recipe_PaddockGate</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Paddock Gate</Source>
+      <Dest>SAFE AND SOUND|Plan: Paddock Gate</Dest>
+    </String>
+    <String List="0" sID="D90058AD">
+      <EDID>MOON_Ambush_Workshop_Recipe_CryptidHunterBoonieHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cryptid Hunter Boonie Hat</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Cryptid Hunter Boonie Hat</Dest>
+    </String>
+    <String List="0" sID="D9005931">
+      <EDID>MOON_DO_Workshop_Recipe_BrahminSofa</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brahmin Couch</Source>
+      <Dest>BLUE MOON OPERATIONS|Plan: Brahmin Couch</Dest>
+    </String>
+    <String List="0" sID="D9005932">
+      <EDID>MOON_DO_Workshop_Recipe_FeralGhoulChair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ghoul Chair</Source>
+      <Dest>BLUE MOON OPERATIONS|Plan: Ghoul Chair</Dest>
+    </String>
+    <String List="0" sID="D90059B4">
+      <EDID>Moon_Recipe_Workshop_FloorDecor_Rugs_BrahminRug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brahmin Skin Rug</Source>
+      <Dest>SAFE AND SOUND|Plan: Brahmin Skin Rug</Dest>
+    </String>
+    <String List="0" sID="D90059B5">
+      <EDID>MOON_Herd_Workshop_Recipe_Rug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Blue Ridge Rug</Source>
+      <Dest>SAFE AND SOUND|Plan: Blue Ridge Rug</Dest>
+    </String>
+    <String List="0" sID="D9005A28">
+      <EDID>MOON_DO_Workshop_Recipe_GorillaChair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gorilla Chair</Source>
+      <Dest>BLUE MOON OPERATIONS|Plan: Gorilla Chair</Dest>
+    </String>
+    <String List="0" sID="D90060C5">
+      <EDID>MOON_Ambush_Workshop_Recipe_Mobile</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cryptid Mobile</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Cryptid Mobile</Dest>
+    </String>
+    <String List="0" sID="D9006118">
+      <EDID>MOON_Herd_Workshop_Recipe_TravellersWagon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Traveler's Wagon</Source>
+      <Dest>SAFE AND SOUND|Plan: Traveler's Wagon</Dest>
+    </String>
+    <String List="0" sID="D9007BD2">
+      <EDID>MOON_Ambush_Workshop_Recipe_OguaEgg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Egg</Source>
+      <Dest>BEASTS OF BURDEN|Plan: Ogua Egg</Dest>
+    </String>
+  
+    <String List="0" sID="390060EB">
+      <EDID>Recipe_XPD_Workshop_StreetKit_Pitt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pittsburgh Street Kit</Source>
+      <Dest>FROM ASHES TO FIRE|Plan: Pittsburgh Street Kit</Dest>
+    </String>
+    <String List="0" sID="390060EC">
+      <EDID>Recipe_XPD_Workshop_FanaticBarricade_Pitt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fanatic Barricade</Source>
+      <Dest>FROM ASHES TO FIRE|Plan: Fanatic Barricade</Dest>
+    </String>
+    <String List="0" sID="3900662C">
+      <EDID>Recipe_XPD_Workshop_PittCityLimitSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: The Pitt City Limit Signs</Source>
+      <Dest>UNION DUES|Plan: The Pitt City Limit Signs</Dest>
+    </String>
+    <String List="0" sID="39006D95">
+      <EDID>Recipe_XPD_Workshop_Floodlight_Pitt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pittsburgh Industrial Floodlight Kit</Source>
+      <Dest>FROM ASHES TO FIRE|Plan: Pittsburgh Industrial Floodlight Kit</Dest>
+    </String>
+    <String List="0" sID="39006F87">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Tesla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Tesla Coils</Source>
+      <Dest>PITT|Plan: Union Tesla Coils</Dest>
+    </String>
+    <String List="0" sID="39006F89">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Optimized</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Optimized Bracers</Source>
+      <Dest>PITT|Plan: Union Optimized Bracers</Dest>
+    </String>
+    <String List="0" sID="39006F8A">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Recon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Recon Sensors</Source>
+      <Dest>PITT|Plan: Union Recon Sensors</Dest>
+    </String>
+    <String List="0" sID="39006F8C">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_Carry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Calibrated Shocks</Source>
+      <Dest>PITT|Plan: Union Calibrated Shocks</Dest>
+    </String>
+    <String List="0" sID="39006F8E">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_OptimizedServos</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Optimized Servos</Source>
+      <Dest>PITT|Plan: Union Optimized Servos</Dest>
+    </String>
+    <String List="0" sID="39006F8F">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_VATSChance</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union VATS Matrix Overlay</Source>
+      <Dest>PITT|Plan: Union VATS Matrix Overlay</Dest>
+    </String>
+    <String List="0" sID="39006F91">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_BatRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Core Assembly</Source>
+      <Dest>PITT|Plan: Union Core Assembly</Dest>
+    </String>
+    <String List="0" sID="39006F92">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_SprintBoost</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Overdrive Servos</Source>
+      <Dest>PITT|Plan: Union Overdrive Servos</Dest>
+    </String>
+    <String List="0" sID="39006F93">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_MedicPump</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Medic Pump</Source>
+      <Dest>PITT|Plan: Union Medic Pump</Dest>
+    </String>
+    <String List="0" sID="39006F94">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_ShockDmg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Tesla Bracers</Source>
+      <Dest>PITT|Plan: Union Tesla Bracers</Dest>
+    </String>
+    <String List="0" sID="39006F96">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Kinetic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Kinetic Dynamo</Source>
+      <Dest>PITT|Plan: Union Kinetic Dynamo</Dest>
+    </String>
+    <String List="0" sID="39006F97">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Cleanser</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Blood Cleanser</Source>
+      <Dest>PITT|Plan: Union Blood Cleanser</Dest>
+    </String>
+    <String List="0" sID="39006F99">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_ExplVent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Cooling Vent</Source>
+      <Dest>PITT|Plan: Union Cooling Vent</Dest>
+    </String>
+    <String List="0" sID="39006F9B">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Reactive</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Reactive Plates</Source>
+      <Dest>PITT|Plan: Union Reactive Plates</Dest>
+    </String>
+    <String List="0" sID="39006F9C">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Str</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Motion-Assist Servos</Source>
+      <Dest>PITT|Plan: Union Motion-Assist Servos</Dest>
+    </String>
+    <String List="0" sID="39006F9D">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Sensor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Sensor Array</Source>
+      <Dest>PITT|Plan: Union Sensor Array</Dest>
+    </String>
+    <String List="0" sID="39006F9E">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_StealthBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Stealth Boy</Source>
+      <Dest>PITT|Plan: Union Stealth Boy</Dest>
+    </String>
+    <String List="0" sID="39006F9F">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Bleed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Rusty Knuckles</Source>
+      <Dest>PITT|Plan: Union Rusty Knuckles</Dest>
+    </String>
+    <String List="0" sID="39006FA0">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_DetectLife</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Targeting HUD</Source>
+      <Dest>PITT|Plan: Union Targeting HUD</Dest>
+    </String>
+    <String List="0" sID="39006FA1">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Emergency</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Emergency Protocols</Source>
+      <Dest>PITT|Plan: Union Emergency Protocols</Dest>
+    </String>
+    <String List="0" sID="39006FA2">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_APRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Kinetic Servos</Source>
+      <Dest>PITT|Plan: Union Kinetic Servos</Dest>
+    </String>
+    <String List="0" sID="39006FA3">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Int</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Internal Database</Source>
+      <Dest>PITT|Plan: Union Internal Database</Dest>
+    </String>
+    <String List="0" sID="39006FA4">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Unarmed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Hydraulic Bracers</Source>
+      <Dest>PITT|Plan: Union Hydraulic Bracers</Dest>
+    </String>
+    <String List="0" sID="39007217">
+      <EDID>Recipe_XPD_Workshop_WallDecor_Union42Banners</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union 42 Banners</Source>
+      <Dest>UNION DUES|Plan: Union 42 Banners</Dest>
+    </String>
+    <String List="0" sID="410074A9">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Headlamp Purple</Source>
+      <Dest>PITT|Plan: Union Headlamp Purple</Dest>
+    </String>
+    <String List="0" sID="410074AA">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Headlamp Blue</Source>
+      <Dest>PITT|Plan: Union Headlamp Blue</Dest>
+    </String>
+    <String List="0" sID="410074AB">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Headlamp Bright</Source>
+      <Dest>PITT|Plan: Union Headlamp Bright</Dest>
+    </String>
+    <String List="0" sID="410074AC">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Headlamp Vault Boy</Source>
+      <Dest>PITT|Plan: Union Headlamp Vault Boy</Dest>
+    </String>
+    <String List="0" sID="410074AD">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Headlamp Red Tactical</Source>
+      <Dest>PITT|Plan: Union Headlamp Red Tactical</Dest>
+    </String>
+    <String List="0" sID="61005E6C">
+      <EDID>Recipe_mod_AutoAxe_Poisoned</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Auto Axe Poisoned Mod</Source>
+      <Dest>PITT|Plan: Auto Axe Poisoned Mod</Dest>
+    </String>
+    <String List="0" sID="61005E6D">
+      <EDID>Recipe_mod_AutoAxe_Turbo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Auto Axe Turbo Mod</Source>
+      <Dest>PITT|Plan: Auto Axe Turbo Mod</Dest>
+    </String>
+    <String List="0" sID="61005E6E">
+      <EDID>Recipe_mod_AutoAxe_Electrified</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Auto Axe Electrified Mod</Source>
+      <Dest>PITT|Plan: Auto Axe Electrified Mod</Dest>
+    </String>
+    <String List="0" sID="61005E6F">
+      <EDID>Recipe_mod_AutoAxe_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Auto Axe Burning Mod</Source>
+      <Dest>PITT|Plan: Auto Axe Burning Mod</Dest>
+    </String>
+    <String List="0" sID="61010CFD">
+      <EDID>Recipe_XPD_Headwear_SkippysOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Tinkerer's Goggles</Source>
+      <Dest>UNION DUES|Plan: Tinkerer's Goggles</Dest>
+    </String>
+    <String List="0" sID="61010CFE">
+      <EDID>Recipe_XPD_Headwear_DanilosOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Trench Runner's Hood</Source>
+      <Dest>FROM ASHES TO FIRE|Plan: Trench Runner's Hood</Dest>
+    </String>
+    <String List="0" sID="61010CFF">
+      <EDID>Recipe_XPD_Clothes_SkippysOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Tinkerer's Overalls</Source>
+      <Dest>UNION DUES|Plan: Tinkerer's Overalls</Dest>
+    </String>
+    <String List="0" sID="61010D00">
+      <EDID>Recipe_XPD_Clothes_DanilosOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Trench Runner's Coat</Source>
+      <Dest>FROM ASHES TO FIRE|Plan: Trench Runner's Coat</Dest>
+    </String>
+    <String List="0" sID="61011457">
+      <EDID>Recipe_XPD_Workshop_TrogTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Trog Tube</Source>
+      <Dest>UNION DUES|Plan: Trog Tube</Dest>
+    </String>
+    <String List="0" sID="61011D10">
+      <EDID>Recipe_XPD_mod_PumpActionShotgun_Material_Paint_Fanatics</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fanatics Pump-Action Shotgun Paint</Source>
+      <Dest>FROM ASHES TO FIRE|Plan: Fanatics Pump-Action Shotgun Paint</Dest>
+    </String>
+    <String List="0" sID="6101279B">
+      <EDID>Recipe_mod_HuntingRifle_Material_Paint_XPD_Union</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hunting Rifle Skin - Union</Source>
+      <Dest>UNION DUES|Plan: Hunting Rifle Skin - Union</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
