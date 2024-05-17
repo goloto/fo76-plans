@@ -6,7 +6,8 @@
     "@types/jsdom": "^21.1.6"
   },
   "scripts": {
-    "concat": "bun run ./utils/concat.ts"
+    "concat": "bun run ./utils/concat.ts",
+    "test": "bun test"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"

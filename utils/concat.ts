@@ -27,10 +27,15 @@ const concatFiles = (directories: string[], destination: string) => {
     const file = Bun.file(`${destination}${fileName}`);
     const string = await file.text();
     const dom = new JSDOM(string, {contentType: 'text/xml'});
+    const content = dom?.window?.document?.querySelector('Content')?.children;
 
-    dom?.window?.document?.querySelector('Content')?.childNodes.forEach((contentChild) => {
+    if (!content) {
+      return;
+    }
+
+    for (const contentChild of content) {
       xml.window?.document?.querySelector('Content')?.append(contentChild.cloneNode(true));
-    });
+    };
   
     Bun.write(`${destination}_All.xml`, xml.serialize());
   });
