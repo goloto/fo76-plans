@@ -1,0 +1,17 @@
+{
+  "name": "fo76-plans",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/jsdom": "^21.1.6"
+  },
+  "scripts": {
+    "concat": "bun run ./utils/concat.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
