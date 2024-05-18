@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="61004470">
+      <EDID>Recipe_Workshop_FloorDecor_E05_RadioactiveBarrel</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Radioactive Barrel</Source>
+      <Dest>RADIATION RUMBLE|Plan: Radioactive Barrel</Dest>
+    </String>
+    <String List="0" sID="61006379">
+      <EDID>Armor_HazmatSuit_E05_Radition</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Emmett Mountain Hazmat Suit</Source>
+      <Dest>RADIATION RUMBLE|Emmett Mountain Hazmat Suit</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="04134A">
+      <EDID>MTR08_ClaimToken</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Claim Token</Source>
+      <Dest>LODE BARING|Claim Token</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

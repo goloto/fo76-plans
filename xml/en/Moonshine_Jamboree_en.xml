@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="41004DC0">
+      <EDID>E08A_Recipe_Workshop_GulperRug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gulper Rug</Source>
+      <Dest>MOONSHINE JAMBOREE|Plan: Gulper Rug</Dest>
+    </String>
+    <String List="0" sID="61010101">
+      <EDID>E08A_Recipe_Workshop_GulperHead</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gulper Head</Source>
+      <Dest>MOONSHINE JAMBOREE|Plan: Gulper Head</Dest>
+    </String>
+    <String List="0" sID="610104AA">
+      <EDID>E08A_Recipe_Mod_Melee_GulperSmacker_Blades</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gulper Smacker Sharp</Source>
+      <Dest>MOONSHINE JAMBOREE|Plan: Gulper Smacker Sharp</Dest>
+    </String>
+    <String List="0" sID="6101050C">
+      <EDID>E08A_Recipe_Mod_Melee_GulperSmacker_Chains</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gulper Smacker Chain-Wrapped</Source>
+      <Dest>MOONSHINE JAMBOREE|Plan: Gulper Smacker Chain-Wrapped</Dest>
+    </String>
+    <String List="0" sID="81002725">
+      <EDID>E08A_Recipe_Weapon_Melee_GulperSmacker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gulper Smacker</Source>
+      <Dest>MOONSHINE JAMBOREE|Plan: Gulper Smacker</Dest>
+    </String>
+    <String List="0" sID="81002770">
+      <EDID>E08A_Recipe_Mod_Melee_GulperSmacker_Nails</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gulper Smacker Spiked</Source>
+      <Dest>MOONSHINE JAMBOREE|Plan: Gulper Smacker Spiked</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

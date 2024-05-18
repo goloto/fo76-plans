@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="045599">
+      <EDID>MTN04_BeerBottleReserve</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Rodgers&apos; Reserve Beer</Source>
+      <Dest>ONE VIOLENT NIGHT|Rodgers&apos; Reserve Beer</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

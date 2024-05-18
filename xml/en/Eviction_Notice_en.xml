@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="6101027E">
+      <EDID>E08B_HuntingRifle_DoctorsOrders</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Doctor&apos;s Orders</Source>
+      <Dest>EVICTION NOTICE|Doctor&apos;s Orders</Dest>
+    </String>
+    <String List="0" sID="6101A653">
+      <EDID>E08B_Blunderbuss_PiratePunch</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Pirate Punch</Source>
+      <Dest>EVICTION NOTICE|Pirate Punch</Dest>
+    </String>
+    <String List="0" sID="810028CE">
+      <EDID>E08B_Minigun_FoundationsVengeance</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Foundation&apos;s Vengeance</Source>
+      <Dest>EVICTION NOTICE|Foundation&apos;s Vengeance</Dest>
+    </String>
+    <String List="0" sID="8100292E">
+      <EDID>E08B_SuperSledge_TheDebilitator</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>The Debilitator</Source>
+      <Dest>EVICTION NOTICE|The Debilitator</Dest>
+    </String>
+    <String List="0" sID="8100293E">
+      <EDID>E08B_CombatShotgun_CrowdControl</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Crowd Control</Source>
+      <Dest>EVICTION NOTICE|Crowd Control</Dest>
+    </String>
+    <String List="0" sID="81002A60">
+      <EDID>E08B_DeathTambo_ToneDeath</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Tone Death</Source>
+      <Dest>EVICTION NOTICE|Tone Death</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
