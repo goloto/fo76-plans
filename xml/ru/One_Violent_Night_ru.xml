@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="045599">
+      <EDID>MTN04_BeerBottleReserve</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Резервное пиво &quot;Роджерс&quot;</Source>
+      <Dest>НОЧЬ НАСИЛИЯ|Резервное пиво &quot;Роджерс&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
