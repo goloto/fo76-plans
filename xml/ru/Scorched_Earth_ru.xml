@@ -205,5 +205,11 @@
       <Source>Схема: охлаждающее отверстие ультрацитовой силовой брони</Source>
       <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: охлаждающее отверстие ультрацитовой силовой брони</Dest>
     </String>
+    <String List="0" sID="6100D76D">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Outcast</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: комплект окраски &quot;Изгой&quot; для силовой брони</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: комплект окраски &quot;Изгой&quot; для силовой брони</Dest>
+    </String>
   </Content>
 </SSTXMLRessources>

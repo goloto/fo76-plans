@@ -73,6 +73,12 @@
       <Source>Plan: Bottle and Cappy Walking Globe Statue</Source>
       <Dest>NUKA WORLD|Plan: Bottle and Cappy Walking Globe Statue</Dest>
     </String>
+    <String List="0" sID="41006084">
+      <EDID>E09A_BaseballBat_RatBat</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Molerat Bat</Source>
+      <Dest>SEISMIC ACTIVITY|Molerat Bat</Dest>
+    </String>
     <String List="0" sID="41006643">
       <EDID>NWOT_Recipe_Food_CarnivalPie</EDID>
       <REC>BOOK:FULL</REC>
@@ -247,6 +253,24 @@
       <Source>Plan: Getaway Wagon</Source>
       <Dest>MOST WANTED|Plan: Getaway Wagon</Dest>
     </String>
+    <String List="0" sID="61013D82">
+      <EDID>E09D_LeverGun_WesternSpirit</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Western Spirit</Source>
+      <Dest>MOST WANTED|Western Spirit</Dest>
+    </String>
+    <String List="0" sID="61013D83">
+      <EDID>E09C_CompoundBow_BurningLove</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Burning Love</Source>
+      <Dest>TUNNEL OF LOVE|Burning Love</Dest>
+    </String>
+    <String List="0" sID="61014118">
+      <EDID>E09A_Broadsider_GrandFinale</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Grand Finale</Source>
+      <Dest>SEISMIC ACTIVITY|Grand Finale</Dest>
+    </String>
     <String List="0" sID="61014143">
       <EDID>NWOT_Recipe_CappyFlair</EDID>
       <REC>BOOK:FULL</REC>
@@ -373,11 +397,35 @@
       <Source>Recipe: Fried Scorpion On A Stick</Source>
       <Dest>TUNNEL OF LOVE|Recipe: Fried Scorpion On A Stick</Dest>
     </String>
+    <String List="0" sID="8100311A">
+      <EDID>E09C_SubmachineGun_LoveTap</EDID>
+      <REC id="0" idMax="7">WEAP:FULL</REC>
+      <Source>Love-Tap</Source>
+      <Dest>TUNNEL OF LOVE|Love-Tap</Dest>
+    </String>
+    <String List="0" sID="81003122">
+      <EDID>E09B_SuperSledge_WhackerSmacker</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Whacker Smacker</Source>
+      <Dest>SPIN THE WHEEL|Whacker Smacker</Dest>
+    </String>
     <String List="0" sID="81004544">
       <EDID>E09A_Recipe_Workshop_NWOTCoaster_Toy</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Nuka Launcher Model</Source>
       <Dest>SEISMIC ACTIVITY|Plan: Nuka Launcher Model</Dest>
+    </String>
+    <String List="0" sID="81004742">
+      <EDID>MoleRatJerky</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Mole Rat Jerky</Source>
+      <Dest>SEISMIC ACTIVITY|Mole Rat Jerky</Dest>
+    </String>
+    <String List="0" sID="81004748">
+      <EDID>E09D_SingleActionRevolver_GunthersRevolver</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Gunther&apos;s Big Iron</Source>
+      <Dest>MOST WANTED|Gunther&apos;s Big Iron</Dest>
     </String>
     <String List="0" sID="81004885">
       <EDID>Recipe_Workshop_NWOTBalloon</EDID>

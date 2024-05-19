@@ -205,5 +205,11 @@
       <Source>Plan: Ultracite Cooling Vent</Source>
       <Dest>SCORCHED EARTH|Plan: Ultracite Cooling Vent</Dest>
     </String>
+    <String List="0" sID="6100D76D">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Outcast</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Outcast Power Armor Paints</Source>
+      <Dest>SCORCHED EARTH|Plan: Outcast Power Armor Paints</Dest>
+    </String>
   </Content>
 </SSTXMLRessources>
