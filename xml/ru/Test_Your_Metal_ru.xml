@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="39000F4F">
+      <EDID>Recipe_Workshop_WallDecor_RustEagleBanner</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знамя Ржавых Орлов</Source>
+      <Dest>ИСПЫТ. НА ПРОЧН.|Схема: знамя Ржавых Орлов</Dest>
+    </String>
+    <String List="0" sID="41004FD2">
+      <EDID>recipe_mod_PowerArmor_T51_Material_Paint_NewBOS_Knight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска рыцаря Братства для силовой брони T-51</Source>
+      <Dest>ИСПЫТ. НА ПРОЧН.|Схема: окраска рыцаря Братства для силовой брони T-51</Dest>
+    </String>
+    <String List="0" sID="41004FD3">
+      <EDID>recipe_mod_PowerArmor_T51_Material_Paint_NewBOS_Paladin</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска паладина Братства для силовой брони T-51</Source>
+      <Dest>ИСПЫТ. НА ПРОЧН.|Схема: окраска паладина Братства для силовой брони T-51</Dest>
+    </String>
+    <String List="0" sID="4100514D">
+      <EDID>Recipe_Workshop_Displays_BeerSteins_Robot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: витрина-робот для пивных кружек</Source>
+      <Dest>ИСПЫТ. НА ПРОЧН.|Схема: витрина-робот для пивных кружек</Dest>
+    </String>
+    <String List="0" sID="590010D2">
+      <EDID>Recipe_Workshop_FloorDecor_Globe_Mars</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: древний глобус Марса</Source>
+      <Dest>ИСПЫТ. НА ПРОЧН.|Схема: древний глобус Марса</Dest>
+    </String>
+    <String List="0" sID="6100F47B">
+      <EDID>Recipe_Workshop_Bed_CryogenicBed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: криогенный слой</Source>
+      <Dest>ИСПЫТ. НА ПРОЧН.|Схема: криогенный слой</Dest>
+    </String>
+    <String List="0" sID="6100F5D6">
+      <EDID>Recipe_Armor_Botsmith_ArmRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня робототехника для правой руки</Source>
+      <Dest>ИСПЫТ. НА ПРОЧН.|Схема: броня робототехника для правой руки</Dest>
+    </String>
+    <String List="0" sID="6100F5D7">
+      <EDID>Recipe_Armor_Botsmith_ArmLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня робототехника для левой руки</Source>
+      <Dest>ИСПЫТ. НА ПРОЧН.|Схема: броня робототехника для левой руки</Dest>
+    </String>
+    <String List="0" sID="6100F5D8">
+      <EDID>Recipe_Armor_Botsmith_LegLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня робототехника для левой ноги</Source>
+      <Dest>ИСПЫТ. НА ПРОЧН.|Схема: броня робототехника для левой ноги</Dest>
+    </String>
+    <String List="0" sID="6100F5D9">
+      <EDID>Recipe_Armor_Botsmith_LegRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня робототехника для правой ноги</Source>
+      <Dest>ИСПЫТ. НА ПРОЧН.|Схема: броня робототехника для правой ноги</Dest>
+    </String>
+    <String List="0" sID="6100F5DA">
+      <EDID>Recipe_Armor_Botsmith_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня робототехника для туловища</Source>
+      <Dest>ИСПЫТ. НА ПРОЧН.|Схема: броня робототехника для туловища</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

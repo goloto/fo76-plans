@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0445B9">
+      <EDID>recipe_mod_armor_UnderArmor_Marine_Mk5</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Shielded Lining Marine Underarmor</Source>
+      <Dest>CENSUS VIOLENCE|Plan: Shielded Lining Marine Underarmor</Dest>
+    </String>
+    <String List="0" sID="0445BC">
+      <EDID>recipe_mod_armor_UnderArmor_Marine_Mk4</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Protective Lining Marine Underarmor</Source>
+      <Dest>CENSUS VIOLENCE|Plan: Protective Lining Marine Underarmor</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

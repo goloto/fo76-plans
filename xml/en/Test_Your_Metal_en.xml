@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="39000F4F">
+      <EDID>Recipe_Workshop_WallDecor_RustEagleBanner</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Rust Eagle Banner</Source>
+      <Dest>TEST YOUR METAL|Plan: Rust Eagle Banner</Dest>
+    </String>
+    <String List="0" sID="41004FD2">
+      <EDID>recipe_mod_PowerArmor_T51_Material_Paint_NewBOS_Knight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-51 Power Armor Brotherhood Knight Paint</Source>
+      <Dest>TEST YOUR METAL|Plan: T-51 Power Armor Brotherhood Knight Paint</Dest>
+    </String>
+    <String List="0" sID="41004FD3">
+      <EDID>recipe_mod_PowerArmor_T51_Material_Paint_NewBOS_Paladin</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-51 Power Armor Brotherhood Paladin Paint</Source>
+      <Dest>TEST YOUR METAL|Plan: T-51 Power Armor Brotherhood Paladin Paint</Dest>
+    </String>
+    <String List="0" sID="4100514D">
+      <EDID>Recipe_Workshop_Displays_BeerSteins_Robot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Robot Beer Steins Display Case</Source>
+      <Dest>TEST YOUR METAL|Plan: Robot Beer Steins Display Case</Dest>
+    </String>
+    <String List="0" sID="590010D2">
+      <EDID>Recipe_Workshop_FloorDecor_Globe_Mars</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Antique Globe of Mars</Source>
+      <Dest>TEST YOUR METAL|Plan: Antique Globe of Mars</Dest>
+    </String>
+    <String List="0" sID="6100F47B">
+      <EDID>Recipe_Workshop_Bed_CryogenicBed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cryogenic Bed</Source>
+      <Dest>TEST YOUR METAL|Plan: Cryogenic Bed</Dest>
+    </String>
+    <String List="0" sID="6100F5D6">
+      <EDID>Recipe_Armor_Botsmith_ArmRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Botsmith Right Arm</Source>
+      <Dest>TEST YOUR METAL|Plan: Botsmith Right Arm</Dest>
+    </String>
+    <String List="0" sID="6100F5D7">
+      <EDID>Recipe_Armor_Botsmith_ArmLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Botsmith Left Arm</Source>
+      <Dest>TEST YOUR METAL|Plan: Botsmith Left Arm</Dest>
+    </String>
+    <String List="0" sID="6100F5D8">
+      <EDID>Recipe_Armor_Botsmith_LegLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Botsmith Left Leg</Source>
+      <Dest>TEST YOUR METAL|Plan: Botsmith Left Leg</Dest>
+    </String>
+    <String List="0" sID="6100F5D9">
+      <EDID>Recipe_Armor_Botsmith_LegRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Botsmith Right Leg</Source>
+      <Dest>TEST YOUR METAL|Plan: Botsmith Right Leg</Dest>
+    </String>
+    <String List="0" sID="6100F5DA">
+      <EDID>Recipe_Armor_Botsmith_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Botsmith Torso</Source>
+      <Dest>TEST YOUR METAL|Plan: Botsmith Torso</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

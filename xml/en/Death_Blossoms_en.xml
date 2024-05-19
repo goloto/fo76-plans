@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="03DA9D">
+      <EDID>CorpseFlowerSeedsFruit</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Corpse Seeds</Source>
+      <Dest>DEATH BLOSSOMS|Corpse Seeds</Dest>
+    </String>
+    <String List="0" sID="03DB35">
+      <EDID>CorpseFlowerStamenFruit</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Corpse Flower Stamen</Source>
+      <Dest>DEATH BLOSSOMS|Corpse Flower Stamen</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

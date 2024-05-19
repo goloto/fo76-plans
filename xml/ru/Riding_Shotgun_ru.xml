@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="410069A4">
+      <EDID>Headwear_E05_Caravan_Gasmask</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Противогаз &quot;Блю ридж караван&quot;</Source>
+      <Dest>ВТОРОЙ ПИЛОТ|Противогаз &quot;Блю ридж караван&quot;</Dest>
+    </String>
+    <String List="0" sID="61004545">
+      <EDID>Recipe_Workshop_WallDecor_BRCCFlag01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: флаг &quot;Блю ридж караван&quot;</Source>
+      <Dest>ВТОРОЙ ПИЛОТ|Схема: флаг &quot;Блю ридж караван&quot;</Dest>
+    </String>
+    <String List="0" sID="61007C11">
+      <EDID>Recipe_Backpack_Standard_Material_Blueridge</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак &quot;Блю ридж караван&quot;</Source>
+      <Dest>ВТОРОЙ ПИЛОТ|Схема: рюкзак &quot;Блю ридж караван&quot;</Dest>
+    </String>
+    <String List="0" sID="61007C12">
+      <EDID>Armor_BlueridgeGuardOutfit</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Костюм &quot;Блю ридж караван&quot;</Source>
+      <Dest>ВТОРОЙ ПИЛОТ|Костюм &quot;Блю ридж караван&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
