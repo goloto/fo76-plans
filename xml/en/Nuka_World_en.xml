@@ -217,12 +217,6 @@
       <Source>Plan: Wall Safe</Source>
       <Dest>MOST WANTED|Plan: Wall Safe</Dest>
     </String>
-    <String List="0" sID="61013711">
-      <EDID>E09D_Recipe_Workshop_SafeFloor</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Floor Safe</Source>
-      <Dest>MOST WANTED|Plan: Floor Safe</Dest>
-    </String>
     <String List="0" sID="61013712">
       <EDID>E09D_Recipe_Workshop_Cappy&amp;BottleCowboys</EDID>
       <REC>BOOK:FULL</REC>

@@ -217,12 +217,6 @@
       <Source>Схема: стенной сейф</Source>
       <Dest>В РОЗЫСКЕ|Схема: стенной сейф</Dest>
     </String>
-    <String List="0" sID="61013711">
-      <EDID>E09D_Recipe_Workshop_SafeFloor</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: напольный сейф</Source>
-      <Dest>В РОЗЫСКЕ|Схема: напольный сейф</Dest>
-    </String>
     <String List="0" sID="61013712">
       <EDID>E09D_Recipe_Workshop_Cappy&amp;BottleCowboys</EDID>
       <REC>BOOK:FULL</REC>

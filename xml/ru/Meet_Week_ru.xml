@@ -7,18 +7,6 @@
     <Version>2</Version>
   </Params>
   <Content>
-    <String List="0" sID="03F9D8">
-      <EDID>Recipe_Weapon_Melee_Shishkebab</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: шиш-кебаб</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: шиш-кебаб</Dest>
-    </String>
-    <String List="0" sID="03FAAA">
-      <EDID>Recipe_Weapon_Ranged_Flamer</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: огнемет</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: огнемет</Dest>
-    </String>
     <String List="0" sID="41001306">
       <EDID>Recipe_Workshop_Crafting_CraftingCooking_Animalistic_Grill</EDID>
       <REC>BOOK:FULL</REC>

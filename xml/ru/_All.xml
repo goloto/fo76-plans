@@ -141,16 +141,206 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: инопланетная мишень</Source>
       <Dest>ЗАХВАТЧИКИ 2024|Схема: инопланетная мишень</Dest>
+    </String><String List="0" sID="049A9C">
+      <EDID>Recipe_Cooking_Smores</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: поджаренный зефир с крекерами</Source>
+      <Dest>СТРАШНЫЕ ИСТОРИИ|Рецепт: поджаренный зефир с крекерами</Dest>
+    </String><String List="0" sID="049A9E">
+      <EDID>Recipe_Workshop_MiscStructures_Tent_CampfireTales</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: палатка для страшных историй</Source>
+      <Dest>СТРАШНЫЕ ИСТОРИИ|Схема: палатка для страшных историй</Dest>
+    </String><String List="0" sID="6101A8F3">
+      <EDID>Recipe_XPD_AC_Workshop_Lights_MezzanineLights</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: светильники для мезонина</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: светильники для мезонина</Dest>
+    </String><String List="0" sID="6101A8F4">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_NightclubExtSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наружная вывеска ночного клуба</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: наружная вывеска ночного клуба</Dest>
+    </String><String List="0" sID="6101A8F5">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_AtlanticCitySign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: вывеска "Атлантик-Сити"</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: вывеска "Атлантик-Сити"</Dest>
+    </String><String List="0" sID="6101A8F6">
+      <EDID>Recipe_XPD_AC_Workshop_NeapolitanExtSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наружная вывеска Неаполитанец</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: наружная вывеска Неаполитанец</Dest>
+    </String><String List="0" sID="6101ABC5">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownRusherTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с разросшимся-шипом</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: резервуар с разросшимся-шипом</Dest>
+    </String><String List="0" sID="6101ABC6">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownPollinatorTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с разросшимся-опылителем</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: резервуар с разросшимся-опылителем</Dest>
+    </String><String List="0" sID="6101ABC7">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownElderTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с разросшимся-старейшиной</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: резервуар с разросшимся-старейшиной</Dest>
+    </String><String List="0" sID="6101B3BD">
+      <EDID>Recipe_XPD_AC_Workshop_Tables_DiceTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стол для игры в кости из Атлантик-Сити</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: стол для игры в кости из Атлантик-Сити</Dest>
+    </String><String List="0" sID="6101B589">
+      <EDID>Recipe_XPD_AC_Clothes_BatsuuriTwins</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм опытного путешественника</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: костюм опытного путешественника</Dest>
+    </String><String List="0" sID="6101B58B">
+      <EDID>Recipe_XPD_AC_Headwear_Veracio</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: головной убор змеелова</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: головной убор змеелова</Dest>
+    </String><String List="0" sID="6101B58C">
+      <EDID>Recipe_XPD_AC_Clothes_Veracio</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм змеелова</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: костюм змеелова</Dest>
+    </String><String List="0" sID="6101BDF3">
+      <EDID>Recipe_XPD_AC_Outfit_MotherCharlotte</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: золотистое платье с блестками</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: золотистое платье с блестками</Dest>
+    </String><String List="0" sID="6101C36A">
+      <EDID>Recipe_XPD_AC_Armor_Muni_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: поддоспешник инженера-строителя</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: поддоспешник инженера-строителя</Dest>
+    </String><String List="0" sID="6101CBCE">
+      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Operator</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм оперативника муниципалов</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм оперативника муниципалов</Dest>
+    </String><String List="0" sID="6101CBD0">
+      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Drudge</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм чернорабочего муниципалов</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм чернорабочего муниципалов</Dest>
+    </String><String List="0" sID="6101CBD2">
+      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Worker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм работника муниципалов</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм работника муниципалов</Dest>
+    </String><String List="0" sID="71002A99">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_GameShowSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: вывеска игрового шоу</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: вывеска игрового шоу</Dest>
+    </String><String List="0" sID="71002A9A">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_SlotMachines</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема игровые автоматы "Атлантик-Сити"</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема игровые автоматы "Атлантик-Сити"</Dest>
+    </String><String List="0" sID="71002AA0">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_WorldsBiggestSlotMachine</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: самый большой в мире игровой автомат</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: самый большой в мире игровой автомат</Dest>
+    </String><String List="0" sID="71003086">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_AquariumPillar</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: колонна аквариума</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: колонна аквариума</Dest>
+    </String><String List="0" sID="71003F07">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_HorseRacingMachine</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: игра «Механическое дерби Атлантик-Сити»</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: игра «Механическое дерби Атлантик-Сити»</Dest>
+    </String><String List="0" sID="71003F09">
+      <EDID>Recipe_XPD_AC_Workshop_Tables_RouletteTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стол для игры в рулетку из Атлантик-Сити</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: стол для игры в рулетку из Атлантик-Сити</Dest>
+    </String><String List="0" sID="71003F0A">
+      <EDID>Recipe_XPD_AC_Workshop_Tables_CardTables</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: карточные столы из Атлантик-Сити</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: карточные столы из Атлантик-Сити</Dest>
+    </String><String List="0" sID="71003F3A">
+      <EDID>Recipe_XPD_AC_RouletteRevolverPaint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска "Рулетка" для револьвера калибра .44</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: окраска "Рулетка" для револьвера калибра .44</Dest>
+    </String><String List="0" sID="71003F48">
+      <EDID>Recipe_XPD_AC_Workshop_OvergrownVehicle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: разросшийся-транспорт</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: разросшийся-транспорт</Dest>
+    </String><String List="0" sID="710040D5">
+      <EDID>Recipe_XPD_AC_Outfit_MayorTimOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм постапокалиптического фермера</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм постапокалиптического фермера</Dest>
+    </String><String List="0" sID="710040D8">
+      <EDID>Recipe_XPD_AC_Headwear_MayorTimOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: головной убор постапокалиптического фермера</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: головной убор постапокалиптического фермера</Dest>
+    </String><String List="0" sID="710040DB">
+      <EDID>Recipe_XPD_AC_Outfit_ButtercupOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм вышибалы</Source>
+      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм вышибалы</Dest>
+    </String><String List="0" sID="710040F4">
+      <EDID>Recipe_XPD_AC_Workshop_LesserDevilPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый малый дьявол</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: плюшевый малый дьявол</Dest>
+    </String><String List="0" sID="7100410B">
+      <EDID>Recipe_XPD_AC_ShowstopperShotgunPaint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска "Коронный номер" для дробовика</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: окраска "Коронный номер" для дробовика</Dest>
+    </String><String List="0" sID="7100410E">
+      <EDID>Recipe_XPD_AC_Workshop_AquariumWhaleDisplay</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: аквариум с китами</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: аквариум с китами</Dest>
+    </String><String List="0" sID="71004B56">
+      <EDID>Recipe_XPD_AC_OvergrownMissileLauncher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска "Разросшиеся" для ракетомета</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: окраска "Разросшиеся" для ракетомета</Dest>
+    </String><String List="0" sID="71004B57">
+      <EDID>Recipe_XPD_AC_OvergrownAssaultRifle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска "Разросшиеся" для штурмового карабина</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: окраска "Разросшиеся" для штурмового карабина</Dest>
+    </String><String List="0" sID="71004C39">
+      <EDID>Recipe_XPD_AC_OvergrownDeathclawGauntlet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска "Разросшиеся" для когтя смерти</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: окраска "Разросшиеся" для когтя смерти</Dest>
+    </String><String List="0" sID="710063B2">
+      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_SlotMachinePodiums</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: подиумы для игровых автоматов</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: подиумы для игровых автоматов</Dest>
+    </String><String List="0" sID="71006627">
+      <EDID>Recipe_XPD_AC_Workshop_QuentinosSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: вывеска "У Квентино"</Source>
+      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: вывеска "У Квентино"</Dest>
+    </String><String List="0" sID="71006892">
+      <EDID>Recipe_XPD_AC_Workshop_SeaAnimalPillars</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: колонны с морскими обитателями</Source>
+      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: колонны с морскими обитателями</Dest>
     </String><String List="0" sID="03E8B6">
       <EDID>MTR05_MeteoriteSword</EDID>
       <REC id="0" idMax="1">WEAP:FULL</REC>
       <Source>Меч из метеорита</Source>
       <Dest>ПРОНИКН. И ЗАЧИСТКА|Меч из метеорита</Dest>
-    </String><String List="0" sID="03FE48">
-      <EDID>Clothes_Responders_CopUniform</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Форма Спасателя-полицейского</Source>
-      <Dest>ОЧЕРEДНОЕ ПАТРУЛИРОВАНИЕ|Форма Спасателя-полицейского</Dest>
     </String><String List="0" sID="410078B4">
       <EDID>MOON_Herd_Workshop_Recipe_OguaHunterHood</EDID>
       <REC>BOOK:FULL</REC>
@@ -351,201 +541,11 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: яйцо огуа</Source>
       <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: яйцо огуа</Dest>
-    </String><String List="0" sID="6101A8F3">
-      <EDID>Recipe_XPD_AC_Workshop_Lights_MezzanineLights</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: светильники для мезонина</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: светильники для мезонина</Dest>
-    </String><String List="0" sID="6101A8F4">
-      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_NightclubExtSign</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: наружная вывеска ночного клуба</Source>
-      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: наружная вывеска ночного клуба</Dest>
-    </String><String List="0" sID="6101A8F5">
-      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_AtlanticCitySign</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: вывеска "Атлантик-Сити"</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: вывеска "Атлантик-Сити"</Dest>
-    </String><String List="0" sID="6101A8F6">
-      <EDID>Recipe_XPD_AC_Workshop_NeapolitanExtSign</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: наружная вывеска Неаполитанец</Source>
-      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: наружная вывеска Неаполитанец</Dest>
-    </String><String List="0" sID="6101ABC5">
-      <EDID>Recipe_XPD_AC_Workshop_OvergrownRusherTube</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: резервуар с разросшимся-шипом</Source>
-      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: резервуар с разросшимся-шипом</Dest>
-    </String><String List="0" sID="6101ABC6">
-      <EDID>Recipe_XPD_AC_Workshop_OvergrownPollinatorTube</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: резервуар с разросшимся-опылителем</Source>
-      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: резервуар с разросшимся-опылителем</Dest>
-    </String><String List="0" sID="6101ABC7">
-      <EDID>Recipe_XPD_AC_Workshop_OvergrownElderTube</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: резервуар с разросшимся-старейшиной</Source>
-      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: резервуар с разросшимся-старейшиной</Dest>
-    </String><String List="0" sID="6101B3BD">
-      <EDID>Recipe_XPD_AC_Workshop_Tables_DiceTable</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: стол для игры в кости из Атлантик-Сити</Source>
-      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: стол для игры в кости из Атлантик-Сити</Dest>
-    </String><String List="0" sID="6101B589">
-      <EDID>Recipe_XPD_AC_Clothes_BatsuuriTwins</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: костюм опытного путешественника</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: костюм опытного путешественника</Dest>
-    </String><String List="0" sID="6101B58B">
-      <EDID>Recipe_XPD_AC_Headwear_Veracio</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: головной убор змеелова</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: головной убор змеелова</Dest>
-    </String><String List="0" sID="6101B58C">
-      <EDID>Recipe_XPD_AC_Clothes_Veracio</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: костюм змеелова</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: костюм змеелова</Dest>
-    </String><String List="0" sID="6101BDF3">
-      <EDID>Recipe_XPD_AC_Outfit_MotherCharlotte</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: золотистое платье с блестками</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: золотистое платье с блестками</Dest>
-    </String><String List="0" sID="6101C36A">
-      <EDID>Recipe_XPD_AC_Armor_Muni_Underarmor</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: поддоспешник инженера-строителя</Source>
-      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: поддоспешник инженера-строителя</Dest>
-    </String><String List="0" sID="6101CBCE">
-      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Operator</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: костюм оперативника муниципалов</Source>
-      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм оперативника муниципалов</Dest>
-    </String><String List="0" sID="6101CBD0">
-      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Drudge</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: костюм чернорабочего муниципалов</Source>
-      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм чернорабочего муниципалов</Dest>
-    </String><String List="0" sID="6101CBD2">
-      <EDID>Recipe_XPD_AC_Clothes_MuniWorker_Worker</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: костюм работника муниципалов</Source>
-      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм работника муниципалов</Dest>
-    </String><String List="0" sID="71002A99">
-      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_GameShowSigns</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: вывеска игрового шоу</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: вывеска игрового шоу</Dest>
-    </String><String List="0" sID="71002A9A">
-      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_SlotMachines</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема игровые автоматы "Атлантик-Сити"</Source>
-      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема игровые автоматы "Атлантик-Сити"</Dest>
-    </String><String List="0" sID="71002AA0">
-      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_WorldsBiggestSlotMachine</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: самый большой в мире игровой автомат</Source>
-      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: самый большой в мире игровой автомат</Dest>
-    </String><String List="0" sID="71003086">
-      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_AquariumPillar</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: колонна аквариума</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: колонна аквариума</Dest>
-    </String><String List="0" sID="71003F07">
-      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_HorseRacingMachine</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: игра «Механическое дерби Атлантик-Сити»</Source>
-      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: игра «Механическое дерби Атлантик-Сити»</Dest>
-    </String><String List="0" sID="71003F09">
-      <EDID>Recipe_XPD_AC_Workshop_Tables_RouletteTable</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: стол для игры в рулетку из Атлантик-Сити</Source>
-      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: стол для игры в рулетку из Атлантик-Сити</Dest>
-    </String><String List="0" sID="71003F0A">
-      <EDID>Recipe_XPD_AC_Workshop_Tables_CardTables</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: карточные столы из Атлантик-Сити</Source>
-      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: карточные столы из Атлантик-Сити</Dest>
-    </String><String List="0" sID="71003F3A">
-      <EDID>Recipe_XPD_AC_RouletteRevolverPaint</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска "Рулетка" для револьвера калибра .44</Source>
-      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: окраска "Рулетка" для револьвера калибра .44</Dest>
-    </String><String List="0" sID="71003F48">
-      <EDID>Recipe_XPD_AC_Workshop_OvergrownVehicle</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: разросшийся-транспорт</Source>
-      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: разросшийся-транспорт</Dest>
-    </String><String List="0" sID="710040D5">
-      <EDID>Recipe_XPD_AC_Outfit_MayorTimOutfit</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: костюм постапокалиптического фермера</Source>
-      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм постапокалиптического фермера</Dest>
-    </String><String List="0" sID="710040D8">
-      <EDID>Recipe_XPD_AC_Headwear_MayorTimOutfit</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: головной убор постапокалиптического фермера</Source>
-      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: головной убор постапокалиптического фермера</Dest>
-    </String><String List="0" sID="710040DB">
-      <EDID>Recipe_XPD_AC_Outfit_ButtercupOutfit</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: костюм вышибалы</Source>
-      <Dest>УДЕЛ ЧЕЛОВЕКА|Схема: костюм вышибалы</Dest>
-    </String><String List="0" sID="710040F4">
-      <EDID>Recipe_XPD_AC_Workshop_LesserDevilPlushie</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевый малый дьявол</Source>
-      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: плюшевый малый дьявол</Dest>
-    </String><String List="0" sID="7100410B">
-      <EDID>Recipe_XPD_AC_ShowstopperShotgunPaint</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска "Коронный номер" для дробовика</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: окраска "Коронный номер" для дробовика</Dest>
-    </String><String List="0" sID="7100410E">
-      <EDID>Recipe_XPD_AC_Workshop_AquariumWhaleDisplay</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: аквариум с китами</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: аквариум с китами</Dest>
-    </String><String List="0" sID="71004B56">
-      <EDID>Recipe_XPD_AC_OvergrownMissileLauncher</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска "Разросшиеся" для ракетомета</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: окраска "Разросшиеся" для ракетомета</Dest>
-    </String><String List="0" sID="71004B57">
-      <EDID>Recipe_XPD_AC_OvergrownAssaultRifle</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска "Разросшиеся" для штурмового карабина</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: окраска "Разросшиеся" для штурмового карабина</Dest>
-    </String><String List="0" sID="71004C39">
-      <EDID>Recipe_XPD_AC_OvergrownDeathclawGauntlet</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска "Разросшиеся" для когтя смерти</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: окраска "Разросшиеся" для когтя смерти</Dest>
-    </String><String List="0" sID="710063B2">
-      <EDID>Recipe_XPD_AC_Workshop_FloorDecor_SlotMachinePodiums</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: подиумы для игровых автоматов</Source>
-      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: подиумы для игровых автоматов</Dest>
-    </String><String List="0" sID="71006627">
-      <EDID>Recipe_XPD_AC_Workshop_QuentinosSign</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: вывеска "У Квентино"</Source>
-      <Dest>УКЛОНЕНИЕ ОТ НАЛОГОВ|Схема: вывеска "У Квентино"</Dest>
-    </String><String List="0" sID="71006892">
-      <EDID>Recipe_XPD_AC_Workshop_SeaAnimalPillars</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: колонны с морскими обитателями</Source>
-      <Dest>С.ПОТРЯСАЮЩАЯ ИГРА|Схема: колонны с морскими обитателями</Dest>
-    </String><String List="0" sID="049A9C">
-      <EDID>Recipe_Cooking_Smores</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Рецепт: поджаренный зефир с крекерами</Source>
-      <Dest>СТРАШНЫЕ ИСТОРИИ|Рецепт: поджаренный зефир с крекерами</Dest>
-    </String><String List="0" sID="049A9E">
-      <EDID>Recipe_Workshop_MiscStructures_Tent_CampfireTales</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: палатка для страшных историй</Source>
-      <Dest>СТРАШНЫЕ ИСТОРИИ|Схема: палатка для страшных историй</Dest>
+    </String><String List="0" sID="03FE48">
+      <EDID>Clothes_Responders_CopUniform</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Форма Спасателя-полицейского</Source>
+      <Dest>ОЧЕРEДНОЕ ПАТРУЛИРОВАНИЕ|Форма Спасателя-полицейского</Dest>
     </String><String List="0" sID="3900077D">
       <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_Rugs_Colossus_Rug</EDID>
       <REC>BOOK:FULL</REC>
@@ -666,6 +666,46 @@
       <REC>ARMO:FULL</REC>
       <Source>Голова от ростовой куклы шипсквотча</Source>
       <Dest>КРИПТИДОГРАФИЯ+|Голова от ростовой куклы шипсквотча</Dest>
+    </String><String List="0" sID="6101027E">
+      <EDID>E08B_HuntingRifle_DoctorsOrders</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Распоряжения доктора</Source>
+      <Dest>УВЕД. О ВЫСЕЛЕНИИ|Распоряжения доктора</Dest>
+    </String><String List="0" sID="6101A653">
+      <EDID>E08B_Blunderbuss_PiratePunch</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Пиратский удар</Source>
+      <Dest>УВЕД. О ВЫСЕЛЕНИИ|Пиратский удар</Dest>
+    </String><String List="0" sID="810028CE">
+      <EDID>E08B_Minigun_FoundationsVengeance</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Возмездие Опоры</Source>
+      <Dest>УВЕД. О ВЫСЕЛЕНИИ|Возмездие Опоры</Dest>
+    </String><String List="0" sID="8100292E">
+      <EDID>E08B_SuperSledge_TheDebilitator</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Изнуритель</Source>
+      <Dest>УВЕД. О ВЫСЕЛЕНИИ|Изнуритель</Dest>
+    </String><String List="0" sID="8100293E">
+      <EDID>E08B_CombatShotgun_CrowdControl</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Эффект контроля</Source>
+      <Dest>УВЕД. О ВЫСЕЛЕНИИ|Эффект контроля</Dest>
+    </String><String List="0" sID="81002A60">
+      <EDID>E08B_DeathTambo_ToneDeath</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Цвет смерти</Source>
+      <Dest>УВЕД. О ВЫСЕЛЕНИИ|Цвет смерти</Dest>
+    </String><String List="0" sID="03DA9D">
+      <EDID>CorpseFlowerSeedsFruit</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Трупные семена</Source>
+      <Dest>ЦВЕТЫ СМЕРТИ|Трупные семена</Dest>
+    </String><String List="0" sID="03DB35">
+      <EDID>CorpseFlowerStamenFruit</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Тычинка трупного цветка</Source>
+      <Dest>ЦВЕТЫ СМЕРТИ|Тычинка трупного цветка</Dest>
     </String><String List="0" sID="01367A">
       <EDID>Clothes_Raider_Suit_01_GlovesB</EDID>
       <REC>ARMO:FULL</REC>
@@ -726,16 +766,36 @@
       <REC>ARMO:FULL</REC>
       <Source>Красная форма работника приюта</Source>
       <Dest>ЧРЕЗВЫЧАЙНО РЕДКОЕ|Красная форма работника приюта</Dest>
-    </String><String List="0" sID="03DA9D">
-      <EDID>CorpseFlowerSeedsFruit</EDID>
-      <REC>ALCH:FULL</REC>
-      <Source>Трупные семена</Source>
-      <Dest>ЦВЕТЫ СМЕРТИ|Трупные семена</Dest>
-    </String><String List="0" sID="03DB35">
-      <EDID>CorpseFlowerStamenFruit</EDID>
-      <REC>ALCH:FULL</REC>
-      <Source>Тычинка трупного цветка</Source>
-      <Dest>ЦВЕТЫ СМЕРТИ|Тычинка трупного цветка</Dest>
+    </String><String List="0" sID="6100AD02">
+      <EDID>Recipe_Workshop_WallDecor_WindChime_Molerat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: музыка ветра "Кротокрыс"</Source>
+      <Dest>ПОДАРКИ 2020|Схема: музыка ветра "Кротокрыс"</Dest>
+    </String><String List="0" sID="6100B3DB">
+      <EDID>Recipe_Workshop_Bed_PrincessCastlePink_SleepingBag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: розовый спальный мешок из замка принцессы</Source>
+      <Dest>ПОДАРКИ 2020|Схема: розовый спальный мешок из замка принцессы</Dest>
+    </String><String List="0" sID="6100B3DC">
+      <EDID>Recipe_Workshop_WallDecor_CondemnedNotificationSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знак "Заброшено"</Source>
+      <Dest>ПОДАРКИ 2020|Схема: знак "Заброшено"</Dest>
+    </String><String List="0" sID="6100B705">
+      <EDID>Recipe_Workshop_Ceiling_Light_Truck</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: люстра "Красный грузовик"</Source>
+      <Dest>ПОДАРКИ 2020|Схема: люстра "Красный грузовик"</Dest>
+    </String><String List="0" sID="81001E47">
+      <EDID>Recipe_Workshop_FloorDecor_Musket_Stack_Monument</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: памятник — пирамида из мушкетов</Source>
+      <Dest>ПОДАРКИ 2020|Схема: памятник — пирамида из мушкетов</Dest>
+    </String><String List="0" sID="81001E9A">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Brahmin</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый брамин</Source>
+      <Dest>ПОДАРКИ 2020|Схема: плюшевый брамин</Dest>
     </String><String List="0" sID="0465D1">
       <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Megasloth</EDID>
       <REC>BOOK:FULL</REC>
@@ -1081,66 +1141,6 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: подвеска для пастушьих колокольчиков</Source>
       <Dest>ФАСНАХТ 2024|Схема: подвеска для пастушьих колокольчиков</Dest>
-    </String><String List="0" sID="6100AD02">
-      <EDID>Recipe_Workshop_WallDecor_WindChime_Molerat</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: музыка ветра "Кротокрыс"</Source>
-      <Dest>ПОДАРКИ 2020|Схема: музыка ветра "Кротокрыс"</Dest>
-    </String><String List="0" sID="6100B3DB">
-      <EDID>Recipe_Workshop_Bed_PrincessCastlePink_SleepingBag</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: розовый спальный мешок из замка принцессы</Source>
-      <Dest>ПОДАРКИ 2020|Схема: розовый спальный мешок из замка принцессы</Dest>
-    </String><String List="0" sID="6100B3DC">
-      <EDID>Recipe_Workshop_WallDecor_CondemnedNotificationSigns</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: знак "Заброшено"</Source>
-      <Dest>ПОДАРКИ 2020|Схема: знак "Заброшено"</Dest>
-    </String><String List="0" sID="6100B705">
-      <EDID>Recipe_Workshop_Ceiling_Light_Truck</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: люстра "Красный грузовик"</Source>
-      <Dest>ПОДАРКИ 2020|Схема: люстра "Красный грузовик"</Dest>
-    </String><String List="0" sID="81001E47">
-      <EDID>Recipe_Workshop_FloorDecor_Musket_Stack_Monument</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: памятник — пирамида из мушкетов</Source>
-      <Dest>ПОДАРКИ 2020|Схема: памятник — пирамида из мушкетов</Dest>
-    </String><String List="0" sID="81001E9A">
-      <EDID>Recipe_Workshop_FloorDecor_Plushie_Brahmin</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевый брамин</Source>
-      <Dest>ПОДАРКИ 2020|Схема: плюшевый брамин</Dest>
-    </String><String List="0" sID="6101027E">
-      <EDID>E08B_HuntingRifle_DoctorsOrders</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Распоряжения доктора</Source>
-      <Dest>УВЕД. О ВЫСЕЛЕНИИ|Распоряжения доктора</Dest>
-    </String><String List="0" sID="6101A653">
-      <EDID>E08B_Blunderbuss_PiratePunch</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Пиратский удар</Source>
-      <Dest>УВЕД. О ВЫСЕЛЕНИИ|Пиратский удар</Dest>
-    </String><String List="0" sID="810028CE">
-      <EDID>E08B_Minigun_FoundationsVengeance</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Возмездие Опоры</Source>
-      <Dest>УВЕД. О ВЫСЕЛЕНИИ|Возмездие Опоры</Dest>
-    </String><String List="0" sID="8100292E">
-      <EDID>E08B_SuperSledge_TheDebilitator</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Изнуритель</Source>
-      <Dest>УВЕД. О ВЫСЕЛЕНИИ|Изнуритель</Dest>
-    </String><String List="0" sID="8100293E">
-      <EDID>E08B_CombatShotgun_CrowdControl</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Эффект контроля</Source>
-      <Dest>УВЕД. О ВЫСЕЛЕНИИ|Эффект контроля</Dest>
-    </String><String List="0" sID="81002A60">
-      <EDID>E08B_DeathTambo_ToneDeath</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Цвет смерти</Source>
-      <Dest>УВЕД. О ВЫСЕЛЕНИИ|Цвет смерти</Dest>
     </String><String List="0" sID="41003F98">
       <EDID>Recipe_Workshop_DefensiveStructures_BarbedWireFence</EDID>
       <REC>BOOK:FULL</REC>
@@ -1426,161 +1426,261 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: красный металлический стол для пикника</Source>
       <Dest>ГРЭМ 2023|Схема: красный металлический стол для пикника</Dest>
-    </String><String List="0" sID="61003D63">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack04</EDID>
+    </String><String List="0" sID="41001306">
+      <EDID>Recipe_Workshop_Crafting_CraftingCooking_Animalistic_Grill</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: наполовину полная полка для тыкв</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: наполовину полная полка для тыкв</Dest>
-    </String><String List="0" sID="61003D64">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack03</EDID>
+      <Source>Схема: гриль для брамина</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: гриль для брамина</Dest>
+    </String><String List="0" sID="410013FB">
+      <EDID>Headwear_ChallyMascot</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска "Чалли Му-му"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Маска "Чалли Му-му"</Dest>
+    </String><String List="0" sID="410013FC">
+      <EDID>Clothes_ChallyMascot</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Костюм "Чалли Му-му"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Костюм "Чалли Му-му"</Dest>
+    </String><String List="0" sID="41001400">
+      <EDID>Recipe_Backpack_Standard_Material_Chally</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: наполовину пустая полка для тыкв</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: наполовину пустая полка для тыкв</Dest>
-    </String><String List="0" sID="61003D65">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved06</EDID>
+      <Source>Схема: рюкзак "Чалли Му-му"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: рюкзак "Чалли Му-му"</Dest>
+    </String><String List="0" sID="41002978">
+      <EDID>Recipe_Weapon_Ranged_PepperShaker</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: инопланетный фонарь из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: инопланетный фонарь из тыквы</Dest>
-    </String><String List="0" sID="61003D66">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack01</EDID>
+      <Source>Схема: "Перечница"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: "Перечница"</Dest>
+    </String><String List="0" sID="4100AB08">
+      <EDID>Recipe_Meat_Backpack_Standard_Material_WastelandHunter</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: полная полка для тыкв</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: полная полка для тыкв</Dest>
-    </String><String List="0" sID="61003D67">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved02</EDID>
+      <Source>Схема: рюкзак охотника с Пустоши</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: рюкзак охотника с Пустоши</Dest>
+    </String><String List="0" sID="61002EBD">
+      <EDID>MeatTenderizer</EDID>
+      <REC id="0" idMax="1">WEAP:FULL</REC>
+      <Source>Отбивной молоток</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Отбивной молоток</Dest>
+    </String><String List="0" sID="61003118">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag3</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь из тыквы "Волт-Тек"</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы "Волт-Тек"</Dest>
-    </String><String List="0" sID="61003D68">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved01</EDID>
+      <Source>Схема: флаг "Мясная неделя"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг "Мясная неделя"</Dest>
+    </String><String List="0" sID="61003120">
+      <EDID>Recipe_Cooking_E02A_Meat_ChallysFeed</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: классический фонарь из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: классический фонарь из тыквы</Dest>
-    </String><String List="0" sID="61003D69">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack02</EDID>
+      <Source>Рецепт: еда для Чалли</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Рецепт: еда для Чалли</Dest>
+    </String><String List="0" sID="61003128">
+      <EDID>recipe_mod_melee_MeatTenderizer_Peppered</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: полка для тыкв</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: полка для тыкв</Dest>
-    </String><String List="0" sID="61003D6A">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved08</EDID>
+      <Source>Схема: модификация "Молоток для отбивания перченого мяса"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация "Молоток для отбивания перченого мяса"</Dest>
+    </String><String List="0" sID="6100313A">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag1</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: счастливый фонарь из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: счастливый фонарь из тыквы</Dest>
-    </String><String List="0" sID="61003D6B">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved10</EDID>
+      <Source>Схема: флаг "Мясная неделя"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг "Мясная неделя"</Dest>
+    </String><String List="0" sID="6100314B">
+      <EDID>recipe_mod_melee_MeatTenderizer_Salted</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: злобный фонарь из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: злобный фонарь из тыквы</Dest>
-    </String><String List="0" sID="61003D6C">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved05</EDID>
+      <Source>Схема: модификация "Молоток для отбивания соленого мяса"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация "Молоток для отбивания соленого мяса"</Dest>
+    </String><String List="0" sID="61003153">
+      <EDID>recipe_mod_melee_MeatTenderizer_Heated</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: удивленный фонарь из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: удивленный фонарь из тыквы</Dest>
-    </String><String List="0" sID="61003D6D">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved09</EDID>
+      <Source>Схема: модификация "Молоток для отбивания пряного мяса"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация "Молоток для отбивания пряного мяса"</Dest>
+    </String><String List="0" sID="6100315B">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag2</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: тренировочный фонарь из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: тренировочный фонарь из тыквы</Dest>
-    </String><String List="0" sID="61003D6E">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved04</EDID>
+      <Source>Схема: флаг "Мясная неделя"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг "Мясная неделя"</Dest>
+    </String><String List="0" sID="61003162">
+      <EDID>Recipe_Cooking_MeatWeek_TatoSalad</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь из тыквы в виде двери Убежища</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы в виде двери Убежища</Dest>
-    </String><String List="0" sID="61003D6F">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved07</EDID>
+      <Source>Рецепт: салат из тошки</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Рецепт: салат из тошки</Dest>
+    </String><String List="0" sID="6100317F">
+      <EDID>Recipe_Weapon_Melee_MeatTenderizer</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь-гангстер из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь-гангстер из тыквы</Dest>
-    </String><String List="0" sID="61003D70">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved03</EDID>
+      <Source>Схема: молоток для отбивания мяса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: молоток для отбивания мяса</Dest>
+    </String><String List="0" sID="61003187">
+      <EDID>Recipe_Weapon_Thrown_MeatCleaver</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь из тыквы "Волт-Бой"</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы "Волт-Бой"</Dest>
-    </String><String List="0" sID="61003E16">
-      <EDID>Recipe_Workshop_FloorDecor_Statues_GrimReaperCardboardCutouts</EDID>
+      <Source>Схема: мясницкий нож</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: мясницкий нож</Dest>
+    </String><String List="0" sID="610031B7">
+      <EDID>Clothes_Chef_1_Outfit</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Окровавленный костюм повара</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Окровавленный костюм повара</Dest>
+    </String><String List="0" sID="610031B9">
+      <EDID>Headwear_MeatWeek_ChefsHat</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Окровавленный колпак повара</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Окровавленный колпак повара</Dest>
+    </String><String List="0" sID="610031C2">
+      <EDID>Headwear_MeatWeek_ChefsHat2</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Головной убор шеф-повара</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
+    </String><String List="0" sID="610038F5">
+      <EDID>ATX_ENTM_Apparel_HeadWear_1950sChef_02_Hat</EDID>
+      <REC>ENTM:FULL</REC>
+      <Source>Головной убор шеф-повара</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
+    </String><String List="0" sID="610038F7">
+      <EDID>ATX_ENTM_Apparel_HeadWear_1950sChef_02_Hat</EDID>
+      <REC>ENTM:NNAM</REC>
+      <Source>Головной убор шеф-повара</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
+    </String><String List="0" sID="6100C1AB">
+      <EDID>Recipe_Workshop_WallDecor_PlasticFruitWreath</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: картонная фигура Волт-боя в костюме Старухи с косой</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: картонная фигура Волт-боя в костюме Старухи с косой</Dest>
-    </String><String List="0" sID="6101A70A">
-      <EDID>Recipe_mod_Chainsaw_Paint_GhostlyGrinder</EDID>
+      <Source>Схема: венок из пластиковых фруктов</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: венок из пластиковых фруктов</Dest>
+    </String><String List="0" sID="6100C1AD">
+      <EDID>Recipe_Workshop_Crafting_CraftingCooking_GroceryCartGrill</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска «Призрачная мясорубка» для бензопилы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: окраска «Призрачная мясорубка» для бензопилы</Dest>
-    </String><String List="0" sID="6101A70B">
-      <EDID>Recipe_Headwear_SkullRider_Rad</EDID>
+      <Source>Схема: тележка-гриль</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: тележка-гриль</Dest>
+    </String><String List="0" sID="6100C325">
+      <EDID>Recipe_Workshop_FloorDecor_DecoyDuckSet</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: шлем всадника с рад-черепом</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: шлем всадника с рад-черепом</Dest>
-    </String><String List="0" sID="6101A70D">
-      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Helmet</EDID>
+      <Source>Схема: подсадные утки</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: подсадные утки</Dest>
+    </String><String List="0" sID="6101463B">
+      <EDID>Recipe_Workshop_FloorDecor_PlasticFruitBowl</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска шлема прототипа силовой брони «Адское пламя V2»</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска шлема прототипа силовой брони «Адское пламя V2»</Dest>
-    </String><String List="0" sID="6101A70E">
-      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost1</EDID>
+      <Source>Схема: миска с пластиковыми фруктами</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: миска с пластиковыми фруктами</Dest>
+    </String><String List="0" sID="610186F0">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_WilberMcPigg</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь-призрак из ячеистой бумаги A</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: фонарь-призрак из ячеистой бумаги A</Dest>
-    </String><String List="0" sID="6101A70F">
-      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Arms</EDID>
+      <Source>Схема: плюшевый Уилбур Макхряк</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: плюшевый Уилбур Макхряк</Dest>
+    </String><String List="0" sID="610186F1">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Punty</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска рук прототипа силовой брони «Адское пламя V2»</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска рук прототипа силовой брони «Адское пламя V2»</Dest>
-    </String><String List="0" sID="6101A710">
-      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Spider</EDID>
+      <Source>Схема: плюшевая свинка Панти</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: плюшевая свинка Панти</Dest>
+    </String><String List="0" sID="610186F2">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Peppino</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь-паук из ячеистой бумаги</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: фонарь-паук из ячеистой бумаги</Dest>
-    </String><String List="0" sID="6101A712">
-      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern1</EDID>
+      <Source>Схема: плюшевая свинка Пеппино</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: плюшевая свинка Пеппино</Dest>
+    </String><String List="0" sID="610186F3">
+      <EDID>Recipe_Workshop_Lights_Wall_SuperMutantDiagram</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: Джек-фонарь из ячеистой бумаги A</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: Джек-фонарь из ячеистой бумаги A</Dest>
-    </String><String List="0" sID="6101A713">
-      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern2</EDID>
+      <Source>Схема: схема супермутанта</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: схема супермутанта</Dest>
+    </String><String List="0" sID="610186F5">
+      <EDID>Recipe_Workshop_Lights_Wall_MutantHoundDiagram</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: Джек-фонарь из ячеистой бумаги B</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: Джек-фонарь из ячеистой бумаги B</Dest>
-    </String><String List="0" sID="6101A714">
-      <EDID>Recipe_Headwear_Executioner2</EDID>
+      <Source>Схема: схема гончей-мутанта</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: схема гончей-мутанта</Dest>
+    </String><String List="0" sID="6101873E">
+      <EDID>Recipe_Workshop_FloorDecor_Rugs_Bloody</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: маска палача</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: маска палача</Dest>
-    </String><String List="0" sID="6101A715">
-      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost2</EDID>
+      <Source>Схема: окровавленный ковер</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: окровавленный ковер</Dest>
+    </String><String List="0" sID="61018744">
+      <EDID>Recipe_Workshop_CurtainDoor_Bloody</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь-призрак из ячеистой бумаги B</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: фонарь-призрак из ячеистой бумаги B</Dest>
-    </String><String List="0" sID="6101A716">
-      <EDID>Recipe_Workshop_FloorDecor_GiantDinosaur_Red</EDID>
+      <Source>Схема: окровавленная занавеска на дверь</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: окровавленная занавеска на дверь</Dest>
+    </String><String List="0" sID="6101B63B">
+      <EDID>Recipe_Workshop_FloorDecor_StuffedMutantHound</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: гигантский красный динозавр</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: гигантский красный динозавр</Dest>
-    </String><String List="0" sID="6101A717">
-      <EDID>Recipe_mod_AssaultRifle_Paint_WraithsWrath</EDID>
+      <Source>Схема: чучело гончей-мутанта</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: чучело гончей-мутанта</Dest>
+    </String><String List="0" sID="6101C600">
+      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxLeftLeg</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска «Гнев призрака» для штурмового карабина</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: окраска «Гнев призрака» для штурмового карабина</Dest>
-    </String><String List="0" sID="6101A718">
-      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Legs</EDID>
+      <Source>Схема: окаменевшая левая задняя лапа мегалоникса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшая левая задняя лапа мегалоникса</Dest>
+    </String><String List="0" sID="6101C601">
+      <EDID>Meat_Recipe_Workshop_Displays_MegalonyxDisplayRack</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска ног прототипа силовой брони «Адское пламя V2»</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска ног прототипа силовой брони «Адское пламя V2»</Dest>
-    </String><String List="0" sID="6101A719">
-      <EDID>Recipe_workshop_FloorDecor_Skeleton_DrBones</EDID>
+      <Source>Схема: витрина с мегалониксом</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: витрина с мегалониксом</Dest>
+    </String><String List="0" sID="6101C602">
+      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxRightLeg</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: Доктор Череп</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: Доктор Череп</Dest>
-    </String><String List="0" sID="6101A71A">
-      <EDID>Recipe_Backpack_Standard_Material_Princess</EDID>
+      <Source>Схема: окаменевшая правая задняя лапа мегалоникса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшая правая задняя лапа мегалоникса</Dest>
+    </String><String List="0" sID="6101C603">
+      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxSkull</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: рюкзак принцессы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: рюкзак принцессы</Dest>
-    </String><String List="0" sID="6101A71B">
-      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Torso</EDID>
+      <Source>Схема: окаменевший череп мегалоникса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевший череп мегалоникса</Dest>
+    </String><String List="0" sID="6101C604">
+      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxTorso</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска туловища прототипа силовой брони «Адское пламя V2»</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска туловища прототипа силовой брони «Адское пламя V2»</Dest>
+      <Source>Схема: окаменевшее туловище мегалоникса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшее туловище мегалоникса</Dest>
+    </String><String List="0" sID="6101C605">
+      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxRightArm</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окаменевшая правая передняя лапа мегалоникса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшая правая передняя лапа мегалоникса</Dest>
+    </String><String List="0" sID="6101C606">
+      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxLeftArm</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окаменевшая левая передняя лапа мегалоникса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшая левая передняя лапа мегалоникса</Dest>
+    </String><String List="0" sID="6101C621">
+      <EDID>Meat_Recipe_Plushie_RottedGroundMeat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый гнилой фарш</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевый гнилой фарш</Dest>
+    </String><String List="0" sID="6101C79F">
+      <EDID>Meat_Recipe_Plushie_GroundMeat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый фарш</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевый фарш</Dest>
+    </String><String List="0" sID="6101C7A0">
+      <EDID>Meat_Recipe_Plushie_Steak</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый стейк</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевый стейк</Dest>
+    </String><String List="0" sID="6101C9F9">
+      <EDID>Meat_Recipe_Plushie_RottedRib</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевое гнилое ребро</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевое гнилое ребро</Dest>
+    </String><String List="0" sID="6101CA1C">
+      <EDID>Recipe_Meat_Workshop_WallDecor_BrahminFlourBillboards</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: щит с рекламой муки для скота</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: щит с рекламой муки для скота</Dest>
+    </String><String List="0" sID="6101CA1D">
+      <EDID>Meat_Recipe_workshop_floordecor_FliesVFX</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рой мух</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: рой мух</Dest>
+    </String><String List="0" sID="6101CA1E">
+      <EDID>Meat_Recipe_Plushie_RottedSteak</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый гнилой стейк</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевый гнилой стейк</Dest>
+    </String><String List="0" sID="6101CA1F">
+      <EDID>Meat_Recipe_Plushie_Rib</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевое ребро</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевое ребро</Dest>
+    </String><String List="0" sID="6101CA2C">
+      <EDID>Meat_Recipe_Workshop_CAMP_Utility_WeenieWagon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тележка с хот-догами</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: тележка с хот-догами</Dest>
+    </String><String List="0" sID="6101CA73">
+      <EDID>Recipe_Meat_NukaShank</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: нож "Ядер-рулька"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: нож "Ядер-рулька"</Dest>
     </String><String List="0" sID="41004DC0">
       <EDID>E08A_Recipe_Workshop_GulperRug</EDID>
       <REC>BOOK:FULL</REC>
@@ -1736,11 +1836,161 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: пушистый плюшевый Просвещенный</Source>
       <Dest>МОЛЕРОТ 2024|Схема: пушистый плюшевый Просвещенный</Dest>
-    </String><String List="0" sID="045599">
-      <EDID>MTN04_BeerBottleReserve</EDID>
-      <REC>ALCH:FULL</REC>
-      <Source>Резервное пиво "Роджерс"</Source>
-      <Dest>НОЧЬ НАСИЛИЯ|Резервное пиво "Роджерс"</Dest>
+    </String><String List="0" sID="61003D63">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наполовину полная полка для тыкв</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: наполовину полная полка для тыкв</Dest>
+    </String><String List="0" sID="61003D64">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наполовину пустая полка для тыкв</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: наполовину пустая полка для тыкв</Dest>
+    </String><String List="0" sID="61003D65">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved06</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: инопланетный фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: инопланетный фонарь из тыквы</Dest>
+    </String><String List="0" sID="61003D66">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: полная полка для тыкв</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: полная полка для тыкв</Dest>
+    </String><String List="0" sID="61003D67">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь из тыквы "Волт-Тек"</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы "Волт-Тек"</Dest>
+    </String><String List="0" sID="61003D68">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: классический фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: классический фонарь из тыквы</Dest>
+    </String><String List="0" sID="61003D69">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: полка для тыкв</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: полка для тыкв</Dest>
+    </String><String List="0" sID="61003D6A">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved08</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: счастливый фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: счастливый фонарь из тыквы</Dest>
+    </String><String List="0" sID="61003D6B">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved10</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: злобный фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: злобный фонарь из тыквы</Dest>
+    </String><String List="0" sID="61003D6C">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved05</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: удивленный фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: удивленный фонарь из тыквы</Dest>
+    </String><String List="0" sID="61003D6D">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved09</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тренировочный фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: тренировочный фонарь из тыквы</Dest>
+    </String><String List="0" sID="61003D6E">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь из тыквы в виде двери Убежища</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы в виде двери Убежища</Dest>
+    </String><String List="0" sID="61003D6F">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved07</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь-гангстер из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь-гангстер из тыквы</Dest>
+    </String><String List="0" sID="61003D70">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь из тыквы "Волт-Бой"</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы "Волт-Бой"</Dest>
+    </String><String List="0" sID="61003E16">
+      <EDID>Recipe_Workshop_FloorDecor_Statues_GrimReaperCardboardCutouts</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: картонная фигура Волт-боя в костюме Старухи с косой</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: картонная фигура Волт-боя в костюме Старухи с косой</Dest>
+    </String><String List="0" sID="6101A70A">
+      <EDID>Recipe_mod_Chainsaw_Paint_GhostlyGrinder</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска «Призрачная мясорубка» для бензопилы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: окраска «Призрачная мясорубка» для бензопилы</Dest>
+    </String><String List="0" sID="6101A70B">
+      <EDID>Recipe_Headwear_SkullRider_Rad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шлем всадника с рад-черепом</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: шлем всадника с рад-черепом</Dest>
+    </String><String List="0" sID="6101A70D">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска шлема прототипа силовой брони «Адское пламя V2»</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска шлема прототипа силовой брони «Адское пламя V2»</Dest>
+    </String><String List="0" sID="6101A70E">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost1</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь-призрак из ячеистой бумаги A</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: фонарь-призрак из ячеистой бумаги A</Dest>
+    </String><String List="0" sID="6101A70F">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Arms</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска рук прототипа силовой брони «Адское пламя V2»</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска рук прототипа силовой брони «Адское пламя V2»</Dest>
+    </String><String List="0" sID="6101A710">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Spider</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь-паук из ячеистой бумаги</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: фонарь-паук из ячеистой бумаги</Dest>
+    </String><String List="0" sID="6101A712">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern1</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Джек-фонарь из ячеистой бумаги A</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: Джек-фонарь из ячеистой бумаги A</Dest>
+    </String><String List="0" sID="6101A713">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Джек-фонарь из ячеистой бумаги B</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: Джек-фонарь из ячеистой бумаги B</Dest>
+    </String><String List="0" sID="6101A714">
+      <EDID>Recipe_Headwear_Executioner2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маска палача</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: маска палача</Dest>
+    </String><String List="0" sID="6101A715">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь-призрак из ячеистой бумаги B</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: фонарь-призрак из ячеистой бумаги B</Dest>
+    </String><String List="0" sID="6101A716">
+      <EDID>Recipe_Workshop_FloorDecor_GiantDinosaur_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гигантский красный динозавр</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: гигантский красный динозавр</Dest>
+    </String><String List="0" sID="6101A717">
+      <EDID>Recipe_mod_AssaultRifle_Paint_WraithsWrath</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска «Гнев призрака» для штурмового карабина</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: окраска «Гнев призрака» для штурмового карабина</Dest>
+    </String><String List="0" sID="6101A718">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Legs</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска ног прототипа силовой брони «Адское пламя V2»</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска ног прототипа силовой брони «Адское пламя V2»</Dest>
+    </String><String List="0" sID="6101A719">
+      <EDID>Recipe_workshop_FloorDecor_Skeleton_DrBones</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Доктор Череп</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: Доктор Череп</Dest>
+    </String><String List="0" sID="6101A71A">
+      <EDID>Recipe_Backpack_Standard_Material_Princess</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак принцессы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: рюкзак принцессы</Dest>
+    </String><String List="0" sID="6101A71B">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска туловища прототипа силовой брони «Адское пламя V2»</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска туловища прототипа силовой брони «Адское пламя V2»</Dest>
     </String><String List="0" sID="044595">
       <EDID>Recipe_Workshop_Container_WorkshopSafeFloor01</EDID>
       <REC>BOOK:FULL</REC>
@@ -1916,11 +2166,6 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: стенной сейф</Source>
       <Dest>В РОЗЫСКЕ|Схема: стенной сейф</Dest>
-    </String><String List="0" sID="61013711">
-      <EDID>E09D_Recipe_Workshop_SafeFloor</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: напольный сейф</Source>
-      <Dest>В РОЗЫСКЕ|Схема: напольный сейф</Dest>
     </String><String List="0" sID="61013712">
       <EDID>E09D_Recipe_Workshop_Cappy&amp;BottleCowboys</EDID>
       <REC>BOOK:FULL</REC>
@@ -2101,6 +2346,501 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: знак "Мистер Крышка — Купидон"</Source>
       <Dest>ТУННЕЛЬ ЛЮБВИ|Схема: знак "Мистер Крышка — Купидон"</Dest>
+    </String><String List="0" sID="045599">
+      <EDID>MTN04_BeerBottleReserve</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Резервное пиво "Роджерс"</Source>
+      <Dest>НОЧЬ НАСИЛИЯ|Резервное пиво "Роджерс"</Dest>
+    </String><String List="0" sID="390060EB">
+      <EDID>Recipe_XPD_Workshop_StreetKit_Pitt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: набор "Питтсбургская улица"</Source>
+      <Dest>ИЗ ОГНЯ ДА В ПОЛЫМЯ|Схема: набор "Питтсбургская улица"</Dest>
+    </String><String List="0" sID="390060EC">
+      <EDID>Recipe_XPD_Workshop_FanaticBarricade_Pitt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: баррикада фанатиков</Source>
+      <Dest>ИЗ ОГНЯ ДА В ПОЛЫМЯ|Схема: баррикада фанатиков</Dest>
+    </String><String List="0" sID="3900662C">
+      <EDID>Recipe_XPD_Workshop_PittCityLimitSigns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: дорожные знаки Питтсбурга</Source>
+      <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: дорожные знаки Питтсбурга</Dest>
+    </String><String List="0" sID="39006D95">
+      <EDID>Recipe_XPD_Workshop_Floodlight_Pitt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: набор питтсбургских промышленных прожекторов</Source>
+      <Dest>ИЗ ОГНЯ ДА В ПОЛЫМЯ|Схема: набор питтсбургских промышленных прожекторов</Dest>
+    </String><String List="0" sID="39006F87">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Tesla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: катушки Теслы брони Союза</Source>
+      <Dest>ПИТТ|Схема: катушки Теслы брони Союза</Dest>
+    </String><String List="0" sID="39006F89">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Optimized</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: эргономичные наручи брони Союза</Source>
+      <Dest>ПИТТ|Схема: эргономичные наручи брони Союза</Dest>
+    </String><String List="0" sID="39006F8A">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Recon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сенсоры дальнего действия брони Союза</Source>
+      <Dest>ПИТТ|Схема: сенсоры дальнего действия брони Союза</Dest>
+    </String><String List="0" sID="39006F8C">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_Carry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: калиброванные амортизаторы брони Союза</Source>
+      <Dest>ПИТТ|Схема: калиброванные амортизаторы брони Союза</Dest>
+    </String><String List="0" sID="39006F8E">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_OptimizedServos</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сбалансированные сервоприводы брони Союза</Source>
+      <Dest>ПИТТ|Схема: сбалансированные сервоприводы брони Союза</Dest>
+    </String><String List="0" sID="39006F8F">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_VATSChance</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: слой матрицы VATS брони Союза</Source>
+      <Dest>ПИТТ|Схема: слой матрицы VATS брони Союза</Dest>
+    </String><String List="0" sID="39006F91">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_BatRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сборка ядра брони Союза</Source>
+      <Dest>ПИТТ|Схема: сборка ядра брони Союза</Dest>
+    </String><String List="0" sID="39006F92">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_SprintBoost</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: форсированные сервоприводы брони Союза</Source>
+      <Dest>ПИТТ|Схема: форсированные сервоприводы брони Союза</Dest>
+    </String><String List="0" sID="39006F93">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_MedicPump</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: инжектор стимуляторов брони Союза</Source>
+      <Dest>ПИТТ|Схема: инжектор стимуляторов брони Союза</Dest>
+    </String><String List="0" sID="39006F94">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_ShockDmg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наручи Теслы брони Союза</Source>
+      <Dest>ПИТТ|Схема: наручи Теслы брони Союза</Dest>
+    </String><String List="0" sID="39006F96">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Kinetic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кинетический генератор брони Союза</Source>
+      <Dest>ПИТТ|Схема: кинетический генератор брони Союза</Dest>
+    </String><String List="0" sID="39006F97">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Cleanser</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: очиститель крови брони Союза</Source>
+      <Dest>ПИТТ|Схема: очиститель крови брони Союза</Dest>
+    </String><String List="0" sID="39006F99">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_ExplVent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: охлаждающее отверстие брони Союза</Source>
+      <Dest>ПИТТ|Схема: охлаждающее отверстие брони Союза</Dest>
+    </String><String List="0" sID="39006F9B">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Reactive</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: активная броня Союза</Source>
+      <Dest>ПИТТ|Схема: активная броня Союза</Dest>
+    </String><String List="0" sID="39006F9C">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Str</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: улучшенные сервоприводы брони Союза</Source>
+      <Dest>ПИТТ|Схема: улучшенные сервоприводы брони Союза</Dest>
+    </String><String List="0" sID="39006F9D">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Sensor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сенсорная матрица брони Союза</Source>
+      <Dest>ПИТТ|Схема: сенсорная матрица брони Союза</Dest>
+    </String><String List="0" sID="39006F9E">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_StealthBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стелс-бой брони Союза</Source>
+      <Dest>ПИТТ|Схема: стелс-бой брони Союза</Dest>
+    </String><String List="0" sID="39006F9F">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Bleed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ржавый кастет брони Союза</Source>
+      <Dest>ПИТТ|Схема: ржавый кастет брони Союза</Dest>
+    </String><String List="0" sID="39006FA0">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_DetectLife</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прицельный интерфейс брони Союза</Source>
+      <Dest>ПИТТ|Схема: прицельный интерфейс брони Союза</Dest>
+    </String><String List="0" sID="39006FA1">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Emergency</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: аварийные протоколы брони Союза</Source>
+      <Dest>ПИТТ|Схема: аварийные протоколы брони Союза</Dest>
+    </String><String List="0" sID="39006FA2">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_APRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кинетические сервоприводы брони Союза</Source>
+      <Dest>ПИТТ|Схема: кинетические сервоприводы брони Союза</Dest>
+    </String><String List="0" sID="39006FA3">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Int</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: внутренний банк памяти брони Союза</Source>
+      <Dest>ПИТТ|Схема: внутренний банк памяти брони Союза</Dest>
+    </String><String List="0" sID="39006FA4">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Unarmed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гидравлические наручи брони Союза</Source>
+      <Dest>ПИТТ|Схема: гидравлические наручи брони Союза</Dest>
+    </String><String List="0" sID="39007217">
+      <EDID>Recipe_XPD_Workshop_WallDecor_Union42Banners</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знамя 42-й ячейки Союза</Source>
+      <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: знамя 42-й ячейки Союза</Dest>
+    </String><String List="0" sID="410074A9">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фиолетовый налобный фонарь Союза</Source>
+      <Dest>ПИТТ|Схема: фиолетовый налобный фонарь Союза</Dest>
+    </String><String List="0" sID="410074AA">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: синий налобный фонарь Союза</Source>
+      <Dest>ПИТТ|Схема: синий налобный фонарь Союза</Dest>
+    </String><String List="0" sID="410074AB">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: яркий налобный фонарь Союза</Source>
+      <Dest>ПИТТ|Схема: яркий налобный фонарь Союза</Dest>
+    </String><String List="0" sID="410074AC">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: налобный фонарь Союза "Волт-Бой"</Source>
+      <Dest>ПИТТ|Схема: налобный фонарь Союза "Волт-Бой"</Dest>
+    </String><String List="0" sID="410074AD">
+      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: красный тактический налобный фонарь Союза</Source>
+      <Dest>ПИТТ|Схема: красный тактический налобный фонарь Союза</Dest>
+    </String><String List="0" sID="61005E6C">
+      <EDID>Recipe_mod_AutoAxe_Poisoned</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Отравленный автотопор"</Source>
+      <Dest>ПИТТ|Схема: модификация "Отравленный автотопор"</Dest>
+    </String><String List="0" sID="61005E6D">
+      <EDID>Recipe_mod_AutoAxe_Turbo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Турбоавтотопор"</Source>
+      <Dest>ПИТТ|Схема: модификация "Турбоавтотопор"</Dest>
+    </String><String List="0" sID="61005E6E">
+      <EDID>Recipe_mod_AutoAxe_Electrified</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Электроавтотопор"</Source>
+      <Dest>ПИТТ|Схема: модификация "Электроавтотопор"</Dest>
+    </String><String List="0" sID="61005E6F">
+      <EDID>Recipe_mod_AutoAxe_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Пылающий автотопор"</Source>
+      <Dest>ПИТТ|Схема: модификация "Пылающий автотопор"</Dest>
+    </String><String List="0" sID="61010CFD">
+      <EDID>Recipe_XPD_Headwear_SkippysOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: очки мастера</Source>
+      <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: очки мастера</Dest>
+    </String><String List="0" sID="61010CFE">
+      <EDID>Recipe_XPD_Headwear_DanilosOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: капюшон бойца Траншеи</Source>
+      <Dest>ИЗ ОГНЯ ДА В ПОЛЫМЯ|Схема: капюшон бойца Траншеи</Dest>
+    </String><String List="0" sID="61010CFF">
+      <EDID>Recipe_XPD_Clothes_SkippysOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: комбинезон мастера</Source>
+      <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: комбинезон мастера</Dest>
+    </String><String List="0" sID="61010D00">
+      <EDID>Recipe_XPD_Clothes_DanilosOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плащ бойца Траншеи</Source>
+      <Dest>ИЗ ОГНЯ ДА В ПОЛЫМЯ|Схема: плащ бойца Траншеи</Dest>
+    </String><String List="0" sID="61011457">
+      <EDID>Recipe_XPD_Workshop_TrogTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с трогом</Source>
+      <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: резервуар с трогом</Dest>
+    </String><String List="0" sID="61011D10">
+      <EDID>Recipe_XPD_mod_PumpActionShotgun_Material_Paint_Fanatics</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска "Фанатики" для помпового дробовика</Source>
+      <Dest>ИЗ ОГНЯ ДА В ПОЛЫМЯ|Схема: окраска "Фанатики" для помпового дробовика</Dest>
+    </String><String List="0" sID="6101279B">
+      <EDID>Recipe_mod_HuntingRifle_Material_Paint_XPD_Union</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: облик охотничьего карабина "Союз"</Source>
+      <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: облик охотничьего карабина "Союз"</Dest>
+    </String><String List="0" sID="0498DF">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_Refrigerated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Рюкзак-холодильник"</Source>
+      <Dest>ОПОССУМ|Схема: модификация "Рюкзак-холодильник"</Dest>
+    </String><String List="0" sID="0498E0">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_HighCapacity</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Вместительный рюкзак"</Source>
+      <Dest>ОПОССУМ|Схема: модификация "Вместительный рюкзак"</Dest>
+    </String><String List="0" sID="0498E2">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_Insulated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Изолированный рюкзак"</Source>
+      <Dest>ОПОССУМ|Схема: модификация "Изолированный рюкзак"</Dest>
+    </String><String List="0" sID="04A9CC">
+      <EDID>P01C_Tadpole_Recipe_Mod_Camera_SnapMatic_Lens_NightVision</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: объектив для ночной съемки "Про-Щелк Делюкс"</Source>
+      <Dest>ОПОССУМ|Схема: объектив для ночной съемки "Про-Щелк Делюкс"</Dest>
+    </String><String List="0" sID="04BB26">
+      <EDID>P01C_Tadpole_Recipe_Workshop_FloorDecor_Misc_PioneerScout_Possum</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знамя скаута-пионера "Опоссум"</Source>
+      <Dest>ОПОССУМ|Схема: знамя скаута-пионера "Опоссум"</Dest>
+    </String><String List="0" sID="61003117">
+      <EDID>P01C_Recipe_Workshop_Container_PioneerScout_StashBox</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тайник скаута-пионера</Source>
+      <Dest>ОПОССУМ|Схема: тайник скаута-пионера</Dest>
+    </String><String List="0" sID="61003156">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_LeadLined</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Рюкзак со свинцовой обшивкой"</Source>
+      <Dest>ОПОССУМ|Схема: модификация "Рюкзак со свинцовой обшивкой"</Dest>
+    </String><String List="0" sID="6100318B">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Standard_Material_Scout_Possum</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак скаута-пионера "Опоссум"</Source>
+      <Dest>ОПОССУМ|Схема: рюкзак скаута-пионера "Опоссум"</Dest>
+    </String><String List="0" sID="6100631B">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_ArmorPlated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Бронированный рюкзак"</Source>
+      <Dest>ОПОССУМ|Схема: модификация "Бронированный рюкзак"</Dest>
+    </String><String List="0" sID="04A5EE">
+      <EDID>Recipe_Chems_SFS09_FormulaP</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: формула P</Source>
+      <Dest>РАЙ|Рецепт: формула P</Dest>
+    </String><String List="0" sID="04B56F">
+      <EDID>Recipe_Chem_StimGas</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: распылитель стимулятора</Source>
+      <Dest>РАЙ++|Рецепт: распылитель стимулятора</Dest>
+    </String><String List="0" sID="D9002DE0">
+      <EDID>Recipe_Weapon_Melee_BearArm</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: медвежья лапища</Source>
+      <Dest>РАЙ+|Схема: медвежья лапища</Dest>
+    </String><String List="0" sID="D9002DE5">
+      <EDID>recipe_mod_melee_BearArm_Puncturing</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Медвежьей лапищи" с пробойником</Source>
+      <Dest>РАЙ+|Схема: модификация "Медвежьей лапищи" с пробойником</Dest>
+    </String><String List="0" sID="D9002DFF">
+      <EDID>recipe_mod_melee_BearArm_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Тяжелая медвежья лапища"</Source>
+      <Dest>РАЙ+|Схема: модификация "Тяжелая медвежья лапища"</Dest>
+    </String><String List="0" sID="410069A4">
+      <EDID>Headwear_E05_Caravan_Gasmask</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Противогаз "Блю ридж караван"</Source>
+      <Dest>ВТОРОЙ ПИЛОТ|Противогаз "Блю ридж караван"</Dest>
+    </String><String List="0" sID="61004545">
+      <EDID>Recipe_Workshop_WallDecor_BRCCFlag01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: флаг "Блю ридж караван"</Source>
+      <Dest>ВТОРОЙ ПИЛОТ|Схема: флаг "Блю ридж караван"</Dest>
+    </String><String List="0" sID="61007C11">
+      <EDID>Recipe_Backpack_Standard_Material_Blueridge</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак "Блю ридж караван"</Source>
+      <Dest>ВТОРОЙ ПИЛОТ|Схема: рюкзак "Блю ридж караван"</Dest>
+    </String><String List="0" sID="61007C12">
+      <EDID>Armor_BlueridgeGuardOutfit</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Костюм "Блю ридж караван"</Source>
+      <Dest>ВТОРОЙ ПИЛОТ|Костюм "Блю ридж караван"</Dest>
+    </String><String List="0" sID="61004470">
+      <EDID>Recipe_Workshop_FloorDecor_E05_RadioactiveBarrel</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: радиоактивная бочка</Source>
+      <Dest>РАДИОАКТ.ПОТАСОВКА|Схема: радиоактивная бочка</Dest>
+    </String><String List="0" sID="61006379">
+      <EDID>Armor_HazmatSuit_E05_Radition</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Защитный комплект с горы Эммет</Source>
+      <Dest>РАДИОАКТ.ПОТАСОВКА|Защитный комплект с горы Эммет</Dest>
+    </String><String List="0" sID="03F8F8">
+      <EDID>Recipe_Workshop_MiscStructures_DeconArch</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обеззараживающий душ</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: обеззараживающий душ</Dest>
+    </String><String List="0" sID="044C71">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_MedicPump</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый инжектор стимуляторов</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый инжектор стимуляторов</Dest>
+    </String><String List="0" sID="044C74">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Cleanser</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый очиститель крови</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: ультрацитовый очиститель крови</Dest>
+    </String><String List="0" sID="044C7C">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Kinetic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый кинетический генератор</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: ультрацитовый кинетический генератор</Dest>
+    </String><String List="0" sID="044C7F">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Arm_Misc_Unarmed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые гидравлические наручи</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовые гидравлические наручи</Dest>
+    </String><String List="0" sID="044C83">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_ArmRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая броня для правой руки</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для правой руки</Dest>
+    </String><String List="0" sID="044C84">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_LegRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая броня для правой ноги</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для правой ноги</Dest>
+    </String><String List="0" sID="044C88">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_OptimizedServos</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые сбалансированные сервоприводы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ++|Схема: ультрацитовые сбалансированные сервоприводы</Dest>
+    </String><String List="0" sID="044C89">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_SprintBoost</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые форсированные сервоприводы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ++|Схема: ультрацитовые форсированные сервоприводы</Dest>
+    </String><String List="0" sID="044C91">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Reactive</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: активная ультрацитовая броня</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+++|Схема: активная ультрацитовая броня</Dest>
+    </String><String List="0" sID="044C9A">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Tesla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые катушки Теслы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+++|Схема: ультрацитовые катушки Теслы</Dest>
+    </String><String List="0" sID="044CA9">
+      <EDID>recipe_mod_PowerArmor_T60_Torso_Misc_Jetpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: реактивный ранец T-60</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: реактивный ранец T-60</Dest>
+    </String><String List="0" sID="044CAF">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_APRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые кинетические сервоприводы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: ультрацитовые кинетические сервоприводы</Dest>
+    </String><String List="0" sID="044CCB">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Emergency</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые аварийные протоколы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ++|Схема: ультрацитовые аварийные протоколы</Dest>
+    </String><String List="0" sID="044CD6">
+      <EDID>recipe_mod_PowerArmor_T51_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: реактивный ранец T-51b</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: реактивный ранец T-51b</Dest>
+    </String><String List="0" sID="044CE4">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Arm_Misc_Optimized</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые эргономичные наручи</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовые эргономичные наручи</Dest>
+    </String><String List="0" sID="044CE5">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Str</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: улучшенные ультрацитовые сервоприводы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: улучшенные ультрацитовые сервоприводы</Dest>
+    </String><String List="0" sID="044CE9">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_LegLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая броня для левой ноги</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для левой ноги</Dest>
+    </String><String List="0" sID="044CEF">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая броня для туловища</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для туловища</Dest>
+    </String><String List="0" sID="044CF2">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Helmet_Misc_DetectLife</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый прицельный интерфейс</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+++|Схема: ультрацитовый прицельный интерфейс</Dest>
+    </String><String List="0" sID="044CF3">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_Carry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые калиброванные амортизаторы</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+++|Схема: ультрацитовые калиброванные амортизаторы</Dest>
+    </String><String List="0" sID="044CF5">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Arm_Misc_Bleed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый ржавый кастет</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый ржавый кастет</Dest>
+    </String><String List="0" sID="044CF8">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_DMGShield</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая приваренная арматура</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: ультрацитовая приваренная арматура</Dest>
+    </String><String List="0" sID="044CFA">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_ArmLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая броня для левой руки</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для левой руки</Dest>
+    </String><String List="0" sID="044D2D">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Helmet_Misc_Sensor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовая сенсорная матрица</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая сенсорная матрица</Dest>
+    </String><String List="0" sID="044D30">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Helmet_Misc_Int</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый внутренний банк памяти</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый внутренний банк памяти</Dest>
+    </String><String List="0" sID="044D3F">
+      <EDID>recipe_mod_PowerArmor_T45_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: реактивный ранец T-45</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: реактивный ранец T-45</Dest>
+    </String><String List="0" sID="044D4E">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_BatRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сборка ультрацитового ядра</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: сборка ультрацитового ядра</Dest>
+    </String><String List="0" sID="044D52">
+      <EDID>recipe_Armor_PowerArmor_Ultracite_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый шлем</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый шлем</Dest>
+    </String><String List="0" sID="0465D0">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_ScorchedBeastQueen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело матки зверожогов</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: чучело матки зверожогов</Dest>
+    </String><String List="0" sID="6100312E">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый реактивный ранец</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый реактивный ранец</Dest>
+    </String><String List="0" sID="6100313D">
+      <EDID>recipe_mod_PowerArmor_Raider_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: реактивный ранец рейдера</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: реактивный ранец рейдера</Dest>
+    </String><String List="0" sID="6100BB25">
+      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_ExplVent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: охлаждающее отверстие ультрацитовой силовой брони</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: охлаждающее отверстие ультрацитовой силовой брони</Dest>
+    </String><String List="0" sID="6100D76D">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Outcast</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: комплект окраски "Изгой" для силовой брони</Source>
+      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: комплект окраски "Изгой" для силовой брони</Dest>
     </String><String List="0" sID="041095">
       <EDID>POST_recipe_Armor_VaultSuit94_Underarmor_Clean</EDID>
       <REC>BOOK:FULL</REC>
@@ -2496,496 +3236,6 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: кресло из гориллы</Source>
       <Dest>ОПЕРАЦИИ|Схема: кресло из гориллы</Dest>
-    </String><String List="0" sID="04A5EE">
-      <EDID>Recipe_Chems_SFS09_FormulaP</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Рецепт: формула P</Source>
-      <Dest>РАЙ|Рецепт: формула P</Dest>
-    </String><String List="0" sID="04B56F">
-      <EDID>Recipe_Chem_StimGas</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Рецепт: распылитель стимулятора</Source>
-      <Dest>РАЙ++|Рецепт: распылитель стимулятора</Dest>
-    </String><String List="0" sID="D9002DE0">
-      <EDID>Recipe_Weapon_Melee_BearArm</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: медвежья лапища</Source>
-      <Dest>РАЙ+|Схема: медвежья лапища</Dest>
-    </String><String List="0" sID="D9002DE5">
-      <EDID>recipe_mod_melee_BearArm_Puncturing</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Медвежьей лапищи" с пробойником</Source>
-      <Dest>РАЙ+|Схема: модификация "Медвежьей лапищи" с пробойником</Dest>
-    </String><String List="0" sID="D9002DFF">
-      <EDID>recipe_mod_melee_BearArm_Heavy</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Тяжелая медвежья лапища"</Source>
-      <Dest>РАЙ+|Схема: модификация "Тяжелая медвежья лапища"</Dest>
-    </String><String List="0" sID="390060EB">
-      <EDID>Recipe_XPD_Workshop_StreetKit_Pitt</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: набор "Питтсбургская улица"</Source>
-      <Dest>ИЗ ОГНЯ ДА В ПОЛЫМЯ|Схема: набор "Питтсбургская улица"</Dest>
-    </String><String List="0" sID="390060EC">
-      <EDID>Recipe_XPD_Workshop_FanaticBarricade_Pitt</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: баррикада фанатиков</Source>
-      <Dest>ИЗ ОГНЯ ДА В ПОЛЫМЯ|Схема: баррикада фанатиков</Dest>
-    </String><String List="0" sID="3900662C">
-      <EDID>Recipe_XPD_Workshop_PittCityLimitSigns</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: дорожные знаки Питтсбурга</Source>
-      <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: дорожные знаки Питтсбурга</Dest>
-    </String><String List="0" sID="39006D95">
-      <EDID>Recipe_XPD_Workshop_Floodlight_Pitt</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: набор питтсбургских промышленных прожекторов</Source>
-      <Dest>ИЗ ОГНЯ ДА В ПОЛЫМЯ|Схема: набор питтсбургских промышленных прожекторов</Dest>
-    </String><String List="0" sID="39006F87">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Tesla</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: катушки Теслы брони Союза</Source>
-      <Dest>ПИТТ|Схема: катушки Теслы брони Союза</Dest>
-    </String><String List="0" sID="39006F89">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Optimized</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: эргономичные наручи брони Союза</Source>
-      <Dest>ПИТТ|Схема: эргономичные наручи брони Союза</Dest>
-    </String><String List="0" sID="39006F8A">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Recon</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сенсоры дальнего действия брони Союза</Source>
-      <Dest>ПИТТ|Схема: сенсоры дальнего действия брони Союза</Dest>
-    </String><String List="0" sID="39006F8C">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_Carry</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: калиброванные амортизаторы брони Союза</Source>
-      <Dest>ПИТТ|Схема: калиброванные амортизаторы брони Союза</Dest>
-    </String><String List="0" sID="39006F8E">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_OptimizedServos</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сбалансированные сервоприводы брони Союза</Source>
-      <Dest>ПИТТ|Схема: сбалансированные сервоприводы брони Союза</Dest>
-    </String><String List="0" sID="39006F8F">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_VATSChance</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: слой матрицы VATS брони Союза</Source>
-      <Dest>ПИТТ|Схема: слой матрицы VATS брони Союза</Dest>
-    </String><String List="0" sID="39006F91">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_BatRegen</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сборка ядра брони Союза</Source>
-      <Dest>ПИТТ|Схема: сборка ядра брони Союза</Dest>
-    </String><String List="0" sID="39006F92">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_SprintBoost</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: форсированные сервоприводы брони Союза</Source>
-      <Dest>ПИТТ|Схема: форсированные сервоприводы брони Союза</Dest>
-    </String><String List="0" sID="39006F93">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_MedicPump</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: инжектор стимуляторов брони Союза</Source>
-      <Dest>ПИТТ|Схема: инжектор стимуляторов брони Союза</Dest>
-    </String><String List="0" sID="39006F94">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_ShockDmg</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: наручи Теслы брони Союза</Source>
-      <Dest>ПИТТ|Схема: наручи Теслы брони Союза</Dest>
-    </String><String List="0" sID="39006F96">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Kinetic</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: кинетический генератор брони Союза</Source>
-      <Dest>ПИТТ|Схема: кинетический генератор брони Союза</Dest>
-    </String><String List="0" sID="39006F97">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Cleanser</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: очиститель крови брони Союза</Source>
-      <Dest>ПИТТ|Схема: очиститель крови брони Союза</Dest>
-    </String><String List="0" sID="39006F99">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_ExplVent</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: охлаждающее отверстие брони Союза</Source>
-      <Dest>ПИТТ|Схема: охлаждающее отверстие брони Союза</Dest>
-    </String><String List="0" sID="39006F9B">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Reactive</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: активная броня Союза</Source>
-      <Dest>ПИТТ|Схема: активная броня Союза</Dest>
-    </String><String List="0" sID="39006F9C">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Str</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: улучшенные сервоприводы брони Союза</Source>
-      <Dest>ПИТТ|Схема: улучшенные сервоприводы брони Союза</Dest>
-    </String><String List="0" sID="39006F9D">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Sensor</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сенсорная матрица брони Союза</Source>
-      <Dest>ПИТТ|Схема: сенсорная матрица брони Союза</Dest>
-    </String><String List="0" sID="39006F9E">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_StealthBoy</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: стелс-бой брони Союза</Source>
-      <Dest>ПИТТ|Схема: стелс-бой брони Союза</Dest>
-    </String><String List="0" sID="39006F9F">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Bleed</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ржавый кастет брони Союза</Source>
-      <Dest>ПИТТ|Схема: ржавый кастет брони Союза</Dest>
-    </String><String List="0" sID="39006FA0">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_DetectLife</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: прицельный интерфейс брони Союза</Source>
-      <Dest>ПИТТ|Схема: прицельный интерфейс брони Союза</Dest>
-    </String><String List="0" sID="39006FA1">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Torso_Misc_Emergency</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: аварийные протоколы брони Союза</Source>
-      <Dest>ПИТТ|Схема: аварийные протоколы брони Союза</Dest>
-    </String><String List="0" sID="39006FA2">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Leg_Misc_APRegen</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: кинетические сервоприводы брони Союза</Source>
-      <Dest>ПИТТ|Схема: кинетические сервоприводы брони Союза</Dest>
-    </String><String List="0" sID="39006FA3">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Misc_Int</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: внутренний банк памяти брони Союза</Source>
-      <Dest>ПИТТ|Схема: внутренний банк памяти брони Союза</Dest>
-    </String><String List="0" sID="39006FA4">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Arm_Misc_Unarmed</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: гидравлические наручи брони Союза</Source>
-      <Dest>ПИТТ|Схема: гидравлические наручи брони Союза</Dest>
-    </String><String List="0" sID="39007217">
-      <EDID>Recipe_XPD_Workshop_WallDecor_Union42Banners</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: знамя 42-й ячейки Союза</Source>
-      <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: знамя 42-й ячейки Союза</Dest>
-    </String><String List="0" sID="410074A9">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Purple</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: фиолетовый налобный фонарь Союза</Source>
-      <Dest>ПИТТ|Схема: фиолетовый налобный фонарь Союза</Dest>
-    </String><String List="0" sID="410074AA">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Blue</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: синий налобный фонарь Союза</Source>
-      <Dest>ПИТТ|Схема: синий налобный фонарь Союза</Dest>
-    </String><String List="0" sID="410074AB">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_Bright</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: яркий налобный фонарь Союза</Source>
-      <Dest>ПИТТ|Схема: яркий налобный фонарь Союза</Dest>
-    </String><String List="0" sID="410074AC">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_VaultBoy</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: налобный фонарь Союза "Волт-Бой"</Source>
-      <Dest>ПИТТ|Схема: налобный фонарь Союза "Волт-Бой"</Dest>
-    </String><String List="0" sID="410074AD">
-      <EDID>Recipe_XPD_mod_PowerArmor_Union_Helmet_Headlamp_RedTactical</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: красный тактический налобный фонарь Союза</Source>
-      <Dest>ПИТТ|Схема: красный тактический налобный фонарь Союза</Dest>
-    </String><String List="0" sID="61005E6C">
-      <EDID>Recipe_mod_AutoAxe_Poisoned</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Отравленный автотопор"</Source>
-      <Dest>ПИТТ|Схема: модификация "Отравленный автотопор"</Dest>
-    </String><String List="0" sID="61005E6D">
-      <EDID>Recipe_mod_AutoAxe_Turbo</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Турбоавтотопор"</Source>
-      <Dest>ПИТТ|Схема: модификация "Турбоавтотопор"</Dest>
-    </String><String List="0" sID="61005E6E">
-      <EDID>Recipe_mod_AutoAxe_Electrified</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Электроавтотопор"</Source>
-      <Dest>ПИТТ|Схема: модификация "Электроавтотопор"</Dest>
-    </String><String List="0" sID="61005E6F">
-      <EDID>Recipe_mod_AutoAxe_Burning</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Пылающий автотопор"</Source>
-      <Dest>ПИТТ|Схема: модификация "Пылающий автотопор"</Dest>
-    </String><String List="0" sID="61010CFD">
-      <EDID>Recipe_XPD_Headwear_SkippysOutfit</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: очки мастера</Source>
-      <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: очки мастера</Dest>
-    </String><String List="0" sID="61010CFE">
-      <EDID>Recipe_XPD_Headwear_DanilosOutfit</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: капюшон бойца Траншеи</Source>
-      <Dest>ИЗ ОГНЯ ДА В ПОЛЫМЯ|Схема: капюшон бойца Траншеи</Dest>
-    </String><String List="0" sID="61010CFF">
-      <EDID>Recipe_XPD_Clothes_SkippysOutfit</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: комбинезон мастера</Source>
-      <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: комбинезон мастера</Dest>
-    </String><String List="0" sID="61010D00">
-      <EDID>Recipe_XPD_Clothes_DanilosOutfit</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плащ бойца Траншеи</Source>
-      <Dest>ИЗ ОГНЯ ДА В ПОЛЫМЯ|Схема: плащ бойца Траншеи</Dest>
-    </String><String List="0" sID="61011457">
-      <EDID>Recipe_XPD_Workshop_TrogTube</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: резервуар с трогом</Source>
-      <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: резервуар с трогом</Dest>
-    </String><String List="0" sID="61011D10">
-      <EDID>Recipe_XPD_mod_PumpActionShotgun_Material_Paint_Fanatics</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска "Фанатики" для помпового дробовика</Source>
-      <Dest>ИЗ ОГНЯ ДА В ПОЛЫМЯ|Схема: окраска "Фанатики" для помпового дробовика</Dest>
-    </String><String List="0" sID="6101279B">
-      <EDID>Recipe_mod_HuntingRifle_Material_Paint_XPD_Union</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: облик охотничьего карабина "Союз"</Source>
-      <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: облик охотничьего карабина "Союз"</Dest>
-    </String><String List="0" sID="0498DF">
-      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_Refrigerated</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Рюкзак-холодильник"</Source>
-      <Dest>ОПОССУМ|Схема: модификация "Рюкзак-холодильник"</Dest>
-    </String><String List="0" sID="0498E0">
-      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_HighCapacity</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Вместительный рюкзак"</Source>
-      <Dest>ОПОССУМ|Схема: модификация "Вместительный рюкзак"</Dest>
-    </String><String List="0" sID="0498E2">
-      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_Insulated</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Изолированный рюкзак"</Source>
-      <Dest>ОПОССУМ|Схема: модификация "Изолированный рюкзак"</Dest>
-    </String><String List="0" sID="04A9CC">
-      <EDID>P01C_Tadpole_Recipe_Mod_Camera_SnapMatic_Lens_NightVision</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: объектив для ночной съемки "Про-Щелк Делюкс"</Source>
-      <Dest>ОПОССУМ|Схема: объектив для ночной съемки "Про-Щелк Делюкс"</Dest>
-    </String><String List="0" sID="04BB26">
-      <EDID>P01C_Tadpole_Recipe_Workshop_FloorDecor_Misc_PioneerScout_Possum</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: знамя скаута-пионера "Опоссум"</Source>
-      <Dest>ОПОССУМ|Схема: знамя скаута-пионера "Опоссум"</Dest>
-    </String><String List="0" sID="61003117">
-      <EDID>P01C_Recipe_Workshop_Container_PioneerScout_StashBox</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: тайник скаута-пионера</Source>
-      <Dest>ОПОССУМ|Схема: тайник скаута-пионера</Dest>
-    </String><String List="0" sID="61003156">
-      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_LeadLined</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Рюкзак со свинцовой обшивкой"</Source>
-      <Dest>ОПОССУМ|Схема: модификация "Рюкзак со свинцовой обшивкой"</Dest>
-    </String><String List="0" sID="6100318B">
-      <EDID>P01C_Tadpole_Recipe_Backpack_Standard_Material_Scout_Possum</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: рюкзак скаута-пионера "Опоссум"</Source>
-      <Dest>ОПОССУМ|Схема: рюкзак скаута-пионера "Опоссум"</Dest>
-    </String><String List="0" sID="6100631B">
-      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_ArmorPlated</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Бронированный рюкзак"</Source>
-      <Dest>ОПОССУМ|Схема: модификация "Бронированный рюкзак"</Dest>
-    </String><String List="0" sID="61004470">
-      <EDID>Recipe_Workshop_FloorDecor_E05_RadioactiveBarrel</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: радиоактивная бочка</Source>
-      <Dest>РАДИОАКТ.ПОТАСОВКА|Схема: радиоактивная бочка</Dest>
-    </String><String List="0" sID="61006379">
-      <EDID>Armor_HazmatSuit_E05_Radition</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Защитный комплект с горы Эммет</Source>
-      <Dest>РАДИОАКТ.ПОТАСОВКА|Защитный комплект с горы Эммет</Dest>
-    </String><String List="0" sID="03F8F8">
-      <EDID>Recipe_Workshop_MiscStructures_DeconArch</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: обеззараживающий душ</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: обеззараживающий душ</Dest>
-    </String><String List="0" sID="044C71">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_MedicPump</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовый инжектор стимуляторов</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый инжектор стимуляторов</Dest>
-    </String><String List="0" sID="044C74">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Cleanser</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовый очиститель крови</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: ультрацитовый очиститель крови</Dest>
-    </String><String List="0" sID="044C7C">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Kinetic</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовый кинетический генератор</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: ультрацитовый кинетический генератор</Dest>
-    </String><String List="0" sID="044C7F">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Arm_Misc_Unarmed</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовые гидравлические наручи</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовые гидравлические наручи</Dest>
-    </String><String List="0" sID="044C83">
-      <EDID>recipe_Armor_PowerArmor_Ultracite_ArmRight</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовая броня для правой руки</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для правой руки</Dest>
-    </String><String List="0" sID="044C84">
-      <EDID>recipe_Armor_PowerArmor_Ultracite_LegRight</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовая броня для правой ноги</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для правой ноги</Dest>
-    </String><String List="0" sID="044C88">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_OptimizedServos</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовые сбалансированные сервоприводы</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ++|Схема: ультрацитовые сбалансированные сервоприводы</Dest>
-    </String><String List="0" sID="044C89">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_SprintBoost</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовые форсированные сервоприводы</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ++|Схема: ультрацитовые форсированные сервоприводы</Dest>
-    </String><String List="0" sID="044C91">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Reactive</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: активная ультрацитовая броня</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+++|Схема: активная ультрацитовая броня</Dest>
-    </String><String List="0" sID="044C9A">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Tesla</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовые катушки Теслы</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+++|Схема: ультрацитовые катушки Теслы</Dest>
-    </String><String List="0" sID="044CA9">
-      <EDID>recipe_mod_PowerArmor_T60_Torso_Misc_Jetpack</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: реактивный ранец T-60</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: реактивный ранец T-60</Dest>
-    </String><String List="0" sID="044CAF">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_APRegen</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовые кинетические сервоприводы</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: ультрацитовые кинетические сервоприводы</Dest>
-    </String><String List="0" sID="044CCB">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Emergency</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовые аварийные протоколы</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ++|Схема: ультрацитовые аварийные протоколы</Dest>
-    </String><String List="0" sID="044CD6">
-      <EDID>recipe_mod_PowerArmor_T51_Torso_Misc_JetPack</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: реактивный ранец T-51b</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: реактивный ранец T-51b</Dest>
-    </String><String List="0" sID="044CE4">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Arm_Misc_Optimized</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовые эргономичные наручи</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовые эргономичные наручи</Dest>
-    </String><String List="0" sID="044CE5">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_Str</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: улучшенные ультрацитовые сервоприводы</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: улучшенные ультрацитовые сервоприводы</Dest>
-    </String><String List="0" sID="044CE9">
-      <EDID>recipe_Armor_PowerArmor_Ultracite_LegLeft</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовая броня для левой ноги</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для левой ноги</Dest>
-    </String><String List="0" sID="044CEF">
-      <EDID>recipe_Armor_PowerArmor_Ultracite_Torso</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовая броня для туловища</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для туловища</Dest>
-    </String><String List="0" sID="044CF2">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Helmet_Misc_DetectLife</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовый прицельный интерфейс</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+++|Схема: ультрацитовый прицельный интерфейс</Dest>
-    </String><String List="0" sID="044CF3">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_Carry</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовые калиброванные амортизаторы</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+++|Схема: ультрацитовые калиброванные амортизаторы</Dest>
-    </String><String List="0" sID="044CF5">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Arm_Misc_Bleed</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовый ржавый кастет</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый ржавый кастет</Dest>
-    </String><String List="0" sID="044CF8">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_DMGShield</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовая приваренная арматура</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: ультрацитовая приваренная арматура</Dest>
-    </String><String List="0" sID="044CFA">
-      <EDID>recipe_Armor_PowerArmor_Ultracite_ArmLeft</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовая броня для левой руки</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая броня для левой руки</Dest>
-    </String><String List="0" sID="044D2D">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Helmet_Misc_Sensor</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовая сенсорная матрица</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовая сенсорная матрица</Dest>
-    </String><String List="0" sID="044D30">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Helmet_Misc_Int</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовый внутренний банк памяти</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый внутренний банк памяти</Dest>
-    </String><String List="0" sID="044D3F">
-      <EDID>recipe_mod_PowerArmor_T45_Torso_Misc_JetPack</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: реактивный ранец T-45</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: реактивный ранец T-45</Dest>
-    </String><String List="0" sID="044D4E">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_BatRegen</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сборка ультрацитового ядра</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ+|Схема: сборка ультрацитового ядра</Dest>
-    </String><String List="0" sID="044D52">
-      <EDID>recipe_Armor_PowerArmor_Ultracite_Helmet</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовый шлем</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый шлем</Dest>
-    </String><String List="0" sID="0465D0">
-      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_ScorchedBeastQueen</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело матки зверожогов</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: чучело матки зверожогов</Dest>
-    </String><String List="0" sID="6100312E">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Torso_Misc_JetPack</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ультрацитовый реактивный ранец</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: ультрацитовый реактивный ранец</Dest>
-    </String><String List="0" sID="6100313D">
-      <EDID>recipe_mod_PowerArmor_Raider_Torso_Misc_JetPack</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: реактивный ранец рейдера</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: реактивный ранец рейдера</Dest>
-    </String><String List="0" sID="6100BB25">
-      <EDID>recipe_mod_PowerArmor_Ultracite_Leg_Misc_ExplVent</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: охлаждающее отверстие ультрацитовой силовой брони</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: охлаждающее отверстие ультрацитовой силовой брони</Dest>
-    </String><String List="0" sID="6100D76D">
-      <EDID>recipe_mod_PowerArmor_Material_Paint_Outcast</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: комплект окраски "Изгой" для силовой брони</Source>
-      <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: комплект окраски "Изгой" для силовой брони</Dest>
-    </String><String List="0" sID="410069A4">
-      <EDID>Headwear_E05_Caravan_Gasmask</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Противогаз "Блю ридж караван"</Source>
-      <Dest>ВТОРОЙ ПИЛОТ|Противогаз "Блю ридж караван"</Dest>
-    </String><String List="0" sID="61004545">
-      <EDID>Recipe_Workshop_WallDecor_BRCCFlag01</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: флаг "Блю ридж караван"</Source>
-      <Dest>ВТОРОЙ ПИЛОТ|Схема: флаг "Блю ридж караван"</Dest>
-    </String><String List="0" sID="61007C11">
-      <EDID>Recipe_Backpack_Standard_Material_Blueridge</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: рюкзак "Блю ридж караван"</Source>
-      <Dest>ВТОРОЙ ПИЛОТ|Схема: рюкзак "Блю ридж караван"</Dest>
-    </String><String List="0" sID="61007C12">
-      <EDID>Armor_BlueridgeGuardOutfit</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Костюм "Блю ридж караван"</Source>
-      <Dest>ВТОРОЙ ПИЛОТ|Костюм "Блю ридж караван"</Dest>
     </String><String List="0" sID="04BB27">
       <EDID>P01C_Tadpole_Recipe_Workshop_WallDecor_FlagsUSA_Clean</EDID>
       <REC>BOOK:FULL</REC>
@@ -3006,6 +3256,16 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: спальный мешок скаута-пионера</Source>
       <Dest>ГОЛОВАСТИК|Схема: спальный мешок скаута-пионера</Dest>
+    </String><String List="0" sID="04458C">
+      <EDID>Recipe_Workshop_WallDecor_WallClocks_Cuckoo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: часы с кукушкой</Source>
+      <Dest>РОБОТОРГОВЕЦ|Схема: часы с кукушкой</Dest>
+    </String><String List="0" sID="0445AC">
+      <EDID>Recipe_Workshop_WallDecor_WallClocks_NukaCola</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: часы "Ядер-кола"</Source>
+      <Dest>РОБОТОРГОВЕЦ|Схема: часы "Ядер-кола"</Dest>
     </String><String List="0" sID="39000F4F">
       <EDID>Recipe_Workshop_WallDecor_RustEagleBanner</EDID>
       <REC>BOOK:FULL</REC>
@@ -3236,16 +3496,6 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: гольфмобили</Source>
       <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: гольфмобили</Dest>
-    </String><String List="0" sID="04458C">
-      <EDID>Recipe_Workshop_WallDecor_WallClocks_Cuckoo</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: часы с кукушкой</Source>
-      <Dest>РОБОТОРГОВЕЦ|Схема: часы с кукушкой</Dest>
-    </String><String List="0" sID="0445AC">
-      <EDID>Recipe_Workshop_WallDecor_WallClocks_NukaCola</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: часы "Ядер-кола"</Source>
-      <Dest>РОБОТОРГОВЕЦ|Схема: часы "Ядер-кола"</Dest>
     </String><String List="0" sID="03F8F3">
       <EDID>Recipe_Workshop_WallDecor_Whitespring_Mirror</EDID>
       <REC>BOOK:FULL</REC>
@@ -3311,270 +3561,5 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: складные кресла с тканевыми вставками</Source>
       <Dest>УАЙТСПРИНГ|Схема: складные кресла с тканевыми вставками</Dest>
-    </String><String List="0" sID="03F9D8">
-      <EDID>Recipe_Weapon_Melee_Shishkebab</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: шиш-кебаб</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: шиш-кебаб</Dest>
-    </String><String List="0" sID="03FAAA">
-      <EDID>Recipe_Weapon_Ranged_Flamer</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: огнемет</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: огнемет</Dest>
-    </String><String List="0" sID="41001306">
-      <EDID>Recipe_Workshop_Crafting_CraftingCooking_Animalistic_Grill</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: гриль для брамина</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: гриль для брамина</Dest>
-    </String><String List="0" sID="410013FB">
-      <EDID>Headwear_ChallyMascot</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Маска "Чалли Му-му"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Маска "Чалли Му-му"</Dest>
-    </String><String List="0" sID="410013FC">
-      <EDID>Clothes_ChallyMascot</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Костюм "Чалли Му-му"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Костюм "Чалли Му-му"</Dest>
-    </String><String List="0" sID="41001400">
-      <EDID>Recipe_Backpack_Standard_Material_Chally</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: рюкзак "Чалли Му-му"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: рюкзак "Чалли Му-му"</Dest>
-    </String><String List="0" sID="41002978">
-      <EDID>Recipe_Weapon_Ranged_PepperShaker</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: "Перечница"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: "Перечница"</Dest>
-    </String><String List="0" sID="4100AB08">
-      <EDID>Recipe_Meat_Backpack_Standard_Material_WastelandHunter</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: рюкзак охотника с Пустоши</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: рюкзак охотника с Пустоши</Dest>
-    </String><String List="0" sID="61002EBD">
-      <EDID>MeatTenderizer</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Отбивной молоток</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Отбивной молоток</Dest>
-    </String><String List="0" sID="61003118">
-      <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag3</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: флаг "Мясная неделя"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг "Мясная неделя"</Dest>
-    </String><String List="0" sID="61003120">
-      <EDID>Recipe_Cooking_E02A_Meat_ChallysFeed</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Рецепт: еда для Чалли</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Рецепт: еда для Чалли</Dest>
-    </String><String List="0" sID="61003128">
-      <EDID>recipe_mod_melee_MeatTenderizer_Peppered</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Молоток для отбивания перченого мяса"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация "Молоток для отбивания перченого мяса"</Dest>
-    </String><String List="0" sID="6100313A">
-      <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag1</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: флаг "Мясная неделя"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг "Мясная неделя"</Dest>
-    </String><String List="0" sID="6100314B">
-      <EDID>recipe_mod_melee_MeatTenderizer_Salted</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Молоток для отбивания соленого мяса"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация "Молоток для отбивания соленого мяса"</Dest>
-    </String><String List="0" sID="61003153">
-      <EDID>recipe_mod_melee_MeatTenderizer_Heated</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Молоток для отбивания пряного мяса"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация "Молоток для отбивания пряного мяса"</Dest>
-    </String><String List="0" sID="6100315B">
-      <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag2</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: флаг "Мясная неделя"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг "Мясная неделя"</Dest>
-    </String><String List="0" sID="61003162">
-      <EDID>Recipe_Cooking_MeatWeek_TatoSalad</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Рецепт: салат из тошки</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Рецепт: салат из тошки</Dest>
-    </String><String List="0" sID="6100317F">
-      <EDID>Recipe_Weapon_Melee_MeatTenderizer</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: молоток для отбивания мяса</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: молоток для отбивания мяса</Dest>
-    </String><String List="0" sID="61003187">
-      <EDID>Recipe_Weapon_Thrown_MeatCleaver</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: мясницкий нож</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: мясницкий нож</Dest>
-    </String><String List="0" sID="610031B7">
-      <EDID>Clothes_Chef_1_Outfit</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Окровавленный костюм повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Окровавленный костюм повара</Dest>
-    </String><String List="0" sID="610031B9">
-      <EDID>Headwear_MeatWeek_ChefsHat</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Окровавленный колпак повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Окровавленный колпак повара</Dest>
-    </String><String List="0" sID="610031C2">
-      <EDID>Headwear_MeatWeek_ChefsHat2</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Головной убор шеф-повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
-    </String><String List="0" sID="610038F5">
-      <EDID>ATX_ENTM_Apparel_HeadWear_1950sChef_02_Hat</EDID>
-      <REC>ENTM:FULL</REC>
-      <Source>Головной убор шеф-повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
-    </String><String List="0" sID="610038F7">
-      <EDID>ATX_ENTM_Apparel_HeadWear_1950sChef_02_Hat</EDID>
-      <REC>ENTM:NNAM</REC>
-      <Source>Головной убор шеф-повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
-    </String><String List="0" sID="6100C1AB">
-      <EDID>Recipe_Workshop_WallDecor_PlasticFruitWreath</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: венок из пластиковых фруктов</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: венок из пластиковых фруктов</Dest>
-    </String><String List="0" sID="6100C1AD">
-      <EDID>Recipe_Workshop_Crafting_CraftingCooking_GroceryCartGrill</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: тележка-гриль</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: тележка-гриль</Dest>
-    </String><String List="0" sID="6100C325">
-      <EDID>Recipe_Workshop_FloorDecor_DecoyDuckSet</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: подсадные утки</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: подсадные утки</Dest>
-    </String><String List="0" sID="6101463B">
-      <EDID>Recipe_Workshop_FloorDecor_PlasticFruitBowl</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: миска с пластиковыми фруктами</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: миска с пластиковыми фруктами</Dest>
-    </String><String List="0" sID="610186F0">
-      <EDID>Recipe_Workshop_FloorDecor_Plushie_WilberMcPigg</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевый Уилбур Макхряк</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: плюшевый Уилбур Макхряк</Dest>
-    </String><String List="0" sID="610186F1">
-      <EDID>Recipe_Workshop_FloorDecor_Plushie_Punty</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевая свинка Панти</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: плюшевая свинка Панти</Dest>
-    </String><String List="0" sID="610186F2">
-      <EDID>Recipe_Workshop_FloorDecor_Plushie_Peppino</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевая свинка Пеппино</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: плюшевая свинка Пеппино</Dest>
-    </String><String List="0" sID="610186F3">
-      <EDID>Recipe_Workshop_Lights_Wall_SuperMutantDiagram</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: схема супермутанта</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: схема супермутанта</Dest>
-    </String><String List="0" sID="610186F5">
-      <EDID>Recipe_Workshop_Lights_Wall_MutantHoundDiagram</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: схема гончей-мутанта</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: схема гончей-мутанта</Dest>
-    </String><String List="0" sID="6101873E">
-      <EDID>Recipe_Workshop_FloorDecor_Rugs_Bloody</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окровавленный ковер</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: окровавленный ковер</Dest>
-    </String><String List="0" sID="61018744">
-      <EDID>Recipe_Workshop_CurtainDoor_Bloody</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окровавленная занавеска на дверь</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: окровавленная занавеска на дверь</Dest>
-    </String><String List="0" sID="6101B63B">
-      <EDID>Recipe_Workshop_FloorDecor_StuffedMutantHound</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело гончей-мутанта</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: чучело гончей-мутанта</Dest>
-    </String><String List="0" sID="6101C600">
-      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxLeftLeg</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окаменевшая левая задняя лапа мегалоникса</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшая левая задняя лапа мегалоникса</Dest>
-    </String><String List="0" sID="6101C601">
-      <EDID>Meat_Recipe_Workshop_Displays_MegalonyxDisplayRack</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: витрина с мегалониксом</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: витрина с мегалониксом</Dest>
-    </String><String List="0" sID="6101C602">
-      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxRightLeg</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окаменевшая правая задняя лапа мегалоникса</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшая правая задняя лапа мегалоникса</Dest>
-    </String><String List="0" sID="6101C603">
-      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxSkull</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окаменевший череп мегалоникса</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевший череп мегалоникса</Dest>
-    </String><String List="0" sID="6101C604">
-      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxTorso</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окаменевшее туловище мегалоникса</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшее туловище мегалоникса</Dest>
-    </String><String List="0" sID="6101C605">
-      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxRightArm</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окаменевшая правая передняя лапа мегалоникса</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшая правая передняя лапа мегалоникса</Dest>
-    </String><String List="0" sID="6101C606">
-      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxLeftArm</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окаменевшая левая передняя лапа мегалоникса</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшая левая передняя лапа мегалоникса</Dest>
-    </String><String List="0" sID="6101C621">
-      <EDID>Meat_Recipe_Plushie_RottedGroundMeat</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевый гнилой фарш</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевый гнилой фарш</Dest>
-    </String><String List="0" sID="6101C79F">
-      <EDID>Meat_Recipe_Plushie_GroundMeat</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевый фарш</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевый фарш</Dest>
-    </String><String List="0" sID="6101C7A0">
-      <EDID>Meat_Recipe_Plushie_Steak</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевый стейк</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевый стейк</Dest>
-    </String><String List="0" sID="6101C9F9">
-      <EDID>Meat_Recipe_Plushie_RottedRib</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевое гнилое ребро</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевое гнилое ребро</Dest>
-    </String><String List="0" sID="6101CA1C">
-      <EDID>Recipe_Meat_Workshop_WallDecor_BrahminFlourBillboards</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: щит с рекламой муки для скота</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: щит с рекламой муки для скота</Dest>
-    </String><String List="0" sID="6101CA1D">
-      <EDID>Meat_Recipe_workshop_floordecor_FliesVFX</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: рой мух</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: рой мух</Dest>
-    </String><String List="0" sID="6101CA1E">
-      <EDID>Meat_Recipe_Plushie_RottedSteak</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевый гнилой стейк</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевый гнилой стейк</Dest>
-    </String><String List="0" sID="6101CA1F">
-      <EDID>Meat_Recipe_Plushie_Rib</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевое ребро</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевое ребро</Dest>
-    </String><String List="0" sID="6101CA2C">
-      <EDID>Meat_Recipe_Workshop_CAMP_Utility_WeenieWagon</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: тележка с хот-догами</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: тележка с хот-догами</Dest>
-    </String><String List="0" sID="6101CA73">
-      <EDID>Recipe_Meat_NukaShank</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: нож "Ядер-рулька"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: нож "Ядер-рулька"</Dest>
     </String></Content>
 </SSTXMLRessources>
