@@ -11,31 +11,31 @@
       <EDID>Recipe_Workshop_Crafting_CraftingCooking_Animalistic_Grill</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: гриль для брамина</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: гриль для брамина</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2020|Схема: гриль для брамина</Dest>
     </String>
     <String List="0" sID="410013FB">
       <EDID>Headwear_ChallyMascot</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска &quot;Чалли Му-му&quot;</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Маска &quot;Чалли Му-му&quot;</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2020|Маска &quot;Чалли Му-му&quot;</Dest>
     </String>
     <String List="0" sID="410013FC">
       <EDID>Clothes_ChallyMascot</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Костюм &quot;Чалли Му-му&quot;</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Костюм &quot;Чалли Му-му&quot;</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2020|Костюм &quot;Чалли Му-му&quot;</Dest>
     </String>
     <String List="0" sID="41001400">
       <EDID>Recipe_Backpack_Standard_Material_Chally</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: рюкзак &quot;Чалли Му-му&quot;</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: рюкзак &quot;Чалли Му-му&quot;</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2020|Схема: рюкзак &quot;Чалли Му-му&quot;</Dest>
     </String>
     <String List="0" sID="41002978">
       <EDID>Recipe_Weapon_Ranged_PepperShaker</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: &quot;Перечница&quot;</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: &quot;Перечница&quot;</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: &quot;Перечница&quot;</Dest>
     </String>
     <String List="0" sID="4100AB08">
       <EDID>Recipe_Meat_Backpack_Standard_Material_WastelandHunter</EDID>
@@ -53,7 +53,7 @@
       <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag3</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: флаг &quot;Мясная неделя&quot;</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг &quot;Мясная неделя&quot;</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Схема: флаг &quot;Мясная неделя&quot;</Dest>
     </String>
     <String List="0" sID="61003120">
       <EDID>Recipe_Cooking_E02A_Meat_ChallysFeed</EDID>
@@ -65,103 +65,103 @@
       <EDID>recipe_mod_melee_MeatTenderizer_Peppered</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: модификация &quot;Молоток для отбивания перченого мяса&quot;</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация &quot;Молоток для отбивания перченого мяса&quot;</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Схема: модификация &quot;Молоток для отбивания перченого мяса&quot;</Dest>
     </String>
     <String List="0" sID="6100313A">
       <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag1</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: флаг &quot;Мясная неделя&quot;</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг &quot;Мясная неделя&quot;</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Схема: флаг &quot;Мясная неделя&quot;</Dest>
     </String>
     <String List="0" sID="6100314B">
       <EDID>recipe_mod_melee_MeatTenderizer_Salted</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: модификация &quot;Молоток для отбивания соленого мяса&quot;</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация &quot;Молоток для отбивания соленого мяса&quot;</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Схема: модификация &quot;Молоток для отбивания соленого мяса&quot;</Dest>
     </String>
     <String List="0" sID="61003153">
       <EDID>recipe_mod_melee_MeatTenderizer_Heated</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: модификация &quot;Молоток для отбивания пряного мяса&quot;</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация &quot;Молоток для отбивания пряного мяса&quot;</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Схема: модификация &quot;Молоток для отбивания пряного мяса&quot;</Dest>
     </String>
     <String List="0" sID="6100315B">
       <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag2</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: флаг &quot;Мясная неделя&quot;</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг &quot;Мясная неделя&quot;</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Схема: флаг &quot;Мясная неделя&quot;</Dest>
     </String>
     <String List="0" sID="61003162">
       <EDID>Recipe_Cooking_MeatWeek_TatoSalad</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Рецепт: салат из тошки</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Рецепт: салат из тошки</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Рецепт: салат из тошки</Dest>
     </String>
     <String List="0" sID="6100317F">
       <EDID>Recipe_Weapon_Melee_MeatTenderizer</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: молоток для отбивания мяса</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: молоток для отбивания мяса</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Схема: молоток для отбивания мяса</Dest>
     </String>
     <String List="0" sID="61003187">
       <EDID>Recipe_Weapon_Thrown_MeatCleaver</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: мясницкий нож</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: мясницкий нож</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Схема: мясницкий нож</Dest>
     </String>
     <String List="0" sID="610031B7">
       <EDID>Clothes_Chef_1_Outfit</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Окровавленный костюм повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Окровавленный костюм повара</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Окровавленный костюм повара</Dest>
     </String>
     <String List="0" sID="610031B9">
       <EDID>Headwear_MeatWeek_ChefsHat</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Окровавленный колпак повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Окровавленный колпак повара</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Окровавленный колпак повара</Dest>
     </String>
     <String List="0" sID="610031C2">
       <EDID>Headwear_MeatWeek_ChefsHat2</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Головной убор шеф-повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Головной убор шеф-повара</Dest>
     </String>
     <String List="0" sID="610038F5">
       <EDID>ATX_ENTM_Apparel_HeadWear_1950sChef_02_Hat</EDID>
       <REC>ENTM:FULL</REC>
       <Source>Головной убор шеф-повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Головной убор шеф-повара</Dest>
     </String>
     <String List="0" sID="610038F7">
       <EDID>ATX_ENTM_Apparel_HeadWear_1950sChef_02_Hat</EDID>
       <REC>ENTM:NNAM</REC>
       <Source>Головной убор шеф-повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2019|Головной убор шеф-повара</Dest>
     </String>
     <String List="0" sID="6100C1AB">
       <EDID>Recipe_Workshop_WallDecor_PlasticFruitWreath</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: венок из пластиковых фруктов</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: венок из пластиковых фруктов</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: венок из пластиковых фруктов</Dest>
     </String>
     <String List="0" sID="6100C1AD">
       <EDID>Recipe_Workshop_Crafting_CraftingCooking_GroceryCartGrill</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: тележка-гриль</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: тележка-гриль</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: тележка-гриль</Dest>
     </String>
     <String List="0" sID="6100C325">
       <EDID>Recipe_Workshop_FloorDecor_DecoyDuckSet</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: подсадные утки</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: подсадные утки</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: подсадные утки</Dest>
     </String>
     <String List="0" sID="6101463B">
       <EDID>Recipe_Workshop_FloorDecor_PlasticFruitBowl</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: миска с пластиковыми фруктами</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: миска с пластиковыми фруктами</Dest>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: миска с пластиковыми фруктами</Dest>
     </String>
     <String List="0" sID="610186F0">
       <EDID>Recipe_Workshop_FloorDecor_Plushie_WilberMcPigg</EDID>
