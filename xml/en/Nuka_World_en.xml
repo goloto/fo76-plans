@@ -7,12 +7,6 @@
     <Version>2</Version>
   </Params>
   <Content>
-    <String List="0" sID="044595">
-      <EDID>Recipe_Workshop_Container_WorkshopSafeFloor01</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Floor Safe</Source>
-      <Dest>MOST WANTED|Plan: Floor Safe</Dest>
-    </String>
     <String List="0" sID="41005CA5">
       <EDID>Recipe_Workshop_NWOT_CappyClapper</EDID>
       <REC>BOOK:FULL</REC>

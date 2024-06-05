@@ -7,12 +7,6 @@
     <Version>2</Version>
   </Params>
   <Content>
-    <String List="0" sID="046631">
-      <EDID>Recipe_Weapon_Ranged_AssaultronHead</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова штурмотрона</Source>
-      <Dest>КРИПТИДОГРАФИЯ++|Схема: голова штурмотрона</Dest>
-    </String>
     <String List="0" sID="04988A">
       <EDID>Headwear_SheepsquatchMascotHead</EDID>
       <REC>ARMO:FULL</REC>
