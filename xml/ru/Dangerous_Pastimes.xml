@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="81009259">
+      <EDID>Storm_Recipe_Workshop_LostInATube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с потерянным</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: резервуар с потерянным</Dest>
+    </String>
+    <String List="0" sID="8100969E">
+      <EDID>Storm_Clothes_Recipe_BurntLabCoat01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обгоревший лабораторный халат из Убежища</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: обгоревший лабораторный халат из Убежища</Dest>
+    </String>
+    <String List="0" sID="8100969F">
+      <EDID>Storm_Clothes_Recipe_BurntLabCoat02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обгоревший лабораторный халат из Убежища</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: обгоревший лабораторный халат из Убежища</Dest>
+    </String>
+    <String List="0" sID="8100B967">
+      <EDID>Storm_Clothes_Workshop_Recipe_ShenandoahTShirtSlacks</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: майка и джинсы Шенандоа</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: майка и джинсы Шенандоа</Dest>
+    </String>
+    <String List="0" sID="8100C59B">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_MoetheMole_CutOut</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Картонная фигура &quot;Крот Мо&quot;</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: Картонная фигура &quot;Крот Мо&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C59C">
+      <EDID>Storm_Clothes_Recipe_LostLightArmour_Burnt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обгоревший костюм разведчика из Убежища 63</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: обгоревший костюм разведчика из Убежища 63</Dest>
+    </String>
+    <String List="0" sID="8100C59D">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_WildLifeSign03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знак &quot;Дикая природа: тропа индюка&quot;</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: знак &quot;Дикая природа: тропа индюка&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C59E">
+      <EDID>Storm_Clothes_Recipe_LostMediumHelmet_Burnt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обгоревший шлем охранника из Убежища 63</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: обгоревший шлем охранника из Убежища 63</Dest>
+    </String>
+    <String List="0" sID="8100C59F">
+      <EDID>Storm_Clothes_Recipe_LostMediumArmour_Burnt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обгоревший костюм охранника из Убежища 63</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: обгоревший костюм охранника из Убежища 63</Dest>
+    </String>
+    <String List="0" sID="8100C5A0">
+      <EDID>Storm_Clothes_Recipe_LostHeavyArmour_Burnt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обгоревший костюм службы подавления беспорядков из Убежища 63</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: обгоревший костюм службы подавления беспорядков из Убежища 63</Dest>
+    </String>
+    <String List="0" sID="8100C5A1">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_LightningHarvester</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сборщик молний</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: сборщик молний</Dest>
+    </String>
+    <String List="0" sID="8100C5A2">
+      <EDID>Storm_Recipe_Workshop_WallDecor_Poster_Turkey</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакат &quot;Индюк в Шенандоа&quot;</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: плакат &quot;Индюк в Шенандоа&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C5A5">
+      <EDID>Storm_Clothes_Recipe_LostHeavyHelmet_Burnt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обгоревший шлем службы подавления беспорядков из Убежища 63</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: обгоревший шлем службы подавления беспорядков из Убежища 63</Dest>
+    </String>
+    <String List="0" sID="8100C5A7">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_WildLifeSign04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знак &quot;Дикая природа: волчья тропа&quot;</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: знак &quot;Дикая природа: волчья тропа&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C5A9">
+      <EDID>Storm_Clothes_Recipe_LostLightHelmet_Burnt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обгоревший шлем разведчика из Убежища 63</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: обгоревший шлем разведчика из Убежища 63</Dest>
+    </String>
+    <String List="0" sID="8100C5AA">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_WildLifeSign01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знак &quot;Дикая природа: оленья тропа&quot;</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: знак &quot;Дикая природа: оленья тропа&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C5AB">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_WildLifeSign08</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знак &quot;Дикая природа: медвежья тропа&quot;</Source>
+      <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: знак &quot;Дикая природа: медвежья тропа&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

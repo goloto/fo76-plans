@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="6101EB43">
+      <EDID>Storm_Recipe_Turkey_Backpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак Плюшевый молотильщик</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: рюкзак Плюшевый молотильщик</Dest>
+    </String>
+    <String List="0" sID="8100791E">
+      <EDID>Storm_Clothes_Recipe_LostMediumArmour</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм охранника из Убежища 63</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: костюм охранника из Убежища 63</Dest>
+    </String>
+    <String List="0" sID="81007920">
+      <EDID>Storm_Clothes_Recipe_LostMediumHelmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шлем охранника из Убежища 63</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: шлем охранника из Убежища 63</Dest>
+    </String>
+    <String List="0" sID="81007922">
+      <EDID>Storm_Clothes_Recipe_LostHeavyArmour</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм службы подавления беспорядков из Убежища 63</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: костюм службы подавления беспорядков из Убежища 63</Dest>
+    </String>
+    <String List="0" sID="81007924">
+      <EDID>Storm_Clothes_Recipe_LostLightArmour</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм разведчика из Убежища 63</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: костюм разведчика из Убежища 63</Dest>
+    </String>
+    <String List="0" sID="81007925">
+      <EDID>Storm_Clothes_Recipe_LostHeavyHelmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шлем службы подавления беспорядков из Убежища 63</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: шлем службы подавления беспорядков из Убежища 63</Dest>
+    </String>
+    <String List="0" sID="81007929">
+      <EDID>Storm_Clothes_Recipe_LostLightHelmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шлем разведчика из Убежища 63</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: шлем разведчика из Убежища 63</Dest>
+    </String>
+    <String List="0" sID="810085C4">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_RobotBossLegDisplay</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: витрина для конечности голиафа</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: витрина для конечности голиафа</Dest>
+    </String>
+    <String List="0" sID="81008713">
+      <EDID>Storm_Recipe_Workshop_Chair_BossArmChair01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трон из черепа голиафа</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: трон из черепа голиафа</Dest>
+    </String>
+    <String List="0" sID="81008ADD">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_RobotBossCockpit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: витрина для черепа голиафа</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: витрина для черепа голиафа</Dest>
+    </String>
+    <String List="0" sID="81008ADE">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_RobotBossArmDisplay</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: витрина для когтя голиафа</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: витрина для когтя голиафа</Dest>
+    </String>
+    <String List="0" sID="81008ADF">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_MiniBossFigure</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фигурка штормового голиафа</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: фигурка штормового голиафа</Dest>
+    </String>
+    <String List="0" sID="81008DE4">
+      <EDID>Storm_Recipe_Workshop_WallDecor_V63ZweihaenderBlueprint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чертеж Цвайхендера V63</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: чертеж Цвайхендера V63</Dest>
+    </String>
+    <String List="0" sID="81008DE5">
+      <EDID>Storm_Recipe_Workshop_WallDecor_SecurityBatonBlueprint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чертеж электродубинки V63</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: чертеж электродубинки V63</Dest>
+    </String>
+    <String List="0" sID="81008DE6">
+      <EDID>Storm_Recipe_Workshop_WallDecor_WeatherMachineBlueprint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чертеж погодной машины V63</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: чертеж погодной машины V63</Dest>
+    </String>
+    <String List="0" sID="8100C1E3">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_ShenandoahMapTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стол с картой Шенандоа</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: стол с картой Шенандоа</Dest>
+    </String>
+    <String List="0" sID="8100C1E4">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_TaxidermyRadTurkey</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>План: чучело молотильщика</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|План: чучело молотильщика</Dest>
+    </String>
+    <String List="0" sID="8100C1E5">
+      <EDID>Storm_Recipe_Workshop_WallDecor_TaxidermyRadTurkeyHead</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>План: голова молотильщика</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|План: голова молотильщика</Dest>
+    </String>
+    <String List="0" sID="8100C9A9">
+      <EDID>Storm_Recipe_Workshop_WallDecor_Poster_MoeMole02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакат &quot;Крот Мо: мусор&quot;</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: плакат &quot;Крот Мо: мусор&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C9AA">
+      <EDID>Storm_Recipe_Workshop_WallDecor_Poster_MoeMole01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакат &quot;Крот Мо: медведь&quot;</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: плакат &quot;Крот Мо: медведь&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C9AC">
+      <EDID>Storm_Recipe_Workshop_WallDecor_Poster_MoeMole03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакат Крот Мо: пожар</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: плакат Крот Мо: пожар</Dest>
+    </String>
+    <String List="0" sID="8100C9AF">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_ShenandoahSign03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: дорожный знак Шенандоа</Source>
+      <Dest>НЕВРОЛ.ОРУЖИЕ|Схема: дорожный знак Шенандоа</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

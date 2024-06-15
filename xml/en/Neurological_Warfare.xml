@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="6101EB43">
+      <EDID>Storm_Recipe_Turkey_Backpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Thrasher Plushie Backpack</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Thrasher Plushie Backpack</Dest>
+    </String>
+    <String List="0" sID="8100791E">
+      <EDID>Storm_Clothes_Recipe_LostMediumArmour</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 63 Security Outfit</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Vault 63 Security Outfit</Dest>
+    </String>
+    <String List="0" sID="81007920">
+      <EDID>Storm_Clothes_Recipe_LostMediumHelmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 63 Security Helmet</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Vault 63 Security Helmet</Dest>
+    </String>
+    <String List="0" sID="81007922">
+      <EDID>Storm_Clothes_Recipe_LostHeavyArmour</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 63 Riot Control Outfit</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Vault 63 Riot Control Outfit</Dest>
+    </String>
+    <String List="0" sID="81007924">
+      <EDID>Storm_Clothes_Recipe_LostLightArmour</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 63 Recon Outfit</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Vault 63 Recon Outfit</Dest>
+    </String>
+    <String List="0" sID="81007925">
+      <EDID>Storm_Clothes_Recipe_LostHeavyHelmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 63 Riot Control Helmet</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Vault 63 Riot Control Helmet</Dest>
+    </String>
+    <String List="0" sID="81007929">
+      <EDID>Storm_Clothes_Recipe_LostLightHelmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 63 Recon Helmet</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Vault 63 Recon Helmet</Dest>
+    </String>
+    <String List="0" sID="810085C4">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_RobotBossLegDisplay</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Goliath Leg Display</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Goliath Leg Display</Dest>
+    </String>
+    <String List="0" sID="81008713">
+      <EDID>Storm_Recipe_Workshop_Chair_BossArmChair01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Goliath Braincase Throne</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Goliath Braincase Throne</Dest>
+    </String>
+    <String List="0" sID="81008ADD">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_RobotBossCockpit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Goliath Braincase Display</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Goliath Braincase Display</Dest>
+    </String>
+    <String List="0" sID="81008ADE">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_RobotBossArmDisplay</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Goliath Claw Display</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Goliath Claw Display</Dest>
+    </String>
+    <String List="0" sID="81008ADF">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_MiniBossFigure</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Storm Goliath Figure</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Storm Goliath Figure</Dest>
+    </String>
+    <String List="0" sID="81008DE4">
+      <EDID>Storm_Recipe_Workshop_WallDecor_V63ZweihaenderBlueprint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Zweihaender Blueprint</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: V63 Zweihaender Blueprint</Dest>
+    </String>
+    <String List="0" sID="81008DE5">
+      <EDID>Storm_Recipe_Workshop_WallDecor_SecurityBatonBlueprint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Shock Baton Blueprint</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: V63 Shock Baton Blueprint</Dest>
+    </String>
+    <String List="0" sID="81008DE6">
+      <EDID>Storm_Recipe_Workshop_WallDecor_WeatherMachineBlueprint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Weather Machine Blueprint</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: V63 Weather Machine Blueprint</Dest>
+    </String>
+    <String List="0" sID="8100C1E3">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_ShenandoahMapTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Shenandoah Map Table</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Shenandoah Map Table</Dest>
+    </String>
+    <String List="0" sID="8100C1E4">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_TaxidermyRadTurkey</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Taxidermy Thrasher</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Taxidermy Thrasher</Dest>
+    </String>
+    <String List="0" sID="8100C1E5">
+      <EDID>Storm_Recipe_Workshop_WallDecor_TaxidermyRadTurkeyHead</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mounted Thrasher</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Mounted Thrasher</Dest>
+    </String>
+    <String List="0" sID="8100C9A9">
+      <EDID>Storm_Recipe_Workshop_WallDecor_Poster_MoeMole02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Moe the Mole Trash Poster</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Moe the Mole Trash Poster</Dest>
+    </String>
+    <String List="0" sID="8100C9AA">
+      <EDID>Storm_Recipe_Workshop_WallDecor_Poster_MoeMole01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Moe the Mole Bear Poster</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Moe the Mole Bear Poster</Dest>
+    </String>
+    <String List="0" sID="8100C9AC">
+      <EDID>Storm_Recipe_Workshop_WallDecor_Poster_MoeMole03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Moe the Mole Fire Poster</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Moe the Mole Fire Poster</Dest>
+    </String>
+    <String List="0" sID="8100C9AF">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_ShenandoahSign03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Shenandoah Road Sign</Source>
+      <Dest>NEUROLOGICAL WARFARE|Plan: Shenandoah Road Sign</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

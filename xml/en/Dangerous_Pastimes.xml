@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="81009259">
+      <EDID>Storm_Recipe_Workshop_LostInATube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Lost Tube</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Lost Tube</Dest>
+    </String>
+    <String List="0" sID="8100969E">
+      <EDID>Storm_Clothes_Recipe_BurntLabCoat01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Burnt Vault Lab Coat</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Burnt Vault Lab Coat</Dest>
+    </String>
+    <String List="0" sID="8100969F">
+      <EDID>Storm_Clothes_Recipe_BurntLabCoat02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Burnt Vault Chemist Coat</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Burnt Vault Chemist Coat</Dest>
+    </String>
+    <String List="0" sID="8100B967">
+      <EDID>Storm_Clothes_Workshop_Recipe_ShenandoahTShirtSlacks</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Shenandoah T-Shirt and Jeans</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Shenandoah T-Shirt and Jeans</Dest>
+    </String>
+    <String List="0" sID="8100C59B">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_MoetheMole_CutOut</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Moe the Mole Safety Cutout</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Moe the Mole Safety Cutout</Dest>
+    </String>
+    <String List="0" sID="8100C59C">
+      <EDID>Storm_Clothes_Recipe_LostLightArmour_Burnt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 63 Recon Outfit Burnt</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Vault 63 Recon Outfit Burnt</Dest>
+    </String>
+    <String List="0" sID="8100C59D">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_WildLifeSign03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wildlife Turkey Trail Sign</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Wildlife Turkey Trail Sign</Dest>
+    </String>
+    <String List="0" sID="8100C59E">
+      <EDID>Storm_Clothes_Recipe_LostMediumHelmet_Burnt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 63 Security Helmet Burnt</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Vault 63 Security Helmet Burnt</Dest>
+    </String>
+    <String List="0" sID="8100C59F">
+      <EDID>Storm_Clothes_Recipe_LostMediumArmour_Burnt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 63 Security Outfit Burnt</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Vault 63 Security Outfit Burnt</Dest>
+    </String>
+    <String List="0" sID="8100C5A0">
+      <EDID>Storm_Clothes_Recipe_LostHeavyArmour_Burnt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 63 Riot Control Outfit Burnt</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Vault 63 Riot Control Outfit Burnt</Dest>
+    </String>
+    <String List="0" sID="8100C5A1">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_LightningHarvester</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Lightning Harvester</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Lightning Harvester</Dest>
+    </String>
+    <String List="0" sID="8100C5A2">
+      <EDID>Storm_Recipe_Workshop_WallDecor_Poster_Turkey</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Shenandoah Turkey Poster</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Shenandoah Turkey Poster</Dest>
+    </String>
+    <String List="0" sID="8100C5A5">
+      <EDID>Storm_Clothes_Recipe_LostHeavyHelmet_Burnt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 63 Riot Control Helmet Burnt</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Vault 63 Riot Control Helmet Burnt</Dest>
+    </String>
+    <String List="0" sID="8100C5A7">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_WildLifeSign04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wildlife Wolf Trail Sign</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Wildlife Wolf Trail Sign</Dest>
+    </String>
+    <String List="0" sID="8100C5A9">
+      <EDID>Storm_Clothes_Recipe_LostLightHelmet_Burnt</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 63 Recon Helmet Burnt</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Vault 63 Recon Helmet Burnt</Dest>
+    </String>
+    <String List="0" sID="8100C5AA">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_WildLifeSign01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wildlife Deer Trail Sign</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Wildlife Deer Trail Sign</Dest>
+    </String>
+    <String List="0" sID="8100C5AB">
+      <EDID>Storm_Recipe_Workshop_FloorDecor_WildLifeSign08</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wildlife Bear Trail Sign</Source>
+      <Dest>DANGEROUS PASTIMES|Plan: Wildlife Bear Trail Sign</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
