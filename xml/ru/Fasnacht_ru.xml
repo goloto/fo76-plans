@@ -11,415 +11,469 @@
       <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Megasloth</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: чучело сверхленивца</Source>
-      <Dest>ФАСНАХТ|Схема: чучело сверхленивца</Dest>
+      <Dest>ФАСТНАХТ|Схема: чучело сверхленивца</Dest>
     </String>
     <String List="0" sID="04A4D4">
       <EDID>Recipe_Cooking_Sausage_Fasnacht</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Рецепт: карнавальная колбаска</Source>
-      <Dest>ФАСНАХТ|Рецепт: карнавальная колбаска</Dest>
+      <Dest>ФАСТНАХТ|Рецепт: карнавальная колбаска</Dest>
     </String>
     <String List="0" sID="04A4D5">
       <EDID>Recipe_Cooking_Donut_Fasnacht</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Рецепт: карнавальный пончик</Source>
-      <Dest>ФАСНАХТ|Рецепт: карнавальный пончик</Dest>
+      <Dest>ФАСТНАХТ|Рецепт: карнавальный пончик</Dest>
     </String>
     <String List="0" sID="04B0CF">
       <EDID>Headwear_Fasnacht_Mask_OldManWinter</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска старика Мороза для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска старика Мороза для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска старика Мороза для Фастнахта</Dest>
     </String>
     <String List="0" sID="04B7F6">
       <EDID>Recipe_Workshop_FloorDecor_Statues_Fasnacht_OldManWinter</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: чучело старика Мороза</Source>
-      <Dest>ФАСНАХТ|Схема: чучело старика Мороза</Dest>
+      <Dest>ФАСТНАХТ|Схема: чучело старика Мороза</Dest>
     </String>
     <String List="0" sID="4100095C">
       <EDID>ATX_Headwear_Fasnacht_Mask_Deathclaw</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска когтя смерти для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска когтя смерти для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска когтя смерти для Фастнахта</Dest>
     </String>
     <String List="0" sID="41000960">
       <EDID>Headwear_Fasnacht_Mask_Raven</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска ворона для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска ворона для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска ворона для Фастнахта</Dest>
     </String>
     <String List="0" sID="41004290">
       <EDID>Headwear_Fasnacht_Mask_Loon</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Карнавальная маска чудика</Source>
-      <Dest>ФАСНАХТ 2024+|Карнавальная маска чудика</Dest>
+      <Dest>ФАСТНАХТ 2024+|Карнавальная маска чудика</Dest>
     </String>
     <String List="0" sID="41004291">
       <EDID>Headwear_Fasnacht_Mask_Hag</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Карнавальная маска ведьмы</Source>
-      <Dest>ФАСНАХТ 2024+|Карнавальная маска ведьмы</Dest>
+      <Dest>ФАСТНАХТ 2024+|Карнавальная маска ведьмы</Dest>
     </String>
     <String List="0" sID="41004292">
       <EDID>Headwear_Fasnacht_Mask_Fiend</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Карнавальная маска дьявола</Source>
-      <Dest>ФАСНАХТ 2024+|Карнавальная маска дьявола</Dest>
-    </String>
-    <String List="0" sID="410094A8">
-      <EDID>Recipe_Workshop_FloorDecor_HerdsmansBell</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: пастуший колокольчик</Source>
-      <Dest>ФАСНАХТ 2024|Схема: пастуший колокольчик</Dest>
+      <Dest>ФАСТНАХТ 2024+|Карнавальная маска дьявола</Dest>
     </String>
     <String List="0" sID="41009570">
       <EDID>Recipe_Workshop_FloorDecor_Fasnacht_BeerStein_ScorchbeastQueen</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: пивная кружка &quot;Матка зверожогов&quot;</Source>
-      <Dest>ФАСНАХТ 2024|Схема: пивная кружка &quot;Матка зверожогов&quot;</Dest>
+      <Dest>ФАСТНАХТ 2024|Схема: пивная кружка &quot;Матка зверожогов&quot;</Dest>
     </String>
     <String List="0" sID="4100A890">
       <EDID>Armor_PowerArmor_Fasnacht_FatherWinter_Helmet</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Шлем &quot;Санта-Клаус&quot;</Source>
-      <Dest>ФАСНАХТ+|Шлем &quot;Санта-Клаус&quot;</Dest>
+      <Dest>ФАСТНАХТ+|Шлем &quot;Санта-Клаус&quot;</Dest>
+    </String>
+    <String List="0" sID="4100B54A">
+      <EDID>Headwear_Fasnacht_Mask_Turkey_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска индюка для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска индюка для Фастнахта</Dest>
     </String>
     <String List="0" sID="59001FB5">
       <EDID>zzzATX_ENTM_Apparel_Headwear_Mask_FasnachtBlueDevil</EDID>
       <REC>ENTM:FULL</REC>
       <Source>Маска синего дьявола для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска синего дьявола для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска синего дьявола для Фастнахта</Dest>
     </String>
     <String List="0" sID="59001FB7">
       <EDID>zzzATX_ENTM_Apparel_Headwear_Mask_FasnachtBlueDevil</EDID>
       <REC>ENTM:NNAM</REC>
       <Source>Маска синего дьявола для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска синего дьявола для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска синего дьявола для Фастнахта</Dest>
     </String>
     <String List="0" sID="61009D1C">
       <EDID>Headwear_Fasnacht_Mask_CrazyGuy</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска безумца для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска безумца для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска безумца для Фастнахта</Dest>
     </String>
     <String List="0" sID="6100BBED">
       <EDID>Headwear_Fasnacht_Mask_Demon</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска демона для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска демона для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска демона для Фастнахта</Dest>
     </String>
     <String List="0" sID="6100BBEE">
       <EDID>Headwear_Fasnacht_Mask_Brahmin</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска брамина для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска брамина для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска брамина для Фастнахта</Dest>
     </String>
     <String List="0" sID="6100BBF1">
       <EDID>Headwear_Fasnacht_Mask_Jester</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска клоуна для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска клоуна для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска клоуна для Фастнахта</Dest>
     </String>
     <String List="0" sID="6101AA7C">
       <EDID>Headwear_Fasnacht_Mask_ScorchBeastQueen</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска матки зверожогов для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска матки зверожогов для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска матки зверожогов для Фастнахта</Dest>
     </String>
     <String List="0" sID="6101AA7D">
       <EDID>Headwear_Fasnacht_Mask_BlueDevil</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска синего дьявола для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска синего дьявола для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска синего дьявола для Фастнахта</Dest>
     </String>
     <String List="0" sID="6101AA7E">
       <EDID>Headwear_Fasnacht_Mask_ScorchBeast</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска зверожога для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска зверожога для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска зверожога для Фастнахта</Dest>
     </String>
     <String List="0" sID="6101AA7F">
       <EDID>Headwear_Fasnacht_Mask_HoneyBee</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска пчелы для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска пчелы для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска пчелы для Фастнахта</Dest>
     </String>
     <String List="0" sID="6101AA80">
       <EDID>zzz_ATX_ENTM_Apparel_Headwear_Fasnacht_BlueDevil</EDID>
       <REC>ENTM:FULL</REC>
       <Source>Маска синего дьявола для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска синего дьявола для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска синего дьявола для Фастнахта</Dest>
     </String>
     <String List="0" sID="6101B0D7">
       <EDID>Headwear_Fasnacht_Mask_ScorchBeastQueen_Glow</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Светящаяся маска матки зверожогов для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024+|Светящаяся маска матки зверожогов для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска матки зверожогов для Фастнахта</Dest>
     </String>
     <String List="0" sID="6101B0D9">
       <EDID>Headwear_Fasnacht_Mask_BlueDevil_Glow</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Светящаяся маска синего дьявола для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024+|Светящаяся маска синего дьявола для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска синего дьявола для Фастнахта</Dest>
     </String>
     <String List="0" sID="6101B0DA">
       <EDID>Headwear_Fasnacht_Mask_HoneyBee_Glow</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Светящаяся маска пчелы для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024+|Светящаяся маска пчелы для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска пчелы для Фастнахта</Dest>
     </String>
     <String List="0" sID="6101C095">
       <EDID>zzzATX_ARMO_Headwear_Mask_FasnachtBlueDevil</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска синего дьявола для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска синего дьявола для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска синего дьявола для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="6101E0ED">
+      <EDID>Recipe_Workshop_FloorDecor_HerdsmansBell_Fasnacht</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пастуший колокольчик (Фастнахт)</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: пастуший колокольчик (Фастнахт)</Dest>
+    </String>
+    <String List="0" sID="6101E0EE">
+      <EDID>Recipe_Workshop_FloorDecor_HerdsmansBell_Lincoln</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пастуший колокольчик (Линкольн)</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: пастуший колокольчик (Линкольн)</Dest>
+    </String>
+    <String List="0" sID="6101E59E">
+      <EDID>Headwear_Fasnacht_Mask_Alien_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска пришельца для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска пришельца для Фастнахта</Dest>
     </String>
     <String List="0" sID="7100007A">
       <EDID>Headwear_Fasnacht_Mask_Deathclaw</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска когтя смерти для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска когтя смерти для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска когтя смерти для Фастнахта</Dest>
     </String>
     <String List="0" sID="710000A5">
       <EDID>Recipe_Workshop_FloorDecor_Rugs_Fasnacht_ConfettiPile_02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: кучка конфетти 02</Source>
-      <Dest>ФАСНАХТ|Схема: кучка конфетти 02</Dest>
+      <Dest>ФАСТНАХТ|Схема: кучка конфетти 02</Dest>
     </String>
     <String List="0" sID="710000A6">
       <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_MountedRibbons_01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: закрепленные карнавальные ленты 01</Source>
-      <Dest>ФАСНАХТ|Схема: закрепленные карнавальные ленты 01</Dest>
+      <Dest>ФАСТНАХТ|Схема: закрепленные карнавальные ленты 01</Dest>
     </String>
     <String List="0" sID="710000A7">
       <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_RibbonsPole_01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: шест с карнавальными лентами 01</Source>
-      <Dest>ФАСНАХТ|Схема: шест с карнавальными лентами 01</Dest>
+      <Dest>ФАСТНАХТ|Схема: шест с карнавальными лентами 01</Dest>
     </String>
     <String List="0" sID="710000A8">
       <EDID>Recipe_Workshop_CeilingDecor_Misc_Fasnacht_Snowflakes_02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: подвешенные карнавальные снежинки 02</Source>
-      <Dest>ФАСНАХТ|Схема: подвешенные карнавальные снежинки 02</Dest>
+      <Dest>ФАСТНАХТ|Схема: подвешенные карнавальные снежинки 02</Dest>
     </String>
     <String List="0" sID="710000A9">
       <EDID>Recipe_Workshop_CeilingDecor_Misc_Fasnacht_HangingRibbons_01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: подвешенные карнавальные ленты 01</Source>
-      <Dest>ФАСНАХТ|Схема: подвешенные карнавальные ленты 01</Dest>
+      <Dest>ФАСТНАХТ|Схема: подвешенные карнавальные ленты 01</Dest>
     </String>
     <String List="0" sID="710000AA">
       <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_Streamers_01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: праздничные карнавальные гирлянды 01</Source>
-      <Dest>ФАСНАХТ|Схема: праздничные карнавальные гирлянды 01</Dest>
+      <Dest>ФАСТНАХТ|Схема: праздничные карнавальные гирлянды 01</Dest>
     </String>
     <String List="0" sID="710000AB">
       <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_BranchGarland_02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: карнавальный венок из веток 02</Source>
-      <Dest>ФАСНАХТ|Схема: карнавальный венок из веток 02</Dest>
+      <Dest>ФАСТНАХТ|Схема: карнавальный венок из веток 02</Dest>
     </String>
     <String List="0" sID="710000AC">
       <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_MountedRibbons_02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: закрепленные карнавальные ленты 02</Source>
-      <Dest>ФАСНАХТ|Схема: закрепленные карнавальные ленты 02</Dest>
+      <Dest>ФАСТНАХТ|Схема: закрепленные карнавальные ленты 02</Dest>
     </String>
     <String List="0" sID="710000AD">
       <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_Garland_02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: гельвецианский карнавальный венок 02</Source>
-      <Dest>ФАСНАХТ|Схема: гельвецианский карнавальный венок 02</Dest>
+      <Dest>ФАСТНАХТ|Схема: гельвецианский карнавальный венок 02</Dest>
     </String>
     <String List="0" sID="710000AE">
       <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_LanternPole_02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: карнавальный фонарь на шесте 02</Source>
-      <Dest>ФАСНАХТ|Схема: карнавальный фонарь на шесте 02</Dest>
+      <Dest>ФАСТНАХТ|Схема: карнавальный фонарь на шесте 02</Dest>
     </String>
     <String List="0" sID="710000AF">
       <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_FlagPole_02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: карнавальный флагшток 02</Source>
-      <Dest>ФАСНАХТ|Схема: карнавальный флагшток 02</Dest>
+      <Dest>ФАСТНАХТ|Схема: карнавальный флагшток 02</Dest>
     </String>
     <String List="0" sID="710000B0">
       <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_WallFlag_01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: установленный карнавальный флаг 01</Source>
-      <Dest>ФАСНАХТ|Схема: установленный карнавальный флаг 01</Dest>
+      <Dest>ФАСТНАХТ|Схема: установленный карнавальный флаг 01</Dest>
     </String>
     <String List="0" sID="710000B1">
       <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_RibbonsPole_02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: шест с карнавальными лентами 02</Source>
-      <Dest>ФАСНАХТ|Схема: шест с карнавальными лентами 02</Dest>
+      <Dest>ФАСТНАХТ|Схема: шест с карнавальными лентами 02</Dest>
     </String>
     <String List="0" sID="710000B2">
       <EDID>Recipe_Workshop_FloorDecor_Rugs_Fasnacht_ConfettiPile_01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: кучка конфетти 01</Source>
-      <Dest>ФАСНАХТ|Схема: кучка конфетти 01</Dest>
+      <Dest>ФАСТНАХТ|Схема: кучка конфетти 01</Dest>
     </String>
     <String List="0" sID="710000B3">
       <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_Garland_01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: гельвецианский карнавальный венок 01</Source>
-      <Dest>ФАСНАХТ|Схема: гельвецианский карнавальный венок 01</Dest>
+      <Dest>ФАСТНАХТ|Схема: гельвецианский карнавальный венок 01</Dest>
     </String>
     <String List="0" sID="710000B4">
       <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_Balloons_02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: карнавальные воздушные шарики 02</Source>
-      <Dest>ФАСНАХТ|Схема: карнавальные воздушные шарики 02</Dest>
+      <Dest>ФАСТНАХТ|Схема: карнавальные воздушные шарики 02</Dest>
     </String>
     <String List="0" sID="710000B5">
       <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_BranchGarland_01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: карнавальный венок из веток 01</Source>
-      <Dest>ФАСНАХТ|Схема: карнавальный венок из веток 01</Dest>
+      <Dest>ФАСТНАХТ|Схема: карнавальный венок из веток 01</Dest>
     </String>
     <String List="0" sID="710000B6">
       <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_Balloons_01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: карнавальные воздушные шарики 01</Source>
-      <Dest>ФАСНАХТ|Схема: карнавальные воздушные шарики 01</Dest>
+      <Dest>ФАСТНАХТ|Схема: карнавальные воздушные шарики 01</Dest>
     </String>
     <String List="0" sID="710000B7">
       <EDID>Recipe_Workshop_CeilingDecor_Misc_Fasnacht_Snowflakes_01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: подвешенные карнавальные снежинки 01</Source>
-      <Dest>ФАСНАХТ|Схема: подвешенные карнавальные снежинки 01</Dest>
+      <Dest>ФАСТНАХТ|Схема: подвешенные карнавальные снежинки 01</Dest>
     </String>
     <String List="0" sID="710000B8">
       <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_WallFlag_02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: установленный карнавальный флаг 02</Source>
-      <Dest>ФАСНАХТ|Схема: установленный карнавальный флаг 02</Dest>
+      <Dest>ФАСТНАХТ|Схема: установленный карнавальный флаг 02</Dest>
     </String>
     <String List="0" sID="710000B9">
       <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_FlagPole_01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: карнавальный флагшток 01</Source>
-      <Dest>ФАСНАХТ|Схема: карнавальный флагшток 01</Dest>
+      <Dest>ФАСТНАХТ|Схема: карнавальный флагшток 01</Dest>
     </String>
     <String List="0" sID="710000BA">
       <EDID>Recipe_Workshop_FloorDecor_Misc_Fasnacht_LanternPole_01</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: карнавальный фонарь на шесте 01</Source>
-      <Dest>ФАСНАХТ|Схема: карнавальный фонарь на шесте 01</Dest>
+      <Dest>ФАСТНАХТ|Схема: карнавальный фонарь на шесте 01</Dest>
     </String>
     <String List="0" sID="710000BB">
       <EDID>Recipe_Workshop_WallDecor_Misc_Fasnacht_Streamers_02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: праздничные карнавальные гирлянды 02</Source>
-      <Dest>ФАСНАХТ|Схема: праздничные карнавальные гирлянды 02</Dest>
+      <Dest>ФАСТНАХТ|Схема: праздничные карнавальные гирлянды 02</Dest>
     </String>
     <String List="0" sID="710000BC">
       <EDID>Recipe_Workshop_CeilingDecor_Misc_Fasnacht_HangingRibbons_02</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: подвешенные карнавальные ленты 02</Source>
-      <Dest>ФАСНАХТ|Схема: подвешенные карнавальные ленты 02</Dest>
+      <Dest>ФАСТНАХТ|Схема: подвешенные карнавальные ленты 02</Dest>
     </String>
     <String List="0" sID="710000CD">
       <EDID>Recipe_Workshop_FloorDecor_Rugs_MegaSloth</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: коврик из шкуры сверхленивца</Source>
-      <Dest>ФАСНАХТ|Схема: коврик из шкуры сверхленивца</Dest>
+      <Dest>ФАСТНАХТ|Схема: коврик из шкуры сверхленивца</Dest>
     </String>
     <String List="0" sID="7100215C">
       <EDID>Headwear_Fasnacht_Mask_Loon_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Карнавальная маска чудика</Source>
-      <Dest>ФАСНАХТ 2024+|Карнавальная маска чудика</Dest>
+      <Dest>ФАСТНАХТ 2024+|Карнавальная маска чудика</Dest>
     </String>
     <String List="0" sID="71002161">
       <EDID>Headwear_Fasnacht_Mask_Jester_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска клоуна для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска клоуна для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска клоуна для Фастнахта</Dest>
     </String>
     <String List="0" sID="71002166">
       <EDID>Headwear_Fasnacht_Mask_Demon_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска демона для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска демона для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска демона для Фастнахта</Dest>
     </String>
     <String List="0" sID="71002172">
       <EDID>Headwear_Fasnacht_Mask_OldManWinter_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска старика Мороза для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска старика Мороза для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска старика Мороза для Фастнахта</Dest>
     </String>
     <String List="0" sID="71002178">
       <EDID>Headwear_Fasnacht_Mask_Hag_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Карнавальная маска ведьмы</Source>
-      <Dest>ФАСНАХТ 2024+|Карнавальная маска ведьмы</Dest>
+      <Dest>ФАСТНАХТ 2024+|Карнавальная маска ведьмы</Dest>
     </String>
     <String List="0" sID="71002180">
       <EDID>Headwear_Fasnacht_Mask_Raven_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска ворона для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска ворона для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска ворона для Фастнахта</Dest>
     </String>
     <String List="0" sID="71002184">
       <EDID>Headwear_Fasnacht_Mask_CrazyGuy_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска безумца для Фастнахта</Source>
-      <Dest>ФАСНАХТ+|Маска безумца для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ+|Маска безумца для Фастнахта</Dest>
     </String>
     <String List="0" sID="710021AB">
       <EDID>Headwear_Fasnacht_Mask_Fiend_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Карнавальная маска дьявола</Source>
-      <Dest>ФАСНАХТ 2024+|Карнавальная маска дьявола</Dest>
+      <Dest>ФАСТНАХТ 2024+|Карнавальная маска дьявола</Dest>
     </String>
     <String List="0" sID="71006C94">
       <EDID>ATX_Headwear_Fasnacht_Mask_ScorchBeastQueen</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска матки зверожогов для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска матки зверожогов для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска матки зверожогов для Фастнахта</Dest>
     </String>
     <String List="0" sID="71006C95">
       <EDID>ATX_Headwear_Fasnacht_Mask_ScorchBeast</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска зверожога для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска зверожога для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска зверожога для Фастнахта</Dest>
     </String>
     <String List="0" sID="71006C97">
       <EDID>ATX_Headwear_Fasnacht_Mask_HoneyBee</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска пчелы для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска пчелы для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска пчелы для Фастнахта</Dest>
     </String>
     <String List="0" sID="71006CA5">
       <EDID>ATX_ENTM_Apparel_Headwear_Fasnacht_ScorchBeast</EDID>
       <REC>ENTM:FULL</REC>
       <Source>Маска зверожога для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска зверожога для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска зверожога для Фастнахта</Dest>
     </String>
     <String List="0" sID="71006CA8">
       <EDID>ATX_ENTM_Apparel_Headwear_Fasnacht_HoneyBee</EDID>
       <REC>ENTM:FULL</REC>
       <Source>Маска пчелы для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Маска пчелы для Фастнахта</Dest>
+      <Dest>ФАСТНАХТ 2024|Маска пчелы для Фастнахта</Dest>
     </String>
-    <String List="0" sID="71006CC0">
-      <EDID>zzzz_Recipe_Workshop_FloorDecor_HerdsmansBell</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: пастуший колокольчик</Source>
-      <Dest>ФАСНАХТ 2024|Схема: пастуший колокольчик</Dest>
+    <String List="0" sID="8100B25A">
+      <EDID>Headwear_Fasnacht_Mask_Pig_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска свиньи для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска свиньи для Фастнахта</Dest>
     </String>
-    <String List="0" sID="79000CFC">
-      <EDID>Recipe_Workshop_DisplayCase_HerdsmansBellRack</EDID>
+    <String List="0" sID="8100BDA7">
+      <EDID>Headwear_Fasnacht_Mask_Robot_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска робота для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска робота для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="8100BDA9">
+      <EDID>Headwear_Fasnacht_Mask_Unicorn_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска единорога для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска единорога для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="8100BDB3">
+      <EDID>Headwear_Fasnacht_Mask_Minotaur_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска минотавра для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска минотавра для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="8100BDCE">
+      <EDID>Recipe_Workshop_Lights_Fasnacht_BeeswaxCandle</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: подвеска для пастушьих колокольчиков</Source>
-      <Dest>ФАСНАХТ 2024|Схема: подвеска для пастушьих колокольчиков</Dest>
+      <Source>Схема: восковая свеча</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: восковая свеча</Dest>
+    </String>
+    <String List="0" sID="8100BE26">
+      <EDID>Recipe_Workshop_FloorDecor_Fasnacht_Helvetian_FlowerDisplay</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: витрина &quot;Цветок из Гельвеции&quot;</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: витрина &quot;Цветок из Гельвеции&quot;</Dest>
+    </String>
+    <String List="0" sID="8100BEC4">
+      <EDID>Recipe_Workshop_CAMP_Utility_Fasnacht_MotorizedButterChurn</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: электрическая маслобойка</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: электрическая маслобойка</Dest>
+    </String>
+    <String List="0" sID="8100C4A4">
+      <EDID>Recipe_Workshop_FloorDecor_Fasnacht_BeerStein_VeggieMan</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пивная кружка &quot;Овощной человек&quot; для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: пивная кружка &quot;Овощной человек&quot; для Фастнахта</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

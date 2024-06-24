@@ -67,12 +67,6 @@
       <Source>Fasnacht Fiend Mask</Source>
       <Dest>FASNACHT 2024+|Fasnacht Fiend Mask</Dest>
     </String>
-    <String List="0" sID="410094A8">
-      <EDID>Recipe_Workshop_FloorDecor_HerdsmansBell</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Herdsman&apos;s Bell</Source>
-      <Dest>FASNACHT 2024|Plan: Herdsman&apos;s Bell</Dest>
-    </String>
     <String List="0" sID="41009570">
       <EDID>Recipe_Workshop_FloorDecor_Fasnacht_BeerStein_ScorchbeastQueen</EDID>
       <REC>BOOK:FULL</REC>
@@ -84,6 +78,12 @@
       <REC>ARMO:FULL</REC>
       <Source>Father Winter Helmet</Source>
       <Dest>FASNACHT+|Father Winter Helmet</Dest>
+    </String>
+    <String List="0" sID="4100B54A">
+      <EDID>Headwear_Fasnacht_Mask_Turkey_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Turkey Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Glowing Turkey Mask</Dest>
     </String>
     <String List="0" sID="59001FB5">
       <EDID>zzzATX_ENTM_Apparel_Headwear_Mask_FasnachtBlueDevil</EDID>
@@ -174,6 +174,24 @@
       <REC>ARMO:FULL</REC>
       <Source>Fasnacht Blue Devil Mask</Source>
       <Dest>FASNACHT 2024|Fasnacht Blue Devil Mask</Dest>
+    </String>
+    <String List="0" sID="6101E0ED">
+      <EDID>Recipe_Workshop_FloorDecor_HerdsmansBell_Fasnacht</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Herdsman&apos;s Bell - Fasnacht</Source>
+      <Dest>FASNACHT 2024|Plan: Herdsman&apos;s Bell - Fasnacht</Dest>
+    </String>
+    <String List="0" sID="6101E0EE">
+      <EDID>Recipe_Workshop_FloorDecor_HerdsmansBell_Lincoln</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Herdsman&apos;s Bell - Lincoln</Source>
+      <Dest>FASNACHT 2024|Plan: Herdsman&apos;s Bell - Lincoln</Dest>
+    </String>
+    <String List="0" sID="6101E59E">
+      <EDID>Headwear_Fasnacht_Mask_Alien_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Alien Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Glowing Alien Mask</Dest>
     </String>
     <String List="0" sID="7100007A">
       <EDID>Headwear_Fasnacht_Mask_Deathclaw</EDID>
@@ -409,17 +427,53 @@
       <Source>Fasnacht Honey Bee Mask</Source>
       <Dest>FASNACHT 2024|Fasnacht Honey Bee Mask</Dest>
     </String>
-    <String List="0" sID="71006CC0">
-      <EDID>zzzz_Recipe_Workshop_FloorDecor_HerdsmansBell</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Herdsman&apos;s Bell</Source>
-      <Dest>FASNACHT 2024|Plan: Herdsman&apos;s Bell</Dest>
+    <String List="0" sID="8100B25A">
+      <EDID>Headwear_Fasnacht_Mask_Pig_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Pig Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Glowing Pig Mask</Dest>
     </String>
-    <String List="0" sID="79000CFC">
-      <EDID>Recipe_Workshop_DisplayCase_HerdsmansBellRack</EDID>
+    <String List="0" sID="8100BDA7">
+      <EDID>Headwear_Fasnacht_Mask_Robot_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Robot Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Glowing Robot Mask</Dest>
+    </String>
+    <String List="0" sID="8100BDA9">
+      <EDID>Headwear_Fasnacht_Mask_Unicorn_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Unicorn Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Glowing Unicorn Mask</Dest>
+    </String>
+    <String List="0" sID="8100BDB3">
+      <EDID>Headwear_Fasnacht_Mask_Minotaur_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Minotaur Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Glowing Minotaur Mask</Dest>
+    </String>
+    <String List="0" sID="8100BDCE">
+      <EDID>Recipe_Workshop_Lights_Fasnacht_BeeswaxCandle</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Plan: Herdsman&apos;s Bell Display Rack</Source>
-      <Dest>FASNACHT 2024|Plan: Herdsman&apos;s Bell Display Rack</Dest>
+      <Source>Plan: Beeswax Candle</Source>
+      <Dest>FASNACHT 2024|Plan: Beeswax Candle</Dest>
+    </String>
+    <String List="0" sID="8100BE26">
+      <EDID>Recipe_Workshop_FloorDecor_Fasnacht_Helvetian_FlowerDisplay</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Helvetian Flower Display</Source>
+      <Dest>FASNACHT 2024|Plan: Helvetian Flower Display</Dest>
+    </String>
+    <String List="0" sID="8100BEC4">
+      <EDID>Recipe_Workshop_CAMP_Utility_Fasnacht_MotorizedButterChurn</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Motorized Butter Churn</Source>
+      <Dest>FASNACHT 2024|Plan: Motorized Butter Churn</Dest>
+    </String>
+    <String List="0" sID="8100C4A4">
+      <EDID>Recipe_Workshop_FloorDecor_Fasnacht_BeerStein_VeggieMan</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Fasnacht Veggie Man Beer Stein</Source>
+      <Dest>FASNACHT 2024|Plan: Fasnacht Veggie Man Beer Stein</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
