@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="8100C306">
+      <EDID>Recipe_Outfit_JitterbugJudy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм &quot;Неугомонная Джуди&quot;</Source>
+      <Dest>ПОДАРКИ 2024|Схема: костюм &quot;Неугомонная Джуди&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C30F">
+      <EDID>Recipe_Workshop_Lights_PlastiformVaultBoyElf</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пластиковый волт-бой &quot;Эльф&quot;</Source>
+      <Dest>ПОДАРКИ 2024|Схема: пластиковый волт-бой &quot;Эльф&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C318">
+      <EDID>Recipe_Workshop_Lights_PlastiformSnowman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пластиковый снеговик</Source>
+      <Dest>ПОДАРКИ 2024|Схема: пластиковый снеговик</Dest>
+    </String>
+    <String List="0" sID="8100C327">
+      <EDID>Recipe_PeppermintFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака &quot;Перечная мята&quot;</Source>
+      <Dest>ПОДАРКИ 2024|Схема: брелок для рюкзака &quot;Перечная мята&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C333">
+      <EDID>Recipe_SnowmanHeadFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака &quot;Голова снеговика&quot;</Source>
+      <Dest>ПОДАРКИ 2024|Схема: брелок для рюкзака &quot;Голова снеговика&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C33A">
+      <EDID>Recipe_Backpack_Standard_Material_AtomicSetLtdHandbag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сумка-рюкзак &quot;Атомный мир лимитед&quot;</Source>
+      <Dest>ПОДАРКИ 2024|Схема: сумка-рюкзак &quot;Атомный мир лимитед&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C49C">
+      <EDID>Recipe_Workshop_FloorDecor_GiantBrontosaurus_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гигантский красный бронтозавр</Source>
+      <Dest>ПОДАРКИ 2024|Схема: гигантский красный бронтозавр</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

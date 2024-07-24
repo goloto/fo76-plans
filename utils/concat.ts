@@ -1,5 +1,5 @@
 import { readdir } from "node:fs/promises";
-import {JSDOM} from 'jsdom';
+import { JSDOM } from 'jsdom';
 
 const EN_FILES = await readdir('./xml/en');
 const RU_FILES = await readdir('./xml/ru');

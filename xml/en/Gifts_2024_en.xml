@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="8100C306">
+      <EDID>Recipe_Outfit_JitterbugJudy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Jitterbug Judy Outfit</Source>
+      <Dest>GIFTS 2024|Plan: Jitterbug Judy Outfit</Dest>
+    </String>
+    <String List="0" sID="8100C30F">
+      <EDID>Recipe_Workshop_Lights_PlastiformVaultBoyElf</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Plastiform Vaultboy Elf</Source>
+      <Dest>GIFTS 2024|Plan: Plastiform Vaultboy Elf</Dest>
+    </String>
+    <String List="0" sID="8100C318">
+      <EDID>Recipe_Workshop_Lights_PlastiformSnowman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Plastiform Snowman</Source>
+      <Dest>GIFTS 2024|Plan: Plastiform Snowman</Dest>
+    </String>
+    <String List="0" sID="8100C327">
+      <EDID>Recipe_PeppermintFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Peppermint Backpack Flair</Source>
+      <Dest>GIFTS 2024|Plan: Peppermint Backpack Flair</Dest>
+    </String>
+    <String List="0" sID="8100C333">
+      <EDID>Recipe_SnowmanHeadFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Snowman Head Backpack Flair</Source>
+      <Dest>GIFTS 2024|Plan: Snowman Head Backpack Flair</Dest>
+    </String>
+    <String List="0" sID="8100C33A">
+      <EDID>Recipe_Backpack_Standard_Material_AtomicSetLtdHandbag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Atomicset Ltd. Handbag Backpack</Source>
+      <Dest>GIFTS 2024|Plan: Atomicset Ltd. Handbag Backpack</Dest>
+    </String>
+    <String List="0" sID="8100C49C">
+      <EDID>Recipe_Workshop_FloorDecor_GiantBrontosaurus_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Giant Red Brontosaurus</Source>
+      <Dest>GIFTS 2024|Plan: Giant Red Brontosaurus</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
