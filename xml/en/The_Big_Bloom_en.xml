@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="39296B91">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Seesprout</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Crown - Seesprout</Source>
+      <Dest>BIG BLOOM+|Plan: Flower Crown - Seesprout</Dest>
+    </String>
+    <String List="0" sID="39296B92">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_CarnalWeeper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Crown - Carnal Weeper</Source>
+      <Dest>BIG BLOOM|Plan: Flower Crown - Carnal Weeper</Dest>
+    </String>
+    <String List="0" sID="39296B93">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Radlily</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Crown - Radlily</Source>
+      <Dest>BIG BLOOM|Plan: Flower Crown - Radlily</Dest>
+    </String>
+    <String List="0" sID="39296B94">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Candykill</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Crown - Candykill</Source>
+      <Dest>BIG BLOOM++|Plan: Flower Crown - Candykill</Dest>
+    </String>
+    <String List="0" sID="39296B97">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Gigablossom</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Crown - Gigablossom</Source>
+      <Dest>BIG BLOOM++|Plan: Flower Crown - Gigablossom</Dest>
+    </String>
+    <String List="0" sID="39296B98">
+      <EDID>SSE_Recipe_Headwear_WastelandFloristSunhat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wasteland Florist Sunhat</Source>
+      <Dest>BIG BLOOM+|Plan: Wasteland Florist Sunhat</Dest>
+    </String>
+    <String List="0" sID="39296B9A">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Crystalcup</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Crown - Crystalcup</Source>
+      <Dest>BIG BLOOM|Plan: Flower Crown - Crystalcup</Dest>
+    </String>
+    <String List="0" sID="39296B9B">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Glorybell</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Crown - Glorybell</Source>
+      <Dest>BIG BLOOM+|Plan: Flower Crown - Glorybell</Dest>
+    </String>
+    <String List="0" sID="39296BF0">
+      <EDID>SSE_Recipe_Workshop_HoneyBeastTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honey Beast Tube</Source>
+      <Dest>BIG BLOOM++|Plan: Honey Beast Tube</Dest>
+    </String>
+    <String List="0" sID="39296BFC">
+      <EDID>SSE_Recipe_Tinkers_HybridFlowers_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Susan&apos;s Floral Secrets</Source>
+      <Dest>BIG BLOOM|Plan: Susan&apos;s Floral Secrets</Dest>
+    </String>
+    <String List="0" sID="39296D1D">
+      <EDID>SSE_Recipe_Workshop_Display_MediumGlazedPot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Medium Glazed Pot</Source>
+      <Dest>BIG BLOOM+|Plan: Medium Glazed Pot</Dest>
+    </String>
+    <String List="0" sID="39296D1E">
+      <EDID>SSE_Recipe_Workshop_Display_SmallGlazedPot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Small Glazed Pot</Source>
+      <Dest>BIG BLOOM+|Plan: Small Glazed Pot</Dest>
+    </String>
+    <String List="0" sID="39296D1F">
+      <EDID>SSE_Recipe_Clothes_FlowerPrintedSundress</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower-Printed Sundress</Source>
+      <Dest>BIG BLOOM++|Plan: Flower-Printed Sundress</Dest>
+    </String>
+    <String List="0" sID="39296D20">
+      <EDID>SSE_Recipe_Workshop_Display_HoneyBeastVase</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Honey Beast Flower Display</Source>
+      <Dest>BIG BLOOM++|Plan: Honey Beast Flower Display</Dest>
+    </String>
+    <String List="0" sID="39296D21">
+      <EDID>SSE_Recipe_Workshop_Display_LargeGlazedPot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Large Glazed Pot</Source>
+      <Dest>BIG BLOOM++|Plan: Large Glazed Pot</Dest>
+    </String>
+    <String List="0" sID="39296D22">
+      <EDID>SSE_Recipe_Clothes_PantSuit_FlowerSuit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Suit</Source>
+      <Dest>BIG BLOOM++|Plan: Flower Suit</Dest>
+    </String>
+    <String List="0" sID="39296D53">
+      <EDID>SSE_Recipe_Clothes_WastelandFloristApron</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wasteland Florist Apron</Source>
+      <Dest>BIG BLOOM+|Plan: Wasteland Florist Apron</Dest>
+    </String>
+    <String List="0" sID="39296E0F">
+      <EDID>SSE_Recipe_Workshop_PotRadlily</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pot o&apos; Radlily</Source>
+      <Dest>BIG BLOOM+|Plan: Pot o&apos; Radlily</Dest>
+    </String>
+    <String List="0" sID="39296E10">
+      <EDID>SSE_Recipe_Workshop_PotCrystalCup</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pot o&apos; Crystalcup</Source>
+      <Dest>BIG BLOOM+|Plan: Pot o&apos; Crystalcup</Dest>
+    </String>
+    <String List="0" sID="39296E11">
+      <EDID>SSE_Recipe_Workshop_PotCarnalWeeper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pot o&apos; Carnal Weeper</Source>
+      <Dest>BIG BLOOM+|Plan: Pot o&apos; Carnal Weeper</Dest>
+    </String>
+    <String List="0" sID="3929769F">
+      <EDID>SSE_Recipe_Cooking_SusanSoothin</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Black-Eyed Susan&apos;s Soothin&apos;</Source>
+      <Dest>BIG BLOOM++|Recipe: Black-Eyed Susan&apos;s Soothin&apos;</Dest>
+    </String>
+    <String List="0" sID="39297F56">
+      <EDID>SSE_Recipe_Cooking_GammaGreenTea</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Gamma Green Tea</Source>
+      <Dest>BIG BLOOM+|Recipe: Gamma Green Tea</Dest>
+    </String>
+    <String List="0" sID="39297F57">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_GreenInvader</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Crown - Green Invader</Source>
+      <Dest>BIG BLOOM+|Plan: Flower Crown - Green Invader</Dest>
+    </String>
+    <String List="0" sID="610239DE">
+      <EDID>SSE_Recipe_mod_CombatKnife_Material_Paint_GardenTrowel</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Garden Trowel Knife</Source>
+      <Dest>BIG BLOOM++|Plan: Garden Trowel Knife</Dest>
+    </String>
+    <String List="0" sID="61023CB6">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Embergold</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Crown - Embergold</Source>
+      <Dest>BIG BLOOM+|Plan: Flower Crown - Embergold</Dest>
+    </String>
+    <String List="0" sID="61023CB7">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Starlace</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Crown - Starlace</Source>
+      <Dest>BIG BLOOM|Plan: Flower Crown - Starlace</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
