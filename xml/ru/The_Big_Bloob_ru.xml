@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="39296B91">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Seesprout</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — ростоглаз</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: цветочный венок — ростоглаз</Dest>
+    </String>
+    <String List="0" sID="39296B92">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_CarnalWeeper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — алые слезки</Source>
+      <Dest>ЦВЕТЕНИЕ|Схема: цветочный венок — алые слезки</Dest>
+    </String>
+    <String List="0" sID="39296B93">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Radlily</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — радлилия</Source>
+      <Dest>ЦВЕТЕНИЕ|Схема: цветочный венок — радлилия</Dest>
+    </String>
+    <String List="0" sID="39296B94">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Candykill</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — сладосмерт</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: цветочный венок — сладосмерт</Dest>
+    </String>
+    <String List="0" sID="39296B97">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Gigablossom</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — гигацвет</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: цветочный венок — гигацвет</Dest>
+    </String>
+    <String List="0" sID="39296B98">
+      <EDID>SSE_Recipe_Headwear_WastelandFloristSunhat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: панама флориста из Пустоши</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: панама флориста из Пустоши</Dest>
+    </String>
+    <String List="0" sID="39296B9A">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Crystalcup</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — хрустальница</Source>
+      <Dest>ЦВЕТЕНИЕ|Схема: цветочный венок — хрустальница</Dest>
+    </String>
+    <String List="0" sID="39296B9B">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Glorybell</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — славокольчик</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: цветочный венок — славокольчик</Dest>
+    </String>
+    <String List="0" sID="39296BF0">
+      <EDID>SSE_Recipe_Workshop_HoneyBeastTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с медозверем</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: резервуар с медозверем</Dest>
+    </String>
+    <String List="0" sID="39296BFC">
+      <EDID>SSE_Recipe_Tinkers_HybridFlowers_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочные тайны Сьюзан</Source>
+      <Dest>ЦВЕТЕНИЕ|Схема: цветочные тайны Сьюзан</Dest>
+    </String>
+    <String List="0" sID="39296D1D">
+      <EDID>SSE_Recipe_Workshop_Display_MediumGlazedPot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: средний глазурованный горшок</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: средний глазурованный горшок</Dest>
+    </String>
+    <String List="0" sID="39296D1E">
+      <EDID>SSE_Recipe_Workshop_Display_SmallGlazedPot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маленький глазурованный горшок</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: маленький глазурованный горшок</Dest>
+    </String>
+    <String List="0" sID="39296D1F">
+      <EDID>SSE_Recipe_Clothes_FlowerPrintedSundress</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сарафан в цветочек</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: сарафан в цветочек</Dest>
+    </String>
+    <String List="0" sID="39296D20">
+      <EDID>SSE_Recipe_Workshop_Display_HoneyBeastVase</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочная витрина &quot;Медозверь&quot;</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: цветочная витрина &quot;Медозверь&quot;</Dest>
+    </String>
+    <String List="0" sID="39296D21">
+      <EDID>SSE_Recipe_Workshop_Display_LargeGlazedPot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: большой глазурованный горшок</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: большой глазурованный горшок</Dest>
+    </String>
+    <String List="0" sID="39296D22">
+      <EDID>SSE_Recipe_Clothes_PantSuit_FlowerSuit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный костюм</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: цветочный костюм</Dest>
+    </String>
+    <String List="0" sID="39296D53">
+      <EDID>SSE_Recipe_Clothes_WastelandFloristApron</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: передник флориста из Пустоши</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: передник флориста из Пустоши</Dest>
+    </String>
+    <String List="0" sID="39296E0F">
+      <EDID>SSE_Recipe_Workshop_PotRadlily</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: горшок с радлилией</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: горшок с радлилией</Dest>
+    </String>
+    <String List="0" sID="39296E10">
+      <EDID>SSE_Recipe_Workshop_PotCrystalCup</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: горшок с хрустальницей</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: горшок с хрустальницей</Dest>
+    </String>
+    <String List="0" sID="39296E11">
+      <EDID>SSE_Recipe_Workshop_PotCarnalWeeper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: горшок с алыми слезками</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: горшок с алыми слезками</Dest>
+    </String>
+    <String List="0" sID="3929769F">
+      <EDID>SSE_Recipe_Cooking_SusanSoothin</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: бальзам Черноглазой Сьюзан</Source>
+      <Dest>ЦВЕТЕНИЕ++|Рецепт: бальзам Черноглазой Сьюзан</Dest>
+    </String>
+    <String List="0" sID="39297F56">
+      <EDID>SSE_Recipe_Cooking_GammaGreenTea</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: зеленый гамма-чай</Source>
+      <Dest>ЦВЕТЕНИЕ+|Рецепт: зеленый гамма-чай</Dest>
+    </String>
+    <String List="0" sID="39297F57">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_GreenInvader</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — зеленый захватчик</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: цветочный венок — зеленый захватчик</Dest>
+    </String>
+    <String List="0" sID="610239DE">
+      <EDID>SSE_Recipe_mod_CombatKnife_Material_Paint_GardenTrowel</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: нож &quot;Садовая лопатка&quot;</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: нож &quot;Садовая лопатка&quot;</Dest>
+    </String>
+    <String List="0" sID="61023CB6">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Embergold</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — золотой янтарник</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: цветочный венок — золотой янтарник</Dest>
+    </String>
+    <String List="0" sID="61023CB7">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Starlace</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — звездная лента</Source>
+      <Dest>ЦВЕТЕНИЕ|Схема: цветочный венок — звездная лента</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
