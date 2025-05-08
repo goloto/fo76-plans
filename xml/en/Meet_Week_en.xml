@@ -43,12 +43,6 @@
       <Source>Plan: Wasteland Hunter Backpack</Source>
       <Dest>MEET WEEK 2024|Plan: Wasteland Hunter Backpack</Dest>
     </String>
-    <String List="0" sID="61002EBD">
-      <EDID>MeatTenderizer</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Tenderizer</Source>
-      <Dest>MEET WEEK|Tenderizer</Dest>
-    </String>
     <String List="0" sID="61003118">
       <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag3</EDID>
       <REC>BOOK:FULL</REC>

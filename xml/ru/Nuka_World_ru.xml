@@ -67,12 +67,6 @@
       <Source>Схема: статуя &quot;Шар для эквилибристики с Бутылкой и Мистером Крышкой&quot;</Source>
       <Dest>ЯДЕР-МИР|Схема: статуя &quot;Шар для эквилибристики с Бутылкой и Мистером Крышкой&quot;</Dest>
     </String>
-    <String List="0" sID="41006084">
-      <EDID>E09A_BaseballBat_RatBat</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Бита кротокрыса</Source>
-      <Dest>СЕЙСМ.АКТИВНОСТЬ|Бита кротокрыса</Dest>
-    </String>
     <String List="0" sID="41006643">
       <EDID>NWOT_Recipe_Food_CarnivalPie</EDID>
       <REC>BOOK:FULL</REC>
@@ -241,24 +235,6 @@
       <Source>Схема: мини-фургон для побега</Source>
       <Dest>В РОЗЫСКЕ|Схема: мини-фургон для побега</Dest>
     </String>
-    <String List="0" sID="61013D82">
-      <EDID>E09D_LeverGun_WesternSpirit</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Дух Дикого Запада</Source>
-      <Dest>В РОЗЫСКЕ|Дух Дикого Запада</Dest>
-    </String>
-    <String List="0" sID="61013D83">
-      <EDID>E09C_CompoundBow_BurningLove</EDID>
-      <REC>WEAP:FULL</REC>
-      <Source>Пламя любви</Source>
-      <Dest>ТУННЕЛЬ ЛЮБВИ|Пламя любви</Dest>
-    </String>
-    <String List="0" sID="61014118">
-      <EDID>E09A_Broadsider_GrandFinale</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Грандиозный финал</Source>
-      <Dest>СЕЙСМ.АКТИВНОСТЬ|Грандиозный финал</Dest>
-    </String>
     <String List="0" sID="61014143">
       <EDID>NWOT_Recipe_CappyFlair</EDID>
       <REC>BOOK:FULL</REC>
@@ -385,18 +361,6 @@
       <Source>Рецепт: шашлык из скорпиона</Source>
       <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: шашлык из скорпиона</Dest>
     </String>
-    <String List="0" sID="8100311A">
-      <EDID>E09C_SubmachineGun_LoveTap</EDID>
-      <REC id="0" idMax="7">WEAP:FULL</REC>
-      <Source>Воздушный поцелуй</Source>
-      <Dest>ТУННЕЛЬ ЛЮБВИ|Воздушный поцелуй</Dest>
-    </String>
-    <String List="0" sID="81003122">
-      <EDID>E09B_SuperSledge_WhackerSmacker</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Молот-колотушка</Source>
-      <Dest>КОЛЕСО УДАЧИ|Молот-колотушка</Dest>
-    </String>
     <String List="0" sID="81004544">
       <EDID>E09A_Recipe_Workshop_NWOTCoaster_Toy</EDID>
       <REC>BOOK:FULL</REC>
@@ -408,12 +372,6 @@
       <REC>ALCH:FULL</REC>
       <Source>Вяленый кротокрыс</Source>
       <Dest>СЕЙСМ.АКТИВНОСТЬ|Вяленый кротокрыс</Dest>
-    </String>
-    <String List="0" sID="81004748">
-      <EDID>E09D_SingleActionRevolver_GunthersRevolver</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Большая пушка Гюнтера</Source>
-      <Dest>В РОЗЫСКЕ|Большая пушка Гюнтера</Dest>
     </String>
     <String List="0" sID="81004885">
       <EDID>Recipe_Workshop_NWOTBalloon</EDID>
