@@ -43,12 +43,6 @@
       <Source>Схема: рюкзак охотника с Пустоши</Source>
       <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: рюкзак охотника с Пустоши</Dest>
     </String>
-    <String List="0" sID="61002EBD">
-      <EDID>MeatTenderizer</EDID>
-      <REC id="0" idMax="1">WEAP:FULL</REC>
-      <Source>Отбивной молоток</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Отбивной молоток</Dest>
-    </String>
     <String List="0" sID="61003118">
       <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag3</EDID>
       <REC>BOOK:FULL</REC>
