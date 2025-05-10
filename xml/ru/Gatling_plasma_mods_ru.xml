@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="61021BEF">
+      <EDID>miscmod_mod_GatlingPlasma_Mag_ReloadSpeed</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Гатлинг-плазма: быстрый приемник блока</Source>
+      <Dest>ГАТЛИНГ++|Гатлинг-плазма: быстрый приемник блока</Dest>
+    </String>
+    <String List="0" sID="61021BF0">
+      <EDID>miscmod_mod_GatlingPlasma_Receiver_CritDMG</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Гатлинг-плазма: калиброванный конденсатор</Source>
+      <Dest>ГАТЛИНГ++|Гатлинг-плазма: калиброванный конденсатор</Dest>
+    </String>
+    <String List="0" sID="61021BF1">
+      <EDID>miscmod_mod_GatlingPlasma_Mag_Ammo</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Гатлинг-плазма: большой приемник блока</Source>
+      <Dest>ГАТЛИНГ++|Гатлинг-плазма: большой приемник блока</Dest>
+    </String>
+    <String List="0" sID="61021BF2">
+      <EDID>miscmod_mod_GatlingPlasma_Muzzle_Fast</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Гатлинг-плазма: ускоренное сопло</Source>
+      <Dest>ГАТЛИНГ++|Гатлинг-плазма: ускоренное сопло</Dest>
+    </String>
+    <String List="0" sID="61021BF3">
+      <EDID>miscmod_mod_GatlingPlasma_Mag_ArmorPen</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Гатлинг-плазма: жалящий приемник блока</Source>
+      <Dest>ГАТЛИНГ++|Гатлинг-плазма: жалящий приемник блока</Dest>
+    </String>
+    <String List="0" sID="61021BF4">
+      <EDID>miscmod_mod_GatlingPlasma_Receiver_Burning</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Гатлинг-плазма: гамма-излучатель</Source>
+      <Dest>ГАТЛИНГ++|Гатлинг-плазма: гамма-излучатель</Dest>
+    </String>
+    <String List="0" sID="61021BF6">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Receiver_CritDMG</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: калиброванный конденсатор для гатлинг-плазмы</Source>
+      <Dest>ГАТЛИНГ++|Схема: калиброванный конденсатор для гатлинг-плазмы</Dest>
+    </String>
+    <String List="0" sID="61021BF7">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Receiver_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гамма-излучатель для гатлинг-плазмы</Source>
+      <Dest>ГАТЛИНГ++|Схема: гамма-излучатель для гатлинг-плазмы</Dest>
+    </String>
+    <String List="0" sID="61021BF8">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Mag_Ammo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: большой приемник блока для гатлинг-плазмы</Source>
+      <Dest>ГАТЛИНГ++|Схема: большой приемник блока для гатлинг-плазмы</Dest>
+    </String>
+    <String List="0" sID="61021BF9">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Muzzle_Fast</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ускоренное сопло для гатлинг-плазмы</Source>
+      <Dest>ГАТЛИНГ++|Схема: ускоренное сопло для гатлинг-плазмы</Dest>
+    </String>
+    <String List="0" sID="61021BFA">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Mag_ReloadSpeed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: быстрый приемник блока для гатлинг-плазмы</Source>
+      <Dest>ГАТЛИНГ++|Схема: быстрый приемник блока для гатлинг-плазмы</Dest>
+    </String>
+    <String List="0" sID="61021BFB">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Mag_ArmorPen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: жалящий приемник блока для гатлинг-плазмы</Source>
+      <Dest>ГАТЛИНГ++|Схема: жалящий приемник блока для гатлинг-плазмы</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
