@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="61021BEF">
+      <EDID>miscmod_mod_GatlingPlasma_Mag_ReloadSpeed</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Gatling Plasma Swift Core Receptacle</Source>
+      <Dest>GATLING++|Gatling Plasma Swift Core Receptacle</Dest>
+    </String>
+    <String List="0" sID="61021BF0">
+      <EDID>miscmod_mod_GatlingPlasma_Receiver_CritDMG</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Gatling Plasma Calibrated Capacitor</Source>
+      <Dest>GATLING++|Gatling Plasma Calibrated Capacitor</Dest>
+    </String>
+    <String List="0" sID="61021BF1">
+      <EDID>miscmod_mod_GatlingPlasma_Mag_Ammo</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Gatling Plasma Large Core Receptacle</Source>
+      <Dest>GATLING++|Gatling Plasma Large Core Receptacle</Dest>
+    </String>
+    <String List="0" sID="61021BF2">
+      <EDID>miscmod_mod_GatlingPlasma_Muzzle_Fast</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Gatling Plasma Accelerated Nozzle</Source>
+      <Dest>GATLING++|Gatling Plasma Accelerated Nozzle</Dest>
+    </String>
+    <String List="0" sID="61021BF3">
+      <EDID>miscmod_mod_GatlingPlasma_Mag_ArmorPen</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Gatling Plasma Stinging Core Receptacle</Source>
+      <Dest>GATLING++|Gatling Plasma Stinging Core Receptacle</Dest>
+    </String>
+    <String List="0" sID="61021BF4">
+      <EDID>miscmod_mod_GatlingPlasma_Receiver_Burning</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Gatling Plasma Gamma Wave Emitter</Source>
+      <Dest>GATLING++|Gatling Plasma Gamma Wave Emitter</Dest>
+    </String>
+    <String List="0" sID="61021BF6">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Receiver_CritDMG</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gatling Plasma Calibrated Capacitor</Source>
+      <Dest>GATLING++|Plan: Gatling Plasma Calibrated Capacitor</Dest>
+    </String>
+    <String List="0" sID="61021BF7">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Receiver_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gatling Plasma Gamma Wave Emitter</Source>
+      <Dest>GATLING++|Plan: Gatling Plasma Gamma Wave Emitter</Dest>
+    </String>
+    <String List="0" sID="61021BF8">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Mag_Ammo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gatling Plasma Large Core Receptacle</Source>
+      <Dest>GATLING++|Plan: Gatling Plasma Large Core Receptacle</Dest>
+    </String>
+    <String List="0" sID="61021BF9">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Muzzle_Fast</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gatling Plasma Accelerated Nozzle</Source>
+      <Dest>GATLING++|Plan: Gatling Plasma Accelerated Nozzle</Dest>
+    </String>
+    <String List="0" sID="61021BFA">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Mag_ReloadSpeed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gatling Plasma Swift Core Receptacle</Source>
+      <Dest>GATLING++|Plan: Gatling Plasma Swift Core Receptacle</Dest>
+    </String>
+    <String List="0" sID="61021BFB">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Mag_ArmorPen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gatling Plasma Stinging Core Receptacle</Source>
+      <Dest>GATLING++|Plan: Gatling Plasma Stinging Core Receptacle</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
