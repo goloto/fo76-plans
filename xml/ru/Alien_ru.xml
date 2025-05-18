@@ -169,5 +169,11 @@
       <Source>Схема: инопланетная мишень</Source>
       <Dest>ЗАХВАТЧИКИ 2024|Схема: инопланетная мишень</Dest>
     </String>
+    <String List="0" sID="6101CA7F">
+      <EDID>Recipe_Invaders_Workshop_Arcade_AlienWhackAMole</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: космический плен</Source>
+      <Dest>ЗАХВАТЧИКИ-2025|Схема: космический плен</Dest>
+    </String>
   </Content>
 </SSTXMLRessources>

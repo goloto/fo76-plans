@@ -169,5 +169,11 @@
       <Source>Plan: Alien Target Practice Poster</Source>
       <Dest>ALIEN 2024|Plan: Alien Target Practice Poster</Dest>
     </String>
+    <String List="0" sID="6101CA7F">
+      <EDID>Recipe_Invaders_Workshop_Arcade_AlienWhackAMole</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cosmic Capture</Source>
+      <Dest>ALIEN-2025|Plan: Cosmic Capture</Dest>
+    </String>
   </Content>
 </SSTXMLRessources>
