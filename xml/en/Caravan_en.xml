@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="4100C220">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_NoGrip</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Laser Carbine No Stock</Source>
+      <Dest>CARAVAN|Plan: V63 Laser Carbine No Stock</Dest>
+    </String>
+    <String List="0" sID="4100D365">
+      <EDID>MILE_Workshop_Recipe_GulperOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gulper Skin Outfit</Source>
+      <Dest>CARAVAN|Plan: Gulper Skin Outfit</Dest>
+    </String>
+    <String List="0" sID="6101FBE5">
+      <EDID>MILE_Workshop_Recipe_NorenAwning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Noren Awning</Source>
+      <Dest>CARAVAN|Plan: Noren Awning</Dest>
+    </String>
+    <String List="0" sID="6101FF1B">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Darkwood</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Dark Hollow Manor Snow Globe</Source>
+      <Dest>CARAVAN|Plan: Dark Hollow Manor Snow Globe</Dest>
+    </String>
+    <String List="0" sID="6101FF1C">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_HighKnob</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: High Knob Lookout Snow Globe</Source>
+      <Dest>CARAVAN|Plan: High Knob Lookout Snow Globe</Dest>
+    </String>
+    <String List="0" sID="6101FF1D">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_SummerCamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Camp Liberty Snow Globe</Source>
+      <Dest>CARAVAN|Plan: Camp Liberty Snow Globe</Dest>
+    </String>
+    <String List="0" sID="6101FF1E">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_NaturalGas</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Big Meadows Gas Well Snow Globe</Source>
+      <Dest>CARAVAN|Plan: Big Meadows Gas Well Snow Globe</Dest>
+    </String>
+    <String List="0" sID="610201A0">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_InsulatedCapacitor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Laser Carbine Insulated Capacitor</Source>
+      <Dest>CARAVAN|Plan: V63 Laser Carbine Insulated Capacitor</Dest>
+    </String>
+    <String List="0" sID="610201A2">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_StabilisedGrip</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Laser Carbine Stabilized Stock</Source>
+      <Dest>CARAVAN|Plan: V63 Laser Carbine Stabilized Stock</Dest>
+    </String>
+    <String List="0" sID="610201A3">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_ForcefulGrip</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Laser Carbine Forceful Stock</Source>
+      <Dest>CARAVAN|Plan: V63 Laser Carbine Forceful Stock</Dest>
+    </String>
+    <String List="0" sID="610201A4">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_StandardGrip</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Laser Carbine Standard Stock</Source>
+      <Dest>CARAVAN|Plan: V63 Laser Carbine Standard Stock</Dest>
+    </String>
+    <String List="0" sID="610201A8">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_OverclockedCapacitor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Laser Carbine Overclocked Capacitor</Source>
+      <Dest>CARAVAN|Plan: V63 Laser Carbine Overclocked Capacitor</Dest>
+    </String>
+    <String List="0" sID="610201AB">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_Quick-Eject</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Laser Carbine Quick-Eject Capacitor</Source>
+      <Dest>CARAVAN|Plan: V63 Laser Carbine Quick-Eject Capacitor</Dest>
+    </String>
+    <String List="0" sID="610201AD">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_BruisingGrip</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Laser Carbine Bruising Stock</Source>
+      <Dest>CARAVAN|Plan: V63 Laser Carbine Bruising Stock</Dest>
+    </String>
+    <String List="0" sID="610201AE">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_BaseCapacitor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Laser Carbine Standard Capacitor</Source>
+      <Dest>CARAVAN|Plan: V63 Laser Carbine Standard Capacitor</Dest>
+    </String>
+    <String List="0" sID="610201AF">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_CyclicCapacitor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Laser Carbine Cyclic Capacitor</Source>
+      <Dest>CARAVAN|Plan: V63 Laser Carbine Cyclic Capacitor</Dest>
+    </String>
+    <String List="0" sID="610201B6">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_Extended</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: V63 Laser Carbine Extended Capacitor</Source>
+      <Dest>CARAVAN|Plan: V63 Laser Carbine Extended Capacitor</Dest>
+    </String>
+    <String List="0" sID="610227C2">
+      <EDID>MILE_Workshop_Recipe_CryptidThrone</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ogua Shell Throne</Source>
+      <Dest>CARAVAN|Plan: Ogua Shell Throne</Dest>
+    </String>
+    <String List="0" sID="81005361">
+      <EDID>MILE_Recipe_VaultBoy_Backpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault Boy Plushie Backpack</Source>
+      <Dest>CARAVAN|Plan: Vault Boy Plushie Backpack</Dest>
+    </String>
+    <String List="0" sID="81005362">
+      <EDID>MILE_Recipe_VaultGirl_Backpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault Girl Plushie Backpack</Source>
+      <Dest>CARAVAN|Plan: Vault Girl Plushie Backpack</Dest>
+    </String>
+    <String List="0" sID="81007651">
+      <EDID>MILE_Clothes_Workshop_Recipe_DeathClaw</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Deathclaw Skin Outfit</Source>
+      <Dest>CARAVAN|Plan: Deathclaw Skin Outfit</Dest>
+    </String>
+    <String List="0" sID="810081C4">
+      <EDID>MILE_Recipe_Workshop_Lights_Wall_LightningPodLamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Lightning Battery Lamp</Source>
+      <Dest>CARAVAN|Plan: Lightning Battery Lamp</Dest>
+    </String>
+    <String List="0" sID="810081DD">
+      <EDID>MILE_Recipe_PheasantFootFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pheasant Foot Backpack Flair</Source>
+      <Dest>CARAVAN|Plan: Pheasant Foot Backpack Flair</Dest>
+    </String>
+    <String List="0" sID="8100ADA5">
+      <EDID>MILE_Recipe_Workshop_Telescope</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Stargazer&apos;s Telescope</Source>
+      <Dest>CARAVAN|Plan: Stargazer&apos;s Telescope</Dest>
+    </String>
+    <String List="0" sID="8100ADD7">
+      <EDID>MILE_Recipe_Backpack_Deathclaw</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Deathclaw Head Backpack</Source>
+      <Dest>CARAVAN|Plan: Deathclaw Head Backpack</Dest>
+    </String>
+    <String List="0" sID="8100C142">
+      <EDID>MILE_Workshop_Recipe_CryptidHunterOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hunter&apos;s Hanbok Outfit</Source>
+      <Dest>CARAVAN|Plan: Hunter&apos;s Hanbok Outfit</Dest>
+    </String>
+    <String List="0" sID="8100C85C">
+      <EDID>MILE_Workshop_Recipe_BritishRedcoatArmyOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Redcoat Outfit</Source>
+      <Dest>CARAVAN|Plan: Redcoat Outfit</Dest>
+    </String>
+    <String List="0" sID="8100C85D">
+      <EDID>MILE_Workshop_Recipe_BritishRedcoatArmyHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Redcoat Hat</Source>
+      <Dest>CARAVAN|Plan: Redcoat Hat</Dest>
+    </String>
+    <String List="0" sID="8100CA52">
+      <EDID>MILE_Workshop_Recipe_GulperHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gulper Skin Hood</Source>
+      <Dest>CARAVAN|Plan: Gulper Skin Hood</Dest>
+    </String>
+    <String List="0" sID="8100CAB6">
+      <EDID>MILE_Workshop_Recipe_LederhosenOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Lederhosen Outfit</Source>
+      <Dest>CARAVAN|Plan: Lederhosen Outfit</Dest>
+    </String>
+    <String List="0" sID="8100CBDA">
+      <EDID>MILE_Workshop_Recipe_GulperPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Gulper Plushie</Source>
+      <Dest>CARAVAN|Plan: Gulper Plushie</Dest>
+    </String>
+    <String List="0" sID="8100D3A0">
+      <EDID>MILE_Workshop_Recipe_NorenCurtains</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Noren Curtains</Source>
+      <Dest>CARAVAN|Plan: Noren Curtains</Dest>
+    </String>
+    <String List="0" sID="8100D3AF">
+      <EDID>MILE_Workshop_Recipe_PersianRug_Wall01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Persian Wall Rug</Source>
+      <Dest>CARAVAN|Plan: Persian Wall Rug</Dest>
+    </String>
+    <String List="0" sID="8100D3B0">
+      <EDID>MILE_Workshop_Recipe_PersianRug_Rolled01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Rolled Persian Rugs</Source>
+      <Dest>CARAVAN|Plan: Rolled Persian Rugs</Dest>
+    </String>
+    <String List="0" sID="8100D3B1">
+      <EDID>MILE_Workshop_Recipe_PersianRug_Floor01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Persian Rug</Source>
+      <Dest>CARAVAN|Plan: Persian Rug</Dest>
+    </String>
+    <String List="0" sID="8100D552">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Shenandoah</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Shenandoah Vistor Center Snow Globe</Source>
+      <Dest>CARAVAN|Plan: Shenandoah Vistor Center Snow Globe</Dest>
+    </String>
+    <String List="0" sID="8100D553">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_SlumberMill</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Slumber Mill Motel Snow Globe</Source>
+      <Dest>CARAVAN|Plan: Slumber Mill Motel Snow Globe</Dest>
+    </String>
+    <String List="0" sID="8100D586">
+      <EDID>MILE_Workshop_Recipe_LederhosenOutfit_Headpiece</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Lederhosen Outfit Hat</Source>
+      <Dest>CARAVAN|Plan: Lederhosen Outfit Hat</Dest>
+    </String>
+    <String List="0" sID="8100D5BF">
+      <EDID>MILE_Workshop_Recipe_WineRack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Makeshift Wine Rack</Source>
+      <Dest>CARAVAN|Plan: Makeshift Wine Rack</Dest>
+    </String>
+    <String List="0" sID="8100DA85">
+      <EDID>MILE_Workshop_Recipe_RangerStashBox</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Park Ranger Supply Box</Source>
+      <Dest>CARAVAN|Plan: Park Ranger Supply Box</Dest>
+    </String>
+    <String List="0" sID="8100DBE5">
+      <EDID>MILE_Workshop_Recipie_Saxophone</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Rusty Saxophone</Source>
+      <Dest>CARAVAN|Plan: Rusty Saxophone</Dest>
+    </String>
+    <String List="0" sID="8100F5A5">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Theodore</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Theodore&apos;s Snow Globe</Source>
+      <Dest>CARAVAN|Plan: Theodore&apos;s Snow Globe</Dest>
+    </String>
+    <String List="0" sID="8100F5A6">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Marley</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Marley&apos;s Snow Globe</Source>
+      <Dest>CARAVAN|Plan: Marley&apos;s Snow Globe</Dest>
+    </String>
+    <String List="0" sID="8100F5A7">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Axel</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Axel&apos;s Snow Globe</Source>
+      <Dest>CARAVAN|Plan: Axel&apos;s Snow Globe</Dest>
+    </String>
+    <String List="0" sID="8100F5A8">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Ineke</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ineke&apos;s Snow Globe</Source>
+      <Dest>CARAVAN|Plan: Ineke&apos;s Snow Globe</Dest>
+    </String>
+    <String List="0" sID="8100F5A9">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Josie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Josie&apos;s Snow Globe</Source>
+      <Dest>CARAVAN|Plan: Josie&apos;s Snow Globe</Dest>
+    </String>
+    <String List="0" sID="8100F5AA">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Windy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Windy&apos;s Snow Globe</Source>
+      <Dest>CARAVAN|Plan: Windy&apos;s Snow Globe</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
