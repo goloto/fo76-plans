@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="4100C220">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_NoGrip</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: лазерный карабин V63, без приклада</Source>
+      <Dest>КАРАВАН|Схема: лазерный карабин V63, без приклада</Dest>
+    </String>
+    <String List="0" sID="4100D365">
+      <EDID>MILE_Workshop_Recipe_GulperOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм &quot;Шкура заглота&quot;</Source>
+      <Dest>КАРАВАН|Схема: костюм &quot;Шкура заглота&quot;</Dest>
+    </String>
+    <String List="0" sID="6101FBE5">
+      <EDID>MILE_Workshop_Recipe_NorenAwning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: навес норэн</Source>
+      <Dest>КАРАВАН|Схема: навес норэн</Dest>
+    </String>
+    <String List="0" sID="6101FF1B">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Darkwood</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар «Особняк Дарк-Холлоу»</Source>
+      <Dest>КАРАВАН|Схема: снежный шар «Особняк Дарк-Холлоу»</Dest>
+    </String>
+    <String List="0" sID="6101FF1C">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_HighKnob</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар «Наблюдательный пункт Хай-Ноб»</Source>
+      <Dest>КАРАВАН|Схема: снежный шар «Наблюдательный пункт Хай-Ноб»</Dest>
+    </String>
+    <String List="0" sID="6101FF1D">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_SummerCamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар «Лагерь Либерти»</Source>
+      <Dest>КАРАВАН|Схема: снежный шар «Лагерь Либерти»</Dest>
+    </String>
+    <String List="0" sID="6101FF1E">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_NaturalGas</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар «Газовая скважина Биг-Медоус»</Source>
+      <Dest>КАРАВАН|Схема: снежный шар «Газовая скважина Биг-Медоус»</Dest>
+    </String>
+    <String List="0" sID="610201A0">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_InsulatedCapacitor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: изолированный конденсатор для лазерного карабина V63</Source>
+      <Dest>КАРАВАН|Схема: изолированный конденсатор для лазерного карабина V63</Dest>
+    </String>
+    <String List="0" sID="610201A2">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_StabilisedGrip</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стабилизированная ложа для лазерного карабина V63</Source>
+      <Dest>КАРАВАН|Схема: стабилизированная ложа для лазерного карабина V63</Dest>
+    </String>
+    <String List="0" sID="610201A3">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_ForcefulGrip</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ложа силы для лазерного карабина V63</Source>
+      <Dest>КАРАВАН|Схема: ложа силы для лазерного карабина V63</Dest>
+    </String>
+    <String List="0" sID="610201A4">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_StandardGrip</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: штатная ложа для лазерного карабина V63</Source>
+      <Dest>КАРАВАН|Схема: штатная ложа для лазерного карабина V63</Dest>
+    </String>
+    <String List="0" sID="610201A8">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_OverclockedCapacitor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: разогнанный конденсатор для лазерного карабина V63</Source>
+      <Dest>КАРАВАН|Схема: разогнанный конденсатор для лазерного карабина V63</Dest>
+    </String>
+    <String List="0" sID="610201AB">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_Quick-Eject</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: конденсатор быстрого выброса для лазерного карабина V63</Source>
+      <Dest>КАРАВАН|Схема: конденсатор быстрого выброса для лазерного карабина V63</Dest>
+    </String>
+    <String List="0" sID="610201AD">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_BruisingGrip</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ложа избиения для лазерного карабина V63</Source>
+      <Dest>КАРАВАН|Схема: ложа избиения для лазерного карабина V63</Dest>
+    </String>
+    <String List="0" sID="610201AE">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_BaseCapacitor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: штатный конденсатор для лазерного карабина V63</Source>
+      <Dest>КАРАВАН|Схема: штатный конденсатор для лазерного карабина V63</Dest>
+    </String>
+    <String List="0" sID="610201AF">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_CyclicCapacitor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: циклический конденсатор для лазерного карабина V63</Source>
+      <Dest>КАРАВАН|Схема: циклический конденсатор для лазерного карабина V63</Dest>
+    </String>
+    <String List="0" sID="610201B6">
+      <EDID>Recipe_Weapon_Ranged_Meltdown_Extended</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: удлиненный конденсатор для лазерного карабина V63</Source>
+      <Dest>КАРАВАН|Схема: удлиненный конденсатор для лазерного карабина V63</Dest>
+    </String>
+    <String List="0" sID="610227C2">
+      <EDID>MILE_Workshop_Recipe_CryptidThrone</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трон из панцирей огуа</Source>
+      <Dest>КАРАВАН|Схема: трон из панцирей огуа</Dest>
+    </String>
+    <String List="0" sID="81005361">
+      <EDID>MILE_Recipe_VaultBoy_Backpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак &quot;Плюшевый Волт-Бой&quot;</Source>
+      <Dest>КАРАВАН|Схема: рюкзак &quot;Плюшевый Волт-Бой&quot;</Dest>
+    </String>
+    <String List="0" sID="81005362">
+      <EDID>MILE_Recipe_VaultGirl_Backpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак &quot;Плюшевая Волт-Герл&quot;</Source>
+      <Dest>КАРАВАН|Схема: рюкзак &quot;Плюшевая Волт-Герл&quot;</Dest>
+    </String>
+    <String List="0" sID="81007651">
+      <EDID>MILE_Clothes_Workshop_Recipe_DeathClaw</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм &quot;Шкура когтя смерти&quot;</Source>
+      <Dest>КАРАВАН|Схема: костюм &quot;Шкура когтя смерти&quot;</Dest>
+    </String>
+    <String List="0" sID="810081C4">
+      <EDID>MILE_Recipe_Workshop_Lights_Wall_LightningPodLamp</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: лампа с аккумулятором молний</Source>
+      <Dest>КАРАВАН|Схема: лампа с аккумулятором молний</Dest>
+    </String>
+    <String List="0" sID="810081DD">
+      <EDID>MILE_Recipe_PheasantFootFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака &quot;След фазана&quot;</Source>
+      <Dest>КАРАВАН|Схема: брелок для рюкзака &quot;След фазана&quot;</Dest>
+    </String>
+    <String List="0" sID="8100ADA5">
+      <EDID>MILE_Recipe_Workshop_Telescope</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: телескоп астронома</Source>
+      <Dest>КАРАВАН|Схема: телескоп астронома</Dest>
+    </String>
+    <String List="0" sID="8100ADD7">
+      <EDID>MILE_Recipe_Backpack_Deathclaw</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак &quot;Голова когтя смерти&quot;</Source>
+      <Dest>КАРАВАН|Схема: рюкзак &quot;Голова когтя смерти&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C142">
+      <EDID>MILE_Workshop_Recipe_CryptidHunterOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм &quot;Охотничий ханбок&quot;</Source>
+      <Dest>КАРАВАН|Схема: костюм &quot;Охотничий ханбок&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C85C">
+      <EDID>MILE_Workshop_Recipe_BritishRedcoatArmyOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм англичанина</Source>
+      <Dest>КАРАВАН|Схема: костюм англичанина</Dest>
+    </String>
+    <String List="0" sID="8100C85D">
+      <EDID>MILE_Workshop_Recipe_BritishRedcoatArmyHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: головной убор англичанина</Source>
+      <Dest>КАРАВАН|Схема: головной убор англичанина</Dest>
+    </String>
+    <String List="0" sID="8100CA52">
+      <EDID>MILE_Workshop_Recipe_GulperHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: капюшон из кожи заглота</Source>
+      <Dest>КАРАВАН|Схема: капюшон из кожи заглота</Dest>
+    </String>
+    <String List="0" sID="8100CAB6">
+      <EDID>MILE_Workshop_Recipe_LederhosenOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм &quot;Ледерхозен&quot;</Source>
+      <Dest>КАРАВАН|Схема: костюм &quot;Ледерхозен&quot;</Dest>
+    </String>
+    <String List="0" sID="8100CBDA">
+      <EDID>MILE_Workshop_Recipe_GulperPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый заглот</Source>
+      <Dest>КАРАВАН|Схема: плюшевый заглот</Dest>
+    </String>
+    <String List="0" sID="8100D3A0">
+      <EDID>MILE_Workshop_Recipe_NorenCurtains</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ширмы норэн</Source>
+      <Dest>КАРАВАН|Схема: ширмы норэн</Dest>
+    </String>
+    <String List="0" sID="8100D3AF">
+      <EDID>MILE_Workshop_Recipe_PersianRug_Wall01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: настенный персидский ковер</Source>
+      <Dest>КАРАВАН|Схема: настенный персидский ковер</Dest>
+    </String>
+    <String List="0" sID="8100D3B0">
+      <EDID>MILE_Workshop_Recipe_PersianRug_Rolled01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: свернутые персидские ковры</Source>
+      <Dest>КАРАВАН|Схема: свернутые персидские ковры</Dest>
+    </String>
+    <String List="0" sID="8100D3B1">
+      <EDID>MILE_Workshop_Recipe_PersianRug_Floor01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: персидский ковер</Source>
+      <Dest>КАРАВАН|Схема: персидский ковер</Dest>
+    </String>
+    <String List="0" sID="8100D552">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Shenandoah</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар &quot;Туристический центр Шенандоа&quot;</Source>
+      <Dest>КАРАВАН|Схема: снежный шар &quot;Туристический центр Шенандоа&quot;</Dest>
+    </String>
+    <String List="0" sID="8100D553">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_SlumberMill</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар &quot;Мотель Спящая мельница&quot;</Source>
+      <Dest>КАРАВАН|Схема: снежный шар &quot;Мотель Спящая мельница&quot;</Dest>
+    </String>
+    <String List="0" sID="8100D586">
+      <EDID>MILE_Workshop_Recipe_LederhosenOutfit_Headpiece</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: головной убор от костюма &quot;Ледерхозен&quot;</Source>
+      <Dest>КАРАВАН|Схема: головной убор от костюма &quot;Ледерхозен&quot;</Dest>
+    </String>
+    <String List="0" sID="8100D5BF">
+      <EDID>MILE_Workshop_Recipe_WineRack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: самодельный винный стеллаж</Source>
+      <Dest>КАРАВАН|Схема: самодельный винный стеллаж</Dest>
+    </String>
+    <String List="0" sID="8100DA85">
+      <EDID>MILE_Workshop_Recipe_RangerStashBox</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: коробка с припасами рейнджера парка</Source>
+      <Dest>КАРАВАН|Схема: коробка с припасами рейнджера парка</Dest>
+    </String>
+    <String List="0" sID="8100DBE5">
+      <EDID>MILE_Workshop_Recipie_Saxophone</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ржавый саксофон</Source>
+      <Dest>КАРАВАН|Схема: ржавый саксофон</Dest>
+    </String>
+    <String List="0" sID="8100F5A5">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Theodore</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар Теодора</Source>
+      <Dest>КАРАВАН|Схема: снежный шар Теодора</Dest>
+    </String>
+    <String List="0" sID="8100F5A6">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Marley</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар Марли</Source>
+      <Dest>КАРАВАН|Схема: снежный шар Марли</Dest>
+    </String>
+    <String List="0" sID="8100F5A7">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Axel</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар Акселя</Source>
+      <Dest>КАРАВАН|Схема: снежный шар Акселя</Dest>
+    </String>
+    <String List="0" sID="8100F5A8">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Ineke</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар Инеке</Source>
+      <Dest>КАРАВАН|Схема: снежный шар Инеке</Dest>
+    </String>
+    <String List="0" sID="8100F5A9">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Josie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар Джози</Source>
+      <Dest>КАРАВАН|Схема: снежный шар Джози</Dest>
+    </String>
+    <String List="0" sID="8100F5AA">
+      <EDID>MILE_Recipe_Workshop_FloorDecor_Snowglobe_Windy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар Винди</Source>
+      <Dest>КАРАВАН|Схема: снежный шар Винди</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

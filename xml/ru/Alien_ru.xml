@@ -169,5 +169,65 @@
       <Source>Схема: инопланетная мишень</Source>
       <Dest>ЗАХВАТЧИКИ 2024|Схема: инопланетная мишень</Dest>
     </String>
+    <String List="0" sID="6101CA7F">
+      <EDID>Recipe_Invaders_Workshop_Arcade_AlienWhackAMole</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: космический плен</Source>
+      <Dest>ЗАХВАТЧИКИ 2025|Схема: космический плен</Dest>
+    </String>
+    <String List="0" sID="8100EE3B">
+      <EDID>Invaders_Recipe_Workshop_FloorDecor_FuturisticGlobe</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: футуристичный глобус</Source>
+      <Dest>ЗАХВАТЧИКИ 2024Q4|Схема: футуристичный глобус</Dest>
+    </String>
+    <String List="0" sID="8100EE46">
+      <EDID>Invaders_Recipe_workshop_Furniture_Couch_AlienCouch</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: инопланетный диван</Source>
+      <Dest>ЗАХВАТЧИКИ 2024Q4|Схема: инопланетный диван</Dest>
+    </String>
+    <String List="0" sID="8100F32B">
+      <EDID>Invaders_Recipe_FloorDecor_NukaDarkRocket</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ракета &quot;Темная Ядер-кола&quot;</Source>
+      <Dest>ЗАХВАТЧИКИ 2024Q4|Схема: ракета &quot;Темная Ядер-кола&quot;</Dest>
+    </String>
+    <String List="0" sID="8100F32C">
+      <EDID>Invaders_Recipe_FloorDecor_NukaGrapeRocket</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ракета &quot;Ядер-Виноград&quot;</Source>
+      <Dest>ЗАХВАТЧИКИ 2024Q4|Схема: ракета &quot;Ядер-Виноград&quot;</Dest>
+    </String>
+    <String List="0" sID="8100F32D">
+      <EDID>Invaders_Recipe_FloorDecor_NukaCherryRocket</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ракета &quot;Ядер-Вишня&quot;</Source>
+      <Dest>ЗАХВАТЧИКИ 2024Q4|Схема: ракета &quot;Ядер-Вишня&quot;</Dest>
+    </String>
+    <String List="0" sID="8100F32E">
+      <EDID>Invaders_Recipe_FloorDecor_NukaQuantumRocket</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ракета &quot;Квантовая Ядер-кола&quot;</Source>
+      <Dest>ЗАХВАТЧИКИ 2024Q4|Схема: ракета &quot;Квантовая Ядер-кола&quot;</Dest>
+    </String>
+    <String List="0" sID="8100F32F">
+      <EDID>Invaders_Recipe_FloorDecor_NukaTwistRocket</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ракета &quot;Ядер-кола Твист&quot;</Source>
+      <Dest>ЗАХВАТЧИКИ 2024Q4|Схема: ракета &quot;Ядер-кола Твист&quot;</Dest>
+    </String>
+    <String List="0" sID="8100F330">
+      <EDID>Invaders_Recipe_FloorDecor_NukaColaRocket</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ракета &quot;Ядер-кола&quot;</Source>
+      <Dest>ЗАХВАТЧИКИ 2024Q4|Схема: ракета &quot;Ядер-кола&quot;</Dest>
+    </String>
+    <String List="0" sID="8100F4EA">
+      <EDID>Invaders_Recipe_Armor_HazmatSuit_Pink</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: защитный комплект — розовый</Source>
+      <Dest>ЗАХВАТЧИКИ 2024Q4|Схема: защитный комплект — розовый</Dest>
+    </String>
   </Content>
 </SSTXMLRessources>

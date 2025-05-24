@@ -169,5 +169,65 @@
       <Source>Plan: Alien Target Practice Poster</Source>
       <Dest>ALIEN 2024|Plan: Alien Target Practice Poster</Dest>
     </String>
+    <String List="0" sID="6101CA7F">
+      <EDID>Recipe_Invaders_Workshop_Arcade_AlienWhackAMole</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cosmic Capture</Source>
+      <Dest>ALIEN 2025|Plan: Cosmic Capture</Dest>
+    </String>
+    <String List="0" sID="8100EE3B">
+      <EDID>Invaders_Recipe_Workshop_FloorDecor_FuturisticGlobe</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Futuristic Globe</Source>
+      <Dest>ALIEN 2024Q4|Plan: Futuristic Globe</Dest>
+    </String>
+    <String List="0" sID="8100EE46">
+      <EDID>Invaders_Recipe_workshop_Furniture_Couch_AlienCouch</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Alien Couch</Source>
+      <Dest>ALIEN 2024Q4|Plan: Alien Couch</Dest>
+    </String>
+    <String List="0" sID="8100F32B">
+      <EDID>Invaders_Recipe_FloorDecor_NukaDarkRocket</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Cola Dark Rocket</Source>
+      <Dest>ALIEN 2024Q4|Plan: Nuka-Cola Dark Rocket</Dest>
+    </String>
+    <String List="0" sID="8100F32C">
+      <EDID>Invaders_Recipe_FloorDecor_NukaGrapeRocket</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Grape Rocket</Source>
+      <Dest>ALIEN 2024Q4|Plan: Nuka-Grape Rocket</Dest>
+    </String>
+    <String List="0" sID="8100F32D">
+      <EDID>Invaders_Recipe_FloorDecor_NukaCherryRocket</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Cherry Rocket</Source>
+      <Dest>ALIEN 2024Q4|Plan: Nuka-Cherry Rocket</Dest>
+    </String>
+    <String List="0" sID="8100F32E">
+      <EDID>Invaders_Recipe_FloorDecor_NukaQuantumRocket</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Cola Quantum Rocket</Source>
+      <Dest>ALIEN 2024Q4|Plan: Nuka-Cola Quantum Rocket</Dest>
+    </String>
+    <String List="0" sID="8100F32F">
+      <EDID>Invaders_Recipe_FloorDecor_NukaTwistRocket</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Cola Twist Rocket</Source>
+      <Dest>ALIEN 2024Q4|Plan: Nuka-Cola Twist Rocket</Dest>
+    </String>
+    <String List="0" sID="8100F330">
+      <EDID>Invaders_Recipe_FloorDecor_NukaColaRocket</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Cola Rocket</Source>
+      <Dest>ALIEN 2024Q4|Plan: Nuka-Cola Rocket</Dest>
+    </String>
+    <String List="0" sID="8100F4EA">
+      <EDID>Invaders_Recipe_Armor_HazmatSuit_Pink</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hazmat Suit - Pink</Source>
+      <Dest>ALIEN 2024Q4|Plan: Hazmat Suit - Pink</Dest>
+    </String>
   </Content>
 </SSTXMLRessources>

@@ -7,6 +7,18 @@
     <Version>2</Version>
   </Params>
   <Content>
+    <String List="0" sID="03FD0B">
+      <EDID>Headwear_Fasnacht_Mask_Harlequin</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Jester Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Jester Mask</Dest>
+    </String>
+    <String List="0" sID="03FD94">
+      <EDID>Headwear_Fasnacht_Mask_Devil</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Goblin Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Goblin Mask</Dest>
+    </String>
     <String List="0" sID="0465D1">
       <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Megasloth</EDID>
       <REC>BOOK:FULL</REC>
@@ -36,6 +48,102 @@
       <REC>BOOK:FULL</REC>
       <Source>Plan: Old Man Winter Effigy</Source>
       <Dest>FASNACHT|Plan: Old Man Winter Effigy</Dest>
+    </String>
+    <String List="0" sID="90005BE">
+      <EDID>Headwear_Fasnacht_Mask_VeggieMan_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Veggie Man Mask</Source>
+      <Dest>FASNACHT 2025Q1+|Fasnacht Glowing Veggie Man Mask</Dest>
+    </String>
+    <String List="0" sID="90005BF">
+      <EDID>Headwear_Fasnacht_Mask_Abe_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Abe Mask</Source>
+      <Dest>FASNACHT 2025Q1+|Fasnacht Glowing Abe Mask</Dest>
+    </String>
+    <String List="0" sID="9000793">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxAshRose</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Box - Ash Rose</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flower Box - Ash Rose</Dest>
+    </String>
+    <String List="0" sID="9000799">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxAster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Box - Aster</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flower Box - Aster</Dest>
+    </String>
+    <String List="0" sID="900079F">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxMutatedFern</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Box - Mutated Fern</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flower Box - Mutated Fern</Dest>
+    </String>
+    <String List="0" sID="90007AB">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxRhododendron</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Box - Rhododendron</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flower Box - Rhododendron</Dest>
+    </String>
+    <String List="0" sID="90007B1">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxSootFlower</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Box - Soot Flower</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flower Box - Soot Flower</Dest>
+    </String>
+    <String List="0" sID="90007B7">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxMutatedFern</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flowering Box - Mutated Fern</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flowering Box - Mutated Fern</Dest>
+    </String>
+    <String List="0" sID="90007BD">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxSootFlower</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flowering Box - Soot Flower</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flowering Box - Soot Flower</Dest>
+    </String>
+    <String List="0" sID="90007C3">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxAshRose</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flowering Box - Ash Rose</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flowering Box - Ash Rose</Dest>
+    </String>
+    <String List="0" sID="90007C9">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxAster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flowering Box - Aster</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flowering Box - Aster</Dest>
+    </String>
+    <String List="0" sID="90007CF">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxRhododendron</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flowering Box - Rhododendron</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flowering Box - Rhododendron</Dest>
+    </String>
+    <String List="0" sID="90007D4">
+      <EDID>Headwear_Fasnacht_Mask_Bigfoot_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Bigfoot Mask</Source>
+      <Dest>FASNACHT 2025Q1+|Fasnacht Glowing Bigfoot Mask</Dest>
+    </String>
+    <String List="0" sID="90007D5">
+      <EDID>Headwear_Fasnacht_Mask_Bigfoot</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Bigfoot Mask</Source>
+      <Dest>FASNACHT 2025Q1|Fasnacht Bigfoot Mask</Dest>
+    </String>
+    <String List="0" sID="90007D8">
+      <EDID>Headwear_Fasnacht_Mask_Jackalope_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Jackalope Mask</Source>
+      <Dest>FASNACHT 2025Q1+|Fasnacht Glowing Jackalope Mask</Dest>
+    </String>
+    <String List="0" sID="90007D9">
+      <EDID>Headwear_Fasnacht_Mask_Jackalope</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Jackalope Mask</Source>
+      <Dest>FASNACHT 2025Q1|Fasnacht Jackalope Mask</Dest>
     </String>
     <String List="0" sID="4100095C">
       <EDID>ATX_Headwear_Fasnacht_Mask_Deathclaw</EDID>
@@ -85,17 +193,11 @@
       <Source>Fasnacht Glowing Turkey Mask</Source>
       <Dest>FASNACHT 2024+|Fasnacht Glowing Turkey Mask</Dest>
     </String>
-    <String List="0" sID="59001FB5">
-      <EDID>zzzATX_ENTM_Apparel_Headwear_Mask_FasnachtBlueDevil</EDID>
-      <REC>ENTM:FULL</REC>
-      <Source>Fasnacht Blue Devil Mask</Source>
-      <Dest>FASNACHT 2024|Fasnacht Blue Devil Mask</Dest>
-    </String>
-    <String List="0" sID="59001FB7">
-      <EDID>zzzATX_ENTM_Apparel_Headwear_Mask_FasnachtBlueDevil</EDID>
-      <REC>ENTM:NNAM</REC>
-      <Source>Fasnacht Blue Devil Mask</Source>
-      <Dest>FASNACHT 2024|Fasnacht Blue Devil Mask</Dest>
+    <String List="0" sID="4100B758">
+      <EDID>Headwear_Fasnacht_Mask_Minotaur</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Minotaur Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Minotaur Mask</Dest>
     </String>
     <String List="0" sID="61009D1C">
       <EDID>Headwear_Fasnacht_Mask_CrazyGuy</EDID>
@@ -145,12 +247,6 @@
       <Source>Fasnacht Honey Bee Mask</Source>
       <Dest>FASNACHT 2024|Fasnacht Honey Bee Mask</Dest>
     </String>
-    <String List="0" sID="6101AA80">
-      <EDID>zzz_ATX_ENTM_Apparel_Headwear_Fasnacht_BlueDevil</EDID>
-      <REC>ENTM:FULL</REC>
-      <Source>Fasnacht Blue Devil Mask</Source>
-      <Dest>FASNACHT 2024|Fasnacht Blue Devil Mask</Dest>
-    </String>
     <String List="0" sID="6101B0D7">
       <EDID>Headwear_Fasnacht_Mask_ScorchBeastQueen_Glow</EDID>
       <REC>ARMO:FULL</REC>
@@ -174,6 +270,12 @@
       <REC>ARMO:FULL</REC>
       <Source>Fasnacht Blue Devil Mask</Source>
       <Dest>FASNACHT 2024|Fasnacht Blue Devil Mask</Dest>
+    </String>
+    <String List="0" sID="6101C096">
+      <EDID>Headwear_Fasnacht_Mask_ScorchBeast_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Scorchbeast Mask</Source>
+      <Dest>FASNACHT 2024+|Fasnacht Glowing Scorchbeast Mask</Dest>
     </String>
     <String List="0" sID="6101E0ED">
       <EDID>Recipe_Workshop_FloorDecor_HerdsmansBell_Fasnacht</EDID>
@@ -391,11 +493,23 @@
       <Source>Fasnacht Crazy Guy Mask</Source>
       <Dest>FASNACHT+|Fasnacht Crazy Guy Mask</Dest>
     </String>
+    <String List="0" sID="71002197">
+      <EDID>Headwear_Fasnacht_Mask_Harlequin_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Jester Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Jester Mask</Dest>
+    </String>
     <String List="0" sID="710021AB">
       <EDID>Headwear_Fasnacht_Mask_Fiend_NONPLAYABLE</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Fasnacht Fiend Mask</Source>
       <Dest>FASNACHT 2024+|Fasnacht Fiend Mask</Dest>
+    </String>
+    <String List="0" sID="710021B2">
+      <EDID>Headwear_Fasnacht_Mask_Devil_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Goblin Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Goblin Mask</Dest>
     </String>
     <String List="0" sID="71006C94">
       <EDID>ATX_Headwear_Fasnacht_Mask_ScorchBeastQueen</EDID>
@@ -415,23 +529,17 @@
       <Source>Fasnacht Honey Bee Mask</Source>
       <Dest>FASNACHT 2024|Fasnacht Honey Bee Mask</Dest>
     </String>
-    <String List="0" sID="71006CA5">
-      <EDID>ATX_ENTM_Apparel_Headwear_Fasnacht_ScorchBeast</EDID>
-      <REC>ENTM:FULL</REC>
-      <Source>Fasnacht Scorchbeast Mask</Source>
-      <Dest>FASNACHT 2024|Fasnacht Scorchbeast Mask</Dest>
-    </String>
-    <String List="0" sID="71006CA8">
-      <EDID>ATX_ENTM_Apparel_Headwear_Fasnacht_HoneyBee</EDID>
-      <REC>ENTM:FULL</REC>
-      <Source>Fasnacht Honey Bee Mask</Source>
-      <Dest>FASNACHT 2024|Fasnacht Honey Bee Mask</Dest>
-    </String>
     <String List="0" sID="8100B25A">
       <EDID>Headwear_Fasnacht_Mask_Pig_Glow</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Fasnacht Glowing Pig Mask</Source>
       <Dest>FASNACHT 2024+|Fasnacht Glowing Pig Mask</Dest>
+    </String>
+    <String List="0" sID="8100B25D">
+      <EDID>Headwear_Fasnacht_Mask_Pig</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Pig Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Pig Mask</Dest>
     </String>
     <String List="0" sID="8100BDA7">
       <EDID>Headwear_Fasnacht_Mask_Robot_Glow</EDID>
@@ -445,11 +553,35 @@
       <Source>Fasnacht Glowing Unicorn Mask</Source>
       <Dest>FASNACHT 2024+|Fasnacht Glowing Unicorn Mask</Dest>
     </String>
+    <String List="0" sID="8100BDAC">
+      <EDID>Headwear_Fasnacht_Mask_Alien</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Alien Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Alien Mask</Dest>
+    </String>
+    <String List="0" sID="8100BDB0">
+      <EDID>Headwear_Fasnacht_Mask_Unicorn</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Unicorn Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Unicorn Mask</Dest>
+    </String>
+    <String List="0" sID="8100BDB1">
+      <EDID>Headwear_Fasnacht_Mask_Turkey</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Turkey Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Turkey Mask</Dest>
+    </String>
     <String List="0" sID="8100BDB3">
       <EDID>Headwear_Fasnacht_Mask_Minotaur_Glow</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Fasnacht Glowing Minotaur Mask</Source>
       <Dest>FASNACHT 2024+|Fasnacht Glowing Minotaur Mask</Dest>
+    </String>
+    <String List="0" sID="8100BDB4">
+      <EDID>Headwear_Fasnacht_Mask_Robot</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Robot Mask</Source>
+      <Dest>FASNACHT 2024|Fasnacht Robot Mask</Dest>
     </String>
     <String List="0" sID="8100BDCE">
       <EDID>Recipe_Workshop_Lights_Fasnacht_BeeswaxCandle</EDID>
