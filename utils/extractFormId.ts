@@ -31,7 +31,7 @@ const extractFormId = async () => {
       const edidString = edidArray.map((edid) => `${edid},\n`);
       const formattedFileName = fileName.replace('_en.xml', '');
   
-      Bun.write(`./edid/${formattedFileName}.txt`, edidString);
+      Bun.write(`./formId/${formattedFileName}.txt`, edidString);
     }
   });
 }
