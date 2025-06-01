@@ -569,7 +569,7 @@
       <EDID>Headwear_Fasnacht_Mask_Turkey</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска индюка для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Fasnacht Turkey Mask</Dest>
+      <Dest>ФАСНАХТ 2024|Маска индюка для Фастнахта</Dest>
     </String>
     <String List="0" sID="8100BDB3">
       <EDID>Headwear_Fasnacht_Mask_Minotaur_Glow</EDID>
@@ -581,7 +581,7 @@
       <EDID>Headwear_Fasnacht_Mask_Robot</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Маска робота для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2024|Fasnacht Robot Mask</Dest>
+      <Dest>ФАСНАХТ 2024|Маска робота для Фастнахта</Dest>
     </String>
     <String List="0" sID="8100BDCE">
       <EDID>Recipe_Workshop_Lights_Fasnacht_BeeswaxCandle</EDID>
