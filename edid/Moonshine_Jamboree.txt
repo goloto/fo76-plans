@@ -1,0 +1,6 @@
+E08A_Recipe_Workshop_GulperRug,
+E08A_Recipe_Workshop_GulperHead,
+E08A_Recipe_Mod_Melee_GulperSmacker_Blades,
+E08A_Recipe_Mod_Melee_GulperSmacker_Chains,
+E08A_Recipe_Weapon_Melee_GulperSmacker,
+E08A_Recipe_Mod_Melee_GulperSmacker_Nails,
