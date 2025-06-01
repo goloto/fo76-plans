@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="41006643">
+      <EDID>NWOT_Recipe_Food_CarnivalPie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: карнавальный пирог</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: карнавальный пирог</Dest>
+    </String>
+    <String List="0" sID="41006644">
+      <EDID>NWOT_Recipe_Food_GulperStuffedFoot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: фаршированная нога заглота</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: фаршированная нога заглота</Dest>
+    </String>
+    <String List="0" sID="41006646">
+      <EDID>NWOT_Recipe_Food_YaoGuaiPastry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: выпечка с яо-гаем</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: выпечка с яо-гаем</Dest>
+    </String>
+    <String List="0" sID="41006647">
+      <EDID>NWOT_Recipe_Food_RadscorpionKebab</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: шашлык из радскорпиона</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: шашлык из радскорпиона</Dest>
+    </String>
+    <String List="0" sID="41006648">
+      <EDID>NWOT_Recipe_Food_CaramelMutfruit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: карамельный мутафрукт</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: карамельный мутафрукт</Dest>
+    </String>
+    <String List="0" sID="41006649">
+      <EDID>NWOT_Recipe_Food_RadroachSkewer2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: шашлык из радтаракана</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: шашлык из радтаракана</Dest>
+    </String>
+    <String List="0" sID="4100664A">
+      <EDID>NWOT_Recipe_Food_NukaDog</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: ядер-дог</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: ядер-дог</Dest>
+    </String>
+    <String List="0" sID="4100664B">
+      <EDID>NWOT_Recipe_Food_BrahminBurgers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: бургеры из брамина</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: бургеры из брамина</Dest>
+    </String>
+    <String List="0" sID="6101414D">
+      <EDID>E09C_Recipe_Workshop_FloorDecor_Snowglobe_ToL</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар &quot;Туннель любви&quot;</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Схема: снежный шар &quot;Туннель любви&quot;</Dest>
+    </String>
+    <String List="0" sID="6101497C">
+      <EDID>E09C_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакат &quot;Туннеля любви&quot;</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Схема: плакат &quot;Туннеля любви&quot;</Dest>
+    </String>
+    <String List="0" sID="79000C4A">
+      <EDID>NWOT_Recipe_Food_RadscorpionSkewer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: шашлык из скорпиона</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Рецепт: шашлык из скорпиона</Dest>
+    </String>
+    <String List="0" sID="810049AB">
+      <EDID>E09C_Recipe_Workshop_CupidCappy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знак &quot;Мистер Крышка — Купидон&quot;</Source>
+      <Dest>ТУННЕЛЬ ЛЮБВИ|Схема: знак &quot;Мистер Крышка — Купидон&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="41006643">
+      <EDID>NWOT_Recipe_Food_CarnivalPie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Carnival Pie</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Carnival Pie</Dest>
+    </String>
+    <String List="0" sID="41006644">
+      <EDID>NWOT_Recipe_Food_GulperStuffedFoot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Gulper Stuffed Foot</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Gulper Stuffed Foot</Dest>
+    </String>
+    <String List="0" sID="41006646">
+      <EDID>NWOT_Recipe_Food_YaoGuaiPastry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Yao Guai Pastry</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Yao Guai Pastry</Dest>
+    </String>
+    <String List="0" sID="41006647">
+      <EDID>NWOT_Recipe_Food_RadscorpionKebab</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Radscorpion Kebab</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Radscorpion Kebab</Dest>
+    </String>
+    <String List="0" sID="41006648">
+      <EDID>NWOT_Recipe_Food_CaramelMutfruit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Caramel Mutfruit</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Caramel Mutfruit</Dest>
+    </String>
+    <String List="0" sID="41006649">
+      <EDID>NWOT_Recipe_Food_RadroachSkewer2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Fried Radroach On A Stick</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Fried Radroach On A Stick</Dest>
+    </String>
+    <String List="0" sID="4100664A">
+      <EDID>NWOT_Recipe_Food_NukaDog</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Nuka-Dog</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Nuka-Dog</Dest>
+    </String>
+    <String List="0" sID="4100664B">
+      <EDID>NWOT_Recipe_Food_BrahminBurgers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Brahmin Burgers</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Brahmin Burgers</Dest>
+    </String>
+    <String List="0" sID="6101414D">
+      <EDID>E09C_Recipe_Workshop_FloorDecor_Snowglobe_ToL</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Tunnel of Love Snow Globe</Source>
+      <Dest>TUNNEL OF LOVE|Plan: Tunnel of Love Snow Globe</Dest>
+    </String>
+    <String List="0" sID="6101497C">
+      <EDID>E09C_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Tunnel of Love Poster</Source>
+      <Dest>TUNNEL OF LOVE|Plan: Tunnel of Love Poster</Dest>
+    </String>
+    <String List="0" sID="79000C4A">
+      <EDID>NWOT_Recipe_Food_RadscorpionSkewer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Fried Scorpion On A Stick</Source>
+      <Dest>TUNNEL OF LOVE|Recipe: Fried Scorpion On A Stick</Dest>
+    </String>
+    <String List="0" sID="810049AB">
+      <EDID>E09C_Recipe_Workshop_CupidCappy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cupid Cappy Sign</Source>
+      <Dest>TUNNEL OF LOVE|Plan: Cupid Cappy Sign</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

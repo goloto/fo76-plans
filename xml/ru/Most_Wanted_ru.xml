@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="41005CAB">
+      <EDID>E09D_Recipe_Headwear_DeputysHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шляпа помощника</Source>
+      <Dest>В РОЗЫСКЕ|Схема: шляпа помощника</Dest>
+    </String>
+    <String List="0" sID="41005CAC">
+      <EDID>E09D_Recipe_Headwear_SheriffsHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шляпа шерифа</Source>
+      <Dest>В РОЗЫСКЕ|Схема: шляпа шерифа</Dest>
+    </String>
+    <String List="0" sID="6101370B">
+      <EDID>E09D_Recipe_Workshop_TownsFolk</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: картонные фигуры горожан</Source>
+      <Dest>В РОЗЫСКЕ|Схема: картонные фигуры горожан</Dest>
+    </String>
+    <String List="0" sID="6101370C">
+      <EDID>E09D_Recipe_Workshop_WantedPoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакат &quot;Разыскивается&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: плакат &quot;Разыскивается&quot;</Dest>
+    </String>
+    <String List="0" sID="6101370E">
+      <EDID>E09D_Recipe_Workshop_Tombstone</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: надгробные камни</Source>
+      <Dest>В РОЗЫСКЕ|Схема: надгробные камни</Dest>
+    </String>
+    <String List="0" sID="61013710">
+      <EDID>E09D_Recipe_Workshop_SafeWall</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стенной сейф</Source>
+      <Dest>В РОЗЫСКЕ|Схема: стенной сейф</Dest>
+    </String>
+    <String List="0" sID="61013712">
+      <EDID>E09D_Recipe_Workshop_Cappy&amp;BottleCowboys</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: картонные фигуры ковбоев Мистер Крышка и Бутылка</Source>
+      <Dest>В РОЗЫСКЕ|Схема: картонные фигуры ковбоев Мистер Крышка и Бутылка</Dest>
+    </String>
+    <String List="0" sID="61013714">
+      <EDID>E09D_Recipe_Workshop_EntranceSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: входная вывеска &quot;Шоу Дикого Запада&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: входная вывеска &quot;Шоу Дикого Запада&quot;</Dest>
+    </String>
+    <String List="0" sID="61013715">
+      <EDID>E09D_Recipe_Workshop_PokerSet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: набор для покера</Source>
+      <Dest>В РОЗЫСКЕ|Схема: набор для покера</Dest>
+    </String>
+    <String List="0" sID="61013717">
+      <EDID>E09D_Recipe_Workshop_WesternMural</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фреска &quot;Дикий Запад&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: фреска &quot;Дикий Запад&quot;</Dest>
+    </String>
+    <String List="0" sID="61013718">
+      <EDID>E09D_Recipe_Workshop_Wagon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: мини-фургон для побега</Source>
+      <Dest>В РОЗЫСКЕ|Схема: мини-фургон для побега</Dest>
+    </String>
+    <String List="0" sID="61014145">
+      <EDID>E09D_Recipe_NukaCowboyHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковбойская шляпа из &quot;Ядер-Мира&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: ковбойская шляпа из &quot;Ядер-Мира&quot;</Dest>
+    </String>
+    <String List="0" sID="61014149">
+      <EDID>E09D_Recipe_NukaCowboyDuster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковбойский плащ из &quot;Ядер-Мира&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: ковбойский плащ из &quot;Ядер-Мира&quot;</Dest>
+    </String>
+    <String List="0" sID="6101414E">
+      <EDID>E09D_Recipe_Workshop_FloorDecor_Snowglobe_MostWanted</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар &quot;В розыске&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: снежный шар &quot;В розыске&quot;</Dest>
+    </String>
+    <String List="0" sID="6101497A">
+      <EDID>E09D_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакаты &quot;Шоу Дикого Запада&quot;</Source>
+      <Dest>В РОЗЫСКЕ|Схема: плакаты &quot;Шоу Дикого Запада&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

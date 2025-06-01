@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="41005CAB">
+      <EDID>E09D_Recipe_Headwear_DeputysHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Deputy&apos;s Hat</Source>
+      <Dest>MOST WANTED|Plan: Deputy&apos;s Hat</Dest>
+    </String>
+    <String List="0" sID="41005CAC">
+      <EDID>E09D_Recipe_Headwear_SheriffsHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sheriff&apos;s Hat</Source>
+      <Dest>MOST WANTED|Plan: Sheriff&apos;s Hat</Dest>
+    </String>
+    <String List="0" sID="6101370B">
+      <EDID>E09D_Recipe_Workshop_TownsFolk</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Townsfolk Cutouts</Source>
+      <Dest>MOST WANTED|Plan: Townsfolk Cutouts</Dest>
+    </String>
+    <String List="0" sID="6101370C">
+      <EDID>E09D_Recipe_Workshop_WantedPoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wanted Poster</Source>
+      <Dest>MOST WANTED|Plan: Wanted Poster</Dest>
+    </String>
+    <String List="0" sID="6101370E">
+      <EDID>E09D_Recipe_Workshop_Tombstone</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Tomb Stones</Source>
+      <Dest>MOST WANTED|Plan: Tomb Stones</Dest>
+    </String>
+    <String List="0" sID="61013710">
+      <EDID>E09D_Recipe_Workshop_SafeWall</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wall Safe</Source>
+      <Dest>MOST WANTED|Plan: Wall Safe</Dest>
+    </String>
+    <String List="0" sID="61013712">
+      <EDID>E09D_Recipe_Workshop_Cappy&amp;BottleCowboys</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cappy &amp; Bottle Cowboy Cutouts</Source>
+      <Dest>MOST WANTED|Plan: Cappy &amp; Bottle Cowboy Cutouts</Dest>
+    </String>
+    <String List="0" sID="61013714">
+      <EDID>E09D_Recipe_Workshop_EntranceSign</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wild West Show Entrance Sign</Source>
+      <Dest>MOST WANTED|Plan: Wild West Show Entrance Sign</Dest>
+    </String>
+    <String List="0" sID="61013715">
+      <EDID>E09D_Recipe_Workshop_PokerSet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Poker Set</Source>
+      <Dest>MOST WANTED|Plan: Poker Set</Dest>
+    </String>
+    <String List="0" sID="61013717">
+      <EDID>E09D_Recipe_Workshop_WesternMural</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Western Mural</Source>
+      <Dest>MOST WANTED|Plan: Western Mural</Dest>
+    </String>
+    <String List="0" sID="61013718">
+      <EDID>E09D_Recipe_Workshop_Wagon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Getaway Wagon</Source>
+      <Dest>MOST WANTED|Plan: Getaway Wagon</Dest>
+    </String>
+    <String List="0" sID="61014145">
+      <EDID>E09D_Recipe_NukaCowboyHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-World Cowboy Hat</Source>
+      <Dest>MOST WANTED|Plan: Nuka-World Cowboy Hat</Dest>
+    </String>
+    <String List="0" sID="61014149">
+      <EDID>E09D_Recipe_NukaCowboyDuster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-World Cowboy Duster</Source>
+      <Dest>MOST WANTED|Plan: Nuka-World Cowboy Duster</Dest>
+    </String>
+    <String List="0" sID="6101414E">
+      <EDID>E09D_Recipe_Workshop_FloorDecor_Snowglobe_MostWanted</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Most Wanted Snow Globe</Source>
+      <Dest>MOST WANTED|Plan: Most Wanted Snow Globe</Dest>
+    </String>
+    <String List="0" sID="6101497A">
+      <EDID>E09D_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wild West Show Posters</Source>
+      <Dest>MOST WANTED|Plan: Wild West Show Posters</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

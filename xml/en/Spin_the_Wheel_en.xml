@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="610134D7">
+      <EDID>E09B_Workshop_Recipe_CappyPlush</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cappy Plush</Source>
+      <Dest>SPIN THE WHEEL|Plan: Cappy Plush</Dest>
+    </String>
+    <String List="0" sID="6101359E">
+      <EDID>E09B_Workshop_Recipe_Stilts</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Stilts</Source>
+      <Dest>SPIN THE WHEEL|Plan: Circus Stilts</Dest>
+    </String>
+    <String List="0" sID="6101359F">
+      <EDID>E09B_Workshop_Recipe_BottlePlush</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bottle Plush</Source>
+      <Dest>SPIN THE WHEEL|Plan: Bottle Plush</Dest>
+    </String>
+    <String List="0" sID="610135A0">
+      <EDID>E09B_Workshop_Recipe_Stairs</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Stairs</Source>
+      <Dest>SPIN THE WHEEL|Plan: Circus Stairs</Dest>
+    </String>
+    <String List="0" sID="610135A1">
+      <EDID>E09B_Workshop_Recipe_SeeSaw</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Seesaw</Source>
+      <Dest>SPIN THE WHEEL|Plan: Circus Seesaw</Dest>
+    </String>
+    <String List="0" sID="610135A2">
+      <EDID>E09B_Workshop_Recipe_Ball</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Walking Globe</Source>
+      <Dest>SPIN THE WHEEL|Plan: Circus Walking Globe</Dest>
+    </String>
+    <String List="0" sID="610135A3">
+      <EDID>E09B_Workshop_Recipe_HulaHoop</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hula Hoop</Source>
+      <Dest>SPIN THE WHEEL|Plan: Hula Hoop</Dest>
+    </String>
+    <String List="0" sID="610135A4">
+      <EDID>E09B_Workshop_Recipe_CubeToy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Cube</Source>
+      <Dest>SPIN THE WHEEL|Plan: Circus Cube</Dest>
+    </String>
+    <String List="0" sID="610135A5">
+      <EDID>E09B_Workshop_Recipe_StageTrim</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Circus Bench</Source>
+      <Dest>SPIN THE WHEEL|Plan: Circus Bench</Dest>
+    </String>
+    <String List="0" sID="610135A7">
+      <EDID>E09B_Workshop_Recipe_CircusStool</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Stool</Source>
+      <Dest>SPIN THE WHEEL|Plan: Nuka-Stool</Dest>
+    </String>
+    <String List="0" sID="610135A8">
+      <EDID>E09B_Workshop_Recipe_Ornament</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Spin the Wheel Ornament</Source>
+      <Dest>SPIN THE WHEEL|Plan: Spin the Wheel Ornament</Dest>
+    </String>
+    <String List="0" sID="61014147">
+      <EDID>E09B_Recipe_Workshop_FloorDecor_Snowglobe_STW</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Spin the Wheel Snow Globe</Source>
+      <Dest>SPIN THE WHEEL|Plan: Spin the Wheel Snow Globe</Dest>
+    </String>
+    <String List="0" sID="6101497D">
+      <EDID>E09B_Workshop_Recipe_Poster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Spin The Wheel Posters</Source>
+      <Dest>SPIN THE WHEEL|Plan: Spin The Wheel Posters</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
