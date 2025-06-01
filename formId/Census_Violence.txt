@@ -1,2 +1,2 @@
-recipe_mod_armor_UnderArmor_Marine_Mk5,
-recipe_mod_armor_UnderArmor_Marine_Mk4,
+"edid|recipe_mod_armor_UnderArmor_Marine_Mk5",
+"edid|recipe_mod_armor_UnderArmor_Marine_Mk4",

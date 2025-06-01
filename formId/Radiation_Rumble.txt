@@ -1,1 +1,1 @@
-Recipe_Workshop_FloorDecor_E05_RadioactiveBarrel,
+"edid|Recipe_Workshop_FloorDecor_E05_RadioactiveBarrel",

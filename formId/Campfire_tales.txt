@@ -1,2 +1,2 @@
-Recipe_Cooking_Smores,
-Recipe_Workshop_MiscStructures_Tent_CampfireTales,
+"edid|Recipe_Cooking_Smores",
+"edid|Recipe_Workshop_MiscStructures_Tent_CampfireTales",

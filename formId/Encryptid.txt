@@ -1,1 +1,1 @@
-Recipe_Weapon_Ranged_TheFixer,
+"edid|Recipe_Weapon_Ranged_TheFixer",
