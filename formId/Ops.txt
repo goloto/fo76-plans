@@ -12,7 +12,6 @@
 "edid|Recipe_Weapon_Ranged_BOSRocketLauncher",
 "edid|recipe_mod_weapon_AutoGrenadeLauncher_material_BloodEagle",
 "edid|Recipe_mod_Handmade_Material_Paint_HotRod",
-"edid|zzz_Recipe_Workshop_FlatwoodsMonsterTube",
 "edid|Recipe_Brewing_LiquidCourage",
 "edid|Recipe_Weapon_Melee_AssaultronBlade_TheGutter",
 "edid|Recipe_Workshop_Lights_CagedBulbLights",

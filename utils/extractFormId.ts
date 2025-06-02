@@ -25,7 +25,15 @@ const extractFormId = async () => {
       }
     })
 
-    filteredStringElements.forEach((element) => edidArray.push(element.innerHTML));
+    filteredStringElements.forEach((element) => {
+      const edid = element.innerHTML;
+      const isSleeping = edid.indexOf('zzz') !== -1;
+      const isNonPlayable = edid.indexOf('NONPLAYABLE') !== -1;
+
+      if (!isSleeping && !isNonPlayable){
+        edidArray.push(element.innerHTML)
+      }
+    });
 
     if (edidArray.length > 0) {
       const edidString = edidArray.map((edid) => `"edid|${edid}",\n`);

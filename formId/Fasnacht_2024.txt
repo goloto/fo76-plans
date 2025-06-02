@@ -1,0 +1,7 @@
+"edid|Recipe_Workshop_FloorDecor_Fasnacht_BeerStein_ScorchbeastQueen",
+"edid|Recipe_Workshop_FloorDecor_HerdsmansBell_Fasnacht",
+"edid|Recipe_Workshop_FloorDecor_HerdsmansBell_Lincoln",
+"edid|Recipe_Workshop_Lights_Fasnacht_BeeswaxCandle",
+"edid|Recipe_Workshop_FloorDecor_Fasnacht_Helvetian_FlowerDisplay",
+"edid|Recipe_Workshop_CAMP_Utility_Fasnacht_MotorizedButterChurn",
+"edid|Recipe_Workshop_FloorDecor_Fasnacht_BeerStein_VeggieMan",
