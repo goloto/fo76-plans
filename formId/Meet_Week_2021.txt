@@ -1,0 +1,6 @@
+plan:
+"edid|Recipe_Weapon_Ranged_PepperShaker",
+"edid|Recipe_Workshop_WallDecor_PlasticFruitWreath",
+"edid|Recipe_Workshop_Crafting_CraftingCooking_GroceryCartGrill",
+"edid|Recipe_Workshop_FloorDecor_DecoyDuckSet",
+"edid|Recipe_Workshop_FloorDecor_PlasticFruitBowl",

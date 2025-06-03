@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="4100AB08">
+      <EDID>Recipe_Meat_Backpack_Standard_Material_WastelandHunter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак охотника с Пустоши</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: рюкзак охотника с Пустоши</Dest>
+    </String>
+    <String List="0" sID="6101C600">
+      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxLeftLeg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окаменевшая левая задняя лапа мегалоникса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшая левая задняя лапа мегалоникса</Dest>
+    </String>
+    <String List="0" sID="6101C601">
+      <EDID>Meat_Recipe_Workshop_Displays_MegalonyxDisplayRack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: витрина с мегалониксом</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: витрина с мегалониксом</Dest>
+    </String>
+    <String List="0" sID="6101C602">
+      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxRightLeg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окаменевшая правая задняя лапа мегалоникса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшая правая задняя лапа мегалоникса</Dest>
+    </String>
+    <String List="0" sID="6101C603">
+      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxSkull</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окаменевший череп мегалоникса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевший череп мегалоникса</Dest>
+    </String>
+    <String List="0" sID="6101C604">
+      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxTorso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окаменевшее туловище мегалоникса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшее туловище мегалоникса</Dest>
+    </String>
+    <String List="0" sID="6101C605">
+      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxRightArm</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окаменевшая правая передняя лапа мегалоникса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшая правая передняя лапа мегалоникса</Dest>
+    </String>
+    <String List="0" sID="6101C606">
+      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxLeftArm</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окаменевшая левая передняя лапа мегалоникса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: окаменевшая левая передняя лапа мегалоникса</Dest>
+    </String>
+    <String List="0" sID="6101C621">
+      <EDID>Meat_Recipe_Plushie_RottedGroundMeat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый гнилой фарш</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевый гнилой фарш</Dest>
+    </String>
+    <String List="0" sID="6101C79F">
+      <EDID>Meat_Recipe_Plushie_GroundMeat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый фарш</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевый фарш</Dest>
+    </String>
+    <String List="0" sID="6101C7A0">
+      <EDID>Meat_Recipe_Plushie_Steak</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый стейк</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевый стейк</Dest>
+    </String>
+    <String List="0" sID="6101C9F9">
+      <EDID>Meat_Recipe_Plushie_RottedRib</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевое гнилое ребро</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевое гнилое ребро</Dest>
+    </String>
+    <String List="0" sID="6101CA1C">
+      <EDID>Recipe_Meat_Workshop_WallDecor_BrahminFlourBillboards</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: щит с рекламой муки для скота</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: щит с рекламой муки для скота</Dest>
+    </String>
+    <String List="0" sID="6101CA1D">
+      <EDID>Meat_Recipe_workshop_floordecor_FliesVFX</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рой мух</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: рой мух</Dest>
+    </String>
+    <String List="0" sID="6101CA1E">
+      <EDID>Meat_Recipe_Plushie_RottedSteak</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый гнилой стейк</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевый гнилой стейк</Dest>
+    </String>
+    <String List="0" sID="6101CA1F">
+      <EDID>Meat_Recipe_Plushie_Rib</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевое ребро</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: плюшевое ребро</Dest>
+    </String>
+    <String List="0" sID="6101CA2C">
+      <EDID>Meat_Recipe_Workshop_CAMP_Utility_WeenieWagon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тележка с хот-догами</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: тележка с хот-догами</Dest>
+    </String>
+    <String List="0" sID="6101CA73">
+      <EDID>Recipe_Meat_NukaShank</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: нож &quot;Ядер-рулька&quot;</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: нож &quot;Ядер-рулька&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
