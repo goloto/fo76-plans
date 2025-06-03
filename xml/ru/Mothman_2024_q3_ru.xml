@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="8100C209">
+      <EDID>E07A_Recipe_Headwear_BoneChillSkullMask</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маска &quot;Жуткий череп&quot;</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: маска &quot;Жуткий череп&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C2D7">
+      <EDID>E07A_Recipe_Headwear_HammeredSkullMask</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маска &quot;Обработанный череп&quot;</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: маска &quot;Обработанный череп&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C2D8">
+      <EDID>E07A_Recipe_Headwear_CrudeSkullMask</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маска &quot;Необработанный череп&quot;</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: маска &quot;Необработанный череп&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C2E1">
+      <EDID>E07A_Recipe_Workshop_Displays_MothsOfWestVirginiaCabinet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шкаф-витрина &quot;Мотыльки Западной Вирджинии&quot;</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: шкаф-витрина &quot;Мотыльки Западной Вирджинии&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C3DD">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_LunaMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сувенир &quot;Сатурния луна&quot;</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир &quot;Сатурния луна&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C3DE">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_VirginiaCreeper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сувенир &quot;Бражник дикого винограда&quot;</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир &quot;Бражник дикого винограда&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C3E1">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_IoMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сувенир &quot;Сатурния ио&quot;</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир &quot;Сатурния ио&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C3E2">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_AmericanDaggerMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сувенир &quot;Стрельчатка американская&quot;</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир &quot;Стрельчатка американская&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C3E3">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_BeautifulWoodNymphMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сувенир &quot;Красивая лесная нимфа&quot;</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир &quot;Красивая лесная нимфа&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C3E5">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_GiantLeopardMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сувенир &quot;Большая леопардовая медведица&quot;</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир &quot;Большая леопардовая медведица&quot;</Dest>
+    </String>
+    <String List="0" sID="8100C415">
+      <EDID>E07A_Recipe_Workshop_Displays_MothsOfWestVirginiaBoard</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: панель &quot;Мотыльки Западной Вирджинии&quot;</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: панель &quot;Мотыльки Западной Вирджинии&quot;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
