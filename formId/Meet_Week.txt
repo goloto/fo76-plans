@@ -1,0 +1,15 @@
+armor:
+"edid|Clothes_Chef_1_Outfit",
+"edid|Headwear_MeatWeek_ChefsHat",
+"edid|Headwear_MeatWeek_ChefsHat2",
+plan:
+"edid|Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag3",
+"edid|Recipe_Cooking_E02A_Meat_ChallysFeed",
+"edid|recipe_mod_melee_MeatTenderizer_Peppered",
+"edid|Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag1",
+"edid|recipe_mod_melee_MeatTenderizer_Salted",
+"edid|recipe_mod_melee_MeatTenderizer_Heated",
+"edid|Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag2",
+"edid|Recipe_Cooking_MeatWeek_TatoSalad",
+"edid|Recipe_Weapon_Melee_MeatTenderizer",
+"edid|Recipe_Weapon_Thrown_MeatCleaver",

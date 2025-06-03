@@ -1,0 +1,7 @@
+plan:
+"edid|E08A_Recipe_Workshop_GulperRug",
+"edid|E08A_Recipe_Workshop_GulperHead",
+"edid|E08A_Recipe_Mod_Melee_GulperSmacker_Blades",
+"edid|E08A_Recipe_Mod_Melee_GulperSmacker_Chains",
+"edid|E08A_Recipe_Weapon_Melee_GulperSmacker",
+"edid|E08A_Recipe_Mod_Melee_GulperSmacker_Nails",

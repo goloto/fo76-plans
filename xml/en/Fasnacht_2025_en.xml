@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="90005BE">
+      <EDID>Headwear_Fasnacht_Mask_VeggieMan_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Veggie Man Mask</Source>
+      <Dest>FASNACHT 2025Q1+|Fasnacht Glowing Veggie Man Mask</Dest>
+    </String>
+    <String List="0" sID="90005BF">
+      <EDID>Headwear_Fasnacht_Mask_Abe_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Abe Mask</Source>
+      <Dest>FASNACHT 2025Q1+|Fasnacht Glowing Abe Mask</Dest>
+    </String>
+    <String List="0" sID="9000793">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxAshRose</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Box - Ash Rose</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flower Box - Ash Rose</Dest>
+    </String>
+    <String List="0" sID="9000799">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxAster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Box - Aster</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flower Box - Aster</Dest>
+    </String>
+    <String List="0" sID="900079F">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxMutatedFern</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Box - Mutated Fern</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flower Box - Mutated Fern</Dest>
+    </String>
+    <String List="0" sID="90007AB">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxRhododendron</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Box - Rhododendron</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flower Box - Rhododendron</Dest>
+    </String>
+    <String List="0" sID="90007B1">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxSootFlower</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flower Box - Soot Flower</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flower Box - Soot Flower</Dest>
+    </String>
+    <String List="0" sID="90007B7">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxMutatedFern</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flowering Box - Mutated Fern</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flowering Box - Mutated Fern</Dest>
+    </String>
+    <String List="0" sID="90007BD">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxSootFlower</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flowering Box - Soot Flower</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flowering Box - Soot Flower</Dest>
+    </String>
+    <String List="0" sID="90007C3">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxAshRose</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flowering Box - Ash Rose</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flowering Box - Ash Rose</Dest>
+    </String>
+    <String List="0" sID="90007C9">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxAster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flowering Box - Aster</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flowering Box - Aster</Dest>
+    </String>
+    <String List="0" sID="90007CF">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxRhododendron</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flowering Box - Rhododendron</Source>
+      <Dest>FASNACHT 2025Q1|Plan: Flowering Box - Rhododendron</Dest>
+    </String>
+    <String List="0" sID="90007D4">
+      <EDID>Headwear_Fasnacht_Mask_Bigfoot_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Bigfoot Mask</Source>
+      <Dest>FASNACHT 2025Q1+|Fasnacht Glowing Bigfoot Mask</Dest>
+    </String>
+    <String List="0" sID="90007D5">
+      <EDID>Headwear_Fasnacht_Mask_Bigfoot</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Bigfoot Mask</Source>
+      <Dest>FASNACHT 2025Q1|Fasnacht Bigfoot Mask</Dest>
+    </String>
+    <String List="0" sID="90007D8">
+      <EDID>Headwear_Fasnacht_Mask_Jackalope_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Glowing Jackalope Mask</Source>
+      <Dest>FASNACHT 2025Q1+|Fasnacht Glowing Jackalope Mask</Dest>
+    </String>
+    <String List="0" sID="90007D9">
+      <EDID>Headwear_Fasnacht_Mask_Jackalope</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fasnacht Jackalope Mask</Source>
+      <Dest>FASNACHT 2025Q1|Fasnacht Jackalope Mask</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

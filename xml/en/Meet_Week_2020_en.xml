@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="41001306">
+      <EDID>Recipe_Workshop_Crafting_CraftingCooking_Animalistic_Grill</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Brahmin Grill</Source>
+      <Dest>MEET WEEK 2020|Plan: Brahmin Grill</Dest>
+    </String>
+    <String List="0" sID="410013FB">
+      <EDID>Headwear_ChallyMascot</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Chally the Moo-Moo Mask</Source>
+      <Dest>MEET WEEK 2020|Chally the Moo-Moo Mask</Dest>
+    </String>
+    <String List="0" sID="410013FC">
+      <EDID>Clothes_ChallyMascot</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Chally the Moo-Moo Outfit</Source>
+      <Dest>MEET WEEK 2020|Chally the Moo-Moo Outfit</Dest>
+    </String>
+    <String List="0" sID="41001400">
+      <EDID>Recipe_Backpack_Standard_Material_Chally</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Chally the Moo-Moo Backpack</Source>
+      <Dest>MEET WEEK 2020|Plan: Chally the Moo-Moo Backpack</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

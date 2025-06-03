@@ -1,0 +1,6 @@
+armor:
+"edid|Headwear_E05_Caravan_Gasmask",
+"edid|Armor_BlueridgeGuardOutfit",
+plan:
+"edid|Recipe_Workshop_WallDecor_BRCCFlag01",
+"edid|Recipe_Backpack_Standard_Material_Blueridge",

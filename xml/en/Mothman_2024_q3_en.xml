@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="8100C209">
+      <EDID>E07A_Recipe_Headwear_BoneChillSkullMask</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bone Chill Skull Mask</Source>
+      <Dest>MOTHMAN 2024Q3|Plan: Bone Chill Skull Mask</Dest>
+    </String>
+    <String List="0" sID="8100C2D7">
+      <EDID>E07A_Recipe_Headwear_HammeredSkullMask</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hammered Skull Mask</Source>
+      <Dest>MOTHMAN 2024Q3|Plan: Hammered Skull Mask</Dest>
+    </String>
+    <String List="0" sID="8100C2D8">
+      <EDID>E07A_Recipe_Headwear_CrudeSkullMask</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Crude Skull Mask</Source>
+      <Dest>MOTHMAN 2024Q3|Plan: Crude Skull Mask</Dest>
+    </String>
+    <String List="0" sID="8100C2E1">
+      <EDID>E07A_Recipe_Workshop_Displays_MothsOfWestVirginiaCabinet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Moths of West Virginia Display Cabinet</Source>
+      <Dest>MOTHMAN 2024Q3|Plan: Moths of West Virginia Display Cabinet</Dest>
+    </String>
+    <String List="0" sID="8100C3DD">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_LunaMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Taxidermy Luna Moth</Source>
+      <Dest>MOTHMAN 2024Q3|Plan: Taxidermy Luna Moth</Dest>
+    </String>
+    <String List="0" sID="8100C3DE">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_VirginiaCreeper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Taxidermy Virginia Creeper Moth</Source>
+      <Dest>MOTHMAN 2024Q3|Plan: Taxidermy Virginia Creeper Moth</Dest>
+    </String>
+    <String List="0" sID="8100C3E1">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_IoMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Taxidermy Io Moth</Source>
+      <Dest>MOTHMAN 2024Q3|Plan: Taxidermy Io Moth</Dest>
+    </String>
+    <String List="0" sID="8100C3E2">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_AmericanDaggerMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Taxidermy American Dagger Moth</Source>
+      <Dest>MOTHMAN 2024Q3|Plan: Taxidermy American Dagger Moth</Dest>
+    </String>
+    <String List="0" sID="8100C3E3">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_BeautifulWoodNymphMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Taxidermy Beautiful Wood Nymph Moth</Source>
+      <Dest>MOTHMAN 2024Q3|Plan: Taxidermy Beautiful Wood Nymph Moth</Dest>
+    </String>
+    <String List="0" sID="8100C3E5">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_GiantLeopardMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Taxidermy Giant Leopard Moth</Source>
+      <Dest>MOTHMAN 2024Q3|Plan: Taxidermy Giant Leopard Moth</Dest>
+    </String>
+    <String List="0" sID="8100C415">
+      <EDID>E07A_Recipe_Workshop_Displays_MothsOfWestVirginiaBoard</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Moths of West Virginia Mounting Board</Source>
+      <Dest>MOTHMAN 2024Q3|Plan: Moths of West Virginia Mounting Board</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

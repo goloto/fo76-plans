@@ -1,0 +1,8 @@
+plan:
+"edid|Recipe_Chems_SFS09_FormulaP",
+plan+:
+"edid|Recipe_Weapon_Melee_BearArm",
+"edid|recipe_mod_melee_BearArm_Puncturing",
+"edid|recipe_mod_melee_BearArm_Heavy",
+plan++:
+"edid|Recipe_Chem_StimGas",

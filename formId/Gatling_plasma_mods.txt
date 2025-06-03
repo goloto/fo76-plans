@@ -1,0 +1,7 @@
+plan++:
+"edid|Recipe_Weapon_Ranged_GatlingPlasma_Receiver_CritDMG",
+"edid|Recipe_Weapon_Ranged_GatlingPlasma_Receiver_Burning",
+"edid|Recipe_Weapon_Ranged_GatlingPlasma_Mag_Ammo",
+"edid|Recipe_Weapon_Ranged_GatlingPlasma_Muzzle_Fast",
+"edid|Recipe_Weapon_Ranged_GatlingPlasma_Mag_ReloadSpeed",
+"edid|Recipe_Weapon_Ranged_GatlingPlasma_Mag_ArmorPen",

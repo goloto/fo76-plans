@@ -1,0 +1,6 @@
+armor:
+"edid|Headwear_ChallyMascot",
+"edid|Clothes_ChallyMascot",
+plan:
+"edid|Recipe_Workshop_Crafting_CraftingCooking_Animalistic_Grill",
+"edid|Recipe_Backpack_Standard_Material_Chally",

@@ -1,0 +1,10 @@
+plan:
+"edid|E09A_Recipe_Workshop_NWOT_DesktopNukaLauncher",
+"edid|E09A_Recipe_Workshop_NWOT_NukaLauncher_Ornament",
+"edid|E09A_Recipe_UltraciteTitanFlair",
+"edid|E09A_Recipe_Workshop_Abomination_Plushie",
+"edid|E09A_Recipe_Workshop_FloorDecor_Snowglobe_NukaLauncher",
+"edid|E09A_Recipe_Workshop_StandalonePoster",
+"edid|NWOT_Recipe_Workshop_FloorDecor_LargeUltraciteShard",
+"edid|E09A_Recipe_Workshop_FloorDecor_LargeUltraciteShard",
+"edid|E09A_Recipe_Workshop_NWOTCoaster_Toy",

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="41002978">
+      <EDID>Recipe_Weapon_Ranged_PepperShaker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pepper Shaker</Source>
+      <Dest>MEET WEEK 2021|Plan: Pepper Shaker</Dest>
+    </String>
+    <String List="0" sID="6100C1AB">
+      <EDID>Recipe_Workshop_WallDecor_PlasticFruitWreath</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Plastic Fruit Wreath</Source>
+      <Dest>MEET WEEK 2021|Plan: Plastic Fruit Wreath</Dest>
+    </String>
+    <String List="0" sID="6100C1AD">
+      <EDID>Recipe_Workshop_Crafting_CraftingCooking_GroceryCartGrill</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Grocery Cart Grill</Source>
+      <Dest>MEET WEEK 2021|Plan: Grocery Cart Grill</Dest>
+    </String>
+    <String List="0" sID="6100C325">
+      <EDID>Recipe_Workshop_FloorDecor_DecoyDuckSet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Decoy Ducks</Source>
+      <Dest>MEET WEEK 2021|Plan: Decoy Ducks</Dest>
+    </String>
+    <String List="0" sID="6101463B">
+      <EDID>Recipe_Workshop_FloorDecor_PlasticFruitBowl</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Plastic Fruit Bowl</Source>
+      <Dest>MEET WEEK 2021|Plan: Plastic Fruit Bowl</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

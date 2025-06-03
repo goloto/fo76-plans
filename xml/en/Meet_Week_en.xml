@@ -7,47 +7,11 @@
     <Version>2</Version>
   </Params>
   <Content>
-    <String List="0" sID="41001306">
-      <EDID>Recipe_Workshop_Crafting_CraftingCooking_Animalistic_Grill</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Brahmin Grill</Source>
-      <Dest>MEET WEEK 2020|Plan: Brahmin Grill</Dest>
-    </String>
-    <String List="0" sID="410013FB">
-      <EDID>Headwear_ChallyMascot</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Chally the Moo-Moo Mask</Source>
-      <Dest>MEET WEEK 2020|Chally the Moo-Moo Mask</Dest>
-    </String>
-    <String List="0" sID="410013FC">
-      <EDID>Clothes_ChallyMascot</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Chally the Moo-Moo Outfit</Source>
-      <Dest>MEET WEEK 2020|Chally the Moo-Moo Outfit</Dest>
-    </String>
-    <String List="0" sID="41001400">
-      <EDID>Recipe_Backpack_Standard_Material_Chally</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Chally the Moo-Moo Backpack</Source>
-      <Dest>MEET WEEK 2020|Plan: Chally the Moo-Moo Backpack</Dest>
-    </String>
-    <String List="0" sID="41002978">
-      <EDID>Recipe_Weapon_Ranged_PepperShaker</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Pepper Shaker</Source>
-      <Dest>MEET WEEK 2021|Plan: Pepper Shaker</Dest>
-    </String>
-    <String List="0" sID="4100AB08">
-      <EDID>Recipe_Meat_Backpack_Standard_Material_WastelandHunter</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Wasteland Hunter Backpack</Source>
-      <Dest>MEET WEEK 2024|Plan: Wasteland Hunter Backpack</Dest>
-    </String>
     <String List="0" sID="61003118">
       <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag3</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Meat Week Flag</Source>
-      <Dest>MEET WEEK 2019|Plan: Meat Week Flag</Dest>
+      <Dest>MEET WEEK|Plan: Meat Week Flag</Dest>
     </String>
     <String List="0" sID="61003120">
       <EDID>Recipe_Cooking_E02A_Meat_ChallysFeed</EDID>
@@ -59,253 +23,79 @@
       <EDID>recipe_mod_melee_MeatTenderizer_Peppered</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Peppered Tenderizer Mod</Source>
-      <Dest>MEET WEEK 2019|Plan: Peppered Tenderizer Mod</Dest>
+      <Dest>MEET WEEK|Plan: Peppered Tenderizer Mod</Dest>
     </String>
     <String List="0" sID="6100313A">
       <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag1</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Meat Week Flag</Source>
-      <Dest>MEET WEEK 2019|Plan: Meat Week Flag</Dest>
+      <Dest>MEET WEEK|Plan: Meat Week Flag</Dest>
     </String>
     <String List="0" sID="6100314B">
       <EDID>recipe_mod_melee_MeatTenderizer_Salted</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Salty Tenderizer Mod</Source>
-      <Dest>MEET WEEK 2019|Plan: Salty Tenderizer Mod</Dest>
+      <Dest>MEET WEEK|Plan: Salty Tenderizer Mod</Dest>
     </String>
     <String List="0" sID="61003153">
       <EDID>recipe_mod_melee_MeatTenderizer_Heated</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Spicy Tenderizer Mod</Source>
-      <Dest>MEET WEEK 2019|Plan: Spicy Tenderizer Mod</Dest>
+      <Dest>MEET WEEK|Plan: Spicy Tenderizer Mod</Dest>
     </String>
     <String List="0" sID="6100315B">
       <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag2</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Meat Week Flag</Source>
-      <Dest>MEET WEEK 2019|Plan: Meat Week Flag</Dest>
+      <Dest>MEET WEEK|Plan: Meat Week Flag</Dest>
     </String>
     <String List="0" sID="61003162">
       <EDID>Recipe_Cooking_MeatWeek_TatoSalad</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Recipe: Tato Salad</Source>
-      <Dest>MEET WEEK 2019|Recipe: Tato Salad</Dest>
+      <Dest>MEET WEEK|Recipe: Tato Salad</Dest>
     </String>
     <String List="0" sID="6100317F">
       <EDID>Recipe_Weapon_Melee_MeatTenderizer</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Meat Tenderizer</Source>
-      <Dest>MEET WEEK 2019|Plan: Meat Tenderizer</Dest>
+      <Dest>MEET WEEK|Plan: Meat Tenderizer</Dest>
     </String>
     <String List="0" sID="61003187">
       <EDID>Recipe_Weapon_Thrown_MeatCleaver</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Meat Cleaver</Source>
-      <Dest>MEET WEEK 2019|Plan: Meat Cleaver</Dest>
+      <Dest>MEET WEEK|Plan: Meat Cleaver</Dest>
     </String>
     <String List="0" sID="610031B7">
       <EDID>Clothes_Chef_1_Outfit</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Bloody Chef Outfit</Source>
-      <Dest>MEET WEEK 2019|Bloody Chef Outfit</Dest>
+      <Dest>MEET WEEK|Bloody Chef Outfit</Dest>
     </String>
     <String List="0" sID="610031B9">
       <EDID>Headwear_MeatWeek_ChefsHat</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Bloody Chef Hat</Source>
-      <Dest>MEET WEEK 2019|Bloody Chef Hat</Dest>
+      <Dest>MEET WEEK|Bloody Chef Hat</Dest>
     </String>
     <String List="0" sID="610031C2">
       <EDID>Headwear_MeatWeek_ChefsHat2</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Grillmaster&apos;s Hat</Source>
-      <Dest>MEET WEEK 2019|Grillmaster&apos;s Hat</Dest>
+      <Dest>MEET WEEK|Grillmaster&apos;s Hat</Dest>
     </String>
     <String List="0" sID="610038F5">
       <EDID>ATX_ENTM_Apparel_HeadWear_1950sChef_02_Hat</EDID>
       <REC>ENTM:FULL</REC>
       <Source>Grillmaster&apos;s Hat</Source>
-      <Dest>MEET WEEK 2019|Grillmaster&apos;s Hat</Dest>
+      <Dest>MEET WEEK|Grillmaster&apos;s Hat</Dest>
     </String>
     <String List="0" sID="610038F7">
       <EDID>ATX_ENTM_Apparel_HeadWear_1950sChef_02_Hat</EDID>
       <REC>ENTM:NNAM</REC>
       <Source>Grillmaster&apos;s Hat</Source>
-      <Dest>MEET WEEK 2019|Grillmaster&apos;s Hat</Dest>
-    </String>
-    <String List="0" sID="6100C1AB">
-      <EDID>Recipe_Workshop_WallDecor_PlasticFruitWreath</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Plastic Fruit Wreath</Source>
-      <Dest>MEET WEEK 2021|Plan: Plastic Fruit Wreath</Dest>
-    </String>
-    <String List="0" sID="6100C1AD">
-      <EDID>Recipe_Workshop_Crafting_CraftingCooking_GroceryCartGrill</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Grocery Cart Grill</Source>
-      <Dest>MEET WEEK 2021|Plan: Grocery Cart Grill</Dest>
-    </String>
-    <String List="0" sID="6100C325">
-      <EDID>Recipe_Workshop_FloorDecor_DecoyDuckSet</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Decoy Ducks</Source>
-      <Dest>MEET WEEK 2021|Plan: Decoy Ducks</Dest>
-    </String>
-    <String List="0" sID="6101463B">
-      <EDID>Recipe_Workshop_FloorDecor_PlasticFruitBowl</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Plastic Fruit Bowl</Source>
-      <Dest>MEET WEEK 2021|Plan: Plastic Fruit Bowl</Dest>
-    </String>
-    <String List="0" sID="610186F0">
-      <EDID>Recipe_Workshop_FloorDecor_Plushie_WilberMcPigg</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Wilber McPigg Plushie</Source>
-      <Dest>MEET WEEK 2023|Plan: Wilber McPigg Plushie</Dest>
-    </String>
-    <String List="0" sID="610186F1">
-      <EDID>Recipe_Workshop_FloorDecor_Plushie_Punty</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Punty Pig Plushie</Source>
-      <Dest>MEET WEEK 2023|Plan: Punty Pig Plushie</Dest>
-    </String>
-    <String List="0" sID="610186F2">
-      <EDID>Recipe_Workshop_FloorDecor_Plushie_Peppino</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Peppino Pig Plushie</Source>
-      <Dest>MEET WEEK 2023|Plan: Peppino Pig Plushie</Dest>
-    </String>
-    <String List="0" sID="610186F3">
-      <EDID>Recipe_Workshop_Lights_Wall_SuperMutantDiagram</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Super Mutant Diagram</Source>
-      <Dest>MEET WEEK 2023|Plan: Super Mutant Diagram</Dest>
-    </String>
-    <String List="0" sID="610186F5">
-      <EDID>Recipe_Workshop_Lights_Wall_MutantHoundDiagram</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Mutant Hound Diagram</Source>
-      <Dest>MEET WEEK 2023|Plan: Mutant Hound Diagram</Dest>
-    </String>
-    <String List="0" sID="6101873E">
-      <EDID>Recipe_Workshop_FloorDecor_Rugs_Bloody</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Bloody Rug</Source>
-      <Dest>MEET WEEK 2023|Plan: Bloody Rug</Dest>
-    </String>
-    <String List="0" sID="61018744">
-      <EDID>Recipe_Workshop_CurtainDoor_Bloody</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Bloody Curtain Door</Source>
-      <Dest>MEET WEEK 2023|Plan: Bloody Curtain Door</Dest>
-    </String>
-    <String List="0" sID="6101B63B">
-      <EDID>Recipe_Workshop_FloorDecor_StuffedMutantHound</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Taxidermy Mutant Hound</Source>
-      <Dest>MEET WEEK 2023|Plan: Taxidermy Mutant Hound</Dest>
-    </String>
-    <String List="0" sID="6101C600">
-      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxLeftLeg</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Fossilized Megalonyx Left Leg</Source>
-      <Dest>MEET WEEK 2024|Plan: Fossilized Megalonyx Left Leg</Dest>
-    </String>
-    <String List="0" sID="6101C601">
-      <EDID>Meat_Recipe_Workshop_Displays_MegalonyxDisplayRack</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Megalonyx Display Rack</Source>
-      <Dest>MEET WEEK 2024|Plan: Megalonyx Display Rack</Dest>
-    </String>
-    <String List="0" sID="6101C602">
-      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxRightLeg</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Fossilized Megalonyx Right Leg</Source>
-      <Dest>MEET WEEK 2024|Plan: Fossilized Megalonyx Right Leg</Dest>
-    </String>
-    <String List="0" sID="6101C603">
-      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxSkull</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Fossilized Megalonyx Skull</Source>
-      <Dest>MEET WEEK 2024|Plan: Fossilized Megalonyx Skull</Dest>
-    </String>
-    <String List="0" sID="6101C604">
-      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxTorso</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Fossilized Megalonyx Torso</Source>
-      <Dest>MEET WEEK 2024|Plan: Fossilized Megalonyx Torso</Dest>
-    </String>
-    <String List="0" sID="6101C605">
-      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxRightArm</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Fossilized Megalonyx Right Arm</Source>
-      <Dest>MEET WEEK 2024|Plan: Fossilized Megalonyx Right Arm</Dest>
-    </String>
-    <String List="0" sID="6101C606">
-      <EDID>Meat_Recipe_Workshop_Souvenirs_MegalonyxLeftArm</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Fossilized Megalonyx Left Arm</Source>
-      <Dest>MEET WEEK 2024|Plan: Fossilized Megalonyx Left Arm</Dest>
-    </String>
-    <String List="0" sID="6101C621">
-      <EDID>Meat_Recipe_Plushie_RottedGroundMeat</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Rotted Ground Meat Plushie</Source>
-      <Dest>MEET WEEK 2024|Plan: Rotted Ground Meat Plushie</Dest>
-    </String>
-    <String List="0" sID="6101C79F">
-      <EDID>Meat_Recipe_Plushie_GroundMeat</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Ground Meat Plushie</Source>
-      <Dest>MEET WEEK 2024|Plan: Ground Meat Plushie</Dest>
-    </String>
-    <String List="0" sID="6101C7A0">
-      <EDID>Meat_Recipe_Plushie_Steak</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Steak Plushie</Source>
-      <Dest>MEET WEEK 2024|Plan: Steak Plushie</Dest>
-    </String>
-    <String List="0" sID="6101C9F9">
-      <EDID>Meat_Recipe_Plushie_RottedRib</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Rotted Rib Plushie</Source>
-      <Dest>MEET WEEK 2024|Plan: Rotted Rib Plushie</Dest>
-    </String>
-    <String List="0" sID="6101CA1C">
-      <EDID>Recipe_Meat_Workshop_WallDecor_BrahminFlourBillboards</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Cattle Flour Billboards</Source>
-      <Dest>MEET WEEK 2024|Plan: Cattle Flour Billboards</Dest>
-    </String>
-    <String List="0" sID="6101CA1D">
-      <EDID>Meat_Recipe_workshop_floordecor_FliesVFX</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Swarm of Flies</Source>
-      <Dest>MEET WEEK 2024|Plan: Swarm of Flies</Dest>
-    </String>
-    <String List="0" sID="6101CA1E">
-      <EDID>Meat_Recipe_Plushie_RottedSteak</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Rotted Steak Plushie</Source>
-      <Dest>MEET WEEK 2024|Plan: Rotted Steak Plushie</Dest>
-    </String>
-    <String List="0" sID="6101CA1F">
-      <EDID>Meat_Recipe_Plushie_Rib</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Rib Plushie</Source>
-      <Dest>MEET WEEK 2024|Plan: Rib Plushie</Dest>
-    </String>
-    <String List="0" sID="6101CA2C">
-      <EDID>Meat_Recipe_Workshop_CAMP_Utility_WeenieWagon</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Weenie Wagon</Source>
-      <Dest>MEET WEEK 2024|Plan: Weenie Wagon</Dest>
-    </String>
-    <String List="0" sID="6101CA73">
-      <EDID>Recipe_Meat_NukaShank</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Plan: Nuka Shank Knife</Source>
-      <Dest>MEET WEEK 2024|Plan: Nuka Shank Knife</Dest>
+      <Dest>MEET WEEK|Grillmaster&apos;s Hat</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

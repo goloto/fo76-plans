@@ -1,0 +1,9 @@
+plan:
+"edid|Recipe_Workshop_FloorDecor_Plushie_WilberMcPigg",
+"edid|Recipe_Workshop_FloorDecor_Plushie_Punty",
+"edid|Recipe_Workshop_FloorDecor_Plushie_Peppino",
+"edid|Recipe_Workshop_Lights_Wall_SuperMutantDiagram",
+"edid|Recipe_Workshop_Lights_Wall_MutantHoundDiagram",
+"edid|Recipe_Workshop_FloorDecor_Rugs_Bloody",
+"edid|Recipe_Workshop_CurtainDoor_Bloody",
+"edid|Recipe_Workshop_FloorDecor_StuffedMutantHound",

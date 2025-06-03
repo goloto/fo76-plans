@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="03FD0B">
+      <EDID>Headwear_Fasnacht_Mask_Harlequin</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска шута для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2024|Маска шута для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="03FD94">
+      <EDID>Headwear_Fasnacht_Mask_Devil</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска гоблина для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2024|Маска гоблина для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="41004290">
+      <EDID>Headwear_Fasnacht_Mask_Loon</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Карнавальная маска чудика</Source>
+      <Dest>ФАСТНАХТ 2024+|Карнавальная маска чудика</Dest>
+    </String>
+    <String List="0" sID="41004291">
+      <EDID>Headwear_Fasnacht_Mask_Hag</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Карнавальная маска ведьмы</Source>
+      <Dest>ФАСТНАХТ 2024+|Карнавальная маска ведьмы</Dest>
+    </String>
+    <String List="0" sID="41004292">
+      <EDID>Headwear_Fasnacht_Mask_Fiend</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Карнавальная маска дьявола</Source>
+      <Dest>ФАСТНАХТ 2024+|Карнавальная маска дьявола</Dest>
+    </String>
+    <String List="0" sID="41009570">
+      <EDID>Recipe_Workshop_FloorDecor_Fasnacht_BeerStein_ScorchbeastQueen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пивная кружка &quot;Матка зверожогов&quot;</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: пивная кружка &quot;Матка зверожогов&quot;</Dest>
+    </String>
+    <String List="0" sID="4100B54A">
+      <EDID>Headwear_Fasnacht_Mask_Turkey_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска индюка для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска индюка для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="4100B758">
+      <EDID>Headwear_Fasnacht_Mask_Minotaur</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска минотавра для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2024|Маска минотавра для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="6101AA7C">
+      <EDID>Headwear_Fasnacht_Mask_ScorchBeastQueen</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска матки зверожогов для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024|Маска матки зверожогов для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="6101AA7D">
+      <EDID>Headwear_Fasnacht_Mask_BlueDevil</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска синего дьявола для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024|Маска синего дьявола для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="6101AA7E">
+      <EDID>Headwear_Fasnacht_Mask_ScorchBeast</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска зверожога для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024|Маска зверожога для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="6101AA7F">
+      <EDID>Headwear_Fasnacht_Mask_HoneyBee</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска пчелы для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024|Маска пчелы для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="6101B0D7">
+      <EDID>Headwear_Fasnacht_Mask_ScorchBeastQueen_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска матки зверожогов для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска матки зверожогов для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="6101B0D9">
+      <EDID>Headwear_Fasnacht_Mask_BlueDevil_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска синего дьявола для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска синего дьявола для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="6101B0DA">
+      <EDID>Headwear_Fasnacht_Mask_HoneyBee_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска пчелы для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска пчелы для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="6101C095">
+      <EDID>zzzATX_ARMO_Headwear_Mask_FasnachtBlueDevil</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска синего дьявола для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024|Маска синего дьявола для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="6101C096">
+      <EDID>Headwear_Fasnacht_Mask_ScorchBeast_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска зверожога для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2024+|Светящаяся маска зверожога для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="6101E0ED">
+      <EDID>Recipe_Workshop_FloorDecor_HerdsmansBell_Fasnacht</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пастуший колокольчик (Фастнахт)</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: пастуший колокольчик (Фастнахт)</Dest>
+    </String>
+    <String List="0" sID="6101E0EE">
+      <EDID>Recipe_Workshop_FloorDecor_HerdsmansBell_Lincoln</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пастуший колокольчик (Линкольн)</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: пастуший колокольчик (Линкольн)</Dest>
+    </String>
+    <String List="0" sID="6101E59E">
+      <EDID>Headwear_Fasnacht_Mask_Alien_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска пришельца для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска пришельца для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="7100215C">
+      <EDID>Headwear_Fasnacht_Mask_Loon_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Карнавальная маска чудика</Source>
+      <Dest>ФАСТНАХТ 2024+|Карнавальная маска чудика</Dest>
+    </String>
+    <String List="0" sID="71002178">
+      <EDID>Headwear_Fasnacht_Mask_Hag_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Карнавальная маска ведьмы</Source>
+      <Dest>ФАСТНАХТ 2024+|Карнавальная маска ведьмы</Dest>
+    </String>
+    <String List="0" sID="71002197">
+      <EDID>Headwear_Fasnacht_Mask_Harlequin_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска шута для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2024|Маска шута для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="710021AB">
+      <EDID>Headwear_Fasnacht_Mask_Fiend_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Карнавальная маска дьявола</Source>
+      <Dest>ФАСТНАХТ 2024+|Карнавальная маска дьявола</Dest>
+    </String>
+    <String List="0" sID="710021B2">
+      <EDID>Headwear_Fasnacht_Mask_Devil_NONPLAYABLE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска гоблина для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2024|Маска гоблина для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="71006C94">
+      <EDID>ATX_Headwear_Fasnacht_Mask_ScorchBeastQueen</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска матки зверожогов для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024|Маска матки зверожогов для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="71006C95">
+      <EDID>ATX_Headwear_Fasnacht_Mask_ScorchBeast</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска зверожога для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024|Маска зверожога для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="71006C97">
+      <EDID>ATX_Headwear_Fasnacht_Mask_HoneyBee</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска пчелы для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024|Маска пчелы для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="8100B25A">
+      <EDID>Headwear_Fasnacht_Mask_Pig_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска свиньи для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска свиньи для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="8100B25D">
+      <EDID>Headwear_Fasnacht_Mask_Pig</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска Фастнахта &quot;Свинья&quot;</Source>
+      <Dest>ФАСНАХТ 2024|Маска Фастнахта &quot;Свинья&quot;</Dest>
+    </String>
+    <String List="0" sID="8100BDA7">
+      <EDID>Headwear_Fasnacht_Mask_Robot_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска робота для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска робота для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="8100BDA9">
+      <EDID>Headwear_Fasnacht_Mask_Unicorn_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска единорога для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска единорога для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="8100BDAC">
+      <EDID>Headwear_Fasnacht_Mask_Alien</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска пришельца для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2024|Маска пришельца для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="8100BDB0">
+      <EDID>Headwear_Fasnacht_Mask_Unicorn</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска единорога для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2024|Маска единорога для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="8100BDB1">
+      <EDID>Headwear_Fasnacht_Mask_Turkey</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска индюка для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2024|Маска индюка для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="8100BDB3">
+      <EDID>Headwear_Fasnacht_Mask_Minotaur_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска минотавра для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024+|Светящаяся маска минотавра для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="8100BDB4">
+      <EDID>Headwear_Fasnacht_Mask_Robot</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска робота для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2024|Маска робота для Фастнахта</Dest>
+    </String>
+    <String List="0" sID="8100BDCE">
+      <EDID>Recipe_Workshop_Lights_Fasnacht_BeeswaxCandle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: восковая свеча</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: восковая свеча</Dest>
+    </String>
+    <String List="0" sID="8100BE26">
+      <EDID>Recipe_Workshop_FloorDecor_Fasnacht_Helvetian_FlowerDisplay</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: витрина &quot;Цветок из Гельвеции&quot;</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: витрина &quot;Цветок из Гельвеции&quot;</Dest>
+    </String>
+    <String List="0" sID="8100BEC4">
+      <EDID>Recipe_Workshop_CAMP_Utility_Fasnacht_MotorizedButterChurn</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: электрическая маслобойка</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: электрическая маслобойка</Dest>
+    </String>
+    <String List="0" sID="8100C4A4">
+      <EDID>Recipe_Workshop_FloorDecor_Fasnacht_BeerStein_VeggieMan</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пивная кружка &quot;Овощной человек&quot; для Фастнахта</Source>
+      <Dest>ФАСТНАХТ 2024|Схема: пивная кружка &quot;Овощной человек&quot; для Фастнахта</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

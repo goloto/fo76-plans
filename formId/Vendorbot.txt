@@ -1,0 +1,3 @@
+plan:
+"edid|Recipe_Workshop_WallDecor_WallClocks_Cuckoo",
+"edid|Recipe_Workshop_WallDecor_WallClocks_NukaCola",

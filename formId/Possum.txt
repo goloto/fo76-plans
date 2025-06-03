@@ -1,0 +1,10 @@
+plan:
+"edid|P01C_Tadpole_Recipe_Backpack_Effect_Refrigerated",
+"edid|P01C_Tadpole_Recipe_Backpack_Effect_HighCapacity",
+"edid|P01C_Tadpole_Recipe_Backpack_Effect_Insulated",
+"edid|P01C_Tadpole_Recipe_Mod_Camera_SnapMatic_Lens_NightVision",
+"edid|P01C_Tadpole_Recipe_Workshop_FloorDecor_Misc_PioneerScout_Possum",
+"edid|P01C_Recipe_Workshop_Container_PioneerScout_StashBox",
+"edid|P01C_Tadpole_Recipe_Backpack_Effect_LeadLined",
+"edid|P01C_Tadpole_Recipe_Backpack_Standard_Material_Scout_Possum",
+"edid|P01C_Tadpole_Recipe_Backpack_Effect_ArmorPlated",

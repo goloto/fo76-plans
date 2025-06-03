@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="610186F0">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_WilberMcPigg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Wilber McPigg Plushie</Source>
+      <Dest>MEET WEEK 2023|Plan: Wilber McPigg Plushie</Dest>
+    </String>
+    <String List="0" sID="610186F1">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Punty</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Punty Pig Plushie</Source>
+      <Dest>MEET WEEK 2023|Plan: Punty Pig Plushie</Dest>
+    </String>
+    <String List="0" sID="610186F2">
+      <EDID>Recipe_Workshop_FloorDecor_Plushie_Peppino</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Peppino Pig Plushie</Source>
+      <Dest>MEET WEEK 2023|Plan: Peppino Pig Plushie</Dest>
+    </String>
+    <String List="0" sID="610186F3">
+      <EDID>Recipe_Workshop_Lights_Wall_SuperMutantDiagram</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Super Mutant Diagram</Source>
+      <Dest>MEET WEEK 2023|Plan: Super Mutant Diagram</Dest>
+    </String>
+    <String List="0" sID="610186F5">
+      <EDID>Recipe_Workshop_Lights_Wall_MutantHoundDiagram</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Mutant Hound Diagram</Source>
+      <Dest>MEET WEEK 2023|Plan: Mutant Hound Diagram</Dest>
+    </String>
+    <String List="0" sID="6101873E">
+      <EDID>Recipe_Workshop_FloorDecor_Rugs_Bloody</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bloody Rug</Source>
+      <Dest>MEET WEEK 2023|Plan: Bloody Rug</Dest>
+    </String>
+    <String List="0" sID="61018744">
+      <EDID>Recipe_Workshop_CurtainDoor_Bloody</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Bloody Curtain Door</Source>
+      <Dest>MEET WEEK 2023|Plan: Bloody Curtain Door</Dest>
+    </String>
+    <String List="0" sID="6101B63B">
+      <EDID>Recipe_Workshop_FloorDecor_StuffedMutantHound</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Taxidermy Mutant Hound</Source>
+      <Dest>MEET WEEK 2023|Plan: Taxidermy Mutant Hound</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

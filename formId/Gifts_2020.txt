@@ -1,0 +1,7 @@
+plan:
+"edid|Recipe_Workshop_WallDecor_WindChime_Molerat",
+"edid|Recipe_Workshop_Bed_PrincessCastlePink_SleepingBag",
+"edid|Recipe_Workshop_WallDecor_CondemnedNotificationSigns",
+"edid|Recipe_Workshop_Ceiling_Light_Truck",
+"edid|Recipe_Workshop_FloorDecor_Musket_Stack_Monument",
+"edid|Recipe_Workshop_FloorDecor_Plushie_Brahmin",

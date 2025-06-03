@@ -1,0 +1,12 @@
+plan:
+"edid|Recipe_Workshop_WallDecor_RustEagleBanner",
+"edid|recipe_mod_PowerArmor_T51_Material_Paint_NewBOS_Knight",
+"edid|recipe_mod_PowerArmor_T51_Material_Paint_NewBOS_Paladin",
+"edid|Recipe_Workshop_Displays_BeerSteins_Robot",
+"edid|Recipe_Workshop_FloorDecor_Globe_Mars",
+"edid|Recipe_Workshop_Bed_CryogenicBed",
+"edid|Recipe_Armor_Botsmith_ArmRight",
+"edid|Recipe_Armor_Botsmith_ArmLeft",
+"edid|Recipe_Armor_Botsmith_LegLeft",
+"edid|Recipe_Armor_Botsmith_LegRight",
+"edid|Recipe_Armor_Botsmith_Torso",
