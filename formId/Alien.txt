@@ -1,3 +1,4 @@
+plan:
 "edid|POST_recipe_mod_AlienBlaster_Scope_ScopeShort_NV",
 "edid|recipe_mod_AlienBlaster_AlienMag_AmmoConversion",
 "edid|Recipe_Weapon_Ranged_AlienBlaster",

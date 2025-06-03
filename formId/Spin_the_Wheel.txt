@@ -1,3 +1,4 @@
+plan:
 "edid|E09B_Workshop_Recipe_CappyPlush",
 "edid|E09B_Workshop_Recipe_Stilts",
 "edid|E09B_Workshop_Recipe_BottlePlush",

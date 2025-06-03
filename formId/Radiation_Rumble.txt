@@ -1,1 +1,4 @@
+armor:
+"edid|Armor_HazmatSuit_E05_Radition",
+plan:
 "edid|Recipe_Workshop_FloorDecor_E05_RadioactiveBarrel",

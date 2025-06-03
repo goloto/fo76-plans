@@ -1,3 +1,4 @@
+plan:
 "edid|Recipe_Workshop_DefensiveStructures_BarbedWireFence",
 "edid|Recipe_Workshop_WallDecor_WallMountedFan",
 "edid|Recipe_Workshop_WallDecor_TatteredCurtainsDUPLICATE000DUPLICATE000",

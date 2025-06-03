@@ -1,3 +1,4 @@
+plan:
 "edid|Recipe_Headwear_Marine_Helmet",
 "edid|Recipe_mod_SuperSledge_Melee_Paint_StrongmanHammer",
 "edid|Recipe_Workshop_FloorDecor_Plushie_Wannamango",

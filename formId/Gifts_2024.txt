@@ -1,3 +1,4 @@
+plan:
 "edid|Recipe_Outfit_JitterbugJudy",
 "edid|Recipe_Workshop_Lights_PlastiformVaultBoyElf",
 "edid|Recipe_Workshop_Lights_PlastiformSnowman",

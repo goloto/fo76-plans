@@ -1,7 +1,14 @@
-"edid|E06_Colossus_Recipe_Workshop_FloorDecor_Rugs_Colossus_Rug",
-"edid|E06_Colossus_Recipe_Workshop_FloorDecor_Taxidermy_WendigoColossus",
+armor+++:
+"edid|E06_Colossus_Headwear_DeepMine_GasMask",
+"edid|E06_Colossus_Headwear_DeepMine_GasMask",
+plan:
 "edid|E06_Colossus_Recipe_Workshop_FloorDecor_WendigoColossus_Plushie",
 "edid|E06_Colossus_Recipe_Workshop_FloorDecor_WendigoColossusMeatPile",
+plan+:
+"edid|E06_Colossus_Recipe_Workshop_FloorDecor_Rugs_Colossus_Rug",
+plan++:
+"edid|E06_Colossus_Recipe_Workshop_FloorDecor_Taxidermy_WendigoColossus",
+plan+++:
 "edid|Recipe_Workshop_Container_StashBox_Supply_Crate_Large",
 "edid|recipe_mod_weapon_LaserGun_material_HotRodFlames",
 "edid|recipe_Headwear_CenturionHelmet",

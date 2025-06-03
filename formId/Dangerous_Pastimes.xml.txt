@@ -1,3 +1,4 @@
+plan:
 "edid|Storm_Recipe_Workshop_LostInATube",
 "edid|Storm_Clothes_Recipe_BurntLabCoat01",
 "edid|Storm_Clothes_Recipe_BurntLabCoat02",

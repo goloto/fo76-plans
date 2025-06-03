@@ -1,3 +1,4 @@
+plan:
 "edid|E07A_Mothman_WiseMothman_Throne",
 "edid|E07A_Recipe_workshop_FloorDecor_MothVFX",
 "edid|E07A_Recipe_Backpack_Standard_Material_Cultist",

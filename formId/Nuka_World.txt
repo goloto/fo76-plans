@@ -1,3 +1,4 @@
+plan:
 "edid|Recipe_Workshop_NWOT_CappyClapper",
 "edid|Recipe_Workshop_NWOT_BottleBot",
 "edid|Recipe_Workshop_FloorDecor_NWOT_Carnival_Statue_04",

@@ -1,1 +1,2 @@
+plan:
 "edid|recipe_mod_Enclave_PlasmaGun_receiver_AntiScorchBeast",

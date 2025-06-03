@@ -1,3 +1,4 @@
+plan:
 "edid|NWOT_Recipe_Food_CarnivalPie",
 "edid|NWOT_Recipe_Food_GulperStuffedFoot",
 "edid|NWOT_Recipe_Food_YaoGuaiPastry",

@@ -1,0 +1,2 @@
+armor:
+"edid|Clothes_Responders_CopUniform",

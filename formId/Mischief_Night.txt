@@ -1,3 +1,4 @@
+plan:
 "edid|Recipe_Workshop_FloorDecor_PumpkinRack04",
 "edid|Recipe_Workshop_FloorDecor_PumpkinRack03",
 "edid|Recipe_Workshop_FloorDecor_PumpkinCarved06",

@@ -1,3 +1,10 @@
+armor:
+"edid|Headwear_ChallyMascot",
+"edid|Clothes_ChallyMascot",
+"edid|Clothes_Chef_1_Outfit",
+"edid|Headwear_MeatWeek_ChefsHat",
+"edid|Headwear_MeatWeek_ChefsHat2",
+plan:
 "edid|Recipe_Workshop_Crafting_CraftingCooking_Animalistic_Grill",
 "edid|Recipe_Backpack_Standard_Material_Chally",
 "edid|Recipe_Weapon_Ranged_PepperShaker",

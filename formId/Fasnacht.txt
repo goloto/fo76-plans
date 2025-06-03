@@ -1,3 +1,14 @@
+armor+:
+"edid|Headwear_Fasnacht_Mask_OldManWinter",
+"edid|ATX_Headwear_Fasnacht_Mask_Deathclaw",
+"edid|Headwear_Fasnacht_Mask_Raven",
+"edid|Armor_PowerArmor_Fasnacht_FatherWinter_Helmet",
+"edid|Headwear_Fasnacht_Mask_CrazyGuy",
+"edid|Headwear_Fasnacht_Mask_Demon",
+"edid|Headwear_Fasnacht_Mask_Brahmin",
+"edid|Headwear_Fasnacht_Mask_Jester",
+"edid|Headwear_Fasnacht_Mask_Deathclaw",
+plan:
 "edid|Recipe_Workshop_WallDecor_76Taxidermy_Megasloth",
 "edid|Recipe_Cooking_Sausage_Fasnacht",
 "edid|Recipe_Cooking_Donut_Fasnacht",

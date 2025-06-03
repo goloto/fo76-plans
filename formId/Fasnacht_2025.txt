@@ -1,3 +1,12 @@
+armor:
+"edid|Headwear_Fasnacht_Mask_Bigfoot",
+"edid|Headwear_Fasnacht_Mask_Jackalope",
+armor+:
+"edid|Headwear_Fasnacht_Mask_VeggieMan_Glow",
+"edid|Headwear_Fasnacht_Mask_Abe_Glow",
+"edid|Headwear_Fasnacht_Mask_Bigfoot_Glow",
+"edid|Headwear_Fasnacht_Mask_Jackalope_Glow",
+plan:
 "edid|Recipe_Workshop_WallDecor_FlowerBoxAshRose",
 "edid|Recipe_Workshop_WallDecor_FlowerBoxAster",
 "edid|Recipe_Workshop_WallDecor_FlowerBoxMutatedFern",

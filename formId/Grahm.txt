@@ -1,3 +1,4 @@
+plan:
 "edid|Recipe_Workshop_Benches_Stone",
 "edid|Recipe_Workshop_WallDecor_WallClocks_Starburst",
 "edid|Recipe_Workshop_Benches_Wood_Park",

@@ -1,3 +1,4 @@
+plan:
 "edid|E09A_Recipe_Workshop_NWOT_DesktopNukaLauncher",
 "edid|E09A_Recipe_Workshop_NWOT_NukaLauncher_Ornament",
 "edid|E09A_Recipe_UltraciteTitanFlair",

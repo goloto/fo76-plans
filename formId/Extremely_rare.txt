@@ -1,0 +1,12 @@
+armor:
+"edid|Clothes_Raider_Suit_01_GlovesB",
+"edid|Clothes_Raider_Suit_02A_GlovesC",
+"edid|Clothes_Raider_Suit_02B_GlovesC",
+"edid|Clothes_AsylumWorkerUniformRed",
+"edid|Clothes_Jumpsuit_WhitePowder",
+"edid|Clothes_Jumpsuit_BOS",
+"edid|Headwear_Responders_FiremanHat",
+"edid|Headwear_EnclaveScoutUniform_Mask_Forest",
+"edid|Clothes_Responders_FiremanUniform",
+"edid|Clothes_Jumpsuit_ForestCamo",
+"edid|Headwear_EnclaveScoutUniform_Mask_Urban",

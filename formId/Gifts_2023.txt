@@ -1,3 +1,4 @@
+plan:
 "edid|Recipe_Workshop_Lights_StarLight_Copy01",
 "edid|Recipe_Workshop_Lights_PlastiformGingerBread",
 "edid|Recipe_Workshop_Lights_PlastiformNutcracker",

@@ -1,1 +1,10 @@
+armor:
+"edid|E01B_Encryptid_Clothes_WhiteFedora",
+armor+:
+"edid|Headwear_SheepsquatchMascotHead",
+"edid|Clothes_SheepsquatchMascotOutfit",
+armor++:
+"edid|Headwear_Sheepsquatch_Imposter_Helmet",
+"edid|Clothes_Sheepsquatch_Imposter_Outfit",
+plan++:
 "edid|Recipe_Weapon_Ranged_TheFixer",

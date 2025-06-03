@@ -1,3 +1,4 @@
+plan:
 "edid|Recipe_Workshop_WallDecor_Whitespring_Mirror",
 "edid|Recipe_Workshop_Lights_Whitespring_Lamps",
 "edid|Recipe_Workshop_FloorDecor_Whitespring_Vases",

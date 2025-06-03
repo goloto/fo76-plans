@@ -1,3 +1,4 @@
+plan:
 "edid|MOON_Herd_Workshop_Recipe_OguaHunterHood",
 "edid|MOON_Herd_Workshop_Recipe_OguaHunterOutfit",
 "edid|MOON_Ambush_Recipe_OguaShellBackpack",

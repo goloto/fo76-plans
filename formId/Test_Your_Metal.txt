@@ -1,3 +1,4 @@
+plan:
 "edid|Recipe_Workshop_WallDecor_RustEagleBanner",
 "edid|recipe_mod_PowerArmor_T51_Material_Paint_NewBOS_Knight",
 "edid|recipe_mod_PowerArmor_T51_Material_Paint_NewBOS_Paladin",

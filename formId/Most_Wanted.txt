@@ -1,3 +1,4 @@
+plan:
 "edid|E09D_Recipe_Headwear_DeputysHat",
 "edid|E09D_Recipe_Headwear_SheriffsHat",
 "edid|E09D_Recipe_Workshop_TownsFolk",

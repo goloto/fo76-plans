@@ -14,33 +14,92 @@ const extractFormId = async () => {
     const string = await file.text();
     const dom = new JSDOM(string, {contentType: 'text/xml'});
     const stringsElementArray = dom?.window?.document?.querySelectorAll('String');
-    const filteredStringElements: Element[] = [];
-    const edidArray: string[] = [];
+    const edidObj = {
+      'armor': <string[]>[],
+      'armor+': <string[]>[],
+      'armor++': <string[]>[],
+      'armor+++': <string[]>[],
+      'plan': <string[]>[],
+      'plan+': <string[]>[],
+      'plan++': <string[]>[],
+      'plan+++': <string[]>[],
+    }
 
     stringsElementArray.forEach((element) => {
-      const containBook = element.innerHTML.indexOf('BOOK:FULL') !== -1;
+      const isBook = element.innerHTML.indexOf('BOOK:FULL') !== -1;
+      const isArmor = element.innerHTML.indexOf('ARMO:FULL') !== -1;
+      const isRareThree = element.innerHTML.indexOf('+++|') !== -1;
+      const isRareTwo = element.innerHTML.indexOf('++|') !== -1;
+      const isRareOne = element.innerHTML.indexOf('+|') !== -1;
 
-      if (containBook) {
-        filteredStringElements.push(element.querySelector('EDID') as Element);
-      }
-    })
-
-    filteredStringElements.forEach((element) => {
-      const edid = element.innerHTML;
+      const edidElement = element.querySelector('EDID') as Element;
+      const edid = edidElement.innerHTML;
       const isSleeping = edid.indexOf('zzz') !== -1;
       const isNonPlayable = edid.indexOf('NONPLAYABLE') !== -1;
 
-      if (!isSleeping && !isNonPlayable){
-        edidArray.push(element.innerHTML)
+      if (isSleeping || isNonPlayable){
+        return;
+      }
+
+      if (isBook && isRareThree) {
+        edidObj['plan+++'].push(edid);
+
+        return;
+      }
+
+      if (isArmor && isRareThree) {
+        edidObj['armor+++'].push(edid);
+
+        return;
+      }
+
+      if (isBook && isRareTwo) {
+        edidObj['plan++'].push(edid);
+
+        return;
+      }
+
+      if (isArmor && isRareTwo) {
+        edidObj['armor++'].push(edid);
+
+        return;
+      }
+
+      if (isBook && isRareOne) {
+        edidObj['plan+'].push(edid);
+
+        return;
+      }
+
+      if (isArmor && isRareOne) {
+        edidObj['armor+'].push(edid);
+
+        return;
+      }
+
+      if (isBook) {
+        edidObj.plan.push(edid);
+
+        return;
+      }
+
+      if (isArmor) {
+        edidObj.armor.push(edid);
+
+        return;
       }
     });
 
-    if (edidArray.length > 0) {
-      const edidString = edidArray.map((edid) => `"edid|${edid}",\n`);
-      const formattedFileName = fileName.replace('_en.xml', '');
-  
-      Bun.write(`./formId/${formattedFileName}.txt`, edidString);
-    }
+    let edidString = '';
+    const formattedFileName = fileName.replace('_en.xml', '');
+
+    Object.entries(edidObj).forEach(([key, edidArray]) => {
+      if (edidArray.length > 0) {
+        edidString = `${edidString}${key}:\n${edidArray.map((edid) => `"edid|${edid}",\n`).join('')}`;
+      }
+    });
+
+    Bun.write(`./formId/${formattedFileName}.txt`, edidString);
   });
 }
 

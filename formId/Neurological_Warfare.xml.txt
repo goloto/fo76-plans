@@ -1,3 +1,4 @@
+plan:
 "edid|Storm_Recipe_Turkey_Backpack",
 "edid|Storm_Clothes_Recipe_LostMediumArmour",
 "edid|Storm_Clothes_Recipe_LostMediumHelmet",
