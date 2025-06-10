@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0494D6">
+      <EDID>Recipe_Weapon_Melee_ShepherdsCrook</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Shepherd&apos;s Crook</Source>
+      <Dest>FREE RANGE|Plan: Shepherd&apos;s Crook</Dest>
+    </String>
+    <String List="0" sID="0494D8">
+      <EDID>recipe_mod_melee_ShepherdsCrook_Toothed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Toothed Shepherd&apos;s Crook</Source>
+      <Dest>FREE RANGE|Plan: Toothed Shepherd&apos;s Crook</Dest>
+    </String>
+    <String List="0" sID="0494D9">
+      <EDID>Recipe_Weapon_Melee_SheepsquatchStaff</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sheepsquatch Staff</Source>
+      <Dest>FREE RANGE|Plan: Sheepsquatch Staff</Dest>
+    </String>
+    <String List="0" sID="0494DA">
+      <EDID>Recipe_Weapon_Melee_SheepsquatchClub</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sheepsquatch Club</Source>
+      <Dest>FREE RANGE|Plan: Sheepsquatch Club</Dest>
+    </String>
+    <String List="0" sID="0494DD">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Barbwire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Barbed Sheepsquatch Club</Source>
+      <Dest>FREE RANGE|Plan: Barbed Sheepsquatch Club</Dest>
+    </String>
+    <String List="0" sID="0494DE">
+      <EDID>recipe_mod_melee_SheepsquatchClub_BurningBarbwire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Burning Barbed Sheepsquatch Club</Source>
+      <Dest>FREE RANGE|Plan: Burning Barbed Sheepsquatch Club</Dest>
+    </String>
+    <String List="0" sID="0494DF">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Barbwire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Barbed Sheepsquatch Staff</Source>
+      <Dest>FREE RANGE|Plan: Barbed Sheepsquatch Staff</Dest>
+    </String>
+    <String List="0" sID="0494E0">
+      <EDID>recipe_mod_melee_ShepherdsCrook_GlassCovered</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Glass Covered Shepherd&apos;s Crook</Source>
+      <Dest>FREE RANGE|Plan: Glass Covered Shepherd&apos;s Crook</Dest>
+    </String>
+    <String List="0" sID="0494E2">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_BurningBarbwire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Burning Barbed Sheepsquatch Staff</Source>
+      <Dest>FREE RANGE|Plan: Burning Barbed Sheepsquatch Staff</Dest>
+    </String>
+    <String List="0" sID="0494E7">
+      <EDID>recipe_mod_melee_ShepherdsCrook_SheepSquatchHorn</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Horned Shepherd&apos;s Crook</Source>
+      <Dest>FREE RANGE|Plan: Horned Shepherd&apos;s Crook</Dest>
+    </String>
+    <String List="0" sID="0494E8">
+      <EDID>recipe_mod_melee_ShepherdsCrook_Spiked</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Spiked Shepherd&apos;s Crook</Source>
+      <Dest>FREE RANGE|Plan: Spiked Shepherd&apos;s Crook</Dest>
+    </String>
+    <String List="0" sID="0494E9">
+      <EDID>recipe_mod_melee_ShepherdsCrook_Shock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Electrified Shepherd&apos;s Crook</Source>
+      <Dest>FREE RANGE|Plan: Electrified Shepherd&apos;s Crook</Dest>
+    </String>
+    <String List="0" sID="61003168">
+      <EDID>Recipe_Weapon_Thrown_SheepsquatchShard</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sheepsquatch Shard</Source>
+      <Dest>FREE RANGE|Plan: Sheepsquatch Shard</Dest>
+    </String>
+    <String List="0" sID="610063F4">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Poison</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Poisoned Sheepsquatch Staff</Source>
+      <Dest>FREE RANGE|Plan: Poisoned Sheepsquatch Staff</Dest>
+    </String>
+    <String List="0" sID="610063F5">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Heavy Sheepsquatch Staff</Source>
+      <Dest>FREE RANGE|Plan: Heavy Sheepsquatch Staff</Dest>
+    </String>
+    <String List="0" sID="610063F6">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Burning Sheepsquatch Club</Source>
+      <Dest>FREE RANGE|Plan: Burning Sheepsquatch Club</Dest>
+    </String>
+    <String List="0" sID="610063F7">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Heavy Sheepsquatch Club</Source>
+      <Dest>FREE RANGE|Plan: Heavy Sheepsquatch Club</Dest>
+    </String>
+    <String List="0" sID="610063F8">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Shock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Electrified Sheepsquatch Staff</Source>
+      <Dest>FREE RANGE|Plan: Electrified Sheepsquatch Staff</Dest>
+    </String>
+    <String List="0" sID="610063F9">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Poison</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Poisoned Sheepsquatch Club</Source>
+      <Dest>FREE RANGE|Plan: Poisoned Sheepsquatch Club</Dest>
+    </String>
+    <String List="0" sID="610063FA">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Shock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Electrified Sheepsquatch Club</Source>
+      <Dest>FREE RANGE|Plan: Electrified Sheepsquatch Club</Dest>
+    </String>
+    <String List="0" sID="610063FB">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Burning Sheepsquatch Staff</Source>
+      <Dest>FREE RANGE|Plan: Burning Sheepsquatch Staff</Dest>
+    </String>
+    <String List="0" sID="6101B2E9">
+      <EDID>Recipe_Cooking_SheepsquatchMeatTasty</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Tasty Mutton Meat Pie</Source>
+      <Dest>FREE RANGE|Recipe: Tasty Mutton Meat Pie</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
