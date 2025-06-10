@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="03F87F">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Cat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова кошки на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова кошки на подставке</Dest>
+    </String>
+    <String List="0" sID="03F884">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Radscorpion</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело радскорпиона</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело радскорпиона</Dest>
+    </String>
+    <String List="0" sID="03F88D">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_FeralGhoul</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова дикого гуля на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова дикого гуля на подставке</Dest>
+    </String>
+    <String List="0" sID="03F8C0">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Brahmin</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: головы брамина на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: головы брамина на подставке</Dest>
+    </String>
+    <String List="0" sID="03F8E2">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_FeralGlowingOne</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова Светящегося на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова Светящегося на подставке</Dest>
+    </String>
+    <String List="0" sID="03F93E">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Radstag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова рад-оленя на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова рад-оленя на подставке</Dest>
+    </String>
+    <String List="0" sID="03F945">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MirelurkKing</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова короля болотников на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова короля болотников на подставке</Dest>
+    </String>
+    <String List="0" sID="03F992">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Radroach</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело рад-таракана</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело рад-таракана</Dest>
+    </String>
+    <String List="0" sID="03F9B5">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Molerat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова кротокрыса на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова кротокрыса на подставке</Dest>
+    </String>
+    <String List="0" sID="03F9FE">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Stingwing</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело жалокрыла</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело жалокрыла</Dest>
+    </String>
+    <String List="0" sID="03FA71">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Bloodbug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело гнуса</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело гнуса</Dest>
+    </String>
+    <String List="0" sID="03FABA">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Deathclaw</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова когтя смерти на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова когтя смерти на подставке</Dest>
+    </String>
+    <String List="0" sID="03FB2B">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Dog</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова собаки на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова собаки на подставке</Dest>
+    </String>
+    <String List="0" sID="03FBA8">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Raddog</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова дворняги на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова дворняги на подставке</Dest>
+    </String>
+    <String List="0" sID="03FBD3">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MirelurkHunter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова болотника-охотника на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова болотника-охотника на подставке</Dest>
+    </String>
+    <String List="0" sID="03FC1C">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Mirelurk</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: клешня болотника на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: клешня болотника на подставке</Dest>
+    </String>
+    <String List="0" sID="03FC25">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Bloatfly</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова дутня на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова дутня на подставке</Dest>
+    </String>
+    <String List="0" sID="03FC6A">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_FEVHound</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова гончей-мутанта на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова гончей-мутанта на подставке</Dest>
+    </String>
+    <String List="0" sID="0465C7">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_RadBeaver</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело бобра</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело бобра</Dest>
+    </String>
+    <String List="0" sID="0465C8">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Fox</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело лисы</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело лисы</Dest>
+    </String>
+    <String List="0" sID="0465C9">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_RadToad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело рад-жабы</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело рад-жабы</Dest>
+    </String>
+    <String List="0" sID="0465CA">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Mothman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело Молерота</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело Молерота</Dest>
+    </String>
+    <String List="0" sID="0465CD">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Tick</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело клеща</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело клеща</Dest>
+    </String>
+    <String List="0" sID="0465CE">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_RadFrogBlue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело лягушки</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело лягушки</Dest>
+    </String>
+    <String List="0" sID="0465CF">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MountedDeerHead</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова оленя на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова оленя на подставке</Dest>
+    </String>
+    <String List="0" sID="0465D1">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Megasloth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело сверхленивца</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело сверхленивца</Dest>
+    </String>
+    <String List="0" sID="0465D2">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_HoneyBeast</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело медозверя</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело медозверя</Dest>
+    </String>
+    <String List="0" sID="0465D3">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Opossum</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело опоссума</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело опоссума</Dest>
+    </String>
+    <String List="0" sID="0465D5">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MountedAntlers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рога на стене</Source>
+      <Dest>ПОДАРКИ 2019|Схема: рога на стене</Dest>
+    </String>
+    <String List="0" sID="0465D7">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_RadSquirrel</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело белки</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело белки</Dest>
+    </String>
+    <String List="0" sID="0465D8">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Snallygaster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело снеллигастера</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело снеллигастера</Dest>
+    </String>
+    <String List="0" sID="055B07">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MountedDeerSkull</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: черепа оленей</Source>
+      <Dest>ПОДАРКИ 2019|Схема: черепа оленей</Dest>
+    </String>
+    <String List="0" sID="410003FB">
+      <EDID>Recipe_Workshop_WallDecor_SantaCrash</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плохой Санта</Source>
+      <Dest>ПОДАРКИ 2019|Схема: плохой Санта</Dest>
+    </String>
+    <String List="0" sID="410003FC">
+      <EDID>Recipe_Workshop_Lights_WinterIcicle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: зимние светящиеся огни</Source>
+      <Dest>ПОДАРКИ 2019|Схема: зимние светящиеся огни</Dest>
+    </String>
+    <String List="0" sID="6100311C">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Gorilla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова гориллы на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова гориллы на подставке</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
