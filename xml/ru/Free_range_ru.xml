@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0494D6">
+      <EDID>Recipe_Weapon_Melee_ShepherdsCrook</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пастуший посох</Source>
+      <Dest>ВЫГУЛ|Схема: пастуший посох</Dest>
+    </String>
+    <String List="0" sID="0494D8">
+      <EDID>recipe_mod_melee_ShepherdsCrook_Toothed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: зубчатый пастуший посох</Source>
+      <Dest>ВЫГУЛ|Схема: зубчатый пастуший посох</Dest>
+    </String>
+    <String List="0" sID="0494D9">
+      <EDID>Recipe_Weapon_Melee_SheepsquatchStaff</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: посох шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: посох шипсквотча</Dest>
+    </String>
+    <String List="0" sID="0494DA">
+      <EDID>Recipe_Weapon_Melee_SheepsquatchClub</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: батог шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: батог шипсквотча</Dest>
+    </String>
+    <String List="0" sID="0494DD">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Barbwire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Батог шипсквотча, обмотанный колючей проволокой&quot;</Source>
+      <Dest>ВЫГУЛ|Схема: модификация &quot;Батог шипсквотча, обмотанный колючей проволокой&quot;</Dest>
+    </String>
+    <String List="0" sID="0494DE">
+      <EDID>recipe_mod_melee_SheepsquatchClub_BurningBarbwire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Батог шипсквотча, обмотанный горящей колючей проволокой&quot;</Source>
+      <Dest>ВЫГУЛ|Схема: модификация &quot;Батог шипсквотча, обмотанный горящей колючей проволокой&quot;</Dest>
+    </String>
+    <String List="0" sID="0494DF">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Barbwire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Посох шипсквотча, обмотанный колючей проволокой&quot;</Source>
+      <Dest>ВЫГУЛ|Схема: модификация &quot;Посох шипсквотча, обмотанный колючей проволокой&quot;</Dest>
+    </String>
+    <String List="0" sID="0494E0">
+      <EDID>recipe_mod_melee_ShepherdsCrook_GlassCovered</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пастуший посох, покрытый стеклом</Source>
+      <Dest>ВЫГУЛ|Схема: пастуший посох, покрытый стеклом</Dest>
+    </String>
+    <String List="0" sID="0494E2">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_BurningBarbwire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Посох шипсквотча, обмотанный горящей колючей проволокой&quot;</Source>
+      <Dest>ВЫГУЛ|Схема: модификация &quot;Посох шипсквотча, обмотанный горящей колючей проволокой&quot;</Dest>
+    </String>
+    <String List="0" sID="0494E7">
+      <EDID>recipe_mod_melee_ShepherdsCrook_SheepSquatchHorn</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация &quot;Пастуший посох с рогами&quot;</Source>
+      <Dest>ВЫГУЛ|Схема: модификация &quot;Пастуший посох с рогами&quot;</Dest>
+    </String>
+    <String List="0" sID="0494E8">
+      <EDID>recipe_mod_melee_ShepherdsCrook_Spiked</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пастуший посох с шипами</Source>
+      <Dest>ВЫГУЛ|Схема: пастуший посох с шипами</Dest>
+    </String>
+    <String List="0" sID="0494E9">
+      <EDID>recipe_mod_melee_ShepherdsCrook_Shock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: электрический пастуший посох</Source>
+      <Dest>ВЫГУЛ|Схема: электрический пастуший посох</Dest>
+    </String>
+    <String List="0" sID="61003168">
+      <EDID>Recipe_Weapon_Thrown_SheepsquatchShard</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: игла шипскотча</Source>
+      <Dest>ВЫГУЛ|Схема: игла шипскотча</Dest>
+    </String>
+    <String List="0" sID="610063F4">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Poison</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: отравленный посох шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: отравленный посох шипсквотча</Dest>
+    </String>
+    <String List="0" sID="610063F5">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелый посох шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: тяжелый посох шипсквотча</Dest>
+    </String>
+    <String List="0" sID="610063F6">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: горящий батог шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: горящий батог шипсквотча</Dest>
+    </String>
+    <String List="0" sID="610063F7">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелый батог шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: тяжелый батог шипсквотча</Dest>
+    </String>
+    <String List="0" sID="610063F8">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Shock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: электрический посох шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: электрический посох шипсквотча</Dest>
+    </String>
+    <String List="0" sID="610063F9">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Poison</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: отравленный батог шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: отравленный батог шипсквотча</Dest>
+    </String>
+    <String List="0" sID="610063FA">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Shock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: электрический батог шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: электрический батог шипсквотча</Dest>
+    </String>
+    <String List="0" sID="610063FB">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: горящий посох шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: горящий посох шипсквотча</Dest>
+    </String>
+    <String List="0" sID="6101B2E9">
+      <EDID>Recipe_Cooking_SheepsquatchMeatTasty</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: вкусный пирог с бараниной</Source>
+      <Dest>ВЫГУЛ|Рецепт: вкусный пирог с бараниной</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

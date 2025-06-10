@@ -1,0 +1,12 @@
+plan:
+"edid|E07A_Recipe_Headwear_BoneChillSkullMask",
+"edid|E07A_Recipe_Headwear_HammeredSkullMask",
+"edid|E07A_Recipe_Headwear_CrudeSkullMask",
+"edid|E07A_Recipe_Workshop_Displays_MothsOfWestVirginiaCabinet",
+"edid|E07A_Recipe_Tinkers_Souvenir_Moths_LunaMoth",
+"edid|E07A_Recipe_Tinkers_Souvenir_Moths_VirginiaCreeper",
+"edid|E07A_Recipe_Tinkers_Souvenir_Moths_IoMoth",
+"edid|E07A_Recipe_Tinkers_Souvenir_Moths_AmericanDaggerMoth",
+"edid|E07A_Recipe_Tinkers_Souvenir_Moths_BeautifulWoodNymphMoth",
+"edid|E07A_Recipe_Tinkers_Souvenir_Moths_GiantLeopardMoth",
+"edid|E07A_Recipe_Workshop_Displays_MothsOfWestVirginiaBoard",
