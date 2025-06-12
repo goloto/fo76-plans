@@ -1,0 +1,725 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="03F88C">
+      <EDID>Recipe_Tinkers_MineCryo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: криогенная мина</Source>
+      <Dest>МУТАЦИИ|Схема: криогенная мина</Dest>
+    </String>
+    <String List="0" sID="03F88E">
+      <EDID>Recipe_Tinkers_GrenadePulse</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: импульсная граната</Source>
+      <Dest>МУТАЦИИ+|Схема: импульсная граната</Dest>
+    </String>
+    <String List="0" sID="03F8B8">
+      <EDID>Recipe_Armor_Robot_Legs_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: легкая броня робота для ног</Source>
+      <Dest>МУТАЦИИ|Схема: легкая броня робота для ног</Dest>
+    </String>
+    <String List="0" sID="03F8C3">
+      <EDID>Recipe_Armor_Marine_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня морской пехоты для туловища</Source>
+      <Dest>МУТАЦИИ+|Схема: броня морской пехоты для туловища</Dest>
+    </String>
+    <String List="0" sID="03F919">
+      <EDID>Recipe_Tinkers_MinePlasma</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плазменная мина</Source>
+      <Dest>МУТАЦИИ|Схема: плазменная мина</Dest>
+    </String>
+    <String List="0" sID="03F938">
+      <EDID>Recipe_Armor_Metal_Torso_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: легкая металлическая броня для туловища</Source>
+      <Dest>МУТАЦИИ|Схема: легкая металлическая броня для туловища</Dest>
+    </String>
+    <String List="0" sID="03F947">
+      <EDID>recipe_DiseaseCure_HerbalMedicine_TheMire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: лекарство (Топь)</Source>
+      <Dest>МУТАЦИИ+|Рецепт: лекарство (Топь)</Dest>
+    </String>
+    <String List="0" sID="03F957">
+      <EDID>Recipe_Tinkers_GrenadeNuka</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: граната с Ядер-колой</Source>
+      <Dest>МУТАЦИИ+|Схема: граната с Ядер-колой</Dest>
+    </String>
+    <String List="0" sID="03F981">
+      <EDID>recipe_DiseaseCure_HerbalMedicine_CranberryBog</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: лекарство (Клюквенное болото)</Source>
+      <Dest>МУТАЦИИ+|Рецепт: лекарство (Клюквенное болото)</Dest>
+    </String>
+    <String List="0" sID="03F9AB">
+      <EDID>Recipe_Tinkers_GrenadeFragMIRV</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: разделяющаяся осколочная граната</Source>
+      <Dest>МУТАЦИИ+|Схема: разделяющаяся осколочная граната</Dest>
+    </String>
+    <String List="0" sID="03F9B7">
+      <EDID>recipe_DiseaseCure_HerbalMedicine_ToxicValley</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: лекарство (Ядовитая долина)</Source>
+      <Dest>МУТАЦИИ+|Рецепт: лекарство (Ядовитая долина)</Dest>
+    </String>
+    <String List="0" sID="03F9F3">
+      <EDID>Recipe_Tinkers_MineNuke</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ядерная мина</Source>
+      <Dest>МУТАЦИИ|Схема: ядерная мина</Dest>
+    </String>
+    <String List="0" sID="03FA0E">
+      <EDID>Recipe_Armor_Robot_Arms_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: легкая броня робота для рук</Source>
+      <Dest>МУТАЦИИ|Схема: легкая броня робота для рук</Dest>
+    </String>
+    <String List="0" sID="03FA27">
+      <EDID>Recipe_Armor_Marine_Legs</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня морской пехоты для ног</Source>
+      <Dest>МУТАЦИИ+|Схема: броня морской пехоты для ног</Dest>
+    </String>
+    <String List="0" sID="03FA45">
+      <EDID>Recipe_Tinkers_GrenadeNukaQuantum</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: граната с Квантовой Ядер-колой</Source>
+      <Dest>МУТАЦИИ+|Схема: граната с Квантовой Ядер-колой</Dest>
+    </String>
+    <String List="0" sID="03FA52">
+      <EDID>Recipe_Tinkers_GrenadeCryo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: криогенная граната</Source>
+      <Dest>МУТАЦИИ+|Схема: криогенная граната</Dest>
+    </String>
+    <String List="0" sID="03FAC3">
+      <EDID>Recipe_Weapon_Mod_Ranged_LaserGun_SCOPE_MediumScope_Base</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: средний прицел лазера</Source>
+      <Dest>МУТАЦИИ+|Схема: средний прицел лазера</Dest>
+    </String>
+    <String List="0" sID="03FADC">
+      <EDID>recipe_DiseaseCure_HerbalMedicine_AshHeap</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: лекарство (Шлаковая бездна)</Source>
+      <Dest>МУТАЦИИ+|Рецепт: лекарство (Шлаковая бездна)</Dest>
+    </String>
+    <String List="0" sID="03FAEA">
+      <EDID>Recipe_Tinkers_MinePulse</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: импульсная мина</Source>
+      <Dest>МУТАЦИИ|Схема: импульсная мина</Dest>
+    </String>
+    <String List="0" sID="03FAFF">
+      <EDID>Recipe_Tinkers_GrenadePlasma</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плазменная граната</Source>
+      <Dest>МУТАЦИИ+|Схема: плазменная граната</Dest>
+    </String>
+    <String List="0" sID="03FB6A">
+      <EDID>Recipe_Armor_Marine_Arms</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня морской пехоты для рук</Source>
+      <Dest>МУТАЦИИ+|Схема: броня морской пехоты для рук</Dest>
+    </String>
+    <String List="0" sID="03FB76">
+      <EDID>Recipe_Weapon_Ranged_AssaultRifle_MQ</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: штурмовой карабин</Source>
+      <Dest>МУТАЦИИ+|Схема: штурмовой карабин</Dest>
+    </String>
+    <String List="0" sID="03FBF4">
+      <EDID>Recipe_Armor_Robot_Torso_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: легкая броня робота для туловища</Source>
+      <Dest>МУТАЦИИ|Схема: легкая броня робота для туловища</Dest>
+    </String>
+    <String List="0" sID="03FC21">
+      <EDID>recipe_DiseaseCure_HerbalMedicine_SavageDivide</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: лекарство (Дикий рубеж)</Source>
+      <Dest>МУТАЦИИ+|Рецепт: лекарство (Дикий рубеж)</Dest>
+    </String>
+    <String List="0" sID="03FC22">
+      <EDID>Recipe_Armor_Metal_Legs_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: легкая металлическая броня для ног</Source>
+      <Dest>МУТАЦИИ|Схема: легкая металлическая броня для ног</Dest>
+    </String>
+    <String List="0" sID="03FC6F">
+      <EDID>Recipe_Armor_Metal_Arms_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: легкая металлическая броня для рук</Source>
+      <Dest>МУТАЦИИ|Схема: легкая металлическая броня для рук</Dest>
+    </String>
+    <String List="0" sID="041096">
+      <EDID>recipe_Armor_VaultSuitVT_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: комбинезон университета &quot;Волт-Тек&quot;</Source>
+      <Dest>МУТАЦИИ|Схема: комбинезон университета &quot;Волт-Тек&quot;</Dest>
+    </String>
+    <String List="0" sID="041098">
+      <EDID>recipe_Armor_Casual_Underarmor_ShirtJeans</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: майка и джинсы</Source>
+      <Dest>МУТАЦИИ|Схема: майка и джинсы</Dest>
+    </String>
+    <String List="0" sID="04109A">
+      <EDID>recipe_Armor_VaultSuit76_Underarmor_Clean</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: комбинезон Убежища 76</Source>
+      <Dest>МУТАЦИИ|Схема: комбинезон Убежища 76</Dest>
+    </String>
+    <String List="0" sID="04109B">
+      <EDID>recipe_Armor_BoS_Officer_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: форма офицера Братства Стали</Source>
+      <Dest>МУТАЦИИ|Схема: форма офицера Братства Стали</Dest>
+    </String>
+    <String List="0" sID="04109C">
+      <EDID>recipe_Armor_Casual_Underarmor_FlannelJeans</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фланелевая рубашка и джинсы</Source>
+      <Dest>МУТАЦИИ|Схема: фланелевая рубашка и джинсы</Dest>
+    </String>
+    <String List="0" sID="04109D">
+      <EDID>recipe_Armor_BoS_Soldier_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: форма солдата Братства Стали</Source>
+      <Dest>МУТАЦИИ|Схема: форма солдата Братства Стали</Dest>
+    </String>
+    <String List="0" sID="04109E">
+      <EDID>recipe_Armor_Marine_Underarmor_Wetsuit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гидрокостюм морской пехоты</Source>
+      <Dest>МУТАЦИИ|Схема: гидрокостюм морской пехоты</Dest>
+    </String>
+    <String List="0" sID="04109F">
+      <EDID>recipe_Armor_BoS_Knight_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: форма рыцаря Братства Стали</Source>
+      <Dest>МУТАЦИИ|Схема: форма рыцаря Братства Стали</Dest>
+    </String>
+    <String List="0" sID="0414CD">
+      <EDID>recipe_mod_melee_BoxingGlove_ExtraHeavyHead</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: боксерский нарукавник со свинцом</Source>
+      <Dest>МУТАЦИИ|Схема: боксерский нарукавник со свинцом</Dest>
+    </String>
+    <String List="0" sID="041587">
+      <EDID>recipe_mod_armor_Robot_Lining_Limb_Lighter2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сверхлегкие конечности брони робота</Source>
+      <Dest>МУТАЦИИ+|Схема: сверхлегкие конечности брони робота</Dest>
+    </String>
+    <String List="0" sID="04158E">
+      <EDID>recipe_mod_armor_Robot_Torso_Material_Shadowed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: нагрудник темной брони робота</Source>
+      <Dest>МУТАЦИИ+|Схема: нагрудник темной брони робота</Dest>
+    </String>
+    <String List="0" sID="041597">
+      <EDID>recipe_mod_armor_Robot_Lining_Limb_ImprovedCarryCapacity</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: конечности брони робота с карманами</Source>
+      <Dest>МУТАЦИИ+|Схема: конечности брони робота с карманами</Dest>
+    </String>
+    <String List="0" sID="04159E">
+      <EDID>recipe_mod_armor_Robot_Lining_Torso_ImprovedCarryCapacity2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: нагрудник брони робота с глубокими карманами</Source>
+      <Dest>МУТАЦИИ+|Схема: нагрудник брони робота с глубокими карманами</Dest>
+    </String>
+    <String List="0" sID="0415A4">
+      <EDID>recipe_mod_armor_Robot_Arm_Material_Shadowed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: руки темной брони робота</Source>
+      <Dest>МУТАЦИИ+|Схема: руки темной брони робота</Dest>
+    </String>
+    <String List="0" sID="0415A6">
+      <EDID>recipe_mod_armor_Robot_Lining_Limb_ImprovedCarryCapacity2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: конечности брони робота с глубокими карманами</Source>
+      <Dest>МУТАЦИИ+|Схема: конечности брони робота с глубокими карманами</Dest>
+    </String>
+    <String List="0" sID="0415AD">
+      <EDID>recipe_mod_armor_Robot_Lining_Torso_Mesh_BioComm</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обшивка из биосети для брони робота</Source>
+      <Dest>МУТАЦИИ+|Схема: обшивка из биосети для брони робота</Dest>
+    </String>
+    <String List="0" sID="0415B3">
+      <EDID>recipe_mod_armor_Robot_Lining_Limb_ResistanceLimbDamage</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: укрепленные конечности брони робота</Source>
+      <Dest>МУТАЦИИ+|Схема: укрепленные конечности брони робота</Dest>
+    </String>
+    <String List="0" sID="0415B8">
+      <EDID>recipe_mod_armor_Robot_Lining_LimbLeg_ReducedFallingDamage</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: амортизирующие ноги брони робота</Source>
+      <Dest>МУТАЦИИ+|Схема: амортизирующие ноги брони робота</Dest>
+    </String>
+    <String List="0" sID="0415B9">
+      <EDID>recipe_mod_armor_Robot_Lining_Torso_Lighter2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сверхлегкий нагрудник брони робота</Source>
+      <Dest>МУТАЦИИ+|Схема: сверхлегкий нагрудник брони робота</Dest>
+    </String>
+    <String List="0" sID="0415C6">
+      <EDID>recipe_mod_armor_Robot_Lining_Torso_ImprovedCarryCapacity</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: нагрудник брони робота с карманами</Source>
+      <Dest>МУТАЦИИ+|Схема: нагрудник брони робота с карманами</Dest>
+    </String>
+    <String List="0" sID="0415CC">
+      <EDID>recipe_mod_armor_Robot_Leg_Material_Shadowed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ноги темной брони робота</Source>
+      <Dest>МУТАЦИИ+|Схема: ноги темной брони робота</Dest>
+    </String>
+    <String List="0" sID="0416F6">
+      <EDID>recipe_mod_melee_SkiSword_SkateBlade</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: коньковое лезвие лыжи-меча</Source>
+      <Dest>МУТАЦИИ|Схема: коньковое лезвие лыжи-меча</Dest>
+    </String>
+    <String List="0" sID="0416FC">
+      <EDID>recipe_DLC04_mod_melee_Sledgehammer_ExtraHeavyHead_Rocket_Spikes</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелый шипованный реактивный молот</Source>
+      <Dest>МУТАЦИИ|Схема: тяжелый шипованный реактивный молот</Dest>
+    </String>
+    <String List="0" sID="0416FD">
+      <EDID>recipe_mod_melee_WalkingCane_Spikes</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: посох с шипами</Source>
+      <Dest>МУТАЦИИ+|Схема: посох с шипами</Dest>
+    </String>
+    <String List="0" sID="041702">
+      <EDID>recipe_mod_melee_Pitchfork_Flamer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трезубец-огнемет</Source>
+      <Dest>МУТАЦИИ+|Схема: трезубец-огнемет</Dest>
+    </String>
+    <String List="0" sID="041705">
+      <EDID>recipe_mod_melee_Hatchet_ElectroFusion</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: топор с электросинтезом</Source>
+      <Dest>МУТАЦИИ+|Схема: топор с электросинтезом</Dest>
+    </String>
+    <String List="0" sID="041706">
+      <EDID>recipe_mod_melee_WalkingCane_SpikesSmall</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: посох с зазубринами</Source>
+      <Dest>МУТАЦИИ+|Схема: посох с зазубринами</Dest>
+    </String>
+    <String List="0" sID="04305B">
+      <EDID>Recipe_Chems_HealingSalveCranberryBog</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: целебная мазь (Клюквенное болото)</Source>
+      <Dest>МУТАЦИИ+|Рецепт: целебная мазь (Клюквенное болото)</Dest>
+    </String>
+    <String List="0" sID="04305C">
+      <EDID>Recipe_Chems_HealingSalveAshHeap</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: целебная мазь (Шлаковая бездна)</Source>
+      <Dest>МУТАЦИИ+|Рецепт: целебная мазь (Шлаковая бездна)</Dest>
+    </String>
+    <String List="0" sID="04305E">
+      <EDID>Recipe_Chems_HealingSalveToxicValley</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: целебная мазь (Ядовитая долина)</Source>
+      <Dest>МУТАЦИИ+|Рецепт: целебная мазь (Ядовитая долина)</Dest>
+    </String>
+    <String List="0" sID="043061">
+      <EDID>Recipe_Chems_HealingSalveForest</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: целебная мазь (Лес)</Source>
+      <Dest>МУТАЦИИ+|Рецепт: целебная мазь (Лес)</Dest>
+    </String>
+    <String List="0" sID="043063">
+      <EDID>Recipe_Chems_SkeetoSpit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: слюна скито</Source>
+      <Dest>МУТАЦИИ+|Рецепт: слюна скито</Dest>
+    </String>
+    <String List="0" sID="043067">
+      <EDID>Recipe_Chems_HealingSalveSavageDivide</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: целебная мазь (Дикий рубеж)</Source>
+      <Dest>МУТАЦИИ+|Рецепт: целебная мазь (Дикий рубеж)</Dest>
+    </String>
+    <String List="0" sID="04306A">
+      <EDID>Recipe_Chems_HealingSalveMire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: целебная мазь (Топь)</Source>
+      <Dest>МУТАЦИИ+|Рецепт: целебная мазь (Топь)</Dest>
+    </String>
+    <String List="0" sID="043809">
+      <EDID>Recipe_Chems_CuttingFluid</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: смазочно-охлаждающая жидкость</Source>
+      <Dest>МУТАЦИИ|Рецепт: смазочно-охлаждающая жидкость</Dest>
+    </String>
+    <String List="0" sID="043F57">
+      <EDID>Recipe_Armor_Raider_Legs_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прочная броня рейдера для ног</Source>
+      <Dest>МУТАЦИИ|Схема: прочная броня рейдера для ног</Dest>
+    </String>
+    <String List="0" sID="043F5A">
+      <EDID>Recipe_Armor_Raider_Torso_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прочная броня рейдера для туловища</Source>
+      <Dest>МУТАЦИИ|Схема: прочная броня рейдера для туловища</Dest>
+    </String>
+    <String List="0" sID="043F5B">
+      <EDID>Recipe_Armor_Raider_Arms_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прочная броня рейдера для рук</Source>
+      <Dest>МУТАЦИИ|Схема: прочная броня рейдера для рук</Dest>
+    </String>
+    <String List="0" sID="0445B8">
+      <EDID>recipe_mod_armor_UnderArmor_Raider_Mk5</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: экранированная обшивка поддоспешника рейдера</Source>
+      <Dest>МУТАЦИИ+|Схема: экранированная обшивка поддоспешника рейдера</Dest>
+    </String>
+    <String List="0" sID="0445BD">
+      <EDID>recipe_mod_armor_UnderArmor_Raider_Mk4</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: защитная обшивка поддоспешника рейдера</Source>
+      <Dest>МУТАЦИИ+|Схема: защитная обшивка поддоспешника рейдера</Dest>
+    </String>
+    <String List="0" sID="0449C2">
+      <EDID>recipe_Clothes_HalloweenCostume01_Witch</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм ведьмы</Source>
+      <Dest>МУТАЦИИ|Схема: костюм ведьмы</Dest>
+    </String>
+    <String List="0" sID="0449C3">
+      <EDID>recipe_Clothes_CivilWarEraDress</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: платье времен Гражданской войны</Source>
+      <Dest>МУТАЦИИ|Схема: платье времен Гражданской войны</Dest>
+    </String>
+    <String List="0" sID="0449C5">
+      <EDID>recipe_Clothes_CivilWarEraSuit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм времен Гражданской войны</Source>
+      <Dest>МУТАЦИИ|Схема: костюм времен Гражданской войны</Dest>
+    </String>
+    <String List="0" sID="0449C6">
+      <EDID>recipe_Clothes_CivilWarUniformUnion</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: форма солдата-северянина</Source>
+      <Dest>МУТАЦИИ|Схема: форма солдата-северянина</Dest>
+    </String>
+    <String List="0" sID="0449C7">
+      <EDID>recipe_Clothes_SkiingPurpleAndWhiteOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм лыжника</Source>
+      <Dest>МУТАЦИИ|Схема: костюм лыжника</Dest>
+    </String>
+    <String List="0" sID="0449C8">
+      <EDID>recipe_Clothes_HalloweenCostume02_Skeleton</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм скелета</Source>
+      <Dest>МУТАЦИИ|Схема: костюм скелета</Dest>
+    </String>
+    <String List="0" sID="044C7A">
+      <EDID>Recipe_mod_PowerArmor_T60_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: яркий налобный фонарь T-60</Source>
+      <Dest>МУТАЦИИ+|Схема: яркий налобный фонарь T-60</Dest>
+    </String>
+    <String List="0" sID="044C8A">
+      <EDID>Recipe_mod_PowerArmor_Raider_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рейдерский налобный фонарь &quot;Волт-Бой&quot;</Source>
+      <Dest>МУТАЦИИ|Схема: рейдерский налобный фонарь &quot;Волт-Бой&quot;</Dest>
+    </String>
+    <String List="0" sID="044CB3">
+      <EDID>Recipe_mod_PowerArmor_T51_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: яркий налобный фонарь T-51b</Source>
+      <Dest>МУТАЦИИ+|Схема: яркий налобный фонарь T-51b</Dest>
+    </String>
+    <String List="0" sID="044CC1">
+      <EDID>Recipe_mod_PowerArmor_T45_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: красный тактический налобный фонарь T-45</Source>
+      <Dest>МУТАЦИИ|Схема: красный тактический налобный фонарь T-45</Dest>
+    </String>
+    <String List="0" sID="044CC5">
+      <EDID>Recipe_mod_PowerArmor_T60_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фиолетовый налобный фонарь T-60</Source>
+      <Dest>МУТАЦИИ+|Схема: фиолетовый налобный фонарь T-60</Dest>
+    </String>
+    <String List="0" sID="044CC7">
+      <EDID>Recipe_mod_PowerArmor_T45_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фиолетовый налобный фонарь T-45</Source>
+      <Dest>МУТАЦИИ|Схема: фиолетовый налобный фонарь T-45</Dest>
+    </String>
+    <String List="0" sID="044CC9">
+      <EDID>Recipe_mod_PowerArmor_T60_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: красный тактический налобный фонарь T-60</Source>
+      <Dest>МУТАЦИИ+|Схема: красный тактический налобный фонарь T-60</Dest>
+    </String>
+    <String List="0" sID="044CFC">
+      <EDID>Recipe_mod_PowerArmor_Raider_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: яркий рейдерский налобный фонарь</Source>
+      <Dest>МУТАЦИИ|Схема: яркий рейдерский налобный фонарь</Dest>
+    </String>
+    <String List="0" sID="044D02">
+      <EDID>Recipe_mod_PowerArmor_T51_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: налобный фонарь &quot;Волт-Бой&quot; T-51b</Source>
+      <Dest>МУТАЦИИ+|Схема: налобный фонарь &quot;Волт-Бой&quot; T-51b</Dest>
+    </String>
+    <String List="0" sID="044D12">
+      <EDID>Recipe_mod_PowerArmor_T51_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: синий налобный фонарь T-51b</Source>
+      <Dest>МУТАЦИИ+|Схема: синий налобный фонарь T-51b</Dest>
+    </String>
+    <String List="0" sID="044D16">
+      <EDID>Recipe_mod_PowerArmor_T51_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: красный тактический налобный фонарь T-51b</Source>
+      <Dest>МУТАЦИИ+|Схема: красный тактический налобный фонарь T-51b</Dest>
+    </String>
+    <String List="0" sID="044D1B">
+      <EDID>Recipe_mod_PowerArmor_T45_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: синий налобный фонарь T-45</Source>
+      <Dest>МУТАЦИИ|Схема: синий налобный фонарь T-45</Dest>
+    </String>
+    <String List="0" sID="044D20">
+      <EDID>Recipe_mod_PowerArmor_Raider_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: синий рейдерский налобный фонарь</Source>
+      <Dest>МУТАЦИИ|Схема: синий рейдерский налобный фонарь</Dest>
+    </String>
+    <String List="0" sID="044D2A">
+      <EDID>Recipe_mod_PowerArmor_Raider_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фиолетовый рейдерский налобный фонарь</Source>
+      <Dest>МУТАЦИИ|Схема: фиолетовый рейдерский налобный фонарь</Dest>
+    </String>
+    <String List="0" sID="044D40">
+      <EDID>Recipe_mod_PowerArmor_T45_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: яркий налобный фонарь T-45</Source>
+      <Dest>МУТАЦИИ|Схема: яркий налобный фонарь T-45</Dest>
+    </String>
+    <String List="0" sID="044D41">
+      <EDID>Recipe_mod_PowerArmor_T45_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: налобный фонарь &quot;Волт-Бой&quot; T-45</Source>
+      <Dest>МУТАЦИИ|Схема: налобный фонарь &quot;Волт-Бой&quot; T-45</Dest>
+    </String>
+    <String List="0" sID="044D42">
+      <EDID>Recipe_mod_PowerArmor_T60_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: синий налобный фонарь T-60</Source>
+      <Dest>МУТАЦИИ+|Схема: синий налобный фонарь T-60</Dest>
+    </String>
+    <String List="0" sID="044D43">
+      <EDID>Recipe_mod_PowerArmor_T60_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: налобный фонарь &quot;Волт-Бой&quot; T-60</Source>
+      <Dest>МУТАЦИИ+|Схема: налобный фонарь &quot;Волт-Бой&quot; T-60</Dest>
+    </String>
+    <String List="0" sID="044D58">
+      <EDID>Recipe_mod_PowerArmor_T51_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фиолетовый налобный фонарь T-51b</Source>
+      <Dest>МУТАЦИИ+|Схема: фиолетовый налобный фонарь T-51b</Dest>
+    </String>
+    <String List="0" sID="044D5A">
+      <EDID>Recipe_mod_PowerArmor_Raider_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: красный тактический рейдерский налобный фонарь</Source>
+      <Dest>МУТАЦИИ|Схема: красный тактический рейдерский налобный фонарь</Dest>
+    </String>
+    <String List="0" sID="045929">
+      <EDID>recipe_Headwear_CivilWarHatConfederate</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: головной убор солдата-южанина</Source>
+      <Dest>МУТАЦИИ|Схема: головной убор солдата-южанина</Dest>
+    </String>
+    <String List="0" sID="04592A">
+      <EDID>recipe_Headwear_CivilWarEraHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цилиндр времен Гражданской войны</Source>
+      <Dest>МУТАЦИИ|Схема: цилиндр времен Гражданской войны</Dest>
+    </String>
+    <String List="0" sID="04592B">
+      <EDID>recipe_Headwear_HalloweenCostume02Hat_Skeleton</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маска черепа на Хеллоуин</Source>
+      <Dest>МУТАЦИИ|Схема: маска черепа на Хеллоуин</Dest>
+    </String>
+    <String List="0" sID="04592C">
+      <EDID>recipe_Headwear_HalloweenCostume01Hat_Witch</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шляпа из костюма ведьмы</Source>
+      <Dest>МУТАЦИИ|Схема: шляпа из костюма ведьмы</Dest>
+    </String>
+    <String List="0" sID="046621">
+      <EDID>recipe_mod_armor_Robot_Lining_Torso_Explosion2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: обшивка для брони робота со взрывозащитой</Source>
+      <Dest>МУТАЦИИ+|Схема: обшивка для брони робота со взрывозащитой</Dest>
+    </String>
+    <String List="0" sID="04662D">
+      <EDID>Recipe_Armor_Raider_Torso_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: легкая рейдерская броня для тела</Source>
+      <Dest>МУТАЦИИ|Схема: легкая рейдерская броня для тела</Dest>
+    </String>
+    <String List="0" sID="04662E">
+      <EDID>Recipe_Armor_Raider_Arms_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: легкая рейдерская броня для рук</Source>
+      <Dest>МУТАЦИИ|Схема: легкая рейдерская броня для рук</Dest>
+    </String>
+    <String List="0" sID="046633">
+      <EDID>recipe_Armor_Raider_Underarmor_Harness</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: портупея</Source>
+      <Dest>МУТАЦИИ|Схема: портупея</Dest>
+    </String>
+    <String List="0" sID="046638">
+      <EDID>recipe_Armor_Marine_Underarmor_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тактический шлем морской пехоты</Source>
+      <Dest>МУТАЦИИ|Схема: тактический шлем морской пехоты</Dest>
+    </String>
+    <String List="0" sID="04663F">
+      <EDID>Recipe_Weapon_Melee_DeathclawGauntlet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: нарукавник когтя смерти</Source>
+      <Dest>МУТАЦИИ|Схема: нарукавник когтя смерти</Dest>
+    </String>
+    <String List="0" sID="046640">
+      <EDID>Recipe_Armor_Raider_Legs_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: легкая рейдерская броня для ног</Source>
+      <Dest>МУТАЦИИ|Схема: легкая рейдерская броня для ног</Dest>
+    </String>
+    <String List="0" sID="04664F">
+      <EDID>recipe_Armor_Raider_Underarmor_LongJohns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трико</Source>
+      <Dest>МУТАЦИИ|Схема: трико</Dest>
+    </String>
+    <String List="0" sID="0467D9">
+      <EDID>Recipe_Armor_Metal_Arms_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прочные металлические руки</Source>
+      <Dest>МУТАЦИИ|Схема: прочные металлические руки</Dest>
+    </String>
+    <String List="0" sID="0467DC">
+      <EDID>Recipe_Armor_Metal_Arms_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелые металлические руки</Source>
+      <Dest>МУТАЦИИ|Схема: тяжелые металлические руки</Dest>
+    </String>
+    <String List="0" sID="0467DF">
+      <EDID>Recipe_Armor_Raider_Torso_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелое туловище рейдера</Source>
+      <Dest>МУТАЦИИ|Схема: тяжелое туловище рейдера</Dest>
+    </String>
+    <String List="0" sID="0467E0">
+      <EDID>Recipe_Armor_Robot_Torso_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прочное туловище робота</Source>
+      <Dest>МУТАЦИИ|Схема: прочное туловище робота</Dest>
+    </String>
+    <String List="0" sID="0467E4">
+      <EDID>Recipe_Armor_Robot_Torso_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелое туловище робота</Source>
+      <Dest>МУТАЦИИ|Схема: тяжелое туловище робота</Dest>
+    </String>
+    <String List="0" sID="0467E5">
+      <EDID>Recipe_Armor_Metal_Legs_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелые металлические ноги</Source>
+      <Dest>МУТАЦИИ|Схема: тяжелые металлические ноги</Dest>
+    </String>
+    <String List="0" sID="0467E7">
+      <EDID>Recipe_Armor_Robot_Legs_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прочные ноги робота</Source>
+      <Dest>МУТАЦИИ|Схема: прочные ноги робота</Dest>
+    </String>
+    <String List="0" sID="0467E8">
+      <EDID>Recipe_Armor_Robot_Legs_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелые ноги робота</Source>
+      <Dest>МУТАЦИИ|Схема: тяжелые ноги робота</Dest>
+    </String>
+    <String List="0" sID="0467E9">
+      <EDID>Recipe_Armor_Raider_Arms_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелые руки рейдера</Source>
+      <Dest>МУТАЦИИ|Схема: тяжелые руки рейдера</Dest>
+    </String>
+    <String List="0" sID="0467ED">
+      <EDID>Recipe_Armor_Metal_Legs_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прочные металлические ноги</Source>
+      <Dest>МУТАЦИИ|Схема: прочные металлические ноги</Dest>
+    </String>
+    <String List="0" sID="0467EE">
+      <EDID>Recipe_Armor_Metal_Torso_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прочное металлическое туловище</Source>
+      <Dest>МУТАЦИИ|Схема: прочное металлическое туловище</Dest>
+    </String>
+    <String List="0" sID="0467EF">
+      <EDID>Recipe_Armor_Metal_Torso_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелое металлическое туловище</Source>
+      <Dest>МУТАЦИИ|Схема: тяжелое металлическое туловище</Dest>
+    </String>
+    <String List="0" sID="0467F2">
+      <EDID>Recipe_Armor_Raider_Legs_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелые ноги рейдера</Source>
+      <Dest>МУТАЦИИ|Схема: тяжелые ноги рейдера</Dest>
+    </String>
+    <String List="0" sID="61016C34">
+      <EDID>Recipe_Armor_Robot_Arms_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прочный рободоспех для рук</Source>
+      <Dest>МУТАЦИИ|Схема: прочный рободоспех для рук</Dest>
+    </String>
+    <String List="0" sID="61016C35">
+      <EDID>Recipe_Armor_Robot_Arms_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелый рободоспех для рук</Source>
+      <Dest>МУТАЦИИ|Схема: тяжелый рободоспех для рук</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

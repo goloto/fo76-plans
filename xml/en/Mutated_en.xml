@@ -1,0 +1,725 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>en</Source>
+    <Dest>en</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="03F88C">
+      <EDID>Recipe_Tinkers_MineCryo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cryo Mine</Source>
+      <Dest>MUTATED|Plan: Cryo Mine</Dest>
+    </String>
+    <String List="0" sID="03F88E">
+      <EDID>Recipe_Tinkers_GrenadePulse</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pulse Grenade</Source>
+      <Dest>MUTATED+|Plan: Pulse Grenade</Dest>
+    </String>
+    <String List="0" sID="03F8B8">
+      <EDID>Recipe_Armor_Robot_Legs_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Light Robot Legs</Source>
+      <Dest>MUTATED|Plan: Light Robot Legs</Dest>
+    </String>
+    <String List="0" sID="03F8C3">
+      <EDID>Recipe_Armor_Marine_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Marine Torso</Source>
+      <Dest>MUTATED+|Plan: Marine Torso</Dest>
+    </String>
+    <String List="0" sID="03F919">
+      <EDID>Recipe_Tinkers_MinePlasma</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Plasma Mine</Source>
+      <Dest>MUTATED|Plan: Plasma Mine</Dest>
+    </String>
+    <String List="0" sID="03F938">
+      <EDID>Recipe_Armor_Metal_Torso_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Light Metal Torso</Source>
+      <Dest>MUTATED|Plan: Light Metal Torso</Dest>
+    </String>
+    <String List="0" sID="03F947">
+      <EDID>recipe_DiseaseCure_HerbalMedicine_TheMire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Disease Cure (The Mire)</Source>
+      <Dest>MUTATED+|Recipe: Disease Cure (The Mire)</Dest>
+    </String>
+    <String List="0" sID="03F957">
+      <EDID>Recipe_Tinkers_GrenadeNuka</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka-Cola Grenade</Source>
+      <Dest>MUTATED+|Plan: Nuka-Cola Grenade</Dest>
+    </String>
+    <String List="0" sID="03F981">
+      <EDID>recipe_DiseaseCure_HerbalMedicine_CranberryBog</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Disease Cure (Cranberry Bog)</Source>
+      <Dest>MUTATED+|Recipe: Disease Cure (Cranberry Bog)</Dest>
+    </String>
+    <String List="0" sID="03F9AB">
+      <EDID>Recipe_Tinkers_GrenadeFragMIRV</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: MIRV Frag Grenade</Source>
+      <Dest>MUTATED+|Plan: MIRV Frag Grenade</Dest>
+    </String>
+    <String List="0" sID="03F9B7">
+      <EDID>recipe_DiseaseCure_HerbalMedicine_ToxicValley</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Disease Cure (Toxic Valley)</Source>
+      <Dest>MUTATED+|Recipe: Disease Cure (Toxic Valley)</Dest>
+    </String>
+    <String List="0" sID="03F9F3">
+      <EDID>Recipe_Tinkers_MineNuke</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuke Mine</Source>
+      <Dest>MUTATED|Plan: Nuke Mine</Dest>
+    </String>
+    <String List="0" sID="03FA0E">
+      <EDID>Recipe_Armor_Robot_Arms_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Light Robot Arms</Source>
+      <Dest>MUTATED|Plan: Light Robot Arms</Dest>
+    </String>
+    <String List="0" sID="03FA27">
+      <EDID>Recipe_Armor_Marine_Legs</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Marine Legs</Source>
+      <Dest>MUTATED+|Plan: Marine Legs</Dest>
+    </String>
+    <String List="0" sID="03FA45">
+      <EDID>Recipe_Tinkers_GrenadeNukaQuantum</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Nuka Quantum Grenade</Source>
+      <Dest>MUTATED+|Plan: Nuka Quantum Grenade</Dest>
+    </String>
+    <String List="0" sID="03FA52">
+      <EDID>Recipe_Tinkers_GrenadeCryo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cryo Grenade</Source>
+      <Dest>MUTATED+|Plan: Cryo Grenade</Dest>
+    </String>
+    <String List="0" sID="03FAC3">
+      <EDID>Recipe_Weapon_Mod_Ranged_LaserGun_SCOPE_MediumScope_Base</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Laser Gun Medium Scope</Source>
+      <Dest>MUTATED+|Plan: Laser Gun Medium Scope</Dest>
+    </String>
+    <String List="0" sID="03FADC">
+      <EDID>recipe_DiseaseCure_HerbalMedicine_AshHeap</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Disease Cure (Ash Heap)</Source>
+      <Dest>MUTATED+|Recipe: Disease Cure (Ash Heap)</Dest>
+    </String>
+    <String List="0" sID="03FAEA">
+      <EDID>Recipe_Tinkers_MinePulse</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pulse Mine</Source>
+      <Dest>MUTATED|Plan: Pulse Mine</Dest>
+    </String>
+    <String List="0" sID="03FAFF">
+      <EDID>Recipe_Tinkers_GrenadePlasma</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Plasma Grenade</Source>
+      <Dest>MUTATED+|Plan: Plasma Grenade</Dest>
+    </String>
+    <String List="0" sID="03FB6A">
+      <EDID>Recipe_Armor_Marine_Arms</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Marine Arms</Source>
+      <Dest>MUTATED+|Plan: Marine Arms</Dest>
+    </String>
+    <String List="0" sID="03FB76">
+      <EDID>Recipe_Weapon_Ranged_AssaultRifle_MQ</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Assault Rifle</Source>
+      <Dest>MUTATED+|Plan: Assault Rifle</Dest>
+    </String>
+    <String List="0" sID="03FBF4">
+      <EDID>Recipe_Armor_Robot_Torso_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Light Robot Torso</Source>
+      <Dest>MUTATED|Plan: Light Robot Torso</Dest>
+    </String>
+    <String List="0" sID="03FC21">
+      <EDID>recipe_DiseaseCure_HerbalMedicine_SavageDivide</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Disease Cure (Savage Divide)</Source>
+      <Dest>MUTATED+|Recipe: Disease Cure (Savage Divide)</Dest>
+    </String>
+    <String List="0" sID="03FC22">
+      <EDID>Recipe_Armor_Metal_Legs_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Light Metal Legs</Source>
+      <Dest>MUTATED|Plan: Light Metal Legs</Dest>
+    </String>
+    <String List="0" sID="03FC6F">
+      <EDID>Recipe_Armor_Metal_Arms_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Light Metal Arms</Source>
+      <Dest>MUTATED|Plan: Light Metal Arms</Dest>
+    </String>
+    <String List="0" sID="041096">
+      <EDID>recipe_Armor_VaultSuitVT_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault Tec University Jumpsuit</Source>
+      <Dest>MUTATED|Plan: Vault Tec University Jumpsuit</Dest>
+    </String>
+    <String List="0" sID="041098">
+      <EDID>recipe_Armor_Casual_Underarmor_ShirtJeans</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Undershirt &amp; Jeans</Source>
+      <Dest>MUTATED|Plan: Undershirt &amp; Jeans</Dest>
+    </String>
+    <String List="0" sID="04109A">
+      <EDID>recipe_Armor_VaultSuit76_Underarmor_Clean</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Vault 76 Jumpsuit</Source>
+      <Dest>MUTATED|Plan: Vault 76 Jumpsuit</Dest>
+    </String>
+    <String List="0" sID="04109B">
+      <EDID>recipe_Armor_BoS_Officer_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: BOS Officer Uniform</Source>
+      <Dest>MUTATED|Plan: BOS Officer Uniform</Dest>
+    </String>
+    <String List="0" sID="04109C">
+      <EDID>recipe_Armor_Casual_Underarmor_FlannelJeans</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Flannel Shirt and Jeans</Source>
+      <Dest>MUTATED|Plan: Flannel Shirt and Jeans</Dest>
+    </String>
+    <String List="0" sID="04109D">
+      <EDID>recipe_Armor_BoS_Soldier_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: BOS Soldier Uniform</Source>
+      <Dest>MUTATED|Plan: BOS Soldier Uniform</Dest>
+    </String>
+    <String List="0" sID="04109E">
+      <EDID>recipe_Armor_Marine_Underarmor_Wetsuit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Marine Wetsuit</Source>
+      <Dest>MUTATED|Plan: Marine Wetsuit</Dest>
+    </String>
+    <String List="0" sID="04109F">
+      <EDID>recipe_Armor_BoS_Knight_Underarmor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: BOS Knight Uniform</Source>
+      <Dest>MUTATED|Plan: BOS Knight Uniform</Dest>
+    </String>
+    <String List="0" sID="0414CD">
+      <EDID>recipe_mod_melee_BoxingGlove_ExtraHeavyHead</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Boxing Glove Lead Lining</Source>
+      <Dest>MUTATED|Plan: Boxing Glove Lead Lining</Dest>
+    </String>
+    <String List="0" sID="041587">
+      <EDID>recipe_mod_armor_Robot_Lining_Limb_Lighter2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultra-Light Build Robot Armor Limbs</Source>
+      <Dest>MUTATED+|Plan: Ultra-Light Build Robot Armor Limbs</Dest>
+    </String>
+    <String List="0" sID="04158E">
+      <EDID>recipe_mod_armor_Robot_Torso_Material_Shadowed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Shadowed Robot Armor Chest</Source>
+      <Dest>MUTATED+|Plan: Shadowed Robot Armor Chest</Dest>
+    </String>
+    <String List="0" sID="041597">
+      <EDID>recipe_mod_armor_Robot_Lining_Limb_ImprovedCarryCapacity</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pocketed Robot Armor Limbs</Source>
+      <Dest>MUTATED+|Plan: Pocketed Robot Armor Limbs</Dest>
+    </String>
+    <String List="0" sID="04159E">
+      <EDID>recipe_mod_armor_Robot_Lining_Torso_ImprovedCarryCapacity2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Deep Pocketed Robot Armor Chest</Source>
+      <Dest>MUTATED+|Plan: Deep Pocketed Robot Armor Chest</Dest>
+    </String>
+    <String List="0" sID="0415A4">
+      <EDID>recipe_mod_armor_Robot_Arm_Material_Shadowed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Shadowed Robot Armor Arms</Source>
+      <Dest>MUTATED+|Plan: Shadowed Robot Armor Arms</Dest>
+    </String>
+    <String List="0" sID="0415A6">
+      <EDID>recipe_mod_armor_Robot_Lining_Limb_ImprovedCarryCapacity2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Deep Pocketed Robot Armor Limbs</Source>
+      <Dest>MUTATED+|Plan: Deep Pocketed Robot Armor Limbs</Dest>
+    </String>
+    <String List="0" sID="0415AD">
+      <EDID>recipe_mod_armor_Robot_Lining_Torso_Mesh_BioComm</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: BioCommMesh Robot Armor Lining</Source>
+      <Dest>MUTATED+|Plan: BioCommMesh Robot Armor Lining</Dest>
+    </String>
+    <String List="0" sID="0415B3">
+      <EDID>recipe_mod_armor_Robot_Lining_Limb_ResistanceLimbDamage</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Strengthened Robot Armor Limbs</Source>
+      <Dest>MUTATED+|Plan: Strengthened Robot Armor Limbs</Dest>
+    </String>
+    <String List="0" sID="0415B8">
+      <EDID>recipe_mod_armor_Robot_Lining_LimbLeg_ReducedFallingDamage</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Cushioned Robot Armor Legs</Source>
+      <Dest>MUTATED+|Plan: Cushioned Robot Armor Legs</Dest>
+    </String>
+    <String List="0" sID="0415B9">
+      <EDID>recipe_mod_armor_Robot_Lining_Torso_Lighter2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ultra-Light Build Robot Armor Chest</Source>
+      <Dest>MUTATED+|Plan: Ultra-Light Build Robot Armor Chest</Dest>
+    </String>
+    <String List="0" sID="0415C6">
+      <EDID>recipe_mod_armor_Robot_Lining_Torso_ImprovedCarryCapacity</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pocketed Robot Armor Chest</Source>
+      <Dest>MUTATED+|Plan: Pocketed Robot Armor Chest</Dest>
+    </String>
+    <String List="0" sID="0415CC">
+      <EDID>recipe_mod_armor_Robot_Leg_Material_Shadowed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Shadowed Robot Armor Legs</Source>
+      <Dest>MUTATED+|Plan: Shadowed Robot Armor Legs</Dest>
+    </String>
+    <String List="0" sID="0416F6">
+      <EDID>recipe_mod_melee_SkiSword_SkateBlade</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Ski Sword Skate Blade</Source>
+      <Dest>MUTATED|Plan: Ski Sword Skate Blade</Dest>
+    </String>
+    <String List="0" sID="0416FC">
+      <EDID>recipe_DLC04_mod_melee_Sledgehammer_ExtraHeavyHead_Rocket_Spikes</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sledgehammer Heavy Spiked Rocket</Source>
+      <Dest>MUTATED|Plan: Sledgehammer Heavy Spiked Rocket</Dest>
+    </String>
+    <String List="0" sID="0416FD">
+      <EDID>recipe_mod_melee_WalkingCane_Spikes</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Spiked Walking Cane</Source>
+      <Dest>MUTATED+|Plan: Spiked Walking Cane</Dest>
+    </String>
+    <String List="0" sID="041702">
+      <EDID>recipe_mod_melee_Pitchfork_Flamer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Pitchfork Flamer</Source>
+      <Dest>MUTATED+|Plan: Pitchfork Flamer</Dest>
+    </String>
+    <String List="0" sID="041705">
+      <EDID>recipe_mod_melee_Hatchet_ElectroFusion</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Hatchet Electro Fusion</Source>
+      <Dest>MUTATED+|Plan: Hatchet Electro Fusion</Dest>
+    </String>
+    <String List="0" sID="041706">
+      <EDID>recipe_mod_melee_WalkingCane_SpikesSmall</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Barbed Walking Cane</Source>
+      <Dest>MUTATED+|Plan: Barbed Walking Cane</Dest>
+    </String>
+    <String List="0" sID="04305B">
+      <EDID>Recipe_Chems_HealingSalveCranberryBog</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Healing Salve (Cranberry Bog)</Source>
+      <Dest>MUTATED+|Recipe: Healing Salve (Cranberry Bog)</Dest>
+    </String>
+    <String List="0" sID="04305C">
+      <EDID>Recipe_Chems_HealingSalveAshHeap</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Healing Salve (Ash Heap)</Source>
+      <Dest>MUTATED+|Recipe: Healing Salve (Ash Heap)</Dest>
+    </String>
+    <String List="0" sID="04305E">
+      <EDID>Recipe_Chems_HealingSalveToxicValley</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Healing Salve (Toxic Valley)</Source>
+      <Dest>MUTATED+|Recipe: Healing Salve (Toxic Valley)</Dest>
+    </String>
+    <String List="0" sID="043061">
+      <EDID>Recipe_Chems_HealingSalveForest</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Healing Salve (Forest)</Source>
+      <Dest>MUTATED+|Recipe: Healing Salve (Forest)</Dest>
+    </String>
+    <String List="0" sID="043063">
+      <EDID>Recipe_Chems_SkeetoSpit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Skeeto Spit</Source>
+      <Dest>MUTATED+|Recipe: Skeeto Spit</Dest>
+    </String>
+    <String List="0" sID="043067">
+      <EDID>Recipe_Chems_HealingSalveSavageDivide</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Healing Salve (Savage Divide)</Source>
+      <Dest>MUTATED+|Recipe: Healing Salve (Savage Divide)</Dest>
+    </String>
+    <String List="0" sID="04306A">
+      <EDID>Recipe_Chems_HealingSalveMire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Healing Salve (Mire)</Source>
+      <Dest>MUTATED+|Recipe: Healing Salve (Mire)</Dest>
+    </String>
+    <String List="0" sID="043809">
+      <EDID>Recipe_Chems_CuttingFluid</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipe: Cutting Fluid</Source>
+      <Dest>MUTATED|Recipe: Cutting Fluid</Dest>
+    </String>
+    <String List="0" sID="043F57">
+      <EDID>Recipe_Armor_Raider_Legs_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sturdy Raider Legs</Source>
+      <Dest>MUTATED|Plan: Sturdy Raider Legs</Dest>
+    </String>
+    <String List="0" sID="043F5A">
+      <EDID>Recipe_Armor_Raider_Torso_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sturdy Raider Torso</Source>
+      <Dest>MUTATED|Plan: Sturdy Raider Torso</Dest>
+    </String>
+    <String List="0" sID="043F5B">
+      <EDID>Recipe_Armor_Raider_Arms_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sturdy Raider Arms</Source>
+      <Dest>MUTATED|Plan: Sturdy Raider Arms</Dest>
+    </String>
+    <String List="0" sID="0445B8">
+      <EDID>recipe_mod_armor_UnderArmor_Raider_Mk5</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Shielded Lining Raider Underarmor</Source>
+      <Dest>MUTATED+|Plan: Shielded Lining Raider Underarmor</Dest>
+    </String>
+    <String List="0" sID="0445BD">
+      <EDID>recipe_mod_armor_UnderArmor_Raider_Mk4</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Protective Lining Raider Underarmor</Source>
+      <Dest>MUTATED+|Plan: Protective Lining Raider Underarmor</Dest>
+    </String>
+    <String List="0" sID="0449C2">
+      <EDID>recipe_Clothes_HalloweenCostume01_Witch</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Witch Costume</Source>
+      <Dest>MUTATED|Plan: Witch Costume</Dest>
+    </String>
+    <String List="0" sID="0449C3">
+      <EDID>recipe_Clothes_CivilWarEraDress</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Civil War Era Dress</Source>
+      <Dest>MUTATED|Plan: Civil War Era Dress</Dest>
+    </String>
+    <String List="0" sID="0449C5">
+      <EDID>recipe_Clothes_CivilWarEraSuit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Civil War Era Suit</Source>
+      <Dest>MUTATED|Plan: Civil War Era Suit</Dest>
+    </String>
+    <String List="0" sID="0449C6">
+      <EDID>recipe_Clothes_CivilWarUniformUnion</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Union Uniform</Source>
+      <Dest>MUTATED|Plan: Union Uniform</Dest>
+    </String>
+    <String List="0" sID="0449C7">
+      <EDID>recipe_Clothes_SkiingPurpleAndWhiteOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Skiing Outfit</Source>
+      <Dest>MUTATED|Plan: Skiing Outfit</Dest>
+    </String>
+    <String List="0" sID="0449C8">
+      <EDID>recipe_Clothes_HalloweenCostume02_Skeleton</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Skeleton Costume</Source>
+      <Dest>MUTATED|Plan: Skeleton Costume</Dest>
+    </String>
+    <String List="0" sID="044C7A">
+      <EDID>Recipe_mod_PowerArmor_T60_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-60 Headlamp Bright</Source>
+      <Dest>MUTATED+|Plan: T-60 Headlamp Bright</Dest>
+    </String>
+    <String List="0" sID="044C8A">
+      <EDID>Recipe_mod_PowerArmor_Raider_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Raider Headlamp Vault Boy</Source>
+      <Dest>MUTATED|Plan: Raider Headlamp Vault Boy</Dest>
+    </String>
+    <String List="0" sID="044CB3">
+      <EDID>Recipe_mod_PowerArmor_T51_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-51b Headlamp Bright</Source>
+      <Dest>MUTATED+|Plan: T-51b Headlamp Bright</Dest>
+    </String>
+    <String List="0" sID="044CC1">
+      <EDID>Recipe_mod_PowerArmor_T45_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-45 Headlamp Red Tactical</Source>
+      <Dest>MUTATED|Plan: T-45 Headlamp Red Tactical</Dest>
+    </String>
+    <String List="0" sID="044CC5">
+      <EDID>Recipe_mod_PowerArmor_T60_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-60 Headlamp Purple</Source>
+      <Dest>MUTATED+|Plan: T-60 Headlamp Purple</Dest>
+    </String>
+    <String List="0" sID="044CC7">
+      <EDID>Recipe_mod_PowerArmor_T45_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-45 Headlamp Purple</Source>
+      <Dest>MUTATED|Plan: T-45 Headlamp Purple</Dest>
+    </String>
+    <String List="0" sID="044CC9">
+      <EDID>Recipe_mod_PowerArmor_T60_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-60 Headlamp Red Tactical</Source>
+      <Dest>MUTATED+|Plan: T-60 Headlamp Red Tactical</Dest>
+    </String>
+    <String List="0" sID="044CFC">
+      <EDID>Recipe_mod_PowerArmor_Raider_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Raider Headlamp Bright</Source>
+      <Dest>MUTATED|Plan: Raider Headlamp Bright</Dest>
+    </String>
+    <String List="0" sID="044D02">
+      <EDID>Recipe_mod_PowerArmor_T51_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-51b Headlamp Vault Boy</Source>
+      <Dest>MUTATED+|Plan: T-51b Headlamp Vault Boy</Dest>
+    </String>
+    <String List="0" sID="044D12">
+      <EDID>Recipe_mod_PowerArmor_T51_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-51b Headlamp Blue</Source>
+      <Dest>MUTATED+|Plan: T-51b Headlamp Blue</Dest>
+    </String>
+    <String List="0" sID="044D16">
+      <EDID>Recipe_mod_PowerArmor_T51_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-51b Headlamp Red Tactical</Source>
+      <Dest>MUTATED+|Plan: T-51b Headlamp Red Tactical</Dest>
+    </String>
+    <String List="0" sID="044D1B">
+      <EDID>Recipe_mod_PowerArmor_T45_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-45 Headlamp Blue</Source>
+      <Dest>MUTATED|Plan: T-45 Headlamp Blue</Dest>
+    </String>
+    <String List="0" sID="044D20">
+      <EDID>Recipe_mod_PowerArmor_Raider_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Raider Headlamp Blue</Source>
+      <Dest>MUTATED|Plan: Raider Headlamp Blue</Dest>
+    </String>
+    <String List="0" sID="044D2A">
+      <EDID>Recipe_mod_PowerArmor_Raider_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Raider Headlamp Purple</Source>
+      <Dest>MUTATED|Plan: Raider Headlamp Purple</Dest>
+    </String>
+    <String List="0" sID="044D40">
+      <EDID>Recipe_mod_PowerArmor_T45_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-45 Headlamp Bright</Source>
+      <Dest>MUTATED|Plan: T-45 Headlamp Bright</Dest>
+    </String>
+    <String List="0" sID="044D41">
+      <EDID>Recipe_mod_PowerArmor_T45_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-45 Headlamp Vault Boy</Source>
+      <Dest>MUTATED|Plan: T-45 Headlamp Vault Boy</Dest>
+    </String>
+    <String List="0" sID="044D42">
+      <EDID>Recipe_mod_PowerArmor_T60_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-60 Headlamp Blue</Source>
+      <Dest>MUTATED+|Plan: T-60 Headlamp Blue</Dest>
+    </String>
+    <String List="0" sID="044D43">
+      <EDID>Recipe_mod_PowerArmor_T60_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-60 Headlamp Vault Boy</Source>
+      <Dest>MUTATED+|Plan: T-60 Headlamp Vault Boy</Dest>
+    </String>
+    <String List="0" sID="044D58">
+      <EDID>Recipe_mod_PowerArmor_T51_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: T-51b Headlamp Purple</Source>
+      <Dest>MUTATED+|Plan: T-51b Headlamp Purple</Dest>
+    </String>
+    <String List="0" sID="044D5A">
+      <EDID>Recipe_mod_PowerArmor_Raider_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Raider Headlamp Red Tactical</Source>
+      <Dest>MUTATED|Plan: Raider Headlamp Red Tactical</Dest>
+    </String>
+    <String List="0" sID="045929">
+      <EDID>recipe_Headwear_CivilWarHatConfederate</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Confederate Hat</Source>
+      <Dest>MUTATED|Plan: Confederate Hat</Dest>
+    </String>
+    <String List="0" sID="04592A">
+      <EDID>recipe_Headwear_CivilWarEraHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Civil War Era Top Hat</Source>
+      <Dest>MUTATED|Plan: Civil War Era Top Hat</Dest>
+    </String>
+    <String List="0" sID="04592B">
+      <EDID>recipe_Headwear_HalloweenCostume02Hat_Skeleton</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Halloween Skull Mask</Source>
+      <Dest>MUTATED|Plan: Halloween Skull Mask</Dest>
+    </String>
+    <String List="0" sID="04592C">
+      <EDID>recipe_Headwear_HalloweenCostume01Hat_Witch</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Costume Witch Hat</Source>
+      <Dest>MUTATED|Plan: Costume Witch Hat</Dest>
+    </String>
+    <String List="0" sID="046621">
+      <EDID>recipe_mod_armor_Robot_Lining_Torso_Explosion2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Dense Robot Armor Lining</Source>
+      <Dest>MUTATED+|Plan: Dense Robot Armor Lining</Dest>
+    </String>
+    <String List="0" sID="04662D">
+      <EDID>Recipe_Armor_Raider_Torso_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Light Raider Torso</Source>
+      <Dest>MUTATED|Plan: Light Raider Torso</Dest>
+    </String>
+    <String List="0" sID="04662E">
+      <EDID>Recipe_Armor_Raider_Arms_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Light Raider Arms</Source>
+      <Dest>MUTATED|Plan: Light Raider Arms</Dest>
+    </String>
+    <String List="0" sID="046633">
+      <EDID>recipe_Armor_Raider_Underarmor_Harness</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Harness</Source>
+      <Dest>MUTATED|Plan: Harness</Dest>
+    </String>
+    <String List="0" sID="046638">
+      <EDID>recipe_Armor_Marine_Underarmor_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Marine Tactical Helmet</Source>
+      <Dest>MUTATED|Plan: Marine Tactical Helmet</Dest>
+    </String>
+    <String List="0" sID="04663F">
+      <EDID>Recipe_Weapon_Melee_DeathclawGauntlet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Deathclaw Gauntlet</Source>
+      <Dest>MUTATED|Plan: Deathclaw Gauntlet</Dest>
+    </String>
+    <String List="0" sID="046640">
+      <EDID>Recipe_Armor_Raider_Legs_Light</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Light Raider Legs</Source>
+      <Dest>MUTATED|Plan: Light Raider Legs</Dest>
+    </String>
+    <String List="0" sID="04664F">
+      <EDID>recipe_Armor_Raider_Underarmor_LongJohns</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Long Johns</Source>
+      <Dest>MUTATED|Plan: Long Johns</Dest>
+    </String>
+    <String List="0" sID="0467D9">
+      <EDID>Recipe_Armor_Metal_Arms_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sturdy Metal Arms</Source>
+      <Dest>MUTATED|Plan: Sturdy Metal Arms</Dest>
+    </String>
+    <String List="0" sID="0467DC">
+      <EDID>Recipe_Armor_Metal_Arms_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Heavy Metal Arms</Source>
+      <Dest>MUTATED|Plan: Heavy Metal Arms</Dest>
+    </String>
+    <String List="0" sID="0467DF">
+      <EDID>Recipe_Armor_Raider_Torso_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Heavy Raider Torso</Source>
+      <Dest>MUTATED|Plan: Heavy Raider Torso</Dest>
+    </String>
+    <String List="0" sID="0467E0">
+      <EDID>Recipe_Armor_Robot_Torso_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sturdy Robot Torso</Source>
+      <Dest>MUTATED|Plan: Sturdy Robot Torso</Dest>
+    </String>
+    <String List="0" sID="0467E4">
+      <EDID>Recipe_Armor_Robot_Torso_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Heavy Robot Torso</Source>
+      <Dest>MUTATED|Plan: Heavy Robot Torso</Dest>
+    </String>
+    <String List="0" sID="0467E5">
+      <EDID>Recipe_Armor_Metal_Legs_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Heavy Metal Legs</Source>
+      <Dest>MUTATED|Plan: Heavy Metal Legs</Dest>
+    </String>
+    <String List="0" sID="0467E7">
+      <EDID>Recipe_Armor_Robot_Legs_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sturdy Robot Legs</Source>
+      <Dest>MUTATED|Plan: Sturdy Robot Legs</Dest>
+    </String>
+    <String List="0" sID="0467E8">
+      <EDID>Recipe_Armor_Robot_Legs_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Heavy Robot Legs</Source>
+      <Dest>MUTATED|Plan: Heavy Robot Legs</Dest>
+    </String>
+    <String List="0" sID="0467E9">
+      <EDID>Recipe_Armor_Raider_Arms_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Heavy Raider Arms</Source>
+      <Dest>MUTATED|Plan: Heavy Raider Arms</Dest>
+    </String>
+    <String List="0" sID="0467ED">
+      <EDID>Recipe_Armor_Metal_Legs_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sturdy Metal Legs</Source>
+      <Dest>MUTATED|Plan: Sturdy Metal Legs</Dest>
+    </String>
+    <String List="0" sID="0467EE">
+      <EDID>Recipe_Armor_Metal_Torso_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sturdy Metal Torso</Source>
+      <Dest>MUTATED|Plan: Sturdy Metal Torso</Dest>
+    </String>
+    <String List="0" sID="0467EF">
+      <EDID>Recipe_Armor_Metal_Torso_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Heavy Metal Torso</Source>
+      <Dest>MUTATED|Plan: Heavy Metal Torso</Dest>
+    </String>
+    <String List="0" sID="0467F2">
+      <EDID>Recipe_Armor_Raider_Legs_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Heavy Raider Legs</Source>
+      <Dest>MUTATED|Plan: Heavy Raider Legs</Dest>
+    </String>
+    <String List="0" sID="61016C34">
+      <EDID>Recipe_Armor_Robot_Arms_Medium</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Sturdy Robot Arms</Source>
+      <Dest>MUTATED|Plan: Sturdy Robot Arms</Dest>
+    </String>
+    <String List="0" sID="61016C35">
+      <EDID>Recipe_Armor_Robot_Arms_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Plan: Heavy Robot Arms</Source>
+      <Dest>MUTATED|Plan: Heavy Robot Arms</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
