@@ -101,13 +101,13 @@
       <EDID>Recipe_mod_Chainsaw_Paint_GhostlyGrinder</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: окраска «Призрачная мясорубка» для бензопилы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: окраска «Призрачная мясорубка» для бензопилы</Dest>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: окраска «Призрачная мясорубка» для бензопилы</Dest>
     </String>
     <String List="0" sID="6101A70B">
       <EDID>Recipe_Headwear_SkullRider_Rad</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: шлем всадника с рад-черепом</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: шлем всадника с рад-черепом</Dest>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: шлем всадника с рад-черепом</Dest>
     </String>
     <String List="0" sID="6101A70D">
       <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Helmet</EDID>
@@ -119,7 +119,7 @@
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost1</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: фонарь-призрак из ячеистой бумаги A</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: фонарь-призрак из ячеистой бумаги A</Dest>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: фонарь-призрак из ячеистой бумаги A</Dest>
     </String>
     <String List="0" sID="6101A70F">
       <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Arms</EDID>
@@ -131,43 +131,43 @@
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Spider</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: фонарь-паук из ячеистой бумаги</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: фонарь-паук из ячеистой бумаги</Dest>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: фонарь-паук из ячеистой бумаги</Dest>
     </String>
     <String List="0" sID="6101A712">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern1</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: Джек-фонарь из ячеистой бумаги A</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: Джек-фонарь из ячеистой бумаги A</Dest>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: Джек-фонарь из ячеистой бумаги A</Dest>
     </String>
     <String List="0" sID="6101A713">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern2</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: Джек-фонарь из ячеистой бумаги B</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: Джек-фонарь из ячеистой бумаги B</Dest>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: Джек-фонарь из ячеистой бумаги B</Dest>
     </String>
     <String List="0" sID="6101A714">
       <EDID>Recipe_Headwear_Executioner2</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: маска палача</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: маска палача</Dest>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: маска палача</Dest>
     </String>
     <String List="0" sID="6101A715">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost2</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: фонарь-призрак из ячеистой бумаги B</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: фонарь-призрак из ячеистой бумаги B</Dest>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: фонарь-призрак из ячеистой бумаги B</Dest>
     </String>
     <String List="0" sID="6101A716">
       <EDID>Recipe_Workshop_FloorDecor_GiantDinosaur_Red</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: гигантский красный динозавр</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: гигантский красный динозавр</Dest>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: гигантский красный динозавр</Dest>
     </String>
     <String List="0" sID="6101A717">
       <EDID>Recipe_mod_AssaultRifle_Paint_WraithsWrath</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: окраска «Гнев призрака» для штурмового карабина</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: окраска «Гнев призрака» для штурмового карабина</Dest>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: окраска «Гнев призрака» для штурмового карабина</Dest>
     </String>
     <String List="0" sID="6101A718">
       <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Legs</EDID>
@@ -179,13 +179,13 @@
       <EDID>Recipe_workshop_FloorDecor_Skeleton_DrBones</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: Доктор Череп</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: Доктор Череп</Dest>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: Доктор Череп</Dest>
     </String>
     <String List="0" sID="6101A71A">
       <EDID>Recipe_Backpack_Standard_Material_Princess</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: рюкзак принцессы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ**|Схема: рюкзак принцессы</Dest>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: рюкзак принцессы</Dest>
     </String>
     <String List="0" sID="6101A71B">
       <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Torso</EDID>

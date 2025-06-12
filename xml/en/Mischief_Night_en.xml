@@ -101,13 +101,13 @@
       <EDID>Recipe_mod_Chainsaw_Paint_GhostlyGrinder</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Chainsaw Ghostly Grinder Paint</Source>
-      <Dest>MISCHIEF NIGHT**|Plan: Chainsaw Ghostly Grinder Paint</Dest>
+      <Dest>MISCHIEF NIGHT+|Plan: Chainsaw Ghostly Grinder Paint</Dest>
     </String>
     <String List="0" sID="6101A70B">
       <EDID>Recipe_Headwear_SkullRider_Rad</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Rad Skull Rider Helmet</Source>
-      <Dest>MISCHIEF NIGHT**|Plan: Rad Skull Rider Helmet</Dest>
+      <Dest>MISCHIEF NIGHT+|Plan: Rad Skull Rider Helmet</Dest>
     </String>
     <String List="0" sID="6101A70D">
       <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Helmet</EDID>
@@ -119,7 +119,7 @@
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost1</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Honeycomb Paper Ghost Lantern A</Source>
-      <Dest>MISCHIEF NIGHT**|Plan: Honeycomb Paper Ghost Lantern A</Dest>
+      <Dest>MISCHIEF NIGHT+|Plan: Honeycomb Paper Ghost Lantern A</Dest>
     </String>
     <String List="0" sID="6101A70F">
       <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Arms</EDID>
@@ -131,43 +131,43 @@
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Spider</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Honeycomb Paper Spider Lantern</Source>
-      <Dest>MISCHIEF NIGHT**|Plan: Honeycomb Paper Spider Lantern</Dest>
+      <Dest>MISCHIEF NIGHT+|Plan: Honeycomb Paper Spider Lantern</Dest>
     </String>
     <String List="0" sID="6101A712">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern1</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Honeycomb Paper Jack-o&apos;-Lantern A</Source>
-      <Dest>MISCHIEF NIGHT**|Plan: Honeycomb Paper Jack-o&apos;-Lantern A</Dest>
+      <Dest>MISCHIEF NIGHT+|Plan: Honeycomb Paper Jack-o&apos;-Lantern A</Dest>
     </String>
     <String List="0" sID="6101A713">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern2</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Honeycomb Paper Jack-o&apos;-Lantern B</Source>
-      <Dest>MISCHIEF NIGHT**|Plan: Honeycomb Paper Jack-o&apos;-Lantern B</Dest>
+      <Dest>MISCHIEF NIGHT+|Plan: Honeycomb Paper Jack-o&apos;-Lantern B</Dest>
     </String>
     <String List="0" sID="6101A714">
       <EDID>Recipe_Headwear_Executioner2</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Executioner Mask</Source>
-      <Dest>MISCHIEF NIGHT**|Plan: Executioner Mask</Dest>
+      <Dest>MISCHIEF NIGHT+|Plan: Executioner Mask</Dest>
     </String>
     <String List="0" sID="6101A715">
       <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost2</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Honeycomb Paper Ghost Lantern B</Source>
-      <Dest>MISCHIEF NIGHT**|Plan: Honeycomb Paper Ghost Lantern B</Dest>
+      <Dest>MISCHIEF NIGHT+|Plan: Honeycomb Paper Ghost Lantern B</Dest>
     </String>
     <String List="0" sID="6101A716">
       <EDID>Recipe_Workshop_FloorDecor_GiantDinosaur_Red</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Giant Red Dinosaur</Source>
-      <Dest>MISCHIEF NIGHT**|Plan: Giant Red Dinosaur</Dest>
+      <Dest>MISCHIEF NIGHT+|Plan: Giant Red Dinosaur</Dest>
     </String>
     <String List="0" sID="6101A717">
       <EDID>Recipe_mod_AssaultRifle_Paint_WraithsWrath</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Assault Rifle Wraith&apos;s Wrath Paint</Source>
-      <Dest>MISCHIEF NIGHT**|Plan: Assault Rifle Wraith&apos;s Wrath Paint</Dest>
+      <Dest>MISCHIEF NIGHT+|Plan: Assault Rifle Wraith&apos;s Wrath Paint</Dest>
     </String>
     <String List="0" sID="6101A718">
       <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Legs</EDID>
@@ -179,13 +179,13 @@
       <EDID>Recipe_workshop_FloorDecor_Skeleton_DrBones</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Dr. Bones</Source>
-      <Dest>MISCHIEF NIGHT**|Plan: Dr. Bones</Dest>
+      <Dest>MISCHIEF NIGHT+|Plan: Dr. Bones</Dest>
     </String>
     <String List="0" sID="6101A71A">
       <EDID>Recipe_Backpack_Standard_Material_Princess</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Plan: Princess Backpack</Source>
-      <Dest>MISCHIEF NIGHT**|Plan: Princess Backpack</Dest>
+      <Dest>MISCHIEF NIGHT+|Plan: Princess Backpack</Dest>
     </String>
     <String List="0" sID="6101A71B">
       <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Torso</EDID>
