@@ -6,7 +6,212 @@
     <Version>2</Version>
   </Params>
   <Content>
-  <String List="0" sID="6101A8F3">
+  <String List="0" sID="03FE48">
+      <EDID>Clothes_Responders_CopUniform</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Форма Спасателя-полицейского</Source>
+      <Dest>ОЧЕРEДНОЕ ПАТРУЛИРОВАНИЕ|Форма Спасателя-полицейского</Dest>
+    </String><String List="0" sID="410078B4">
+      <EDID>MOON_Herd_Workshop_Recipe_OguaHunterHood</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: капюшон охотника на огуа</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: капюшон охотника на огуа</Dest>
+    </String><String List="0" sID="410078B5">
+      <EDID>MOON_Herd_Workshop_Recipe_OguaHunterOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм охотника на огуа</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: костюм охотника на огуа</Dest>
+    </String><String List="0" sID="41007991">
+      <EDID>MOON_Ambush_Recipe_OguaShellBackpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак "Панцирь огуа"</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: рюкзак "Панцирь огуа"</Dest>
+    </String><String List="0" sID="41007CF1">
+      <EDID>MOON_Ambush_Workshop_Recipe_SleepingBag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: грязный спальный мешок "Блю ридж"</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: грязный спальный мешок "Блю ридж"</Dest>
+    </String><String List="0" sID="41007D89">
+      <EDID>MOON_Herd_Workshop_Recipe_PaddockFence</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ограда загона</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: ограда загона</Dest>
+    </String><String List="0" sID="41007ED9">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм синего дьявола</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: костюм синего дьявола</Dest>
+    </String><String List="0" sID="41007EDA">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilHood</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: капюшон из шкуры синего дьявола</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: капюшон из шкуры синего дьявола</Dest>
+    </String><String List="0" sID="41007F8A">
+      <EDID>MOON_Ambush_Workshop_Recipe_BlueRidgeScoutOutfit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм разведчика "Блю ридж"</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: костюм разведчика "Блю ридж"</Dest>
+    </String><String List="0" sID="61017B5D">
+      <EDID>Moon_Herd_Workshop_Recipe_BlueDevilTrophy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова синего дьявола на подставке</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: голова синего дьявола на подставке</Dest>
+    </String><String List="0" sID="61017B5E">
+      <EDID>MOON_Herd_Workshop_Recipe_TaxidermyBlueDevil</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: статуя синего дьявола</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: статуя синего дьявола</Dest>
+    </String><String List="0" sID="61017CFF">
+      <EDID>MOON_Herd_Workshop_Recipe_CurtainBlueDevil</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: занавеска на дверь "Синий дьявол"</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: занавеска на дверь "Синий дьявол"</Dest>
+    </String><String List="0" sID="61017D00">
+      <EDID>MOON_Ambush_Workshop_Recipe_CurtainOgua</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: занавеска на дверь "Огуа"</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: занавеска на дверь "Огуа"</Dest>
+    </String><String List="0" sID="610183CB">
+      <EDID>Moon_Ambush_Workshop_Recipe_OguaTrophy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова огуа на подставке</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: голова огуа на подставке</Dest>
+    </String><String List="0" sID="D90054C6">
+      <EDID>MOON_Herd_Workshop_Recipe_BrahminBackpack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак "Брамин"</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: рюкзак "Брамин"</Dest>
+    </String><String List="0" sID="D90054E9">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: синий плюшевый дьявол</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: синий плюшевый дьявол</Dest>
+    </String><String List="0" sID="D900550E">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyDuster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковбойский плащ</Source>
+      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: ковбойский плащ</Dest>
+    </String><String List="0" sID="D900550F">
+      <EDID>MOON_Ambush_Workshop_Recipe_OguaPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый огуа</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: плюшевый огуа</Dest>
+    </String><String List="0" sID="D9005510">
+      <EDID>MOON_DO_Workshop_Recipe_CowboyChaps</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковбойские штаны</Source>
+      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: ковбойские штаны</Dest>
+    </String><String List="0" sID="D900581B">
+      <EDID>MOON_DO_Workshop_Recipe_KidsTruckBed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: игрушечный пикап</Source>
+      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: игрушечный пикап</Dest>
+    </String><String List="0" sID="D900581D">
+      <EDID>MOON_Herd_Workshop_Recipe_KidsCowClock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: игрушечные часы-брамин</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: игрушечные часы-брамин</Dest>
+    </String><String List="0" sID="D9005825">
+      <EDID>MOON_Herd_Workshop_Recipe_CartographyTable</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: картографический стол</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: картографический стол</Dest>
+    </String><String List="0" sID="D9005828">
+      <EDID>MOON_Ambush_Workshop_Recipe_SleepingBagFur</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: меховой спальный мешок</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: меховой спальный мешок</Dest>
+    </String><String List="0" sID="D900582A">
+      <EDID>MOON_Herd_Workshop_Recipe_TrailerTruckGear</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прицеп грузовика с мусором</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: прицеп грузовика с мусором</Dest>
+    </String><String List="0" sID="D9005844">
+      <EDID>MOON_Ambush_Workshop_Recipe_OguaFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака "Огуа"</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: брелок для рюкзака "Огуа"</Dest>
+    </String><String List="0" sID="D900585F">
+      <EDID>MOON_DO_Workshop_Recipe_UmbrellaHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шляпа-зонтик</Source>
+      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: шляпа-зонтик</Dest>
+    </String><String List="0" sID="D900586F">
+      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака "Синий дьявол"</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: брелок для рюкзака "Синий дьявол"</Dest>
+    </String><String List="0" sID="D9005877">
+      <EDID>MOON_Herd_Workshop_Recipe_Milkman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм молочника</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: костюм молочника</Dest>
+    </String><String List="0" sID="D9005878">
+      <EDID>MOON_Herd_Workshop_Recipe_MilkmanHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: головной убор молочника</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: головной убор молочника</Dest>
+    </String><String List="0" sID="D9005889">
+      <EDID>MOON_Herd_Workshop_Recipe_BrahminPlushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый розовый брамин</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: плюшевый розовый брамин</Dest>
+    </String><String List="0" sID="D900588A">
+      <EDID>MOON_Ambush_Workshop_Recipe_Tent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: навес</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: навес</Dest>
+    </String><String List="0" sID="D90058A9">
+      <EDID>MOON_Herd_Workshop_Recipe_PaddockGate</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ворота загона</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: ворота загона</Dest>
+    </String><String List="0" sID="D90058AD">
+      <EDID>MOON_Ambush_Workshop_Recipe_CryptidHunterBoonieHat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: панама "Охотник на криптидов"</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: панама "Охотник на криптидов"</Dest>
+    </String><String List="0" sID="D9005931">
+      <EDID>MOON_DO_Workshop_Recipe_BrahminSofa</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: диван из брамина</Source>
+      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: диван из брамина</Dest>
+    </String><String List="0" sID="D9005932">
+      <EDID>MOON_DO_Workshop_Recipe_FeralGhoulChair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кресло из гуля</Source>
+      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: кресло из гуля</Dest>
+    </String><String List="0" sID="D90059B4">
+      <EDID>Moon_Recipe_Workshop_FloorDecor_Rugs_BrahminRug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковер из шкуры брамина</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: ковер из шкуры брамина</Dest>
+    </String><String List="0" sID="D90059B5">
+      <EDID>MOON_Herd_Workshop_Recipe_Rug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ковер "Блю ридж"</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: ковер "Блю ридж"</Dest>
+    </String><String List="0" sID="D9005A28">
+      <EDID>MOON_DO_Workshop_Recipe_GorillaChair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кресло из гориллы</Source>
+      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: кресло из гориллы</Dest>
+    </String><String List="0" sID="D90060C5">
+      <EDID>MOON_Ambush_Workshop_Recipe_Mobile</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: подвесной криптид</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: подвесной криптид</Dest>
+    </String><String List="0" sID="D9006118">
+      <EDID>MOON_Herd_Workshop_Recipe_TravellersWagon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фургон путешественника</Source>
+      <Dest>В ЦЕЛ. И СОХР.|Схема: фургон путешественника</Dest>
+    </String><String List="0" sID="D9007BD2">
+      <EDID>MOON_Ambush_Workshop_Recipe_OguaEgg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: яйцо огуа</Source>
+      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: яйцо огуа</Dest>
+    </String><String List="0" sID="6101A8F3">
       <EDID>Recipe_XPD_AC_Workshop_Lights_MezzanineLights</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Схема: светильники для мезонина</Source>
@@ -376,206 +581,26 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: защитный комплект — розовый</Source>
       <Dest>ЗАХВАТЧИКИ 2024Q4|Схема: защитный комплект — розовый</Dest>
-    </String><String List="0" sID="410078B4">
-      <EDID>MOON_Herd_Workshop_Recipe_OguaHunterHood</EDID>
+    </String><String List="0" sID="0445B9">
+      <EDID>recipe_mod_armor_UnderArmor_Marine_Mk5</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: капюшон охотника на огуа</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: капюшон охотника на огуа</Dest>
-    </String><String List="0" sID="410078B5">
-      <EDID>MOON_Herd_Workshop_Recipe_OguaHunterOutfit</EDID>
+      <Source>Схема: экранированная обшивка поддоспешника морской пехоты</Source>
+      <Dest>ПЕРЕПИСЬ НАСЕЛЕНИЯ|Схема: экранированная обшивка поддоспешника морской пехоты</Dest>
+    </String><String List="0" sID="0445BC">
+      <EDID>recipe_mod_armor_UnderArmor_Marine_Mk4</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: костюм охотника на огуа</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: костюм охотника на огуа</Dest>
-    </String><String List="0" sID="41007991">
-      <EDID>MOON_Ambush_Recipe_OguaShellBackpack</EDID>
+      <Source>Схема: защитная обшивка поддоспешника морской пехоты</Source>
+      <Dest>ПЕРЕПИСЬ НАСЕЛЕНИЯ|Схема: защитная обшивка поддоспешника морской пехоты</Dest>
+    </String><String List="0" sID="049A9C">
+      <EDID>Recipe_Cooking_Smores</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: рюкзак "Панцирь огуа"</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: рюкзак "Панцирь огуа"</Dest>
-    </String><String List="0" sID="41007CF1">
-      <EDID>MOON_Ambush_Workshop_Recipe_SleepingBag</EDID>
+      <Source>Рецепт: поджаренный зефир с крекерами</Source>
+      <Dest>СТРАШНЫЕ ИСТОРИИ|Рецепт: поджаренный зефир с крекерами</Dest>
+    </String><String List="0" sID="049A9E">
+      <EDID>Recipe_Workshop_MiscStructures_Tent_CampfireTales</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: грязный спальный мешок "Блю ридж"</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: грязный спальный мешок "Блю ридж"</Dest>
-    </String><String List="0" sID="41007D89">
-      <EDID>MOON_Herd_Workshop_Recipe_PaddockFence</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ограда загона</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: ограда загона</Dest>
-    </String><String List="0" sID="41007ED9">
-      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilOutfit</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: костюм синего дьявола</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: костюм синего дьявола</Dest>
-    </String><String List="0" sID="41007EDA">
-      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilHood</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: капюшон из шкуры синего дьявола</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: капюшон из шкуры синего дьявола</Dest>
-    </String><String List="0" sID="41007F8A">
-      <EDID>MOON_Ambush_Workshop_Recipe_BlueRidgeScoutOutfit</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: костюм разведчика "Блю ридж"</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: костюм разведчика "Блю ридж"</Dest>
-    </String><String List="0" sID="61017B5D">
-      <EDID>Moon_Herd_Workshop_Recipe_BlueDevilTrophy</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова синего дьявола на подставке</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: голова синего дьявола на подставке</Dest>
-    </String><String List="0" sID="61017B5E">
-      <EDID>MOON_Herd_Workshop_Recipe_TaxidermyBlueDevil</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: статуя синего дьявола</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: статуя синего дьявола</Dest>
-    </String><String List="0" sID="61017CFF">
-      <EDID>MOON_Herd_Workshop_Recipe_CurtainBlueDevil</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: занавеска на дверь "Синий дьявол"</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: занавеска на дверь "Синий дьявол"</Dest>
-    </String><String List="0" sID="61017D00">
-      <EDID>MOON_Ambush_Workshop_Recipe_CurtainOgua</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: занавеска на дверь "Огуа"</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: занавеска на дверь "Огуа"</Dest>
-    </String><String List="0" sID="610183CB">
-      <EDID>Moon_Ambush_Workshop_Recipe_OguaTrophy</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова огуа на подставке</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: голова огуа на подставке</Dest>
-    </String><String List="0" sID="D90054C6">
-      <EDID>MOON_Herd_Workshop_Recipe_BrahminBackpack</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: рюкзак "Брамин"</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: рюкзак "Брамин"</Dest>
-    </String><String List="0" sID="D90054E9">
-      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilPlushie</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: синий плюшевый дьявол</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: синий плюшевый дьявол</Dest>
-    </String><String List="0" sID="D900550E">
-      <EDID>MOON_DO_Workshop_Recipe_CowboyDuster</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ковбойский плащ</Source>
-      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: ковбойский плащ</Dest>
-    </String><String List="0" sID="D900550F">
-      <EDID>MOON_Ambush_Workshop_Recipe_OguaPlushie</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевый огуа</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: плюшевый огуа</Dest>
-    </String><String List="0" sID="D9005510">
-      <EDID>MOON_DO_Workshop_Recipe_CowboyChaps</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ковбойские штаны</Source>
-      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: ковбойские штаны</Dest>
-    </String><String List="0" sID="D900581B">
-      <EDID>MOON_DO_Workshop_Recipe_KidsTruckBed</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: игрушечный пикап</Source>
-      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: игрушечный пикап</Dest>
-    </String><String List="0" sID="D900581D">
-      <EDID>MOON_Herd_Workshop_Recipe_KidsCowClock</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: игрушечные часы-брамин</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: игрушечные часы-брамин</Dest>
-    </String><String List="0" sID="D9005825">
-      <EDID>MOON_Herd_Workshop_Recipe_CartographyTable</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: картографический стол</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: картографический стол</Dest>
-    </String><String List="0" sID="D9005828">
-      <EDID>MOON_Ambush_Workshop_Recipe_SleepingBagFur</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: меховой спальный мешок</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: меховой спальный мешок</Dest>
-    </String><String List="0" sID="D900582A">
-      <EDID>MOON_Herd_Workshop_Recipe_TrailerTruckGear</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: прицеп грузовика с мусором</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: прицеп грузовика с мусором</Dest>
-    </String><String List="0" sID="D9005844">
-      <EDID>MOON_Ambush_Workshop_Recipe_OguaFlair</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: брелок для рюкзака "Огуа"</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: брелок для рюкзака "Огуа"</Dest>
-    </String><String List="0" sID="D900585F">
-      <EDID>MOON_DO_Workshop_Recipe_UmbrellaHat</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: шляпа-зонтик</Source>
-      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: шляпа-зонтик</Dest>
-    </String><String List="0" sID="D900586F">
-      <EDID>MOON_Herd_Workshop_Recipe_BlueDevilFlair</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: брелок для рюкзака "Синий дьявол"</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: брелок для рюкзака "Синий дьявол"</Dest>
-    </String><String List="0" sID="D9005877">
-      <EDID>MOON_Herd_Workshop_Recipe_Milkman</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: костюм молочника</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: костюм молочника</Dest>
-    </String><String List="0" sID="D9005878">
-      <EDID>MOON_Herd_Workshop_Recipe_MilkmanHat</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: головной убор молочника</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: головной убор молочника</Dest>
-    </String><String List="0" sID="D9005889">
-      <EDID>MOON_Herd_Workshop_Recipe_BrahminPlushie</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевый розовый брамин</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: плюшевый розовый брамин</Dest>
-    </String><String List="0" sID="D900588A">
-      <EDID>MOON_Ambush_Workshop_Recipe_Tent</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: навес</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: навес</Dest>
-    </String><String List="0" sID="D90058A9">
-      <EDID>MOON_Herd_Workshop_Recipe_PaddockGate</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ворота загона</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: ворота загона</Dest>
-    </String><String List="0" sID="D90058AD">
-      <EDID>MOON_Ambush_Workshop_Recipe_CryptidHunterBoonieHat</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: панама "Охотник на криптидов"</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: панама "Охотник на криптидов"</Dest>
-    </String><String List="0" sID="D9005931">
-      <EDID>MOON_DO_Workshop_Recipe_BrahminSofa</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: диван из брамина</Source>
-      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: диван из брамина</Dest>
-    </String><String List="0" sID="D9005932">
-      <EDID>MOON_DO_Workshop_Recipe_FeralGhoulChair</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: кресло из гуля</Source>
-      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: кресло из гуля</Dest>
-    </String><String List="0" sID="D90059B4">
-      <EDID>Moon_Recipe_Workshop_FloorDecor_Rugs_BrahminRug</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ковер из шкуры брамина</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: ковер из шкуры брамина</Dest>
-    </String><String List="0" sID="D90059B5">
-      <EDID>MOON_Herd_Workshop_Recipe_Rug</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: ковер "Блю ридж"</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: ковер "Блю ридж"</Dest>
-    </String><String List="0" sID="D9005A28">
-      <EDID>MOON_DO_Workshop_Recipe_GorillaChair</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: кресло из гориллы</Source>
-      <Dest>BLUE MOON ОПЕРАЦИИ|Схема: кресло из гориллы</Dest>
-    </String><String List="0" sID="D90060C5">
-      <EDID>MOON_Ambush_Workshop_Recipe_Mobile</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: подвесной криптид</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: подвесной криптид</Dest>
-    </String><String List="0" sID="D9006118">
-      <EDID>MOON_Herd_Workshop_Recipe_TravellersWagon</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: фургон путешественника</Source>
-      <Dest>В ЦЕЛ. И СОХР.|Схема: фургон путешественника</Dest>
-    </String><String List="0" sID="D9007BD2">
-      <EDID>MOON_Ambush_Workshop_Recipe_OguaEgg</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: яйцо огуа</Source>
-      <Dest>ВЬЮЧНЫЕ ЖИВОТНЫЕ|Схема: яйцо огуа</Dest>
+      <Source>Схема: палатка для страшных историй</Source>
+      <Dest>СТРАШНЫЕ ИСТОРИИ|Схема: палатка для страшных историй</Dest>
     </String><String List="0" sID="4100C220">
       <EDID>Recipe_Weapon_Ranged_Meltdown_NoGrip</EDID>
       <REC>BOOK:FULL</REC>
@@ -811,11 +836,6 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: снежный шар Винди</Source>
       <Dest>КАРАВАН|Схема: снежный шар Винди</Dest>
-    </String><String List="0" sID="03FE48">
-      <EDID>Clothes_Responders_CopUniform</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Форма Спасателя-полицейского</Source>
-      <Dest>ОЧЕРEДНОЕ ПАТРУЛИРОВАНИЕ|Форма Спасателя-полицейского</Dest>
     </String><String List="0" sID="3900077D">
       <EDID>E06_Colossus_Recipe_Workshop_FloorDecor_Rugs_Colossus_Rug</EDID>
       <REC>BOOK:FULL</REC>
@@ -881,36 +901,6 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: комплект окраски "Адская метка 3" для силовой брони</Source>
       <Dest>КОЛОСС+++|Схема: комплект окраски "Адская метка 3" для силовой брони</Dest>
-    </String><String List="0" sID="0445B9">
-      <EDID>recipe_mod_armor_UnderArmor_Marine_Mk5</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: экранированная обшивка поддоспешника морской пехоты</Source>
-      <Dest>ПЕРЕПИСЬ НАСЕЛЕНИЯ|Схема: экранированная обшивка поддоспешника морской пехоты</Dest>
-    </String><String List="0" sID="0445BC">
-      <EDID>recipe_mod_armor_UnderArmor_Marine_Mk4</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: защитная обшивка поддоспешника морской пехоты</Source>
-      <Dest>ПЕРЕПИСЬ НАСЕЛЕНИЯ|Схема: защитная обшивка поддоспешника морской пехоты</Dest>
-    </String><String List="0" sID="049A9C">
-      <EDID>Recipe_Cooking_Smores</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Рецепт: поджаренный зефир с крекерами</Source>
-      <Dest>СТРАШНЫЕ ИСТОРИИ|Рецепт: поджаренный зефир с крекерами</Dest>
-    </String><String List="0" sID="049A9E">
-      <EDID>Recipe_Workshop_MiscStructures_Tent_CampfireTales</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: палатка для страшных историй</Source>
-      <Dest>СТРАШНЫЕ ИСТОРИИ|Схема: палатка для страшных историй</Dest>
-    </String><String List="0" sID="03DA9D">
-      <EDID>CorpseFlowerSeedsFruit</EDID>
-      <REC>ALCH:FULL</REC>
-      <Source>Трупные семена</Source>
-      <Dest>ЦВЕТЫ СМЕРТИ|Трупные семена</Dest>
-    </String><String List="0" sID="03DB35">
-      <EDID>CorpseFlowerStamenFruit</EDID>
-      <REC>ALCH:FULL</REC>
-      <Source>Тычинка трупного цветка</Source>
-      <Dest>ЦВЕТЫ СМЕРТИ|Тычинка трупного цветка</Dest>
     </String><String List="0" sID="81009259">
       <EDID>Storm_Recipe_Workshop_LostInATube</EDID>
       <REC>BOOK:FULL</REC>
@@ -996,6 +986,16 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: знак "Дикая природа: медвежья тропа"</Source>
       <Dest>ОПАСНЫЕ РАЗВЛЕЧЕНИЯ|Схема: знак "Дикая природа: медвежья тропа"</Dest>
+    </String><String List="0" sID="03DA9D">
+      <EDID>CorpseFlowerSeedsFruit</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Трупные семена</Source>
+      <Dest>ЦВЕТЫ СМЕРТИ|Трупные семена</Dest>
+    </String><String List="0" sID="03DB35">
+      <EDID>CorpseFlowerStamenFruit</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Тычинка трупного цветка</Source>
+      <Dest>ЦВЕТЫ СМЕРТИ|Тычинка трупного цветка</Dest>
     </String><String List="0" sID="03EF4B">
       <EDID>miscmod_mod_Enclave_PlasmaGun_barrel_Short_Base</EDID>
       <REC>MISC:FULL</REC>
@@ -1321,86 +1321,6 @@
       <REC>ARMO:FULL</REC>
       <Source>Голова от ростовой куклы шипсквотча</Source>
       <Dest>КРИПТИДОГРАФИЯ+|Голова от ростовой куклы шипсквотча</Dest>
-    </String><String List="0" sID="90005BE">
-      <EDID>Headwear_Fasnacht_Mask_VeggieMan_Glow</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Светящаяся маска Овощного человека для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2025Q1+|Светящаяся маска Овощного человека для Фастнахта</Dest>
-    </String><String List="0" sID="90005BF">
-      <EDID>Headwear_Fasnacht_Mask_Abe_Glow</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Светящаяся маска Эйба для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2025Q1+|Светящаяся маска Эйба для Фастнахта</Dest>
-    </String><String List="0" sID="9000793">
-      <EDID>Recipe_Workshop_WallDecor_FlowerBoxAshRose</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: кадка с цветами — пепельная роза</Source>
-      <Dest>ФАСНАХТ 2025Q1|Схема: кадка с цветами — пепельная роза</Dest>
-    </String><String List="0" sID="9000799">
-      <EDID>Recipe_Workshop_WallDecor_FlowerBoxAster</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: кадка с цветами — астра</Source>
-      <Dest>ФАСНАХТ 2025Q1|Схема: кадка с цветами — астра</Dest>
-    </String><String List="0" sID="900079F">
-      <EDID>Recipe_Workshop_WallDecor_FlowerBoxMutatedFern</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: кадка с цветами — папоротник-мутант</Source>
-      <Dest>ФАСНАХТ 2025Q1|Схема: кадка с цветами — папоротник-мутант</Dest>
-    </String><String List="0" sID="90007AB">
-      <EDID>Recipe_Workshop_WallDecor_FlowerBoxRhododendron</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: кадка с цветами — рододендрон</Source>
-      <Dest>ФАСНАХТ 2025Q1|Схема: кадка с цветами — рододендрон</Dest>
-    </String><String List="0" sID="90007B1">
-      <EDID>Recipe_Workshop_WallDecor_FlowerBoxSootFlower</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: кадка с цветами — грязноцвет</Source>
-      <Dest>ФАСНАХТ 2025Q1|Схема: кадка с цветами — грязноцвет</Dest>
-    </String><String List="0" sID="90007B7">
-      <EDID>Recipe_Workshop_WallDecor_FloweringBoxMutatedFern</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветущая кадка — папоротник-мутант</Source>
-      <Dest>ФАСНАХТ 2025Q1|Схема: цветущая кадка — папоротник-мутант</Dest>
-    </String><String List="0" sID="90007BD">
-      <EDID>Recipe_Workshop_WallDecor_FloweringBoxSootFlower</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветущая кадка — грязноцвет</Source>
-      <Dest>ФАСНАХТ 2025Q1|Схема: цветущая кадка — грязноцвет</Dest>
-    </String><String List="0" sID="90007C3">
-      <EDID>Recipe_Workshop_WallDecor_FloweringBoxAshRose</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветущая кадка — пепельная роза</Source>
-      <Dest>ФАСНАХТ 2025Q1|Схема: цветущая кадка — пепельная роза</Dest>
-    </String><String List="0" sID="90007C9">
-      <EDID>Recipe_Workshop_WallDecor_FloweringBoxAster</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветущая кадка — астра</Source>
-      <Dest>ФАСНАХТ 2025Q1|Схема: цветущая кадка — астра</Dest>
-    </String><String List="0" sID="90007CF">
-      <EDID>Recipe_Workshop_WallDecor_FloweringBoxRhododendron</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветущая кадка — рододендрон</Source>
-      <Dest>ФАСНАХТ 2025Q1|Схема: цветущая кадка — рододендрон</Dest>
-    </String><String List="0" sID="90007D4">
-      <EDID>Headwear_Fasnacht_Mask_Bigfoot_Glow</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Светящаяся маска бигфута для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2025Q1+|Светящаяся маска бигфута для Фастнахта</Dest>
-    </String><String List="0" sID="90007D5">
-      <EDID>Headwear_Fasnacht_Mask_Bigfoot</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Маска бигфута для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2025Q1|Маска бигфута для Фастнахта</Dest>
-    </String><String List="0" sID="90007D8">
-      <EDID>Headwear_Fasnacht_Mask_Jackalope_Glow</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Светящаяся маска рогатого зайца для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2025Q1+|Светящаяся маска рогатого зайца для Фастнахта</Dest>
-    </String><String List="0" sID="90007D9">
-      <EDID>Headwear_Fasnacht_Mask_Jackalope</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Маска рогатого зайца для Фастнахта</Source>
-      <Dest>ФАСНАХТ 2025Q1|Маска рогатого зайца для Фастнахта</Dest>
     </String><String List="0" sID="03FD0B">
       <EDID>Headwear_Fasnacht_Mask_Harlequin</EDID>
       <REC>ARMO:FULL</REC>
@@ -1606,351 +1526,86 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: пивная кружка "Овощной человек" для Фастнахта</Source>
       <Dest>ФАСТНАХТ 2024|Схема: пивная кружка "Овощной человек" для Фастнахта</Dest>
-    </String><String List="0" sID="61021BEF">
-      <EDID>miscmod_mod_GatlingPlasma_Mag_ReloadSpeed</EDID>
-      <REC>MISC:FULL</REC>
-      <Source>Гатлинг-плазма: быстрый приемник блока</Source>
-      <Dest>ГАТЛИНГ++|Гатлинг-плазма: быстрый приемник блока</Dest>
-    </String><String List="0" sID="61021BF0">
-      <EDID>miscmod_mod_GatlingPlasma_Receiver_CritDMG</EDID>
-      <REC>MISC:FULL</REC>
-      <Source>Гатлинг-плазма: калиброванный конденсатор</Source>
-      <Dest>ГАТЛИНГ++|Гатлинг-плазма: калиброванный конденсатор</Dest>
-    </String><String List="0" sID="61021BF1">
-      <EDID>miscmod_mod_GatlingPlasma_Mag_Ammo</EDID>
-      <REC>MISC:FULL</REC>
-      <Source>Гатлинг-плазма: большой приемник блока</Source>
-      <Dest>ГАТЛИНГ++|Гатлинг-плазма: большой приемник блока</Dest>
-    </String><String List="0" sID="61021BF2">
-      <EDID>miscmod_mod_GatlingPlasma_Muzzle_Fast</EDID>
-      <REC>MISC:FULL</REC>
-      <Source>Гатлинг-плазма: ускоренное сопло</Source>
-      <Dest>ГАТЛИНГ++|Гатлинг-плазма: ускоренное сопло</Dest>
-    </String><String List="0" sID="61021BF3">
-      <EDID>miscmod_mod_GatlingPlasma_Mag_ArmorPen</EDID>
-      <REC>MISC:FULL</REC>
-      <Source>Гатлинг-плазма: жалящий приемник блока</Source>
-      <Dest>ГАТЛИНГ++|Гатлинг-плазма: жалящий приемник блока</Dest>
-    </String><String List="0" sID="61021BF4">
-      <EDID>miscmod_mod_GatlingPlasma_Receiver_Burning</EDID>
-      <REC>MISC:FULL</REC>
-      <Source>Гатлинг-плазма: гамма-излучатель</Source>
-      <Dest>ГАТЛИНГ++|Гатлинг-плазма: гамма-излучатель</Dest>
-    </String><String List="0" sID="61021BF6">
-      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Receiver_CritDMG</EDID>
+    </String><String List="0" sID="90005BE">
+      <EDID>Headwear_Fasnacht_Mask_VeggieMan_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска Овощного человека для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2025Q1+|Светящаяся маска Овощного человека для Фастнахта</Dest>
+    </String><String List="0" sID="90005BF">
+      <EDID>Headwear_Fasnacht_Mask_Abe_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска Эйба для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2025Q1+|Светящаяся маска Эйба для Фастнахта</Dest>
+    </String><String List="0" sID="9000793">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxAshRose</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: калиброванный конденсатор для гатлинг-плазмы</Source>
-      <Dest>ГАТЛИНГ++|Схема: калиброванный конденсатор для гатлинг-плазмы</Dest>
-    </String><String List="0" sID="61021BF7">
-      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Receiver_Burning</EDID>
+      <Source>Схема: кадка с цветами — пепельная роза</Source>
+      <Dest>ФАСНАХТ 2025Q1|Схема: кадка с цветами — пепельная роза</Dest>
+    </String><String List="0" sID="9000799">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxAster</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: гамма-излучатель для гатлинг-плазмы</Source>
-      <Dest>ГАТЛИНГ++|Схема: гамма-излучатель для гатлинг-плазмы</Dest>
-    </String><String List="0" sID="61021BF8">
-      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Mag_Ammo</EDID>
+      <Source>Схема: кадка с цветами — астра</Source>
+      <Dest>ФАСНАХТ 2025Q1|Схема: кадка с цветами — астра</Dest>
+    </String><String List="0" sID="900079F">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxMutatedFern</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: большой приемник блока для гатлинг-плазмы</Source>
-      <Dest>ГАТЛИНГ++|Схема: большой приемник блока для гатлинг-плазмы</Dest>
-    </String><String List="0" sID="61021BF9">
-      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Muzzle_Fast</EDID>
+      <Source>Схема: кадка с цветами — папоротник-мутант</Source>
+      <Dest>ФАСНАХТ 2025Q1|Схема: кадка с цветами — папоротник-мутант</Dest>
+    </String><String List="0" sID="90007AB">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxRhododendron</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: ускоренное сопло для гатлинг-плазмы</Source>
-      <Dest>ГАТЛИНГ++|Схема: ускоренное сопло для гатлинг-плазмы</Dest>
-    </String><String List="0" sID="61021BFA">
-      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Mag_ReloadSpeed</EDID>
+      <Source>Схема: кадка с цветами — рододендрон</Source>
+      <Dest>ФАСНАХТ 2025Q1|Схема: кадка с цветами — рододендрон</Dest>
+    </String><String List="0" sID="90007B1">
+      <EDID>Recipe_Workshop_WallDecor_FlowerBoxSootFlower</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: быстрый приемник блока для гатлинг-плазмы</Source>
-      <Dest>ГАТЛИНГ++|Схема: быстрый приемник блока для гатлинг-плазмы</Dest>
-    </String><String List="0" sID="61021BFB">
-      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Mag_ArmorPen</EDID>
+      <Source>Схема: кадка с цветами — грязноцвет</Source>
+      <Dest>ФАСНАХТ 2025Q1|Схема: кадка с цветами — грязноцвет</Dest>
+    </String><String List="0" sID="90007B7">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxMutatedFern</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: жалящий приемник блока для гатлинг-плазмы</Source>
-      <Dest>ГАТЛИНГ++|Схема: жалящий приемник блока для гатлинг-плазмы</Dest>
-    </String><String List="0" sID="0494D6">
-      <EDID>Recipe_Weapon_Melee_ShepherdsCrook</EDID>
+      <Source>Схема: цветущая кадка — папоротник-мутант</Source>
+      <Dest>ФАСНАХТ 2025Q1|Схема: цветущая кадка — папоротник-мутант</Dest>
+    </String><String List="0" sID="90007BD">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxSootFlower</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: пастуший посох</Source>
-      <Dest>ВЫГУЛ|Схема: пастуший посох</Dest>
-    </String><String List="0" sID="0494D8">
-      <EDID>recipe_mod_melee_ShepherdsCrook_Toothed</EDID>
+      <Source>Схема: цветущая кадка — грязноцвет</Source>
+      <Dest>ФАСНАХТ 2025Q1|Схема: цветущая кадка — грязноцвет</Dest>
+    </String><String List="0" sID="90007C3">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxAshRose</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: зубчатый пастуший посох</Source>
-      <Dest>ВЫГУЛ|Схема: зубчатый пастуший посох</Dest>
-    </String><String List="0" sID="0494D9">
-      <EDID>Recipe_Weapon_Melee_SheepsquatchStaff</EDID>
+      <Source>Схема: цветущая кадка — пепельная роза</Source>
+      <Dest>ФАСНАХТ 2025Q1|Схема: цветущая кадка — пепельная роза</Dest>
+    </String><String List="0" sID="90007C9">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxAster</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: посох шипсквотча</Source>
-      <Dest>ВЫГУЛ|Схема: посох шипсквотча</Dest>
-    </String><String List="0" sID="0494DA">
-      <EDID>Recipe_Weapon_Melee_SheepsquatchClub</EDID>
+      <Source>Схема: цветущая кадка — астра</Source>
+      <Dest>ФАСНАХТ 2025Q1|Схема: цветущая кадка — астра</Dest>
+    </String><String List="0" sID="90007CF">
+      <EDID>Recipe_Workshop_WallDecor_FloweringBoxRhododendron</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: батог шипсквотча</Source>
-      <Dest>ВЫГУЛ|Схема: батог шипсквотча</Dest>
-    </String><String List="0" sID="0494DD">
-      <EDID>recipe_mod_melee_SheepsquatchClub_Barbwire</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Батог шипсквотча, обмотанный колючей проволокой"</Source>
-      <Dest>ВЫГУЛ|Схема: модификация "Батог шипсквотча, обмотанный колючей проволокой"</Dest>
-    </String><String List="0" sID="0494DE">
-      <EDID>recipe_mod_melee_SheepsquatchClub_BurningBarbwire</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Батог шипсквотча, обмотанный горящей колючей проволокой"</Source>
-      <Dest>ВЫГУЛ|Схема: модификация "Батог шипсквотча, обмотанный горящей колючей проволокой"</Dest>
-    </String><String List="0" sID="0494DF">
-      <EDID>recipe_mod_melee_SheepsquatchStaff_Barbwire</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Посох шипсквотча, обмотанный колючей проволокой"</Source>
-      <Dest>ВЫГУЛ|Схема: модификация "Посох шипсквотча, обмотанный колючей проволокой"</Dest>
-    </String><String List="0" sID="0494E0">
-      <EDID>recipe_mod_melee_ShepherdsCrook_GlassCovered</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: пастуший посох, покрытый стеклом</Source>
-      <Dest>ВЫГУЛ|Схема: пастуший посох, покрытый стеклом</Dest>
-    </String><String List="0" sID="0494E2">
-      <EDID>recipe_mod_melee_SheepsquatchStaff_BurningBarbwire</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Посох шипсквотча, обмотанный горящей колючей проволокой"</Source>
-      <Dest>ВЫГУЛ|Схема: модификация "Посох шипсквотча, обмотанный горящей колючей проволокой"</Dest>
-    </String><String List="0" sID="0494E7">
-      <EDID>recipe_mod_melee_ShepherdsCrook_SheepSquatchHorn</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Пастуший посох с рогами"</Source>
-      <Dest>ВЫГУЛ|Схема: модификация "Пастуший посох с рогами"</Dest>
-    </String><String List="0" sID="0494E8">
-      <EDID>recipe_mod_melee_ShepherdsCrook_Spiked</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: пастуший посох с шипами</Source>
-      <Dest>ВЫГУЛ|Схема: пастуший посох с шипами</Dest>
-    </String><String List="0" sID="0494E9">
-      <EDID>recipe_mod_melee_ShepherdsCrook_Shock</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: электрический пастуший посох</Source>
-      <Dest>ВЫГУЛ|Схема: электрический пастуший посох</Dest>
-    </String><String List="0" sID="61003168">
-      <EDID>Recipe_Weapon_Thrown_SheepsquatchShard</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: игла шипскотча</Source>
-      <Dest>ВЫГУЛ|Схема: игла шипскотча</Dest>
-    </String><String List="0" sID="610063F4">
-      <EDID>recipe_mod_melee_SheepsquatchStaff_Poison</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: отравленный посох шипсквотча</Source>
-      <Dest>ВЫГУЛ|Схема: отравленный посох шипсквотча</Dest>
-    </String><String List="0" sID="610063F5">
-      <EDID>recipe_mod_melee_SheepsquatchStaff_Heavy</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: тяжелый посох шипсквотча</Source>
-      <Dest>ВЫГУЛ|Схема: тяжелый посох шипсквотча</Dest>
-    </String><String List="0" sID="610063F6">
-      <EDID>recipe_mod_melee_SheepsquatchClub_Burning</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: горящий батог шипсквотча</Source>
-      <Dest>ВЫГУЛ|Схема: горящий батог шипсквотча</Dest>
-    </String><String List="0" sID="610063F7">
-      <EDID>recipe_mod_melee_SheepsquatchClub_Heavy</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: тяжелый батог шипсквотча</Source>
-      <Dest>ВЫГУЛ|Схема: тяжелый батог шипсквотча</Dest>
-    </String><String List="0" sID="610063F8">
-      <EDID>recipe_mod_melee_SheepsquatchStaff_Shock</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: электрический посох шипсквотча</Source>
-      <Dest>ВЫГУЛ|Схема: электрический посох шипсквотча</Dest>
-    </String><String List="0" sID="610063F9">
-      <EDID>recipe_mod_melee_SheepsquatchClub_Poison</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: отравленный батог шипсквотча</Source>
-      <Dest>ВЫГУЛ|Схема: отравленный батог шипсквотча</Dest>
-    </String><String List="0" sID="610063FA">
-      <EDID>recipe_mod_melee_SheepsquatchClub_Shock</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: электрический батог шипсквотча</Source>
-      <Dest>ВЫГУЛ|Схема: электрический батог шипсквотча</Dest>
-    </String><String List="0" sID="610063FB">
-      <EDID>recipe_mod_melee_SheepsquatchStaff_Burning</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: горящий посох шипсквотча</Source>
-      <Dest>ВЫГУЛ|Схема: горящий посох шипсквотча</Dest>
-    </String><String List="0" sID="6101B2E9">
-      <EDID>Recipe_Cooking_SheepsquatchMeatTasty</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Рецепт: вкусный пирог с бараниной</Source>
-      <Dest>ВЫГУЛ|Рецепт: вкусный пирог с бараниной</Dest>
-    </String><String List="0" sID="03F87F">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Cat</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова кошки на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова кошки на подставке</Dest>
-    </String><String List="0" sID="03F884">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Radscorpion</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело радскорпиона</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело радскорпиона</Dest>
-    </String><String List="0" sID="03F88D">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_FeralGhoul</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова дикого гуля на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова дикого гуля на подставке</Dest>
-    </String><String List="0" sID="03F8C0">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Brahmin</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: головы брамина на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: головы брамина на подставке</Dest>
-    </String><String List="0" sID="03F8E2">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_FeralGlowingOne</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова Светящегося на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова Светящегося на подставке</Dest>
-    </String><String List="0" sID="03F93E">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Radstag</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова рад-оленя на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова рад-оленя на подставке</Dest>
-    </String><String List="0" sID="03F945">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MirelurkKing</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова короля болотников на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова короля болотников на подставке</Dest>
-    </String><String List="0" sID="03F992">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Radroach</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело рад-таракана</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело рад-таракана</Dest>
-    </String><String List="0" sID="03F9B5">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Molerat</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова кротокрыса на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова кротокрыса на подставке</Dest>
-    </String><String List="0" sID="03F9FE">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Stingwing</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело жалокрыла</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело жалокрыла</Dest>
-    </String><String List="0" sID="03FA71">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Bloodbug</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело гнуса</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело гнуса</Dest>
-    </String><String List="0" sID="03FABA">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Deathclaw</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова когтя смерти на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова когтя смерти на подставке</Dest>
-    </String><String List="0" sID="03FB2B">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Dog</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова собаки на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова собаки на подставке</Dest>
-    </String><String List="0" sID="03FBA8">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Raddog</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова дворняги на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова дворняги на подставке</Dest>
-    </String><String List="0" sID="03FBD3">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MirelurkHunter</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова болотника-охотника на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова болотника-охотника на подставке</Dest>
-    </String><String List="0" sID="03FC1C">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Mirelurk</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: клешня болотника на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: клешня болотника на подставке</Dest>
-    </String><String List="0" sID="03FC25">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Bloatfly</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова дутня на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова дутня на подставке</Dest>
-    </String><String List="0" sID="03FC6A">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_FEVHound</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова гончей-мутанта на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова гончей-мутанта на подставке</Dest>
-    </String><String List="0" sID="0465C7">
-      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_RadBeaver</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело бобра</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело бобра</Dest>
-    </String><String List="0" sID="0465C8">
-      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Fox</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело лисы</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело лисы</Dest>
-    </String><String List="0" sID="0465C9">
-      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_RadToad</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело рад-жабы</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело рад-жабы</Dest>
-    </String><String List="0" sID="0465CA">
-      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Mothman</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело Молерота</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело Молерота</Dest>
-    </String><String List="0" sID="0465CD">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Tick</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело клеща</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело клеща</Dest>
-    </String><String List="0" sID="0465CE">
-      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_RadFrogBlue</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело лягушки</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело лягушки</Dest>
-    </String><String List="0" sID="0465CF">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MountedDeerHead</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова оленя на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова оленя на подставке</Dest>
-    </String><String List="0" sID="0465D1">
-      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Megasloth</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело сверхленивца</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело сверхленивца</Dest>
-    </String><String List="0" sID="0465D2">
-      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_HoneyBeast</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело медозверя</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело медозверя</Dest>
-    </String><String List="0" sID="0465D3">
-      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Opossum</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело опоссума</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело опоссума</Dest>
-    </String><String List="0" sID="0465D5">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MountedAntlers</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: рога на стене</Source>
-      <Dest>ПОДАРКИ 2019|Схема: рога на стене</Dest>
-    </String><String List="0" sID="0465D7">
-      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_RadSquirrel</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело белки</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело белки</Dest>
-    </String><String List="0" sID="0465D8">
-      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Snallygaster</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: чучело снеллигастера</Source>
-      <Dest>ПОДАРКИ 2019|Схема: чучело снеллигастера</Dest>
-    </String><String List="0" sID="055B07">
-      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MountedDeerSkull</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: черепа оленей</Source>
-      <Dest>ПОДАРКИ 2019|Схема: черепа оленей</Dest>
-    </String><String List="0" sID="410003FB">
-      <EDID>Recipe_Workshop_WallDecor_SantaCrash</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плохой Санта</Source>
-      <Dest>ПОДАРКИ 2019|Схема: плохой Санта</Dest>
-    </String><String List="0" sID="410003FC">
-      <EDID>Recipe_Workshop_Lights_WinterIcicle</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: зимние светящиеся огни</Source>
-      <Dest>ПОДАРКИ 2019|Схема: зимние светящиеся огни</Dest>
-    </String><String List="0" sID="6100311C">
-      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Gorilla</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: голова гориллы на подставке</Source>
-      <Dest>ПОДАРКИ 2019|Схема: голова гориллы на подставке</Dest>
+      <Source>Схема: цветущая кадка — рододендрон</Source>
+      <Dest>ФАСНАХТ 2025Q1|Схема: цветущая кадка — рододендрон</Dest>
+    </String><String List="0" sID="90007D4">
+      <EDID>Headwear_Fasnacht_Mask_Bigfoot_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска бигфута для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2025Q1+|Светящаяся маска бигфута для Фастнахта</Dest>
+    </String><String List="0" sID="90007D5">
+      <EDID>Headwear_Fasnacht_Mask_Bigfoot</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска бигфута для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2025Q1|Маска бигфута для Фастнахта</Dest>
+    </String><String List="0" sID="90007D8">
+      <EDID>Headwear_Fasnacht_Mask_Jackalope_Glow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Светящаяся маска рогатого зайца для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2025Q1+|Светящаяся маска рогатого зайца для Фастнахта</Dest>
+    </String><String List="0" sID="90007D9">
+      <EDID>Headwear_Fasnacht_Mask_Jackalope</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска рогатого зайца для Фастнахта</Source>
+      <Dest>ФАСНАХТ 2025Q1|Маска рогатого зайца для Фастнахта</Dest>
     </String><String List="0" sID="0465D1">
       <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Megasloth</EDID>
       <REC>BOOK:FULL</REC>
@@ -2166,6 +1821,671 @@
       <REC>ARMO:FULL</REC>
       <Source>Маска безумца для Фастнахта</Source>
       <Dest>ФАСТНАХТ+|Маска безумца для Фастнахта</Dest>
+    </String><String List="0" sID="0494D6">
+      <EDID>Recipe_Weapon_Melee_ShepherdsCrook</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пастуший посох</Source>
+      <Dest>ВЫГУЛ|Схема: пастуший посох</Dest>
+    </String><String List="0" sID="0494D8">
+      <EDID>recipe_mod_melee_ShepherdsCrook_Toothed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: зубчатый пастуший посох</Source>
+      <Dest>ВЫГУЛ|Схема: зубчатый пастуший посох</Dest>
+    </String><String List="0" sID="0494D9">
+      <EDID>Recipe_Weapon_Melee_SheepsquatchStaff</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: посох шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: посох шипсквотча</Dest>
+    </String><String List="0" sID="0494DA">
+      <EDID>Recipe_Weapon_Melee_SheepsquatchClub</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: батог шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: батог шипсквотча</Dest>
+    </String><String List="0" sID="0494DD">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Barbwire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Батог шипсквотча, обмотанный колючей проволокой"</Source>
+      <Dest>ВЫГУЛ|Схема: модификация "Батог шипсквотча, обмотанный колючей проволокой"</Dest>
+    </String><String List="0" sID="0494DE">
+      <EDID>recipe_mod_melee_SheepsquatchClub_BurningBarbwire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Батог шипсквотча, обмотанный горящей колючей проволокой"</Source>
+      <Dest>ВЫГУЛ|Схема: модификация "Батог шипсквотча, обмотанный горящей колючей проволокой"</Dest>
+    </String><String List="0" sID="0494DF">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Barbwire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Посох шипсквотча, обмотанный колючей проволокой"</Source>
+      <Dest>ВЫГУЛ|Схема: модификация "Посох шипсквотча, обмотанный колючей проволокой"</Dest>
+    </String><String List="0" sID="0494E0">
+      <EDID>recipe_mod_melee_ShepherdsCrook_GlassCovered</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пастуший посох, покрытый стеклом</Source>
+      <Dest>ВЫГУЛ|Схема: пастуший посох, покрытый стеклом</Dest>
+    </String><String List="0" sID="0494E2">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_BurningBarbwire</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Посох шипсквотча, обмотанный горящей колючей проволокой"</Source>
+      <Dest>ВЫГУЛ|Схема: модификация "Посох шипсквотча, обмотанный горящей колючей проволокой"</Dest>
+    </String><String List="0" sID="0494E7">
+      <EDID>recipe_mod_melee_ShepherdsCrook_SheepSquatchHorn</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Пастуший посох с рогами"</Source>
+      <Dest>ВЫГУЛ|Схема: модификация "Пастуший посох с рогами"</Dest>
+    </String><String List="0" sID="0494E8">
+      <EDID>recipe_mod_melee_ShepherdsCrook_Spiked</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пастуший посох с шипами</Source>
+      <Dest>ВЫГУЛ|Схема: пастуший посох с шипами</Dest>
+    </String><String List="0" sID="0494E9">
+      <EDID>recipe_mod_melee_ShepherdsCrook_Shock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: электрический пастуший посох</Source>
+      <Dest>ВЫГУЛ|Схема: электрический пастуший посох</Dest>
+    </String><String List="0" sID="61003168">
+      <EDID>Recipe_Weapon_Thrown_SheepsquatchShard</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: игла шипскотча</Source>
+      <Dest>ВЫГУЛ|Схема: игла шипскотча</Dest>
+    </String><String List="0" sID="610063F4">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Poison</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: отравленный посох шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: отравленный посох шипсквотча</Dest>
+    </String><String List="0" sID="610063F5">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелый посох шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: тяжелый посох шипсквотча</Dest>
+    </String><String List="0" sID="610063F6">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: горящий батог шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: горящий батог шипсквотча</Dest>
+    </String><String List="0" sID="610063F7">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Heavy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тяжелый батог шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: тяжелый батог шипсквотча</Dest>
+    </String><String List="0" sID="610063F8">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Shock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: электрический посох шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: электрический посох шипсквотча</Dest>
+    </String><String List="0" sID="610063F9">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Poison</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: отравленный батог шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: отравленный батог шипсквотча</Dest>
+    </String><String List="0" sID="610063FA">
+      <EDID>recipe_mod_melee_SheepsquatchClub_Shock</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: электрический батог шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: электрический батог шипсквотча</Dest>
+    </String><String List="0" sID="610063FB">
+      <EDID>recipe_mod_melee_SheepsquatchStaff_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: горящий посох шипсквотча</Source>
+      <Dest>ВЫГУЛ|Схема: горящий посох шипсквотча</Dest>
+    </String><String List="0" sID="6101B2E9">
+      <EDID>Recipe_Cooking_SheepsquatchMeatTasty</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: вкусный пирог с бараниной</Source>
+      <Dest>ВЫГУЛ|Рецепт: вкусный пирог с бараниной</Dest>
+    </String><String List="0" sID="61021BEF">
+      <EDID>miscmod_mod_GatlingPlasma_Mag_ReloadSpeed</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Гатлинг-плазма: быстрый приемник блока</Source>
+      <Dest>ГАТЛИНГ++|Гатлинг-плазма: быстрый приемник блока</Dest>
+    </String><String List="0" sID="61021BF0">
+      <EDID>miscmod_mod_GatlingPlasma_Receiver_CritDMG</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Гатлинг-плазма: калиброванный конденсатор</Source>
+      <Dest>ГАТЛИНГ++|Гатлинг-плазма: калиброванный конденсатор</Dest>
+    </String><String List="0" sID="61021BF1">
+      <EDID>miscmod_mod_GatlingPlasma_Mag_Ammo</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Гатлинг-плазма: большой приемник блока</Source>
+      <Dest>ГАТЛИНГ++|Гатлинг-плазма: большой приемник блока</Dest>
+    </String><String List="0" sID="61021BF2">
+      <EDID>miscmod_mod_GatlingPlasma_Muzzle_Fast</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Гатлинг-плазма: ускоренное сопло</Source>
+      <Dest>ГАТЛИНГ++|Гатлинг-плазма: ускоренное сопло</Dest>
+    </String><String List="0" sID="61021BF3">
+      <EDID>miscmod_mod_GatlingPlasma_Mag_ArmorPen</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Гатлинг-плазма: жалящий приемник блока</Source>
+      <Dest>ГАТЛИНГ++|Гатлинг-плазма: жалящий приемник блока</Dest>
+    </String><String List="0" sID="61021BF4">
+      <EDID>miscmod_mod_GatlingPlasma_Receiver_Burning</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Гатлинг-плазма: гамма-излучатель</Source>
+      <Dest>ГАТЛИНГ++|Гатлинг-плазма: гамма-излучатель</Dest>
+    </String><String List="0" sID="61021BF6">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Receiver_CritDMG</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: калиброванный конденсатор для гатлинг-плазмы</Source>
+      <Dest>ГАТЛИНГ++|Схема: калиброванный конденсатор для гатлинг-плазмы</Dest>
+    </String><String List="0" sID="61021BF7">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Receiver_Burning</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гамма-излучатель для гатлинг-плазмы</Source>
+      <Dest>ГАТЛИНГ++|Схема: гамма-излучатель для гатлинг-плазмы</Dest>
+    </String><String List="0" sID="61021BF8">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Mag_Ammo</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: большой приемник блока для гатлинг-плазмы</Source>
+      <Dest>ГАТЛИНГ++|Схема: большой приемник блока для гатлинг-плазмы</Dest>
+    </String><String List="0" sID="61021BF9">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Muzzle_Fast</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ускоренное сопло для гатлинг-плазмы</Source>
+      <Dest>ГАТЛИНГ++|Схема: ускоренное сопло для гатлинг-плазмы</Dest>
+    </String><String List="0" sID="61021BFA">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Mag_ReloadSpeed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: быстрый приемник блока для гатлинг-плазмы</Source>
+      <Dest>ГАТЛИНГ++|Схема: быстрый приемник блока для гатлинг-плазмы</Dest>
+    </String><String List="0" sID="61021BFB">
+      <EDID>Recipe_Weapon_Ranged_GatlingPlasma_Mag_ArmorPen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: жалящий приемник блока для гатлинг-плазмы</Source>
+      <Dest>ГАТЛИНГ++|Схема: жалящий приемник блока для гатлинг-плазмы</Dest>
+    </String><String List="0" sID="03F87F">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Cat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова кошки на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова кошки на подставке</Dest>
+    </String><String List="0" sID="03F884">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Radscorpion</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело радскорпиона</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело радскорпиона</Dest>
+    </String><String List="0" sID="03F88D">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_FeralGhoul</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова дикого гуля на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова дикого гуля на подставке</Dest>
+    </String><String List="0" sID="03F8C0">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Brahmin</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: головы брамина на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: головы брамина на подставке</Dest>
+    </String><String List="0" sID="03F8E2">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_FeralGlowingOne</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова Светящегося на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова Светящегося на подставке</Dest>
+    </String><String List="0" sID="03F93E">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Radstag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова рад-оленя на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова рад-оленя на подставке</Dest>
+    </String><String List="0" sID="03F945">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MirelurkKing</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова короля болотников на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова короля болотников на подставке</Dest>
+    </String><String List="0" sID="03F992">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Radroach</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело рад-таракана</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело рад-таракана</Dest>
+    </String><String List="0" sID="03F9B5">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Molerat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова кротокрыса на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова кротокрыса на подставке</Dest>
+    </String><String List="0" sID="03F9FE">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Stingwing</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело жалокрыла</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело жалокрыла</Dest>
+    </String><String List="0" sID="03FA71">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Bloodbug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело гнуса</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело гнуса</Dest>
+    </String><String List="0" sID="03FABA">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Deathclaw</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова когтя смерти на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова когтя смерти на подставке</Dest>
+    </String><String List="0" sID="03FB2B">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Dog</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова собаки на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова собаки на подставке</Dest>
+    </String><String List="0" sID="03FBA8">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Raddog</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова дворняги на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова дворняги на подставке</Dest>
+    </String><String List="0" sID="03FBD3">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MirelurkHunter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова болотника-охотника на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова болотника-охотника на подставке</Dest>
+    </String><String List="0" sID="03FC1C">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Mirelurk</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: клешня болотника на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: клешня болотника на подставке</Dest>
+    </String><String List="0" sID="03FC25">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Bloatfly</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова дутня на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова дутня на подставке</Dest>
+    </String><String List="0" sID="03FC6A">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_FEVHound</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова гончей-мутанта на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова гончей-мутанта на подставке</Dest>
+    </String><String List="0" sID="0465C7">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_RadBeaver</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело бобра</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело бобра</Dest>
+    </String><String List="0" sID="0465C8">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Fox</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело лисы</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело лисы</Dest>
+    </String><String List="0" sID="0465C9">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_RadToad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело рад-жабы</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело рад-жабы</Dest>
+    </String><String List="0" sID="0465CA">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Mothman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело Молерота</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело Молерота</Dest>
+    </String><String List="0" sID="0465CD">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_Tick</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело клеща</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело клеща</Dest>
+    </String><String List="0" sID="0465CE">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_RadFrogBlue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело лягушки</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело лягушки</Dest>
+    </String><String List="0" sID="0465CF">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MountedDeerHead</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова оленя на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова оленя на подставке</Dest>
+    </String><String List="0" sID="0465D1">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Megasloth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело сверхленивца</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело сверхленивца</Dest>
+    </String><String List="0" sID="0465D2">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_HoneyBeast</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело медозверя</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело медозверя</Dest>
+    </String><String List="0" sID="0465D3">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Opossum</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело опоссума</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело опоссума</Dest>
+    </String><String List="0" sID="0465D5">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MountedAntlers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рога на стене</Source>
+      <Dest>ПОДАРКИ 2019|Схема: рога на стене</Dest>
+    </String><String List="0" sID="0465D7">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_RadSquirrel</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело белки</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело белки</Dest>
+    </String><String List="0" sID="0465D8">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Snallygaster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: чучело снеллигастера</Source>
+      <Dest>ПОДАРКИ 2019|Схема: чучело снеллигастера</Dest>
+    </String><String List="0" sID="055B07">
+      <EDID>Recipe_Workshop_WallDecor_Taxidermy_MountedDeerSkull</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: черепа оленей</Source>
+      <Dest>ПОДАРКИ 2019|Схема: черепа оленей</Dest>
+    </String><String List="0" sID="410003FB">
+      <EDID>Recipe_Workshop_WallDecor_SantaCrash</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плохой Санта</Source>
+      <Dest>ПОДАРКИ 2019|Схема: плохой Санта</Dest>
+    </String><String List="0" sID="410003FC">
+      <EDID>Recipe_Workshop_Lights_WinterIcicle</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: зимние светящиеся огни</Source>
+      <Dest>ПОДАРКИ 2019|Схема: зимние светящиеся огни</Dest>
+    </String><String List="0" sID="6100311C">
+      <EDID>Recipe_Workshop_WallDecor_76Taxidermy_Gorilla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова гориллы на подставке</Source>
+      <Dest>ПОДАРКИ 2019|Схема: голова гориллы на подставке</Dest>
+    </String><String List="0" sID="8100C306">
+      <EDID>Recipe_Outfit_JitterbugJudy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: костюм "Неугомонная Джуди"</Source>
+      <Dest>ПОДАРКИ 2024|Схема: костюм "Неугомонная Джуди"</Dest>
+    </String><String List="0" sID="8100C30F">
+      <EDID>Recipe_Workshop_Lights_PlastiformVaultBoyElf</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пластиковый волт-бой "Эльф"</Source>
+      <Dest>ПОДАРКИ 2024|Схема: пластиковый волт-бой "Эльф"</Dest>
+    </String><String List="0" sID="8100C318">
+      <EDID>Recipe_Workshop_Lights_PlastiformSnowman</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: пластиковый снеговик</Source>
+      <Dest>ПОДАРКИ 2024|Схема: пластиковый снеговик</Dest>
+    </String><String List="0" sID="8100C327">
+      <EDID>Recipe_PeppermintFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака "Перечная мята"</Source>
+      <Dest>ПОДАРКИ 2024|Схема: брелок для рюкзака "Перечная мята"</Dest>
+    </String><String List="0" sID="8100C333">
+      <EDID>Recipe_SnowmanHeadFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака "Голова снеговика"</Source>
+      <Dest>ПОДАРКИ 2024|Схема: брелок для рюкзака "Голова снеговика"</Dest>
+    </String><String List="0" sID="8100C33A">
+      <EDID>Recipe_Backpack_Standard_Material_AtomicSetLtdHandbag</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сумка-рюкзак "Атомный мир лимитед"</Source>
+      <Dest>ПОДАРКИ 2024|Схема: сумка-рюкзак "Атомный мир лимитед"</Dest>
+    </String><String List="0" sID="8100C49C">
+      <EDID>Recipe_Workshop_FloorDecor_GiantBrontosaurus_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гигантский красный бронтозавр</Source>
+      <Dest>ПОДАРКИ 2024|Схема: гигантский красный бронтозавр</Dest>
+    </String><String List="0" sID="4100D876">
+      <EDID>RD01_Recipe_Mod_BackPack_Effect_Canteen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Рюкзак с флягами"</Source>
+      <Dest>ГЛУБИНЫ|Схема: модификация "Рюкзак с флягами"</Dest>
+    </String><String List="0" sID="6102169F">
+      <EDID>RD01_Recipe_Mod_Melee_DrillFist_UltraciteBits</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые биты для кастета-перфоратора</Source>
+      <Dest>ГЛУБИНЫ|Схема: ультрацитовые биты для кастета-перфоратора</Dest>
+    </String><String List="0" sID="61021853">
+      <EDID>RD01_Workshop_Recipe_FloorDecor_RaidTrophy_UltrageneticStalker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трофей налета "Ультрагенетический лазутчик"</Source>
+      <Dest>ГЛУБИНЫ|Схема: трофей налета "Ультрагенетический лазутчик"</Dest>
+    </String><String List="0" sID="6102192B">
+      <EDID>RD01_Workshop_Recipe_FloorDecor_RaidTrophy_EnclaveEpsilonSquad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трофей налета "Отряд Анклава "Эпсилон"</Source>
+      <Dest>ГЛУБИНЫ|Схема: трофей налета "Отряд Анклава "Эпсилон"</Dest>
+    </String><String List="0" sID="6102192C">
+      <EDID>RD01_Recipe_Mod_Armor_Scout_Material_Paint_EnclaveEpsilonSquad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска брони скаута "Отряд Анклава "Эпсилон"</Source>
+      <Dest>ГЛУБИНЫ|Схема: окраска брони скаута "Отряд Анклава "Эпсилон"</Dest>
+    </String><String List="0" sID="6102192D">
+      <EDID>RD01_Recipe_Mod_Armor_Combat_Material_Paint_EnclaveEpsilonSquad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска боевой брони "Отряд Анклава "Эпсилон"</Source>
+      <Dest>ГЛУБИНЫ|Схема: окраска боевой брони "Отряд Анклава "Эпсилон"</Dest>
+    </String><String List="0" sID="61021CD3">
+      <EDID>RD01_Workshop_Recipe_FloorDecor_RaidTrophy_EN06Guardian</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трофей налета "Робот-страж EN06"</Source>
+      <Dest>ГЛУБИНЫ|Схема: трофей налета "Робот-страж EN06"</Dest>
+    </String><String List="0" sID="61021D38">
+      <EDID>RD01_Recipe_Weapon_Ranged_StrikeBreaker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: "Коматозник"</Source>
+      <Dest>ГЛУБИНЫ|Схема: "Коматозник"</Dest>
+    </String><String List="0" sID="D9008F8A">
+      <EDID>RD01_Workshop_Recipe_FloorDecor_RaidTrophy_TunnelBoringDrill</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трофей налета "Тоннелепроходческий бур"</Source>
+      <Dest>ГЛУБИНЫ|Схема: трофей налета "Тоннелепроходческий бур"</Dest>
+    </String><String List="0" sID="D90090D4">
+      <EDID>RD01_Recipe_Weapon_Ranged_BoilingPoint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: "Точка кипения"</Source>
+      <Dest>ГЛУБИНЫ|Схема: "Точка кипения"</Dest>
+    </String><String List="0" sID="D90090D5">
+      <EDID>RD01_Recipe_Weapon_Ranged_Valkyrie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: "Валькирия"</Source>
+      <Dest>ГЛУБИНЫ|Схема: "Валькирия"</Dest>
+    </String><String List="0" sID="D90090F4">
+      <EDID>RD01_Recipe_Weapon_Ranged_ResolveBreaker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: "Сокрушитель воли"</Source>
+      <Dest>ГЛУБИНЫ|Схема: "Сокрушитель воли"</Dest>
+    </String><String List="0" sID="D9009127">
+      <EDID>RD01_Recipe_Weapon_Ranged_LicketySplit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: "Безудержный"</Source>
+      <Dest>ГЛУБИНЫ|Схема: "Безудержный"</Dest>
+    </String><String List="0" sID="D900913A">
+      <EDID>RD01_Recipe_Weapon_Melee_Cauterizer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: "Прижигатель"</Source>
+      <Dest>ГЛУБИНЫ|Схема: "Прижигатель"</Dest>
+    </String><String List="0" sID="D9009151">
+      <EDID>RD01_Recipe_Weapon_Melee_DrillFist</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кастет-перфоратор</Source>
+      <Dest>ГЛУБИНЫ|Схема: кастет-перфоратор</Dest>
+    </String><String List="0" sID="D90091A7">
+      <EDID>RD01_Workshop_Recipe_PowerGenerator_Ultracite</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый генератор</Source>
+      <Dest>ГЛУБИНЫ|Схема: ультрацитовый генератор</Dest>
+    </String><String List="0" sID="D9009212">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Emergency</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: аварийные протоколы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: аварийные протоколы "Вулкан"</Dest>
+    </String><String List="0" sID="D9009213">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Arm_Misc_UltraciteBracers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые наручи "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: ультрацитовые наручи "Вулкан"</Dest>
+    </String><String List="0" sID="D9009214">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фиолетовый налобный фонарь "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: фиолетовый налобный фонарь "Вулкан"</Dest>
+    </String><String List="0" sID="D9009215">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Leg_Misc_SprintBoost</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: форсированные сервоприводы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: форсированные сервоприводы "Вулкан"</Dest>
+    </String><String List="0" sID="D9009216">
+      <EDID>RD01_Recipe_Armor_PowerArmor_EnclaveVulcan_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня "Вулкан" (туловище)</Source>
+      <Dest>ГЛУБИНЫ|Схема: броня "Вулкан" (туловище)</Dest>
+    </String><String List="0" sID="D9009217">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Reflection</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: отражающая сборка "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: отражающая сборка "Вулкан"</Dest>
+    </String><String List="0" sID="D9009218">
+      <EDID>RD01_Recipe_Armor_PowerArmor_EnclaveVulcan_ArmRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня "Вулкан" (правая рука)</Source>
+      <Dest>ГЛУБИНЫ|Схема: броня "Вулкан" (правая рука)</Dest>
+    </String><String List="0" sID="D9009219">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Str</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: улучшенные сервоприводы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: улучшенные сервоприводы "Вулкан"</Dest>
+    </String><String List="0" sID="D900921A">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Leg_Misc_APRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кинетические сервоприводы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: кинетические сервоприводы "Вулкан"</Dest>
+    </String><String List="0" sID="D900921B">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Misc_DetectLife</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прицельный интерфейс "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: прицельный интерфейс "Вулкан"</Dest>
+    </String><String List="0" sID="D900921C">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Leg_Misc_ElasticServos</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: эластичные сервоприводы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: эластичные сервоприводы "Вулкан"</Dest>
+    </String><String List="0" sID="D900921E">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Misc_VATSChance</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: слой матрицы V.A.T.S. "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: слой матрицы V.A.T.S. "Вулкан"</Dest>
+    </String><String List="0" sID="D900921F">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: синий налобный фонарь "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: синий налобный фонарь "Вулкан"</Dest>
+    </String><String List="0" sID="D9009220">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: яркий налобный фонарь "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: яркий налобный фонарь "Вулкан"</Dest>
+    </String><String List="0" sID="D9009221">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Misc_Int</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: внутренний банк памяти "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: внутренний банк памяти "Вулкан"</Dest>
+    </String><String List="0" sID="D9009222">
+      <EDID>RD01_Recipe_Armor_PowerArmor_EnclaveVulcan_ArmLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня "Вулкан" (левая рука)</Source>
+      <Dest>ГЛУБИНЫ|Схема: броня "Вулкан" (левая рука)</Dest>
+    </String><String List="0" sID="D9009223">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Cleanser</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: очиститель крови "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: очиститель крови "Вулкан"</Dest>
+    </String><String List="0" sID="D9009224">
+      <EDID>RD01_Recipe_Armor_PowerArmor_EnclaveVulcan_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шлем "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: шлем "Вулкан"</Dest>
+    </String><String List="0" sID="D9009226">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Reactive</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: активная броня "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: активная броня "Вулкан"</Dest>
+    </String><String List="0" sID="D9009227">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: реактивный ранец "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: реактивный ранец "Вулкан"</Dest>
+    </String><String List="0" sID="D9009228">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Misc_Sensor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сенсорная матрица "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: сенсорная матрица "Вулкан"</Dest>
+    </String><String List="0" sID="D9009229">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Tesla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: катушки Теслы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: катушки Теслы "Вулкан"</Dest>
+    </String><String List="0" sID="D900922A">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Leg_Misc_Carry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: калиброванные амортизаторы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: калиброванные амортизаторы "Вулкан"</Dest>
+    </String><String List="0" sID="D900922B">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Kinetic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кинетический генератор "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: кинетический генератор "Вулкан"</Dest>
+    </String><String List="0" sID="D900922C">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_MedicPump</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: инжектор стимуляторов "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: инжектор стимуляторов "Вулкан"</Dest>
+    </String><String List="0" sID="D900922D">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Leg_Misc_OptimizedServos</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сбалансированные сервоприводы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: сбалансированные сервоприводы "Вулкан"</Dest>
+    </String><String List="0" sID="D900922E">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: красный тактический налобный фонарь "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: красный тактический налобный фонарь "Вулкан"</Dest>
+    </String><String List="0" sID="D900922F">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Arm_Misc_Bleed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ржавый кастет "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: ржавый кастет "Вулкан"</Dest>
+    </String><String List="0" sID="D9009230">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Arm_Misc_ShockDmg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наручи Теслы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: наручи Теслы "Вулкан"</Dest>
+    </String><String List="0" sID="D9009231">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_BatRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сборка ядра "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: сборка ядра "Вулкан"</Dest>
+    </String><String List="0" sID="D9009232">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Leg_Misc_ExplVent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: охлаждающее отверстие "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: охлаждающее отверстие "Вулкан"</Dest>
+    </String><String List="0" sID="D9009233">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: налобный фонарь "Волт-Бой: Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: налобный фонарь "Волт-Бой: Вулкан"</Dest>
+    </String><String List="0" sID="D9009234">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_StealthBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стелс-бой "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: стелс-бой "Вулкан"</Dest>
+    </String><String List="0" sID="D9009235">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Arm_Misc_Unarmed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гидравлические наручи "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: гидравлические наручи "Вулкан"</Dest>
+    </String><String List="0" sID="D9009236">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Arm_Misc_Optimized</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: эргономичные наручи "Хеллкэт"</Source>
+      <Dest>ГЛУБИНЫ|Схема: эргономичные наручи "Хеллкэт"</Dest>
+    </String><String List="0" sID="D9009237">
+      <EDID>RD01_Recipe_Armor_PowerArmor_EnclaveVulcan_LegLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня "Вулкан" (левая нога)</Source>
+      <Dest>ГЛУБИНЫ|Схема: броня "Вулкан" (левая нога)</Dest>
+    </String><String List="0" sID="D9009238">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Misc_Recon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сенсоры дальнего действия "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: сенсоры дальнего действия "Вулкан"</Dest>
+    </String><String List="0" sID="D9009239">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Arm_Misc_StabilizedBracers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шарнирные наручи "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: шарнирные наручи "Вулкан"</Dest>
+    </String><String List="0" sID="D900923A">
+      <EDID>RD01_Recipe_Armor_PowerArmor_EnclaveVulcan_LegRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня "Вулкан" (правая нога)</Source>
+      <Dest>ГЛУБИНЫ|Схема: броня "Вулкан" (правая нога)</Dest>
+    </String><String List="0" sID="D900A2F1">
+      <EDID>RD01_Workshop_Recipe_FloorDecor_RaidTrophy_UltraciteTerror</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трофей налета "Ультрацитовое чудовище"</Source>
+      <Dest>ГЛУБИНЫ|Схема: трофей налета "Ультрацитовое чудовище"</Dest>
+    </String><String List="0" sID="D900A2F2">
+      <EDID>RD01_Recipe_Weapon_Melee_UltraciteTerrorSword</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: меч "Ультрацитовое чудовище"</Source>
+      <Dest>ГЛУБИНЫ|Схема: меч "Ультрацитовое чудовище"</Dest>
     </String><String List="0" sID="6100AD02">
       <EDID>Recipe_Workshop_WallDecor_WindChime_Molerat</EDID>
       <REC>BOOK:FULL</REC>
@@ -2336,46 +2656,6 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: соломенная коза</Source>
       <Dest>ПОДАРКИ 2023|Схема: соломенная коза</Dest>
-    </String><String List="0" sID="8100C306">
-      <EDID>Recipe_Outfit_JitterbugJudy</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: костюм "Неугомонная Джуди"</Source>
-      <Dest>ПОДАРКИ 2024|Схема: костюм "Неугомонная Джуди"</Dest>
-    </String><String List="0" sID="8100C30F">
-      <EDID>Recipe_Workshop_Lights_PlastiformVaultBoyElf</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: пластиковый волт-бой "Эльф"</Source>
-      <Dest>ПОДАРКИ 2024|Схема: пластиковый волт-бой "Эльф"</Dest>
-    </String><String List="0" sID="8100C318">
-      <EDID>Recipe_Workshop_Lights_PlastiformSnowman</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: пластиковый снеговик</Source>
-      <Dest>ПОДАРКИ 2024|Схема: пластиковый снеговик</Dest>
-    </String><String List="0" sID="8100C327">
-      <EDID>Recipe_PeppermintFlair</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: брелок для рюкзака "Перечная мята"</Source>
-      <Dest>ПОДАРКИ 2024|Схема: брелок для рюкзака "Перечная мята"</Dest>
-    </String><String List="0" sID="8100C333">
-      <EDID>Recipe_SnowmanHeadFlair</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: брелок для рюкзака "Голова снеговика"</Source>
-      <Dest>ПОДАРКИ 2024|Схема: брелок для рюкзака "Голова снеговика"</Dest>
-    </String><String List="0" sID="8100C33A">
-      <EDID>Recipe_Backpack_Standard_Material_AtomicSetLtdHandbag</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сумка-рюкзак "Атомный мир лимитед"</Source>
-      <Dest>ПОДАРКИ 2024|Схема: сумка-рюкзак "Атомный мир лимитед"</Dest>
-    </String><String List="0" sID="8100C49C">
-      <EDID>Recipe_Workshop_FloorDecor_GiantBrontosaurus_Red</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: гигантский красный бронтозавр</Source>
-      <Dest>ПОДАРКИ 2024|Схема: гигантский красный бронтозавр</Dest>
-    </String><String List="0" sID="04134A">
-      <EDID>MTR08_ClaimToken</EDID>
-      <REC>MISC:FULL</REC>
-      <Source>Жетон владения</Source>
-      <Dest>ОБНАЖЕНИЕ ПЛАСТА|Жетон владения</Dest>
     </String><String List="0" sID="03F9BB">
       <EDID>Recipe_Workshop_Benches_Stone</EDID>
       <REC>BOOK:FULL</REC>
@@ -2516,31 +2796,26 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: красный металлический стол для пикника</Source>
       <Dest>ГРЭМ 2023|Схема: красный металлический стол для пикника</Dest>
-    </String><String List="0" sID="41002978">
-      <EDID>Recipe_Weapon_Ranged_PepperShaker</EDID>
+    </String><String List="0" sID="41001306">
+      <EDID>Recipe_Workshop_Crafting_CraftingCooking_Animalistic_Grill</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: "Перечница"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: "Перечница"</Dest>
-    </String><String List="0" sID="6100C1AB">
-      <EDID>Recipe_Workshop_WallDecor_PlasticFruitWreath</EDID>
+      <Source>Схема: гриль для брамина</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2020|Схема: гриль для брамина</Dest>
+    </String><String List="0" sID="410013FB">
+      <EDID>Headwear_ChallyMascot</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Маска "Чалли Му-му"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2020|Маска "Чалли Му-му"</Dest>
+    </String><String List="0" sID="410013FC">
+      <EDID>Clothes_ChallyMascot</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Костюм "Чалли Му-му"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2020|Костюм "Чалли Му-му"</Dest>
+    </String><String List="0" sID="41001400">
+      <EDID>Recipe_Backpack_Standard_Material_Chally</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: венок из пластиковых фруктов</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: венок из пластиковых фруктов</Dest>
-    </String><String List="0" sID="6100C1AD">
-      <EDID>Recipe_Workshop_Crafting_CraftingCooking_GroceryCartGrill</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: тележка-гриль</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: тележка-гриль</Dest>
-    </String><String List="0" sID="6100C325">
-      <EDID>Recipe_Workshop_FloorDecor_DecoyDuckSet</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: подсадные утки</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: подсадные утки</Dest>
-    </String><String List="0" sID="6101463B">
-      <EDID>Recipe_Workshop_FloorDecor_PlasticFruitBowl</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: миска с пластиковыми фруктами</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: миска с пластиковыми фруктами</Dest>
+      <Source>Схема: рюкзак "Чалли Му-му"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2020|Схема: рюкзак "Чалли Му-му"</Dest>
     </String><String List="0" sID="4100AB08">
       <EDID>Recipe_Meat_Backpack_Standard_Material_WastelandHunter</EDID>
       <REC>BOOK:FULL</REC>
@@ -2631,56 +2906,36 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: нож "Ядер-рулька"</Source>
       <Dest>МЯСНАЯ НЕДЕЛЯ 2024|Схема: нож "Ядер-рулька"</Dest>
-    </String><String List="0" sID="41001306">
-      <EDID>Recipe_Workshop_Crafting_CraftingCooking_Animalistic_Grill</EDID>
+    </String><String List="0" sID="04134A">
+      <EDID>MTR08_ClaimToken</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Жетон владения</Source>
+      <Dest>ОБНАЖЕНИЕ ПЛАСТА|Жетон владения</Dest>
+    </String><String List="0" sID="41002978">
+      <EDID>Recipe_Weapon_Ranged_PepperShaker</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: гриль для брамина</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2020|Схема: гриль для брамина</Dest>
-    </String><String List="0" sID="410013FB">
-      <EDID>Headwear_ChallyMascot</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Маска "Чалли Му-му"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2020|Маска "Чалли Му-му"</Dest>
-    </String><String List="0" sID="410013FC">
-      <EDID>Clothes_ChallyMascot</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Костюм "Чалли Му-му"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2020|Костюм "Чалли Му-му"</Dest>
-    </String><String List="0" sID="41001400">
-      <EDID>Recipe_Backpack_Standard_Material_Chally</EDID>
+      <Source>Схема: "Перечница"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: "Перечница"</Dest>
+    </String><String List="0" sID="6100C1AB">
+      <EDID>Recipe_Workshop_WallDecor_PlasticFruitWreath</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: рюкзак "Чалли Му-му"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ 2020|Схема: рюкзак "Чалли Му-му"</Dest>
-    </String><String List="0" sID="41004DC0">
-      <EDID>E08A_Recipe_Workshop_GulperRug</EDID>
+      <Source>Схема: венок из пластиковых фруктов</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: венок из пластиковых фруктов</Dest>
+    </String><String List="0" sID="6100C1AD">
+      <EDID>Recipe_Workshop_Crafting_CraftingCooking_GroceryCartGrill</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: коврик из шкуры заглота</Source>
-      <Dest>САМОГОННЫЙ СЛЁТ|Схема: коврик из шкуры заглота</Dest>
-    </String><String List="0" sID="61010101">
-      <EDID>E08A_Recipe_Workshop_GulperHead</EDID>
+      <Source>Схема: тележка-гриль</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: тележка-гриль</Dest>
+    </String><String List="0" sID="6100C325">
+      <EDID>Recipe_Workshop_FloorDecor_DecoyDuckSet</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: голова заглота</Source>
-      <Dest>САМОГОННЫЙ СЛЁТ|Схема: голова заглота</Dest>
-    </String><String List="0" sID="610104AA">
-      <EDID>E08A_Recipe_Mod_Melee_GulperSmacker_Blades</EDID>
+      <Source>Схема: подсадные утки</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: подсадные утки</Dest>
+    </String><String List="0" sID="6101463B">
+      <EDID>Recipe_Workshop_FloorDecor_PlasticFruitBowl</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: острая дубинка заглота</Source>
-      <Dest>САМОГОННЫЙ СЛЁТ|Схема: острая дубинка заглота</Dest>
-    </String><String List="0" sID="6101050C">
-      <EDID>E08A_Recipe_Mod_Melee_GulperSmacker_Chains</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: дубинка заглота с цепью</Source>
-      <Dest>САМОГОННЫЙ СЛЁТ|Схема: дубинка заглота с цепью</Dest>
-    </String><String List="0" sID="81002725">
-      <EDID>E08A_Recipe_Weapon_Melee_GulperSmacker</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: дубинка заглота</Source>
-      <Dest>САМОГОННЫЙ СЛЁТ|Схема: дубинка заглота</Dest>
-    </String><String List="0" sID="81002770">
-      <EDID>E08A_Recipe_Mod_Melee_GulperSmacker_Nails</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: дубинка заглота с шипами</Source>
-      <Dest>САМОГОННЫЙ СЛЁТ|Схема: дубинка заглота с шипами</Dest>
+      <Source>Схема: миска с пластиковыми фруктами</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ 2021|Схема: миска с пластиковыми фруктами</Dest>
     </String><String List="0" sID="610186F0">
       <EDID>Recipe_Workshop_FloorDecor_Plushie_WilberMcPigg</EDID>
       <REC>BOOK:FULL</REC>
@@ -2721,6 +2976,236 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: чучело гончей-мутанта</Source>
       <Dest>МЯСНАЯ НЕДЕЛЯ 2023|Схема: чучело гончей-мутанта</Dest>
+    </String><String List="0" sID="61003118">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag3</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: флаг "Мясная неделя"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг "Мясная неделя"</Dest>
+    </String><String List="0" sID="61003120">
+      <EDID>Recipe_Cooking_E02A_Meat_ChallysFeed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: еда для Чалли</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Рецепт: еда для Чалли</Dest>
+    </String><String List="0" sID="61003128">
+      <EDID>recipe_mod_melee_MeatTenderizer_Peppered</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Молоток для отбивания перченого мяса"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация "Молоток для отбивания перченого мяса"</Dest>
+    </String><String List="0" sID="6100313A">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag1</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: флаг "Мясная неделя"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг "Мясная неделя"</Dest>
+    </String><String List="0" sID="6100314B">
+      <EDID>recipe_mod_melee_MeatTenderizer_Salted</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Молоток для отбивания соленого мяса"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация "Молоток для отбивания соленого мяса"</Dest>
+    </String><String List="0" sID="61003153">
+      <EDID>recipe_mod_melee_MeatTenderizer_Heated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Молоток для отбивания пряного мяса"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация "Молоток для отбивания пряного мяса"</Dest>
+    </String><String List="0" sID="6100315B">
+      <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: флаг "Мясная неделя"</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг "Мясная неделя"</Dest>
+    </String><String List="0" sID="61003162">
+      <EDID>Recipe_Cooking_MeatWeek_TatoSalad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: салат из тошки</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Рецепт: салат из тошки</Dest>
+    </String><String List="0" sID="6100317F">
+      <EDID>Recipe_Weapon_Melee_MeatTenderizer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: молоток для отбивания мяса</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: молоток для отбивания мяса</Dest>
+    </String><String List="0" sID="61003187">
+      <EDID>Recipe_Weapon_Thrown_MeatCleaver</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: мясницкий нож</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: мясницкий нож</Dest>
+    </String><String List="0" sID="610031B7">
+      <EDID>Clothes_Chef_1_Outfit</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Окровавленный костюм повара</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Окровавленный костюм повара</Dest>
+    </String><String List="0" sID="610031B9">
+      <EDID>Headwear_MeatWeek_ChefsHat</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Окровавленный колпак повара</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Окровавленный колпак повара</Dest>
+    </String><String List="0" sID="610031C2">
+      <EDID>Headwear_MeatWeek_ChefsHat2</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Головной убор шеф-повара</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
+    </String><String List="0" sID="610038F5">
+      <EDID>ATX_ENTM_Apparel_HeadWear_1950sChef_02_Hat</EDID>
+      <REC>ENTM:FULL</REC>
+      <Source>Головной убор шеф-повара</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
+    </String><String List="0" sID="610038F7">
+      <EDID>ATX_ENTM_Apparel_HeadWear_1950sChef_02_Hat</EDID>
+      <REC>ENTM:NNAM</REC>
+      <Source>Головной убор шеф-повара</Source>
+      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
+    </String><String List="0" sID="61003D63">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наполовину полная полка для тыкв</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: наполовину полная полка для тыкв</Dest>
+    </String><String List="0" sID="61003D64">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наполовину пустая полка для тыкв</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: наполовину пустая полка для тыкв</Dest>
+    </String><String List="0" sID="61003D65">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved06</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: инопланетный фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: инопланетный фонарь из тыквы</Dest>
+    </String><String List="0" sID="61003D66">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: полная полка для тыкв</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: полная полка для тыкв</Dest>
+    </String><String List="0" sID="61003D67">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь из тыквы "Волт-Тек"</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы "Волт-Тек"</Dest>
+    </String><String List="0" sID="61003D68">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: классический фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: классический фонарь из тыквы</Dest>
+    </String><String List="0" sID="61003D69">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: полка для тыкв</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: полка для тыкв</Dest>
+    </String><String List="0" sID="61003D6A">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved08</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: счастливый фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: счастливый фонарь из тыквы</Dest>
+    </String><String List="0" sID="61003D6B">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved10</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: злобный фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: злобный фонарь из тыквы</Dest>
+    </String><String List="0" sID="61003D6C">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved05</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: удивленный фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: удивленный фонарь из тыквы</Dest>
+    </String><String List="0" sID="61003D6D">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved09</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тренировочный фонарь из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: тренировочный фонарь из тыквы</Dest>
+    </String><String List="0" sID="61003D6E">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved04</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь из тыквы в виде двери Убежища</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы в виде двери Убежища</Dest>
+    </String><String List="0" sID="61003D6F">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved07</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь-гангстер из тыквы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь-гангстер из тыквы</Dest>
+    </String><String List="0" sID="61003D70">
+      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь из тыквы "Волт-Бой"</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы "Волт-Бой"</Dest>
+    </String><String List="0" sID="61003E16">
+      <EDID>Recipe_Workshop_FloorDecor_Statues_GrimReaperCardboardCutouts</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: картонная фигура Волт-боя в костюме Старухи с косой</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: картонная фигура Волт-боя в костюме Старухи с косой</Dest>
+    </String><String List="0" sID="6101A70A">
+      <EDID>Recipe_mod_Chainsaw_Paint_GhostlyGrinder</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска «Призрачная мясорубка» для бензопилы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: окраска «Призрачная мясорубка» для бензопилы</Dest>
+    </String><String List="0" sID="6101A70B">
+      <EDID>Recipe_Headwear_SkullRider_Rad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шлем всадника с рад-черепом</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: шлем всадника с рад-черепом</Dest>
+    </String><String List="0" sID="6101A70D">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска шлема прототипа силовой брони «Адское пламя V2»</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска шлема прототипа силовой брони «Адское пламя V2»</Dest>
+    </String><String List="0" sID="6101A70E">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost1</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь-призрак из ячеистой бумаги A</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: фонарь-призрак из ячеистой бумаги A</Dest>
+    </String><String List="0" sID="6101A70F">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Arms</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска рук прототипа силовой брони «Адское пламя V2»</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска рук прототипа силовой брони «Адское пламя V2»</Dest>
+    </String><String List="0" sID="6101A710">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Spider</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь-паук из ячеистой бумаги</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: фонарь-паук из ячеистой бумаги</Dest>
+    </String><String List="0" sID="6101A712">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern1</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Джек-фонарь из ячеистой бумаги A</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: Джек-фонарь из ячеистой бумаги A</Dest>
+    </String><String List="0" sID="6101A713">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Джек-фонарь из ячеистой бумаги B</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: Джек-фонарь из ячеистой бумаги B</Dest>
+    </String><String List="0" sID="6101A714">
+      <EDID>Recipe_Headwear_Executioner2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маска палача</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: маска палача</Dest>
+    </String><String List="0" sID="6101A715">
+      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фонарь-призрак из ячеистой бумаги B</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: фонарь-призрак из ячеистой бумаги B</Dest>
+    </String><String List="0" sID="6101A716">
+      <EDID>Recipe_Workshop_FloorDecor_GiantDinosaur_Red</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гигантский красный динозавр</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: гигантский красный динозавр</Dest>
+    </String><String List="0" sID="6101A717">
+      <EDID>Recipe_mod_AssaultRifle_Paint_WraithsWrath</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска «Гнев призрака» для штурмового карабина</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: окраска «Гнев призрака» для штурмового карабина</Dest>
+    </String><String List="0" sID="6101A718">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Legs</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска ног прототипа силовой брони «Адское пламя V2»</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска ног прототипа силовой брони «Адское пламя V2»</Dest>
+    </String><String List="0" sID="6101A719">
+      <EDID>Recipe_workshop_FloorDecor_Skeleton_DrBones</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: Доктор Череп</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: Доктор Череп</Dest>
+    </String><String List="0" sID="6101A71A">
+      <EDID>Recipe_Backpack_Standard_Material_Princess</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак принцессы</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: рюкзак принцессы</Dest>
+    </String><String List="0" sID="6101A71B">
+      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска туловища прототипа силовой брони «Адское пламя V2»</Source>
+      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска туловища прототипа силовой брони «Адское пламя V2»</Dest>
     </String><String List="0" sID="41005CAB">
       <EDID>E09D_Recipe_Headwear_DeputysHat</EDID>
       <REC>BOOK:FULL</REC>
@@ -2796,6 +3281,91 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: плакаты "Шоу Дикого Запада"</Source>
       <Dest>В РОЗЫСКЕ|Схема: плакаты "Шоу Дикого Запада"</Dest>
+    </String><String List="0" sID="41004DC0">
+      <EDID>E08A_Recipe_Workshop_GulperRug</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: коврик из шкуры заглота</Source>
+      <Dest>САМОГОННЫЙ СЛЁТ|Схема: коврик из шкуры заглота</Dest>
+    </String><String List="0" sID="61010101">
+      <EDID>E08A_Recipe_Workshop_GulperHead</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: голова заглота</Source>
+      <Dest>САМОГОННЫЙ СЛЁТ|Схема: голова заглота</Dest>
+    </String><String List="0" sID="610104AA">
+      <EDID>E08A_Recipe_Mod_Melee_GulperSmacker_Blades</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: острая дубинка заглота</Source>
+      <Dest>САМОГОННЫЙ СЛЁТ|Схема: острая дубинка заглота</Dest>
+    </String><String List="0" sID="6101050C">
+      <EDID>E08A_Recipe_Mod_Melee_GulperSmacker_Chains</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: дубинка заглота с цепью</Source>
+      <Dest>САМОГОННЫЙ СЛЁТ|Схема: дубинка заглота с цепью</Dest>
+    </String><String List="0" sID="81002725">
+      <EDID>E08A_Recipe_Weapon_Melee_GulperSmacker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: дубинка заглота</Source>
+      <Dest>САМОГОННЫЙ СЛЁТ|Схема: дубинка заглота</Dest>
+    </String><String List="0" sID="81002770">
+      <EDID>E08A_Recipe_Mod_Melee_GulperSmacker_Nails</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: дубинка заглота с шипами</Source>
+      <Dest>САМОГОННЫЙ СЛЁТ|Схема: дубинка заглота с шипами</Dest>
+    </String><String List="0" sID="8100C209">
+      <EDID>E07A_Recipe_Headwear_BoneChillSkullMask</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маска "Жуткий череп"</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: маска "Жуткий череп"</Dest>
+    </String><String List="0" sID="8100C2D7">
+      <EDID>E07A_Recipe_Headwear_HammeredSkullMask</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маска "Обработанный череп"</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: маска "Обработанный череп"</Dest>
+    </String><String List="0" sID="8100C2D8">
+      <EDID>E07A_Recipe_Headwear_CrudeSkullMask</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маска "Необработанный череп"</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: маска "Необработанный череп"</Dest>
+    </String><String List="0" sID="8100C2E1">
+      <EDID>E07A_Recipe_Workshop_Displays_MothsOfWestVirginiaCabinet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шкаф-витрина "Мотыльки Западной Вирджинии"</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: шкаф-витрина "Мотыльки Западной Вирджинии"</Dest>
+    </String><String List="0" sID="8100C3DD">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_LunaMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сувенир "Сатурния луна"</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир "Сатурния луна"</Dest>
+    </String><String List="0" sID="8100C3DE">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_VirginiaCreeper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сувенир "Бражник дикого винограда"</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир "Бражник дикого винограда"</Dest>
+    </String><String List="0" sID="8100C3E1">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_IoMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сувенир "Сатурния ио"</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир "Сатурния ио"</Dest>
+    </String><String List="0" sID="8100C3E2">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_AmericanDaggerMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сувенир "Стрельчатка американская"</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир "Стрельчатка американская"</Dest>
+    </String><String List="0" sID="8100C3E3">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_BeautifulWoodNymphMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сувенир "Красивая лесная нимфа"</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир "Красивая лесная нимфа"</Dest>
+    </String><String List="0" sID="8100C3E5">
+      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_GiantLeopardMoth</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сувенир "Большая леопардовая медведица"</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир "Большая леопардовая медведица"</Dest>
+    </String><String List="0" sID="8100C415">
+      <EDID>E07A_Recipe_Workshop_Displays_MothsOfWestVirginiaBoard</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: панель "Мотыльки Западной Вирджинии"</Source>
+      <Dest>МОЛЕРОТ 2024Q3|Схема: панель "Мотыльки Западной Вирджинии"</Dest>
     </String><String List="0" sID="41009915">
       <EDID>E07A_Recipe_workshop_FloorDecor_MothVFX</EDID>
       <REC>BOOK:FULL</REC>
@@ -2911,81 +3481,21 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: пушистый плюшевый Просвещенный</Source>
       <Dest>МОЛЕРОТ 2024|Схема: пушистый плюшевый Просвещенный</Dest>
-    </String><String List="0" sID="61003118">
-      <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag3</EDID>
+    </String><String List="0" sID="41003E8E">
+      <EDID>E07A_Mothman_WiseMothman_Throne</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: флаг "Мясная неделя"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг "Мясная неделя"</Dest>
-    </String><String List="0" sID="61003120">
-      <EDID>Recipe_Cooking_E02A_Meat_ChallysFeed</EDID>
+      <Source>Схема: трон Мудрого Молерота</Source>
+      <Dest>МОЛЕРОТ|Схема: трон Мудрого Молерота</Dest>
+    </String><String List="0" sID="6100E632">
+      <EDID>E07A_Recipe_Backpack_Standard_Material_Cultist</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Рецепт: еда для Чалли</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Рецепт: еда для Чалли</Dest>
-    </String><String List="0" sID="61003128">
-      <EDID>recipe_mod_melee_MeatTenderizer_Peppered</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Молоток для отбивания перченого мяса"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация "Молоток для отбивания перченого мяса"</Dest>
-    </String><String List="0" sID="6100313A">
-      <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag1</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: флаг "Мясная неделя"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг "Мясная неделя"</Dest>
-    </String><String List="0" sID="6100314B">
-      <EDID>recipe_mod_melee_MeatTenderizer_Salted</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Молоток для отбивания соленого мяса"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация "Молоток для отбивания соленого мяса"</Dest>
-    </String><String List="0" sID="61003153">
-      <EDID>recipe_mod_melee_MeatTenderizer_Heated</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Молоток для отбивания пряного мяса"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: модификация "Молоток для отбивания пряного мяса"</Dest>
-    </String><String List="0" sID="6100315B">
-      <EDID>Recipe_Workshop_FloorDecor_Misc_MeatWeek_PoleFlag2</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: флаг "Мясная неделя"</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: флаг "Мясная неделя"</Dest>
-    </String><String List="0" sID="61003162">
-      <EDID>Recipe_Cooking_MeatWeek_TatoSalad</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Рецепт: салат из тошки</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Рецепт: салат из тошки</Dest>
-    </String><String List="0" sID="6100317F">
-      <EDID>Recipe_Weapon_Melee_MeatTenderizer</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: молоток для отбивания мяса</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: молоток для отбивания мяса</Dest>
-    </String><String List="0" sID="61003187">
-      <EDID>Recipe_Weapon_Thrown_MeatCleaver</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: мясницкий нож</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Схема: мясницкий нож</Dest>
-    </String><String List="0" sID="610031B7">
-      <EDID>Clothes_Chef_1_Outfit</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Окровавленный костюм повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Окровавленный костюм повара</Dest>
-    </String><String List="0" sID="610031B9">
-      <EDID>Headwear_MeatWeek_ChefsHat</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Окровавленный колпак повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Окровавленный колпак повара</Dest>
-    </String><String List="0" sID="610031C2">
-      <EDID>Headwear_MeatWeek_ChefsHat2</EDID>
-      <REC>ARMO:FULL</REC>
-      <Source>Головной убор шеф-повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
-    </String><String List="0" sID="610038F5">
-      <EDID>ATX_ENTM_Apparel_HeadWear_1950sChef_02_Hat</EDID>
-      <REC>ENTM:FULL</REC>
-      <Source>Головной убор шеф-повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
-    </String><String List="0" sID="610038F7">
-      <EDID>ATX_ENTM_Apparel_HeadWear_1950sChef_02_Hat</EDID>
-      <REC>ENTM:NNAM</REC>
-      <Source>Головной убор шеф-повара</Source>
-      <Dest>МЯСНАЯ НЕДЕЛЯ|Головной убор шеф-повара</Dest>
+      <Source>Схема: рюкзак сектанта</Source>
+      <Dest>МОЛЕРОТ|Схема: рюкзак сектанта</Dest>
+    </String><String List="0" sID="045599">
+      <EDID>MTN04_BeerBottleReserve</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Резервное пиво "Роджерс"</Source>
+      <Dest>НОЧЬ НАСИЛИЯ|Резервное пиво "Роджерс"</Dest>
     </String><String List="0" sID="03F88C">
       <EDID>Recipe_Tinkers_MineCryo</EDID>
       <REC>BOOK:FULL</REC>
@@ -3581,71 +4091,6 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: тяжелый рободоспех для рук</Source>
       <Dest>МУТАЦИИ|Схема: тяжелый рободоспех для рук</Dest>
-    </String><String List="0" sID="8100C209">
-      <EDID>E07A_Recipe_Headwear_BoneChillSkullMask</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: маска "Жуткий череп"</Source>
-      <Dest>МОЛЕРОТ 2024Q3|Схема: маска "Жуткий череп"</Dest>
-    </String><String List="0" sID="8100C2D7">
-      <EDID>E07A_Recipe_Headwear_HammeredSkullMask</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: маска "Обработанный череп"</Source>
-      <Dest>МОЛЕРОТ 2024Q3|Схема: маска "Обработанный череп"</Dest>
-    </String><String List="0" sID="8100C2D8">
-      <EDID>E07A_Recipe_Headwear_CrudeSkullMask</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: маска "Необработанный череп"</Source>
-      <Dest>МОЛЕРОТ 2024Q3|Схема: маска "Необработанный череп"</Dest>
-    </String><String List="0" sID="8100C2E1">
-      <EDID>E07A_Recipe_Workshop_Displays_MothsOfWestVirginiaCabinet</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: шкаф-витрина "Мотыльки Западной Вирджинии"</Source>
-      <Dest>МОЛЕРОТ 2024Q3|Схема: шкаф-витрина "Мотыльки Западной Вирджинии"</Dest>
-    </String><String List="0" sID="8100C3DD">
-      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_LunaMoth</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сувенир "Сатурния луна"</Source>
-      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир "Сатурния луна"</Dest>
-    </String><String List="0" sID="8100C3DE">
-      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_VirginiaCreeper</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сувенир "Бражник дикого винограда"</Source>
-      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир "Бражник дикого винограда"</Dest>
-    </String><String List="0" sID="8100C3E1">
-      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_IoMoth</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сувенир "Сатурния ио"</Source>
-      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир "Сатурния ио"</Dest>
-    </String><String List="0" sID="8100C3E2">
-      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_AmericanDaggerMoth</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сувенир "Стрельчатка американская"</Source>
-      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир "Стрельчатка американская"</Dest>
-    </String><String List="0" sID="8100C3E3">
-      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_BeautifulWoodNymphMoth</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сувенир "Красивая лесная нимфа"</Source>
-      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир "Красивая лесная нимфа"</Dest>
-    </String><String List="0" sID="8100C3E5">
-      <EDID>E07A_Recipe_Tinkers_Souvenir_Moths_GiantLeopardMoth</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сувенир "Большая леопардовая медведица"</Source>
-      <Dest>МОЛЕРОТ 2024Q3|Схема: сувенир "Большая леопардовая медведица"</Dest>
-    </String><String List="0" sID="8100C415">
-      <EDID>E07A_Recipe_Workshop_Displays_MothsOfWestVirginiaBoard</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: панель "Мотыльки Западной Вирджинии"</Source>
-      <Dest>МОЛЕРОТ 2024Q3|Схема: панель "Мотыльки Западной Вирджинии"</Dest>
-    </String><String List="0" sID="41003E8E">
-      <EDID>E07A_Mothman_WiseMothman_Throne</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: трон Мудрого Молерота</Source>
-      <Dest>МОЛЕРОТ|Схема: трон Мудрого Молерота</Dest>
-    </String><String List="0" sID="6100E632">
-      <EDID>E07A_Recipe_Backpack_Standard_Material_Cultist</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: рюкзак сектанта</Source>
-      <Dest>МОЛЕРОТ|Схема: рюкзак сектанта</Dest>
     </String><String List="0" sID="6101EB43">
       <EDID>Storm_Recipe_Turkey_Backpack</EDID>
       <REC>BOOK:FULL</REC>
@@ -3846,56 +4291,6 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: модификация "Тяжелая медвежья лапища"</Source>
       <Dest>РАЙ+|Схема: модификация "Тяжелая медвежья лапища"</Dest>
-    </String><String List="0" sID="045599">
-      <EDID>MTN04_BeerBottleReserve</EDID>
-      <REC>ALCH:FULL</REC>
-      <Source>Резервное пиво "Роджерс"</Source>
-      <Dest>НОЧЬ НАСИЛИЯ|Резервное пиво "Роджерс"</Dest>
-    </String><String List="0" sID="0498DF">
-      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_Refrigerated</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Рюкзак-холодильник"</Source>
-      <Dest>ОПОССУМ|Схема: модификация "Рюкзак-холодильник"</Dest>
-    </String><String List="0" sID="0498E0">
-      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_HighCapacity</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Вместительный рюкзак"</Source>
-      <Dest>ОПОССУМ|Схема: модификация "Вместительный рюкзак"</Dest>
-    </String><String List="0" sID="0498E2">
-      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_Insulated</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Изолированный рюкзак"</Source>
-      <Dest>ОПОССУМ|Схема: модификация "Изолированный рюкзак"</Dest>
-    </String><String List="0" sID="04A9CC">
-      <EDID>P01C_Tadpole_Recipe_Mod_Camera_SnapMatic_Lens_NightVision</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: объектив для ночной съемки "Про-Щелк Делюкс"</Source>
-      <Dest>ОПОССУМ|Схема: объектив для ночной съемки "Про-Щелк Делюкс"</Dest>
-    </String><String List="0" sID="04BB26">
-      <EDID>P01C_Tadpole_Recipe_Workshop_FloorDecor_Misc_PioneerScout_Possum</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: знамя скаута-пионера "Опоссум"</Source>
-      <Dest>ОПОССУМ|Схема: знамя скаута-пионера "Опоссум"</Dest>
-    </String><String List="0" sID="61003117">
-      <EDID>P01C_Recipe_Workshop_Container_PioneerScout_StashBox</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: тайник скаута-пионера</Source>
-      <Dest>ОПОССУМ|Схема: тайник скаута-пионера</Dest>
-    </String><String List="0" sID="61003156">
-      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_LeadLined</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Рюкзак со свинцовой обшивкой"</Source>
-      <Dest>ОПОССУМ|Схема: модификация "Рюкзак со свинцовой обшивкой"</Dest>
-    </String><String List="0" sID="6100318B">
-      <EDID>P01C_Tadpole_Recipe_Backpack_Standard_Material_Scout_Possum</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: рюкзак скаута-пионера "Опоссум"</Source>
-      <Dest>ОПОССУМ|Схема: рюкзак скаута-пионера "Опоссум"</Dest>
-    </String><String List="0" sID="6100631B">
-      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_ArmorPlated</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модификация "Бронированный рюкзак"</Source>
-      <Dest>ОПОССУМ|Схема: модификация "Бронированный рюкзак"</Dest>
     </String><String List="0" sID="041095">
       <EDID>POST_recipe_Armor_VaultSuit94_Underarmor_Clean</EDID>
       <REC>BOOK:FULL</REC>
@@ -4511,6 +4906,51 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: облик охотничьего карабина "Союз"</Source>
       <Dest>ПРОФСОЮЗНЫЕ ВЗНОСЫ|Схема: облик охотничьего карабина "Союз"</Dest>
+    </String><String List="0" sID="0498DF">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_Refrigerated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Рюкзак-холодильник"</Source>
+      <Dest>ОПОССУМ|Схема: модификация "Рюкзак-холодильник"</Dest>
+    </String><String List="0" sID="0498E0">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_HighCapacity</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Вместительный рюкзак"</Source>
+      <Dest>ОПОССУМ|Схема: модификация "Вместительный рюкзак"</Dest>
+    </String><String List="0" sID="0498E2">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_Insulated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Изолированный рюкзак"</Source>
+      <Dest>ОПОССУМ|Схема: модификация "Изолированный рюкзак"</Dest>
+    </String><String List="0" sID="04A9CC">
+      <EDID>P01C_Tadpole_Recipe_Mod_Camera_SnapMatic_Lens_NightVision</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: объектив для ночной съемки "Про-Щелк Делюкс"</Source>
+      <Dest>ОПОССУМ|Схема: объектив для ночной съемки "Про-Щелк Делюкс"</Dest>
+    </String><String List="0" sID="04BB26">
+      <EDID>P01C_Tadpole_Recipe_Workshop_FloorDecor_Misc_PioneerScout_Possum</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: знамя скаута-пионера "Опоссум"</Source>
+      <Dest>ОПОССУМ|Схема: знамя скаута-пионера "Опоссум"</Dest>
+    </String><String List="0" sID="61003117">
+      <EDID>P01C_Recipe_Workshop_Container_PioneerScout_StashBox</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: тайник скаута-пионера</Source>
+      <Dest>ОПОССУМ|Схема: тайник скаута-пионера</Dest>
+    </String><String List="0" sID="61003156">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_LeadLined</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Рюкзак со свинцовой обшивкой"</Source>
+      <Dest>ОПОССУМ|Схема: модификация "Рюкзак со свинцовой обшивкой"</Dest>
+    </String><String List="0" sID="6100318B">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Standard_Material_Scout_Possum</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: рюкзак скаута-пионера "Опоссум"</Source>
+      <Dest>ОПОССУМ|Схема: рюкзак скаута-пионера "Опоссум"</Dest>
+    </String><String List="0" sID="6100631B">
+      <EDID>P01C_Tadpole_Recipe_Backpack_Effect_ArmorPlated</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Бронированный рюкзак"</Source>
+      <Dest>ОПОССУМ|Схема: модификация "Бронированный рюкзак"</Dest>
     </String><String List="0" sID="61004470">
       <EDID>Recipe_Workshop_FloorDecor_E05_RadioactiveBarrel</EDID>
       <REC>BOOK:FULL</REC>
@@ -4541,6 +4981,56 @@
       <REC>ARMO:FULL</REC>
       <Source>Костюм "Блю ридж караван"</Source>
       <Dest>ВТОРОЙ ПИЛОТ|Костюм "Блю ридж караван"</Dest>
+    </String><String List="0" sID="41005CA7">
+      <EDID>E09A_Recipe_Workshop_NWOT_DesktopNukaLauncher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: настольный Кола-мет</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: настольный Кола-мет</Dest>
+    </String><String List="0" sID="41005CA9">
+      <EDID>E09A_Recipe_Workshop_NWOT_NukaLauncher_Ornament</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: украшение "Кола-мет"</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: украшение "Кола-мет"</Dest>
+    </String><String List="0" sID="61014146">
+      <EDID>E09A_Recipe_UltraciteTitanFlair</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: брелок для рюкзака "Ультрацитовый колосс"</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: брелок для рюкзака "Ультрацитовый колосс"</Dest>
+    </String><String List="0" sID="610141EC">
+      <EDID>E09A_Recipe_Workshop_Abomination_Plushie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плюшевый колосс</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: плюшевый колосс</Dest>
+    </String><String List="0" sID="610144F7">
+      <EDID>E09A_Recipe_Workshop_FloorDecor_Snowglobe_NukaLauncher</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: снежный шар "Кола-мет"</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: снежный шар "Кола-мет"</Dest>
+    </String><String List="0" sID="6101497B">
+      <EDID>E09A_Recipe_Workshop_StandalonePoster</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: плакаты "Кола-мет"</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: плакаты "Кола-мет"</Dest>
+    </String><String List="0" sID="6101497E">
+      <EDID>NWOT_Recipe_Workshop_FloorDecor_LargeUltraciteShard</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: большой осколок ультрацита</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: большой осколок ультрацита</Dest>
+    </String><String List="0" sID="6101497F">
+      <EDID>E09A_Recipe_Workshop_FloorDecor_LargeUltraciteShard</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: большой осколок ультрацита</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: большой осколок ультрацита</Dest>
+    </String><String List="0" sID="81004544">
+      <EDID>E09A_Recipe_Workshop_NWOTCoaster_Toy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модель Кола-мета</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: модель Кола-мета</Dest>
+    </String><String List="0" sID="81004742">
+      <EDID>MoleRatJerky</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Вяленый кротокрыс</Source>
+      <Dest>СЕЙСМ.АКТИВНОСТЬ|Вяленый кротокрыс</Dest>
     </String><String List="0" sID="03F8F8">
       <EDID>Recipe_Workshop_MiscStructures_DeconArch</EDID>
       <REC>BOOK:FULL</REC>
@@ -4711,56 +5201,6 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: комплект окраски "Изгой" для силовой брони</Source>
       <Dest>ГОРЕЛАЯ ЗЕМЛЯ|Схема: комплект окраски "Изгой" для силовой брони</Dest>
-    </String><String List="0" sID="41005CA7">
-      <EDID>E09A_Recipe_Workshop_NWOT_DesktopNukaLauncher</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: настольный Кола-мет</Source>
-      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: настольный Кола-мет</Dest>
-    </String><String List="0" sID="41005CA9">
-      <EDID>E09A_Recipe_Workshop_NWOT_NukaLauncher_Ornament</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: украшение "Кола-мет"</Source>
-      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: украшение "Кола-мет"</Dest>
-    </String><String List="0" sID="61014146">
-      <EDID>E09A_Recipe_UltraciteTitanFlair</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: брелок для рюкзака "Ультрацитовый колосс"</Source>
-      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: брелок для рюкзака "Ультрацитовый колосс"</Dest>
-    </String><String List="0" sID="610141EC">
-      <EDID>E09A_Recipe_Workshop_Abomination_Plushie</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плюшевый колосс</Source>
-      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: плюшевый колосс</Dest>
-    </String><String List="0" sID="610144F7">
-      <EDID>E09A_Recipe_Workshop_FloorDecor_Snowglobe_NukaLauncher</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: снежный шар "Кола-мет"</Source>
-      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: снежный шар "Кола-мет"</Dest>
-    </String><String List="0" sID="6101497B">
-      <EDID>E09A_Recipe_Workshop_StandalonePoster</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: плакаты "Кола-мет"</Source>
-      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: плакаты "Кола-мет"</Dest>
-    </String><String List="0" sID="6101497E">
-      <EDID>NWOT_Recipe_Workshop_FloorDecor_LargeUltraciteShard</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: большой осколок ультрацита</Source>
-      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: большой осколок ультрацита</Dest>
-    </String><String List="0" sID="6101497F">
-      <EDID>E09A_Recipe_Workshop_FloorDecor_LargeUltraciteShard</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: большой осколок ультрацита</Source>
-      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: большой осколок ультрацита</Dest>
-    </String><String List="0" sID="81004544">
-      <EDID>E09A_Recipe_Workshop_NWOTCoaster_Toy</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: модель Кола-мета</Source>
-      <Dest>СЕЙСМ.АКТИВНОСТЬ|Схема: модель Кола-мета</Dest>
-    </String><String List="0" sID="81004742">
-      <EDID>MoleRatJerky</EDID>
-      <REC>ALCH:FULL</REC>
-      <Source>Вяленый кротокрыс</Source>
-      <Dest>СЕЙСМ.АКТИВНОСТЬ|Вяленый кротокрыс</Dest>
     </String><String List="0" sID="610134D7">
       <EDID>E09B_Workshop_Recipe_CappyPlush</EDID>
       <REC>BOOK:FULL</REC>
@@ -4901,6 +5341,136 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: броня робототехника для туловища</Source>
       <Dest>ИСПЫТ. НА ПРОЧН.|Схема: броня робототехника для туловища</Dest>
+    </String><String List="0" sID="39296B91">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Seesprout</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — ростоглаз</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: цветочный венок — ростоглаз</Dest>
+    </String><String List="0" sID="39296B92">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_CarnalWeeper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — алые слезки</Source>
+      <Dest>ЦВЕТЕНИЕ|Схема: цветочный венок — алые слезки</Dest>
+    </String><String List="0" sID="39296B93">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Radlily</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — радлилия</Source>
+      <Dest>ЦВЕТЕНИЕ|Схема: цветочный венок — радлилия</Dest>
+    </String><String List="0" sID="39296B94">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Candykill</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — сладосмерт</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: цветочный венок — сладосмерт</Dest>
+    </String><String List="0" sID="39296B97">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Gigablossom</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — гигацвет</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: цветочный венок — гигацвет</Dest>
+    </String><String List="0" sID="39296B98">
+      <EDID>SSE_Recipe_Headwear_WastelandFloristSunhat</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: панама флориста из Пустоши</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: панама флориста из Пустоши</Dest>
+    </String><String List="0" sID="39296B9A">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Crystalcup</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — хрустальница</Source>
+      <Dest>ЦВЕТЕНИЕ|Схема: цветочный венок — хрустальница</Dest>
+    </String><String List="0" sID="39296B9B">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Glorybell</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — славокольчик</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: цветочный венок — славокольчик</Dest>
+    </String><String List="0" sID="39296BF0">
+      <EDID>SSE_Recipe_Workshop_HoneyBeastTube</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: резервуар с медозверем</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: резервуар с медозверем</Dest>
+    </String><String List="0" sID="39296BFC">
+      <EDID>SSE_Recipe_Tinkers_HybridFlowers_01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочные тайны Сьюзан</Source>
+      <Dest>ЦВЕТЕНИЕ|Схема: цветочные тайны Сьюзан</Dest>
+    </String><String List="0" sID="39296D1D">
+      <EDID>SSE_Recipe_Workshop_Display_MediumGlazedPot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: средний глазурованный горшок</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: средний глазурованный горшок</Dest>
+    </String><String List="0" sID="39296D1E">
+      <EDID>SSE_Recipe_Workshop_Display_SmallGlazedPot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: маленький глазурованный горшок</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: маленький глазурованный горшок</Dest>
+    </String><String List="0" sID="39296D1F">
+      <EDID>SSE_Recipe_Clothes_FlowerPrintedSundress</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сарафан в цветочек</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: сарафан в цветочек</Dest>
+    </String><String List="0" sID="39296D20">
+      <EDID>SSE_Recipe_Workshop_Display_HoneyBeastVase</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочная витрина "Медозверь"</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: цветочная витрина "Медозверь"</Dest>
+    </String><String List="0" sID="39296D21">
+      <EDID>SSE_Recipe_Workshop_Display_LargeGlazedPot</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: большой глазурованный горшок</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: большой глазурованный горшок</Dest>
+    </String><String List="0" sID="39296D22">
+      <EDID>SSE_Recipe_Clothes_PantSuit_FlowerSuit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный костюм</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: цветочный костюм</Dest>
+    </String><String List="0" sID="39296D53">
+      <EDID>SSE_Recipe_Clothes_WastelandFloristApron</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: передник флориста из Пустоши</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: передник флориста из Пустоши</Dest>
+    </String><String List="0" sID="39296E0F">
+      <EDID>SSE_Recipe_Workshop_PotRadlily</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: горшок с радлилией</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: горшок с радлилией</Dest>
+    </String><String List="0" sID="39296E10">
+      <EDID>SSE_Recipe_Workshop_PotCrystalCup</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: горшок с хрустальницей</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: горшок с хрустальницей</Dest>
+    </String><String List="0" sID="39296E11">
+      <EDID>SSE_Recipe_Workshop_PotCarnalWeeper</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: горшок с алыми слезками</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: горшок с алыми слезками</Dest>
+    </String><String List="0" sID="3929769F">
+      <EDID>SSE_Recipe_Cooking_SusanSoothin</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: бальзам Черноглазой Сьюзан</Source>
+      <Dest>ЦВЕТЕНИЕ++|Рецепт: бальзам Черноглазой Сьюзан</Dest>
+    </String><String List="0" sID="39297F56">
+      <EDID>SSE_Recipe_Cooking_GammaGreenTea</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Рецепт: зеленый гамма-чай</Source>
+      <Dest>ЦВЕТЕНИЕ+|Рецепт: зеленый гамма-чай</Dest>
+    </String><String List="0" sID="39297F57">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_GreenInvader</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — зеленый захватчик</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: цветочный венок — зеленый захватчик</Dest>
+    </String><String List="0" sID="610239DE">
+      <EDID>SSE_Recipe_mod_CombatKnife_Material_Paint_GardenTrowel</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: нож "Садовая лопатка"</Source>
+      <Dest>ЦВЕТЕНИЕ++|Схема: нож "Садовая лопатка"</Dest>
+    </String><String List="0" sID="61023CB6">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Embergold</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — золотой янтарник</Source>
+      <Dest>ЦВЕТЕНИЕ+|Схема: цветочный венок — золотой янтарник</Dest>
+    </String><String List="0" sID="61023CB7">
+      <EDID>SSE_Recipe_Headwear_FlowerCrown_Starlace</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: цветочный венок — звездная лента</Source>
+      <Dest>ЦВЕТЕНИЕ|Схема: цветочный венок — звездная лента</Dest>
     </String><String List="0" sID="41000CDD">
       <EDID>Recipe_Headwear_Marine_Helmet</EDID>
       <REC>BOOK:FULL</REC>
@@ -5076,146 +5646,6 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: гольфмобили</Source>
       <Dest>ОХОТА ЗА СОКРОВИЩАМИ|Схема: гольфмобили</Dest>
-    </String><String List="0" sID="39296B91">
-      <EDID>SSE_Recipe_Headwear_FlowerCrown_Seesprout</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочный венок — ростоглаз</Source>
-      <Dest>ЦВЕТЕНИЕ+|Схема: цветочный венок — ростоглаз</Dest>
-    </String><String List="0" sID="39296B92">
-      <EDID>SSE_Recipe_Headwear_FlowerCrown_CarnalWeeper</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочный венок — алые слезки</Source>
-      <Dest>ЦВЕТЕНИЕ|Схема: цветочный венок — алые слезки</Dest>
-    </String><String List="0" sID="39296B93">
-      <EDID>SSE_Recipe_Headwear_FlowerCrown_Radlily</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочный венок — радлилия</Source>
-      <Dest>ЦВЕТЕНИЕ|Схема: цветочный венок — радлилия</Dest>
-    </String><String List="0" sID="39296B94">
-      <EDID>SSE_Recipe_Headwear_FlowerCrown_Candykill</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочный венок — сладосмерт</Source>
-      <Dest>ЦВЕТЕНИЕ++|Схема: цветочный венок — сладосмерт</Dest>
-    </String><String List="0" sID="39296B97">
-      <EDID>SSE_Recipe_Headwear_FlowerCrown_Gigablossom</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочный венок — гигацвет</Source>
-      <Dest>ЦВЕТЕНИЕ++|Схема: цветочный венок — гигацвет</Dest>
-    </String><String List="0" sID="39296B98">
-      <EDID>SSE_Recipe_Headwear_WastelandFloristSunhat</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: панама флориста из Пустоши</Source>
-      <Dest>ЦВЕТЕНИЕ+|Схема: панама флориста из Пустоши</Dest>
-    </String><String List="0" sID="39296B9A">
-      <EDID>SSE_Recipe_Headwear_FlowerCrown_Crystalcup</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочный венок — хрустальница</Source>
-      <Dest>ЦВЕТЕНИЕ|Схема: цветочный венок — хрустальница</Dest>
-    </String><String List="0" sID="39296B9B">
-      <EDID>SSE_Recipe_Headwear_FlowerCrown_Glorybell</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочный венок — славокольчик</Source>
-      <Dest>ЦВЕТЕНИЕ+|Схема: цветочный венок — славокольчик</Dest>
-    </String><String List="0" sID="39296BF0">
-      <EDID>SSE_Recipe_Workshop_HoneyBeastTube</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: резервуар с медозверем</Source>
-      <Dest>ЦВЕТЕНИЕ++|Схема: резервуар с медозверем</Dest>
-    </String><String List="0" sID="39296BFC">
-      <EDID>SSE_Recipe_Tinkers_HybridFlowers_01</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочные тайны Сьюзан</Source>
-      <Dest>ЦВЕТЕНИЕ|Схема: цветочные тайны Сьюзан</Dest>
-    </String><String List="0" sID="39296D1D">
-      <EDID>SSE_Recipe_Workshop_Display_MediumGlazedPot</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: средний глазурованный горшок</Source>
-      <Dest>ЦВЕТЕНИЕ+|Схема: средний глазурованный горшок</Dest>
-    </String><String List="0" sID="39296D1E">
-      <EDID>SSE_Recipe_Workshop_Display_SmallGlazedPot</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: маленький глазурованный горшок</Source>
-      <Dest>ЦВЕТЕНИЕ+|Схема: маленький глазурованный горшок</Dest>
-    </String><String List="0" sID="39296D1F">
-      <EDID>SSE_Recipe_Clothes_FlowerPrintedSundress</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: сарафан в цветочек</Source>
-      <Dest>ЦВЕТЕНИЕ++|Схема: сарафан в цветочек</Dest>
-    </String><String List="0" sID="39296D20">
-      <EDID>SSE_Recipe_Workshop_Display_HoneyBeastVase</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочная витрина "Медозверь"</Source>
-      <Dest>ЦВЕТЕНИЕ++|Схема: цветочная витрина "Медозверь"</Dest>
-    </String><String List="0" sID="39296D21">
-      <EDID>SSE_Recipe_Workshop_Display_LargeGlazedPot</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: большой глазурованный горшок</Source>
-      <Dest>ЦВЕТЕНИЕ++|Схема: большой глазурованный горшок</Dest>
-    </String><String List="0" sID="39296D22">
-      <EDID>SSE_Recipe_Clothes_PantSuit_FlowerSuit</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочный костюм</Source>
-      <Dest>ЦВЕТЕНИЕ++|Схема: цветочный костюм</Dest>
-    </String><String List="0" sID="39296D53">
-      <EDID>SSE_Recipe_Clothes_WastelandFloristApron</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: передник флориста из Пустоши</Source>
-      <Dest>ЦВЕТЕНИЕ+|Схема: передник флориста из Пустоши</Dest>
-    </String><String List="0" sID="39296E0F">
-      <EDID>SSE_Recipe_Workshop_PotRadlily</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: горшок с радлилией</Source>
-      <Dest>ЦВЕТЕНИЕ+|Схема: горшок с радлилией</Dest>
-    </String><String List="0" sID="39296E10">
-      <EDID>SSE_Recipe_Workshop_PotCrystalCup</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: горшок с хрустальницей</Source>
-      <Dest>ЦВЕТЕНИЕ+|Схема: горшок с хрустальницей</Dest>
-    </String><String List="0" sID="39296E11">
-      <EDID>SSE_Recipe_Workshop_PotCarnalWeeper</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: горшок с алыми слезками</Source>
-      <Dest>ЦВЕТЕНИЕ+|Схема: горшок с алыми слезками</Dest>
-    </String><String List="0" sID="3929769F">
-      <EDID>SSE_Recipe_Cooking_SusanSoothin</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Рецепт: бальзам Черноглазой Сьюзан</Source>
-      <Dest>ЦВЕТЕНИЕ++|Рецепт: бальзам Черноглазой Сьюзан</Dest>
-    </String><String List="0" sID="39297F56">
-      <EDID>SSE_Recipe_Cooking_GammaGreenTea</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Рецепт: зеленый гамма-чай</Source>
-      <Dest>ЦВЕТЕНИЕ+|Рецепт: зеленый гамма-чай</Dest>
-    </String><String List="0" sID="39297F57">
-      <EDID>SSE_Recipe_Headwear_FlowerCrown_GreenInvader</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочный венок — зеленый захватчик</Source>
-      <Dest>ЦВЕТЕНИЕ+|Схема: цветочный венок — зеленый захватчик</Dest>
-    </String><String List="0" sID="610239DE">
-      <EDID>SSE_Recipe_mod_CombatKnife_Material_Paint_GardenTrowel</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: нож "Садовая лопатка"</Source>
-      <Dest>ЦВЕТЕНИЕ++|Схема: нож "Садовая лопатка"</Dest>
-    </String><String List="0" sID="61023CB6">
-      <EDID>SSE_Recipe_Headwear_FlowerCrown_Embergold</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочный венок — золотой янтарник</Source>
-      <Dest>ЦВЕТЕНИЕ+|Схема: цветочный венок — золотой янтарник</Dest>
-    </String><String List="0" sID="61023CB7">
-      <EDID>SSE_Recipe_Headwear_FlowerCrown_Starlace</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: цветочный венок — звездная лента</Source>
-      <Dest>ЦВЕТЕНИЕ|Схема: цветочный венок — звездная лента</Dest>
-    </String><String List="0" sID="04458C">
-      <EDID>Recipe_Workshop_WallDecor_WallClocks_Cuckoo</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: часы с кукушкой</Source>
-      <Dest>РОБОТОРГОВЕЦ|Схема: часы с кукушкой</Dest>
-    </String><String List="0" sID="0445AC">
-      <EDID>Recipe_Workshop_WallDecor_WallClocks_NukaCola</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: часы "Ядер-кола"</Source>
-      <Dest>РОБОТОРГОВЕЦ|Схема: часы "Ядер-кола"</Dest>
     </String><String List="0" sID="41006643">
       <EDID>NWOT_Recipe_Food_CarnivalPie</EDID>
       <REC>BOOK:FULL</REC>
@@ -5341,160 +5771,15 @@
       <REC>BOOK:FULL</REC>
       <Source>Схема: складные кресла с тканевыми вставками</Source>
       <Dest>УАЙТСПРИНГ|Схема: складные кресла с тканевыми вставками</Dest>
-    </String><String List="0" sID="61003D63">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack04</EDID>
+    </String><String List="0" sID="04458C">
+      <EDID>Recipe_Workshop_WallDecor_WallClocks_Cuckoo</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: наполовину полная полка для тыкв</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: наполовину полная полка для тыкв</Dest>
-    </String><String List="0" sID="61003D64">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack03</EDID>
+      <Source>Схема: часы с кукушкой</Source>
+      <Dest>РОБОТОРГОВЕЦ|Схема: часы с кукушкой</Dest>
+    </String><String List="0" sID="0445AC">
+      <EDID>Recipe_Workshop_WallDecor_WallClocks_NukaCola</EDID>
       <REC>BOOK:FULL</REC>
-      <Source>Схема: наполовину пустая полка для тыкв</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: наполовину пустая полка для тыкв</Dest>
-    </String><String List="0" sID="61003D65">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved06</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: инопланетный фонарь из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: инопланетный фонарь из тыквы</Dest>
-    </String><String List="0" sID="61003D66">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack01</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: полная полка для тыкв</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: полная полка для тыкв</Dest>
-    </String><String List="0" sID="61003D67">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved02</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь из тыквы "Волт-Тек"</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы "Волт-Тек"</Dest>
-    </String><String List="0" sID="61003D68">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved01</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: классический фонарь из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: классический фонарь из тыквы</Dest>
-    </String><String List="0" sID="61003D69">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinRack02</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: полка для тыкв</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: полка для тыкв</Dest>
-    </String><String List="0" sID="61003D6A">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved08</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: счастливый фонарь из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: счастливый фонарь из тыквы</Dest>
-    </String><String List="0" sID="61003D6B">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved10</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: злобный фонарь из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: злобный фонарь из тыквы</Dest>
-    </String><String List="0" sID="61003D6C">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved05</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: удивленный фонарь из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: удивленный фонарь из тыквы</Dest>
-    </String><String List="0" sID="61003D6D">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved09</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: тренировочный фонарь из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: тренировочный фонарь из тыквы</Dest>
-    </String><String List="0" sID="61003D6E">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved04</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь из тыквы в виде двери Убежища</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы в виде двери Убежища</Dest>
-    </String><String List="0" sID="61003D6F">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved07</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь-гангстер из тыквы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь-гангстер из тыквы</Dest>
-    </String><String List="0" sID="61003D70">
-      <EDID>Recipe_Workshop_FloorDecor_PumpkinCarved03</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь из тыквы "Волт-Бой"</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: фонарь из тыквы "Волт-Бой"</Dest>
-    </String><String List="0" sID="61003E16">
-      <EDID>Recipe_Workshop_FloorDecor_Statues_GrimReaperCardboardCutouts</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: картонная фигура Волт-боя в костюме Старухи с косой</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: картонная фигура Волт-боя в костюме Старухи с косой</Dest>
-    </String><String List="0" sID="6101A70A">
-      <EDID>Recipe_mod_Chainsaw_Paint_GhostlyGrinder</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска «Призрачная мясорубка» для бензопилы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: окраска «Призрачная мясорубка» для бензопилы</Dest>
-    </String><String List="0" sID="6101A70B">
-      <EDID>Recipe_Headwear_SkullRider_Rad</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: шлем всадника с рад-черепом</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: шлем всадника с рад-черепом</Dest>
-    </String><String List="0" sID="6101A70D">
-      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Helmet</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска шлема прототипа силовой брони «Адское пламя V2»</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска шлема прототипа силовой брони «Адское пламя V2»</Dest>
-    </String><String List="0" sID="6101A70E">
-      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost1</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь-призрак из ячеистой бумаги A</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: фонарь-призрак из ячеистой бумаги A</Dest>
-    </String><String List="0" sID="6101A70F">
-      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Arms</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска рук прототипа силовой брони «Адское пламя V2»</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска рук прототипа силовой брони «Адское пламя V2»</Dest>
-    </String><String List="0" sID="6101A710">
-      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Spider</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь-паук из ячеистой бумаги</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: фонарь-паук из ячеистой бумаги</Dest>
-    </String><String List="0" sID="6101A712">
-      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern1</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: Джек-фонарь из ячеистой бумаги A</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: Джек-фонарь из ячеистой бумаги A</Dest>
-    </String><String List="0" sID="6101A713">
-      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Jackolantern2</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: Джек-фонарь из ячеистой бумаги B</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: Джек-фонарь из ячеистой бумаги B</Dest>
-    </String><String List="0" sID="6101A714">
-      <EDID>Recipe_Headwear_Executioner2</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: маска палача</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: маска палача</Dest>
-    </String><String List="0" sID="6101A715">
-      <EDID>Recipe_Workshop_CeilingDecor_Honeycomb_Paper_Ghost2</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: фонарь-призрак из ячеистой бумаги B</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: фонарь-призрак из ячеистой бумаги B</Dest>
-    </String><String List="0" sID="6101A716">
-      <EDID>Recipe_Workshop_FloorDecor_GiantDinosaur_Red</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: гигантский красный динозавр</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: гигантский красный динозавр</Dest>
-    </String><String List="0" sID="6101A717">
-      <EDID>Recipe_mod_AssaultRifle_Paint_WraithsWrath</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска «Гнев призрака» для штурмового карабина</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: окраска «Гнев призрака» для штурмового карабина</Dest>
-    </String><String List="0" sID="6101A718">
-      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Legs</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска ног прототипа силовой брони «Адское пламя V2»</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска ног прототипа силовой брони «Адское пламя V2»</Dest>
-    </String><String List="0" sID="6101A719">
-      <EDID>Recipe_workshop_FloorDecor_Skeleton_DrBones</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: Доктор Череп</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: Доктор Череп</Dest>
-    </String><String List="0" sID="6101A71A">
-      <EDID>Recipe_Backpack_Standard_Material_Princess</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: рюкзак принцессы</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ+|Схема: рюкзак принцессы</Dest>
-    </String><String List="0" sID="6101A71B">
-      <EDID>recipe_mod_PowerArmor_Material_Paint_Hellfire_Variant_Torso</EDID>
-      <REC>BOOK:FULL</REC>
-      <Source>Схема: окраска туловища прототипа силовой брони «Адское пламя V2»</Source>
-      <Dest>НОЧЬ ШАЛОСТЕЙ|Схема: окраска туловища прототипа силовой брони «Адское пламя V2»</Dest>
+      <Source>Схема: часы "Ядер-кола"</Source>
+      <Dest>РОБОТОРГОВЕЦ|Схема: часы "Ядер-кола"</Dest>
     </String></Content>
 </SSTXMLRessources>
