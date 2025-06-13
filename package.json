@@ -8,6 +8,7 @@
   "scripts": {
     "concat": "bun run ./utils/concat.ts",
     "extractFormId": "bun run ./utils/extractFormId.ts",
+    "translate": "bun run ./utils/translate.ts",
     "test": "bun test"
   },
   "peerDependencies": {
