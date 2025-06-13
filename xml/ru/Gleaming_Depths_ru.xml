@@ -1,0 +1,352 @@
+<SSTXMLRessources>
+  <Params>
+    <Addon>SeventySix</Addon>
+    <Source>ru</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="4100D876">
+      <EDID>RD01_Recipe_Mod_BackPack_Effect_Canteen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: модификация "Рюкзак с флягами"</Source>
+      <Dest>ГЛУБИНЫ|Схема: модификация "Рюкзак с флягами"</Dest>
+    </String>
+    <String List="0" sID="6102169F">
+      <EDID>RD01_Recipe_Mod_Melee_DrillFist_UltraciteBits</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые биты для кастета-перфоратора</Source>
+      <Dest>ГЛУБИНЫ|Схема: ультрацитовые биты для кастета-перфоратора</Dest>
+    </String>
+    <String List="0" sID="61021853">
+      <EDID>RD01_Workshop_Recipe_FloorDecor_RaidTrophy_UltrageneticStalker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трофей налета "Ультрагенетический лазутчик"</Source>
+      <Dest>ГЛУБИНЫ|Схема: трофей налета "Ультрагенетический лазутчик"</Dest>
+    </String>
+    <String List="0" sID="6102192B">
+      <EDID>RD01_Workshop_Recipe_FloorDecor_RaidTrophy_EnclaveEpsilonSquad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трофей налета "Отряд Анклава "Эпсилон"</Source>
+      <Dest>ГЛУБИНЫ|Схема: трофей налета "Отряд Анклава "Эпсилон"</Dest>
+    </String>
+    <String List="0" sID="6102192C">
+      <EDID>RD01_Recipe_Mod_Armor_Scout_Material_Paint_EnclaveEpsilonSquad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска брони скаута "Отряд Анклава "Эпсилон"</Source>
+      <Dest>ГЛУБИНЫ|Схема: окраска брони скаута "Отряд Анклава "Эпсилон"</Dest>
+    </String>
+    <String List="0" sID="6102192D">
+      <EDID>RD01_Recipe_Mod_Armor_Combat_Material_Paint_EnclaveEpsilonSquad</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: окраска боевой брони "Отряд Анклава "Эпсилон"</Source>
+      <Dest>ГЛУБИНЫ|Схема: окраска боевой брони "Отряд Анклава "Эпсилон"</Dest>
+    </String>
+    <String List="0" sID="61021CD3">
+      <EDID>RD01_Workshop_Recipe_FloorDecor_RaidTrophy_EN06Guardian</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трофей налета "Робот-страж EN06"</Source>
+      <Dest>ГЛУБИНЫ|Схема: трофей налета "Робот-страж EN06"</Dest>
+    </String>
+    <String List="0" sID="61021D38">
+      <EDID>RD01_Recipe_Weapon_Ranged_StrikeBreaker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: "Коматозник"</Source>
+      <Dest>ГЛУБИНЫ|Схема: "Коматозник"</Dest>
+    </String>
+    <String List="0" sID="D9008F8A">
+      <EDID>RD01_Workshop_Recipe_FloorDecor_RaidTrophy_TunnelBoringDrill</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трофей налета "Тоннелепроходческий бур"</Source>
+      <Dest>ГЛУБИНЫ|Схема: трофей налета "Тоннелепроходческий бур"</Dest>
+    </String>
+    <String List="0" sID="D90090D4">
+      <EDID>RD01_Recipe_Weapon_Ranged_BoilingPoint</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: "Точка кипения"</Source>
+      <Dest>ГЛУБИНЫ|Схема: "Точка кипения"</Dest>
+    </String>
+    <String List="0" sID="D90090D5">
+      <EDID>RD01_Recipe_Weapon_Ranged_Valkyrie</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: "Валькирия"</Source>
+      <Dest>ГЛУБИНЫ|Схема: "Валькирия"</Dest>
+    </String>
+    <String List="0" sID="D90090F4">
+      <EDID>RD01_Recipe_Weapon_Ranged_ResolveBreaker</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: "Сокрушитель воли"</Source>
+      <Dest>ГЛУБИНЫ|Схема: "Сокрушитель воли"</Dest>
+    </String>
+    <String List="0" sID="D9009127">
+      <EDID>RD01_Recipe_Weapon_Ranged_LicketySplit</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: "Безудержный"</Source>
+      <Dest>ГЛУБИНЫ|Схема: "Безудержный"</Dest>
+    </String>
+    <String List="0" sID="D900913A">
+      <EDID>RD01_Recipe_Weapon_Melee_Cauterizer</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: "Прижигатель"</Source>
+      <Dest>ГЛУБИНЫ|Схема: "Прижигатель"</Dest>
+    </String>
+    <String List="0" sID="D9009151">
+      <EDID>RD01_Recipe_Weapon_Melee_DrillFist</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кастет-перфоратор</Source>
+      <Dest>ГЛУБИНЫ|Схема: кастет-перфоратор</Dest>
+    </String>
+    <String List="0" sID="D90091A7">
+      <EDID>RD01_Workshop_Recipe_PowerGenerator_Ultracite</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовый генератор</Source>
+      <Dest>ГЛУБИНЫ|Схема: ультрацитовый генератор</Dest>
+    </String>
+    <String List="0" sID="D9009212">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Emergency</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: аварийные протоколы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: аварийные протоколы "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009213">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Arm_Misc_UltraciteBracers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ультрацитовые наручи "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: ультрацитовые наручи "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009214">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Headlamp_Purple</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: фиолетовый налобный фонарь "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: фиолетовый налобный фонарь "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009215">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Leg_Misc_SprintBoost</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: форсированные сервоприводы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: форсированные сервоприводы "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009216">
+      <EDID>RD01_Recipe_Armor_PowerArmor_EnclaveVulcan_Torso</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня "Вулкан" (туловище)</Source>
+      <Dest>ГЛУБИНЫ|Схема: броня "Вулкан" (туловище)</Dest>
+    </String>
+    <String List="0" sID="D9009217">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Reflection</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: отражающая сборка "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: отражающая сборка "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009218">
+      <EDID>RD01_Recipe_Armor_PowerArmor_EnclaveVulcan_ArmRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня "Вулкан" (правая рука)</Source>
+      <Dest>ГЛУБИНЫ|Схема: броня "Вулкан" (правая рука)</Dest>
+    </String>
+    <String List="0" sID="D9009219">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Str</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: улучшенные сервоприводы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: улучшенные сервоприводы "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D900921A">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Leg_Misc_APRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кинетические сервоприводы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: кинетические сервоприводы "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D900921B">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Misc_DetectLife</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: прицельный интерфейс "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: прицельный интерфейс "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D900921C">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Leg_Misc_ElasticServos</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: эластичные сервоприводы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: эластичные сервоприводы "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D900921E">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Misc_VATSChance</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: слой матрицы V.A.T.S. "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: слой матрицы V.A.T.S. "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D900921F">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Headlamp_Blue</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: синий налобный фонарь "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: синий налобный фонарь "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009220">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Headlamp_Bright</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: яркий налобный фонарь "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: яркий налобный фонарь "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009221">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Misc_Int</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: внутренний банк памяти "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: внутренний банк памяти "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009222">
+      <EDID>RD01_Recipe_Armor_PowerArmor_EnclaveVulcan_ArmLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня "Вулкан" (левая рука)</Source>
+      <Dest>ГЛУБИНЫ|Схема: броня "Вулкан" (левая рука)</Dest>
+    </String>
+    <String List="0" sID="D9009223">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Cleanser</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: очиститель крови "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: очиститель крови "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009224">
+      <EDID>RD01_Recipe_Armor_PowerArmor_EnclaveVulcan_Helmet</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шлем "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: шлем "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009226">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Reactive</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: активная броня "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: активная броня "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009227">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_JetPack</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: реактивный ранец "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: реактивный ранец "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009228">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Misc_Sensor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сенсорная матрица "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: сенсорная матрица "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009229">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Tesla</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: катушки Теслы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: катушки Теслы "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D900922A">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Leg_Misc_Carry</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: калиброванные амортизаторы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: калиброванные амортизаторы "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D900922B">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_Kinetic</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: кинетический генератор "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: кинетический генератор "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D900922C">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_MedicPump</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: инжектор стимуляторов "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: инжектор стимуляторов "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D900922D">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Leg_Misc_OptimizedServos</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сбалансированные сервоприводы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: сбалансированные сервоприводы "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D900922E">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Headlamp_RedTactical</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: красный тактический налобный фонарь "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: красный тактический налобный фонарь "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D900922F">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Arm_Misc_Bleed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: ржавый кастет "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: ржавый кастет "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009230">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Arm_Misc_ShockDmg</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: наручи Теслы "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: наручи Теслы "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009231">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_BatRegen</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сборка ядра "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: сборка ядра "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009232">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Leg_Misc_ExplVent</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: охлаждающее отверстие "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: охлаждающее отверстие "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009233">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Headlamp_VaultBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: налобный фонарь "Волт-Бой: Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: налобный фонарь "Волт-Бой: Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009234">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Torso_Misc_StealthBoy</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: стелс-бой "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: стелс-бой "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009235">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Arm_Misc_Unarmed</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: гидравлические наручи "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: гидравлические наручи "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009236">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Arm_Misc_Optimized</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: эргономичные наручи "Хеллкэт"</Source>
+      <Dest>ГЛУБИНЫ|Схема: эргономичные наручи "Хеллкэт"</Dest>
+    </String>
+    <String List="0" sID="D9009237">
+      <EDID>RD01_Recipe_Armor_PowerArmor_EnclaveVulcan_LegLeft</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня "Вулкан" (левая нога)</Source>
+      <Dest>ГЛУБИНЫ|Схема: броня "Вулкан" (левая нога)</Dest>
+    </String>
+    <String List="0" sID="D9009238">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Helmet_Misc_Recon</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: сенсоры дальнего действия "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: сенсоры дальнего действия "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D9009239">
+      <EDID>RD01_Recipe_Mod_PowerArmor_EnclaveVulcan_Arm_Misc_StabilizedBracers</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: шарнирные наручи "Вулкан"</Source>
+      <Dest>ГЛУБИНЫ|Схема: шарнирные наручи "Вулкан"</Dest>
+    </String>
+    <String List="0" sID="D900923A">
+      <EDID>RD01_Recipe_Armor_PowerArmor_EnclaveVulcan_LegRight</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: броня "Вулкан" (правая нога)</Source>
+      <Dest>ГЛУБИНЫ|Схема: броня "Вулкан" (правая нога)</Dest>
+    </String>
+    <String List="0" sID="D900A2F1">
+      <EDID>RD01_Workshop_Recipe_FloorDecor_RaidTrophy_UltraciteTerror</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: трофей налета "Ультрацитовое чудовище"</Source>
+      <Dest>ГЛУБИНЫ|Схема: трофей налета "Ультрацитовое чудовище"</Dest>
+    </String>
+    <String List="0" sID="D900A2F2">
+      <EDID>RD01_Recipe_Weapon_Melee_UltraciteTerrorSword</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Схема: меч "Ультрацитовое чудовище"</Source>
+      <Dest>ГЛУБИНЫ|Схема: меч "Ультрацитовое чудовище"</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
